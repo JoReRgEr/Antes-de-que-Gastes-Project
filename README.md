@@ -1,0 +1,1 @@
+This is a university project for the course "Introduction to Data Science," where data was collected on 210 restaurants and bars in the capital of Cuba, Havana. Various factors were considered, allowing us to extract interesting information about what data describes these types of establishments and their economic and social impact on the community in the capital.
