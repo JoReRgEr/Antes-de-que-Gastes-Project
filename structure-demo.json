@@ -1,0 +1,62 @@
+{
+    "type_of_establishment": "",
+    "name": "",
+    "address": {
+        "city": "",
+        "district": "",
+        "streets": "",
+        "landmarks": "",
+        "coordinates": ""
+    },
+    "schedules": {
+        "monday": [],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [],
+        "friday": [],
+        "saturday": [],
+        "sunday": []
+    },
+    "antique": "",
+    "rating": "",
+    "intake_capacity": "",
+    "decoration": "",
+    "kind_of_food": "",
+    "menu": "",
+    "services": {
+        "web_page": "",
+        "child_care": "",
+        "disable_support": "",
+        "wifi": "",
+        "parking": "",
+        "delivery": "",
+        "reserves": "",
+        "rent_for_events": "",
+        "takeaway": "",
+        "vip_zone": "",
+        "catering": "",
+        "interactive_act": ""
+    },
+    "pay_meth": {
+        "cash": "",
+        "transfer": [
+            {
+                "transfermovil": "",
+                "enzona": "",
+                "bancaremota": ""
+            }
+        ]
+    },
+    "currency": {
+        "cup": "",
+        "usd": "",
+        "euro": "",
+        "mlc": "",
+        "others": ""
+    },
+    "dresscode": "",
+    "social_media_act": "",
+    "events": "",
+    "customer_age": "",
+    "technology": ""
+}
