@@ -1,0 +1,535 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["bar-restaurante"]
+      },
+      "name": "Sibarita",
+      "type": "Caribeña, Latina, Bar, Internacional, Mediterránea, Cubana, Centroamericana",
+      "description": "Restaurante con terraza chill out, especializada en la coctelería Tiki y comida internacional, los mejores cócteles de la Habana!!!",
+      "contact_info": {
+        "phone": {
+          "number": "078672450",
+          "type": ["mobile"]
+        }
+      },
+      "opening_hours": {
+        "monday": "12:00 PM - 12:00 AM",
+        "tuesday": "12:00 PM - 12:00 AM",
+        "wednesday": "12:00 PM - 12:00 AM",
+        "thursday": "12:00 PM - 12:00 AM",
+        "friday": "12:00 PM - 12:00 AM",
+        "saturday": "12:00 PM - 12:00 AM",
+        "sunday": "12:00 PM - 12:00 AM"
+      },
+      "address": "O'Reilly #528 entre Bernaza y Villegas, Habana Vieja",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "social_media": {
+        "hashtag": "#LaHabana"
+      },
+      "accepted_payment_methods": [],
+      "delivery_available": true,
+      "service_fee": {
+        "name": "10% service charge",
+        "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+        "applies": true
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": true,
+        "dine_in": true,
+        "takeaway": false,
+        "offers": ["Restaurante", "Bar"],
+        "local_options": ["Almuerzo", "Cena", "Postres"],
+        "services": ["Sanitario", "Tiene bar"],
+        "ambience": ["Agradable", "Informal"],
+        "usual_customers": ["Grupos"],
+        "planning": ["Se aceptan reservas"],
+        "children": null,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": ["Comidas", "Cenas"],
+      "advantages": ["Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+      "highlights": ["Aperitivos", "Buenos cócteles", "Agradable", "Informal", "Recomendable para ir en grupo"],
+    "menu": {
+      "courses": [
+        {
+          "category": "Entradas",
+          "items": [
+            {
+              "name": "Tamal con salsa BBQ",
+              "price": 600,
+              "price_usd": 3.00
+            },
+            {
+              "name": "Selección del panadero",
+              "price": 600,
+              "price_usd": 3.00
+            },
+            {
+              "name": "Tostas de cangrejo",
+              "price": 800,
+              "price_usd": 4.00
+            },
+            {
+              "name": "Croquetas de la casa",
+              "price": 1200,
+              "price_usd": 5.00
+            },
+            {
+              "name": "Tartar de albacora",
+              "price": 1300,
+              "price_usd": 6.00
+            },
+            {
+              "name": "Ceviche Sibarita",
+              "price": 1300,
+              "price_usd": 6.00
+            },
+            {
+              "name": "Bruschettas Mix",
+              "price": 1350,
+              "price_usd": 6.00
+            },
+            {
+              "name": "Tacos de ropa vieja",
+              "price": 1700,
+              "price_usd": 7.00
+            },
+            {
+              "name": "Tacos de cerdo",
+              "price": 1600,
+              "price_usd": 6.00
+            },
+            {
+              "name": "Tataki de albacora",
+              "price": 1950,
+              "price_usd": 8.00
+            },
+            {
+              "name": "Tabla de jamón serrano, embutidos y queso",
+              "price": 2700,
+              "price_usd": 11.00
+            },
+            {
+              "name": "Tacos de camarón y bacón",
+              "price": 2950,
+              "price_usd": 11.00
+            },
+            {
+              "name": "Carpaccio de Res (Angus Prime)",
+              "price": 3500,
+              "price_usd": 14.00
+            },
+        {
+          "category": "Ensaladas de la Casa",
+          "items": [
+            {
+              "name": "Natural",
+              "price": 800,
+              "price_usd": 4.00
+            },
+            {
+              "name": "Chicken Little",
+              "price": 1650,
+              "price_usd": 8.00,
+              "description": "Pollo grillado, piña glaseada, fruta deshidratada y vinagreta"
+            },
+  {
+    "menu": {
+      "courses": [
+        {
+          "category": "De la Finca",
+          "items": [
+            {
+              "name": "Ropa Vieja",
+              "price": 1950,
+              "price_usd": 8.00
+            },
+            {
+              "name": "Cerdo Teriyaki",
+              "price": 2350,
+              "price_usd": 9.00
+            },
+            {
+              "name": "Pollo Grillé",
+              "price": 2300,
+              "price_usd": 9.00
+            },
+            {
+              "name": "Solomillo de Cerdo",
+              "price": 2350,
+              "price_usd": 9.00
+            },
+            {
+              "name": "Pollo Kekou",
+              "price": 2750,
+              "price_usd": 11.00
+            },
+            {
+              "name": "Risotto Carbonara",
+              "price": 3100,
+              "price_usd": 12.00
+            },
+            {
+              "name": "Cordero del Chef",
+              "price": 3900,
+              "price_usd": 15.00
+            },
+        {
+          "category": "Cortes de Res",
+          "items": [
+            {
+              "name": "Rib Eye (350g)",
+              "price": 10000,
+              "price_usd": 39.00
+            },
+            {
+              "name": "Churrasco Australiano (300g)",
+              "price": 10800,
+              "price_usd": 42.00
+            },
+            {
+              "name": "New York (400g)",
+              "price": 11000,
+              "price_usd": 43.00
+            },
+            {
+              "name": "Entrecot de Res Español (450g)",
+              "price": 9800,
+              "price_usd": 38.00
+            },
+            {
+              "name": "Picaña (300g)",
+              "price": 11000,
+              "price_usd": 43.00
+            },
+        {
+          "category": "Del Mar",
+          "items": [
+            {
+              "name": "Pescado Grillé",
+              "price": 2150,
+              "price_usd": 9.00
+            },
+            {
+              "name": "Pasta de Salmón",
+              "price": 3100,
+              "price_usd": 12.00
+            },
+            {
+              "name": "Escalopinas de Pescado",
+              "price": 2850,
+              "price_usd": 11.00
+            },
+            {
+              "name": "Pasta Zakay",
+              "price": 3100,
+              "price_usd": 12.00
+            },
+            {
+              "name": "Camarón al Ajillo",
+              "price": 3900,
+              "price_usd": 15.00
+            },
+            {
+              "name": "Langosta al Cartouch",
+              "price": 3800,
+              "price_usd": 15.00
+            },
+            {
+              "name": "Pescado Entero Frito (3Lb)",
+              "price": 5800,
+              "price_usd": 23.00
+            },
+            {
+              "name": "Camarón Jumbo en costra de ajo y parmesano",
+              "price": 6350,
+              "price_usd": 25.00
+            },
+            {
+              "name": "Saltado de Pulpo",
+              "price": 6800,
+              "price_usd": 27.00
+            },
+        {
+          "category": "Hamburguesas",
+          "items": [
+            {
+              "name": "Burguerita (250g)",
+              "price": 4200,
+              "price_usd": 17.00,
+              "description": "Carne Angus Prime, aros de cebolla empanados, papas fritas, vegetales, queso y salsas de la casa"
+            },
+            {
+              "name": "Burguerita Gold 24k",
+              "price": 12000,
+              "price_usd": 47.00
+            },
+        {
+          "category": "Cóctel de la Casa",
+          "items": [
+            {
+              "name": "Sibarazo",
+              "price": 1500,
+              "price_usd": 6.00,
+              "description": "Ron HC Especial, Don' Spice# 13, Sirope #2, Jugo de Naranja, Zumo de Limón"
+            },
+  {
+    "menu": {
+      "courses": [
+        {
+          "category": "Cócteles Clásicos",
+          "items": [
+            {
+              "name": "Mojito",
+              "price": 1400,
+              "price_usd": 6.00,
+              "description": "Ron HC 3 Años, Sirope Simple, Zumo de Limón, Hierbabueno, Angostura, Agua Gaseada"
+            },
+            {
+              "name": "Daiquiri",
+              "price": 1250,
+              "price_usd": 5.00,
+              "description": "Ron HC 3 años, Sirope Simple, Zumo de Limón, Marrasquino"
+            },
+            {
+              "name": "Sangría",
+              "price": 1600,
+              "price_usd": 7.00,
+              "description": "Vino Tinto, Triple Sec, Azúcar, Zumo de Limón, Jugo de Naranja, Agua gaseada"
+            },
+            {
+              "name": "Caipiriña",
+              "price": 1150,
+              "price_usd": 5.00,
+              "description": "Aguardiente, Azúcar, Limón"
+            },
+            {
+              "name": "Caipiroska",
+              "price": 1250,
+              "price_usd": 5.00,
+              "description": "Vodka, Azúcar, Limón"
+            },
+            {
+              "name": "Piña Colada",
+              "price": 1800,
+              "price_usd": 7.00,
+              "description": "Ron HC 3 Años, Horchata, Jugo de Piña"
+            },
+            {
+              "name": "Gin Tonic",
+              "price": 1450,
+              "price_usd": 6.00,
+              "description": "Beefeater, Agua Tónica"
+            },
+            {
+              "name": "Servicio de Chelada",
+              "price": 350,
+              "price_usd": 2.00
+            },
+            {
+              "name": "Servicio de Michelada",
+              "price": 500,
+              "price_usd": 2.00,
+              "description": "Sol, Zumo de Limón, Salsa Inglesa"
+            },
+            {
+              "name": "Cubanito",
+              "price": 1150,
+              "price_usd": 5.00,
+              "description": "Ron HC 3 Años, Sal, Salsa Inglesa, Zumo de Limón, Jugo de Tomate"
+            },
+            {
+              "name": "Bloody Mary",
+              "price": 1150,
+              "price_usd": 5.00,
+              "description": "Vodka, Sal, Salsa Inglesa, Tabasco, Zumo de Limón, Jugo de Tomate"
+            },
+            {
+              "name": "Margarita",
+              "price": 1350,
+              "price_usd": 6.00,
+              "description": "Tequila, Zumo de Limón, Triple Sec"
+            },
+            {
+              "name": "Martini",
+              "price": 1450,
+              "price_usd": 6.00,
+              "description": "Vermouth, Gin, Aceitunas"
+            },
+            {
+              "name": "Cubalibre",
+              "price": 1150,
+              "price_usd": 5.00,
+              "description": "Ron HC 3 años, Zumo de Limón, Refresco de Cola"
+            },
+            {
+              "name": "Cubata",
+              "price": 1250,
+              "price_usd": 5.00,
+              "description": "Ron HC 7 Años, Zumo de Limón, Refresco de Cola"
+            },
+        {
+          "category": "Cócteles Clásicos Twist",
+          "items": [
+            {
+              "name": "Sexy Mojito",
+              "price": 1500,
+              "price_usd": 6.00,
+              "description": "Ron HC Añejo Especial, Don' Spice 47, Sirope Simple, Zumo de Limón, Angostura, Hierbabuena, Agua Gaseada"
+            },
+            {
+              "name": "Exótico Daiquiri",
+              "price": 1400,
+              "price_usd": 6.00
+            },
+        {
+          "category": "Cócteles Clásicos Twist",
+          "items": [
+            {
+              "name": "Negroni Especiado",
+              "price": 1750,
+              "price_usd": 7.00,
+              "description": "Gin, Vermouth Rosso (Spice), Campari, Angostura de Cacao"
+            },
+            {
+              "name": "Cuban Old Fashion",
+              "price": 1450,
+              "price_usd": 6.00,
+              "description": "Ron HC Smoky, Sirope #1, Angostura de Cacao"
+            },
+            {
+              "name": "MB",
+              "price": 1450,
+              "price_usd": 6.00,
+              "description": "Tequila Blanco, Sirope #3, Triple Sec, Zumo de Limón"
+            },
+        {
+          "category": "Cócteles Clásicos de Autor",
+          "items": [
+            {
+              "name": "#528",
+              "price": 1450,
+              "price_usd": 6.00,
+              "description": "Ginebra Beefeater, Sirope #7, Licor de manzana, Zumo de Limón, Cerveza de jengibre, Angostura de Naranja"
+            },
+            {
+              "name": "Vodnilla",
+              "price": 1400,
+              "price_usd": 6.00,
+              "description": "Vodka de Vainilla, Sirope #5, Licor de Piña, Zumo de Limón, Cerveza de Jengibre, Angostura de Naranja"
+            },
+            {
+              "name": "El Güero",
+              "price": 1400,
+              "price_usd": 6.00,
+              "description": "Tequila Blanco, Aperol, Sirope #8, Licor de Piña, Zumo de Limón, Angostura de Naranja"
+            },
+            {
+              "name": "Rich People",
+              "price": 1550,
+              "price_usd": 6.00,
+              "description": "Vodka, Campari, Sirope #17, Zumo de Limón, Jugo de Naranja, Licor de Piña"
+            },
+            {
+              "name": "Cachucha",
+              "price": 1450,
+              "price_usd": 6.00,
+              "description": "Ron HC Smoky, Vermouth Especiado, Sirope #13, Zumo de Limón, Angostura de Naranja"
+            },
+            {
+              "name": "Maui",
+              "price": 1550,
+              "price_usd": 6.00,
+              "description": "Ginebra Beefeater, Vermouth Blanco, Sirope #15, Sirope #16, Zumo de Limón, Aquafaba"
+            },
+            {
+              "name": "Éxtasis",
+              "price": 1950,
+              "price_usd": 8.00,
+              "description": "Vino Blanco, Vodka de Hibisco, Sirope #5, Licor de Melocotón, Fermentado de Manzana"
+            },
+        {
+          "category": "Cócteles Clásicos Tiki",
+          "items": [
+            {
+              "name": "Mai-tai",
+              "price": 1300,
+              "price_usd": 5.00,
+              "description": "Ron HC 3 Años, Ron Añejo Especial, Sirope Simple, Sirope Orgeat, Triple Sec, Zumo de Limón"
+            },
+            {
+              "name": "Zombie",
+              "price": 1450,
+              "price_usd": 6.00,
+              "description": "Ron HC 3 Años, Ron HC Añejo Especial, Don's Mix #2, Don's Spice #8, Granadina, Pernod, Zumo de Limón, Angostura"
+            },
+            {
+              "name": "Blue Hawaii",
+              "price": 1600,
+              "price_usd": 7.00,
+              "description": "Ron HC Añejo Especial, Licor de Coco, Curacao Azul, Jugo de Piña, Zumo de Limón"
+            },
+        {
+          "category": "Cócteles Tiki de Autor",
+          "items": [
+            {
+              "name": "Juanito",
+              "price": 1600,
+              "price_usd": 7.00,
+              "description": "JW Red Label, Don's Mix #1, Don's Spice #4, Licor de Maracuyá, Zumo de Limón, Angostura"
+            },
+            {
+              "name": "Aloha Havana",
+              "price": 1550,
+              "price_usd": 6.00,
+              "description": "Ron HC Añejo Especial, Jugo de Melón, Don's Mix #1, Don's Spice #4, Angostura"
+            },
+            {
+              "name": "San Tiki",
+              "price": 1500,
+              "price_usd": 6.00,
+              "description": "Ron Santiago 7 Años, Don's Spice #4, Don's Mix #1, Agua de Coco, Zumo de Limón, Licor de Plátano"
+            },
+            {
+              "name": "Gran Kahuna",
+              "price": 1500,
+              "price_usd": 6.00,
+              "description": "Ron HC 3 Años, Don's Spice #13, Sirope #6, Sirope #2, Licor de Manzana, Zumo de Limón"
+            },
+            {
+              "name": "El Popi",
+              "price": 1300,
+              "price_usd": 5.00,
+              "description": "Ron Santiago 8 Años, Don's Spice #7, Sirope #11, Zumo de Limón, Fermentado de Manzana"
+            },
+            {
+              "name": "Kala",
+              "price": 1650,
+              "price_usd": 7.00,
+              "description": "Ron HC Cuban Spiced, Don's Spice #7, Sirope #14, Jagger, Zumo de Limón, Licor de Coco, Licor de Plátano"
+            },
+        {
+          "category": "Servicio de Hookah",
+          "items": [
+            {
+              "name": "Servicio de Hookah",
+              "price": 4000,
+              "price_usd": 18.00
+            },
+            {
+              "name": "Cambio de carbón",
+              "price": 1500,
+              "price_usd": 7.00
+            }
+          ]
+        }
+      ]
+    }
+  }
+                              

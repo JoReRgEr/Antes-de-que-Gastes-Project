@@ -1,0 +1,72 @@
+{
+    "Place":"Joe's Burguer",
+    "Address":"Esquina Mayia Rodriguez y Aranguren",
+    "Municipality":"10 de octubre",
+    "Classification":"Cafe-Restaurant",
+    "Specialization":"Hamburgueseria",
+    "Property":"Privado",
+    "Schedule":"08h00 -22h00 (Lunes -Jueves), 08h00 - 23h00 (Viernes - Domingo)",
+    "Ratings":"3.6 (Google Maps)",
+    "Reservations":"No",
+    "Delivery":"Ture",
+    "Delivery area":"10 de Octubre",
+    "Phone":"Null",
+    "Accounts or website":"joes_burguer00 (Instagram)",
+    "Payment method":"Tarjeta o efectivo (MN)",
+    "Capacity":20,
+    "Parking":"True",
+    "Wifi":"False",
+    "Smoking area":"True",
+    "Menu card":{
+        "Starters":"Null",
+        "Main course":[
+         {"Plate":"Hamburguesa de cerdo",
+         "Price":500},
+         {"Plate":"Hamburguesa de pollo",
+         "Price":500},
+         {"Plate":"Hamburguesa de res",
+         "Price":700},
+         {"Plate":"Hamburguesa doble",
+         "Price":900},
+         {"Plate":"Bocadito de jamon y queso",
+         "Price":450}
+        ],
+        "Additionals":[
+            {"Addition":"Queso",
+            "Price":120},
+            {"Addition":"Lechuga",
+            "Price":100},
+            {"Addition":"Jamon",
+            "Price":100},
+            {"Addition":"Chorizo",
+            "Price":80},
+            {"Addition":"Bacon",
+            "Price":150},
+            {"Addition":"Huevo",
+            "Price":150},
+            {"Addition":"Cebolla",
+            "Price":150},
+            {"Addition":"Pepinillo",
+            "Price":30},
+            {"Addition":"Tomate",
+            "Price":100}
+        ],
+        "Siders":"Null",
+        "Drinks":[
+        {"Type":"Cerveza",
+        "Price":350},
+        {"Type":"Limonada frappe",
+        "Price":500},
+        {"Type":"Batido de helado",
+        "Price":700},
+        {"Type":"Malteada",
+        "Price":500},
+        {"Type":"Potes de helado",
+        "Price":1000}
+        ],
+        "Desserts":[
+        {"Plate":"Copa de helado",
+        "Price":300}
+        ]
+    }
+}
