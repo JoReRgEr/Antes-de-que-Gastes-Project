@@ -1,62 +1,140 @@
 {
-    "type_of_establishment": "",
-    "name": "",
+    "type_of_establishment": "restaurante",
+    "name": "Atlanta Café",
     "address": {
-        "city": "",
-        "district": "",
-        "streets": "",
-        "landmarks": "",
-        "coordinates": ""
+        "establishment_phone_number": "+53 5 9694801",
+        "email": "atlantacafe09@gmail.com",
+        "city": "La Habana",
+        "district": "Arroyo Naranjo",
+        "location": "Atlanta #9, entre Calzada de Porvenir y Calzada de 10 de octubre, La Palma",
+        "coordinates": "23.075255986381205, -82.35820900856798" 
     },
     "schedules": {
-        "monday": [],
-        "tuesday": [],
-        "wednesday": [],
-        "thursday": [],
-        "friday": [],
-        "saturday": [],
-        "sunday": []
+        "Reduced_working_hours_on_public_holidays": true,
+        "monday": {
+            "open": 1000,
+            "closed": 2200
+        },
+        "tuesday": {
+            "open": 1000,
+            "closed": 2200
+        },
+        "wednesday": {
+            "open": 1000,
+            "closed": 2200
+        },
+        "thursday": {
+            "open": 1000,
+            "closed": 2200
+        },
+        "friday": {
+            "open": 1000,
+            "closed": 2200
+        },
+        "saturday": {
+            "open": 1000,
+            "closed": 2200
+        },
+        "sunday": {
+            "open": 1000,
+            "closed": 2200
+        }
     },
-    "antique": "",
-    "rating": "",
-    "intake_capacity": "",
-    "decoration": "",
-    "kind_of_food": "",
-    "menu": "",
+    "location_details": {
+        "rating": {
+            "google": {
+                    "stars": 4.0,
+                    "number_of_reviews": ""
+            },
+            "tripadvisor": {
+                    "stars": "",
+                    "number_of_reviews": ""
+            },
+            "facebook": {
+                    "stars": "",
+                    "number_of_reviews": ""
+            },
+            "regularity": "",
+            "recurring_themes": [ "",
+                {
+                    "for_better_or_worse": ""
+                }
+            ]
+        },
+        "establishment_capacity": "",
+        "decoration": "",
+        "festive_decorations": "",
+        "dress_code": "",
+        "collaboration_for_events": "",
+        "type_of_concurrent_clients": "",
+        "digital_menus": [ "",
+            {
+                "page_or_application_used": ""
+            }
+        ],
+        "robotic": "",
+        "concurrent_music": "",
+        "other_services": ""
+    },
     "services": {
-        "web_page": "",
+        "social_networks": {
+            "web_page": "",
+            "facebook": "",
+            "instagram": "",
+            "whatsapp": "+53 5 9694801",
+            "X": "",
+            "telegram": "",
+            "Cuban_websites": ""
+        },
         "child_care": "",
         "disable_support": "",
         "wifi": "",
         "parking": "",
         "delivery": "",
         "reserves": "",
-        "rent_for_events": "",
+        "rent_from_the_client": "",
         "takeaway": "",
         "vip_zone": "",
         "catering": "",
-        "interactive_act": ""
+        "interactive_activities": "",
+        "sanitary": "",
+        "pet_friendly": ""
     },
     "pay_meth": {
         "cash": "",
-        "transfer": [
+        "transfer":
             {
                 "transfermovil": "",
                 "enzona": "",
                 "bancaremota": ""
+            },
+        "currency": {
+            "cup": "",
+            "usd": "",
+            "euro": "",
+            "mlc": "",
+            "others": ""
+        },
+        "10% charge": ""
+    },
+    "menu_details": {
+        "kind_of_food": "",
+        "healthy_food_options": "",
+        "menu_card": {
+            "menu_sections": {
+                "section": [
+                    "",
+                    {
+                        "courses": [
+                            {
+                                "course_name": "",
+                                "price": "",
+                                "main_ingredients": [""]
+                            }
+                        ]
+                    }
+                ]
             }
-        ]
-    },
-    "currency": {
-        "cup": "",
-        "usd": "",
-        "euro": "",
-        "mlc": "",
-        "others": ""
-    },
-    "dresscode": "",
-    "social_media_act": "",
-    "events": "",
-    "customer_age": "",
-    "technology": ""
+        }    
+    }
 }
