@@ -1,6 +1,7 @@
 {
     "type_of_establishment": "restaurante-bar",
     "name": "Atlanta Café",
+    "property_type": "particular",
     "address": {
         "establishment_phone_number": "+53 5 9694801",
         "email": "atlantacafe09@gmail.com",
@@ -84,6 +85,7 @@
         ],
         "robotic": false,
         "concurrent_music": "variada",
+        "energy_backup": null,
         "other_services": "mercado"
     },
     "services": {
