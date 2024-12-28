@@ -1,14 +1,14 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "Ranchon El Pinareño",
+    "name": "Cafe Tilin Fontanar",
     "property_type": "particular",
     "address": {
         "establishment_phone_number": "+53 5 9428119",
         "email": "tilincafe@gmail.com",
         "city": "La Habana",
         "district": "Boyeros",
-        "location": "Calle 16(202) % Calle 9(405) & Calle 7(403), Santiago de las Vegas",
-        "coordinates": "22.972219,-82.393153"
+        "location": "Avenida Rancho Boyeros. Kilometro 9 1/2, Fontanar",
+        "coordinates": null
     },
     "schedules": {
         "Reduced_working_hours_on_public_holidays": null,
