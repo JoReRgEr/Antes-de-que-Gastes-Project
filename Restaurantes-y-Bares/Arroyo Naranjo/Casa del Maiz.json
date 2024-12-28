@@ -1,0 +1,260 @@
+{
+  "type_of_establishment": "restaurante",
+  "name": "Casa del Maíz",
+  "property_type": "estatal",
+  "address": {
+      "establishment_phone_number": "+5252003758",
+      "email": null,
+      "city": "La Habana",
+      "district": "Arroyo Naranjo",
+      "location": "1er Anillo entre el Puente del Calvario y Puente de Calabazar",
+      "coordinates": "23.053002335576295, -82.32702190717127" 
+  },
+  "schedules": {
+      "Reduced_working_hours_on_public_holidays": null,
+      "monday": {
+          "open": "10:00",
+          "closed": "20:00"
+      },
+      "tuesday": {
+          "open": "10:00",
+          "closed": "20:00"
+      },
+      "wednesday": {
+          "open": "10:00",
+          "closed": "20:00"
+      },
+      "thursday": {
+          "open": "10:00",
+          "closed": "20:00"
+      },
+      "friday": {
+          "open": "10:00",
+          "closed": "20:00"
+      },
+      "saturday": {
+          "open": "10:00",
+          "closed": "20:00"
+      },
+      "sunday": {
+          "open": "10:00",
+          "closed": "20:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+                  "stars": null,
+                  "number_of_reviews": null,
+                  "recurring_themes": [ [null],
+                  {
+                      "for_better_or_worse": null
+                  }
+              ]
+          },
+          "tripadvisor": {
+                  "stars": null,
+                  "number_of_reviews": null,
+                  "recurring_themes": [ [null],
+                  {
+                      "for_better_or_worse": null
+                  }
+              ]
+          },
+          "facebook": {
+                  "stars": 4.0,
+                  "number_of_reviews": 7,
+                  "recurring_themes": [ ["tamales"],
+                  {
+                      "for_better_or_worse": "buenas"
+                  }
+              ]
+          },
+          "regularity": true
+      },
+      "establishment_capacity": "grande",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "dress_code": "formal",
+      "collaboration_for_events": null,
+      "type_of_concurrent_clients": ["familias"],
+      "digital_menus": [ false,
+          {
+              "page_or_application_used": null
+          }
+      ],
+      "robotic": false,
+      "concurrent_music": "variada",
+      "energy_backup": true,
+      "other_services": null
+  },
+  "services": {
+      "social_networks": {
+          "web_page": false,
+          "facebook": [ true,
+              {
+                  "url": "https://www.facebook.com/lacasadelmaizcuba/?locale=en_GB"
+              }
+          ],
+          "instagram": [ true,
+              {
+                  "url": "https://www.instagram.com/explore/locations/1727121417357588/la-casa-del-maiz/?hl=am-et"
+              }
+          ],
+          "whatsapp": null,
+          "X": false,
+          "telegram": false,
+          "Cuban_websites": false,
+          "Threads": false
+      },
+      "child_care": true,
+      "disable_support": true,
+      "wifi": false,
+      "parking":  true,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "catering": false,
+      "interactive_activities": false,
+      "sanitary": true,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer":
+          {
+              "transfermovil": true,
+              "enzona": false,
+              "bancaremota": false,
+              "visa": false,
+              "mastercard": false
+          },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false,
+          "others": false
+      },
+      "10% charge": true
+  },
+  "menu_details": {
+      "kind_of_food": ["cubana"],
+      "healthy_food_options": true,
+      "menu_card": {
+          "menu_sections": {
+              "starters": [
+                  {
+                      "courses": [
+                          {
+                              "course_name": "croquetas de la casa",
+                              "price": 850.00,
+                              "main_ingredients": [null]
+                          }
+                      ]
+                  }
+              ],
+              "main_dishes":[
+                  {
+                      "courses": [
+                          {
+                              "course_name": "arroz frito",
+                              "price": 1200.00,
+                              "main_ingredients": ["arroz"]
+                          }
+                      ]
+                  }
+              ],
+              "pastas": [
+                  {
+                      "courses":[
+                          {
+                              "course_name": "spaguetti Napolitano",
+                              "price": 950.00,
+                              "main_ingredients": ["pastas", "tomate"]
+                          }
+                      ]
+                  }
+              ],
+              "pizzas": [
+                  {
+                      "courses": [
+                          {
+                              "course_name": "pizza napolitana",
+                              "price": 950.00,
+                              "main_ingredients": ["harina", "tomate"]
+                          }
+                      ]
+                  }
+              ],
+              "additions": [
+                  {
+                      "name": "queso gouda",
+                      "price": 250.00
+                  }
+              ],
+              "desserts": [
+                  {
+                      "courses": [
+                          {
+                              "course_name": "suero de helado",
+                              "price": 850.00,
+                              "main_ingredients": ["helado", "leche"]
+                          }
+                      ]
+                  }
+              ],
+              "breads": [
+                  {
+                      "courses": [
+                          {
+                              "course_name": "sandwich de jamon y queso",
+                              "price": 850.00,
+                              "main_ingredients": ["harina", "jamon", "queso"]
+                          }
+                      ]
+                  }
+              ],
+              "liquids": [
+                  {
+                      "alcoholic_beverages": [
+                          {
+                              "cocktail": [
+                                  {
+                                      "name": "chelada",
+                                      "price": 200.00
+                                  }
+                              ]
+                          }
+                      ],
+                      "water": [
+                          {
+                              "name": "agua natural",
+                              "price": 250.00
+                          }
+                      ],
+                      "soft_drinks": [
+                          {
+                              "name": "refrescos importados (lata)",
+                              "price": 350.00
+                          }
+                      ],
+                      "natural_juices": [
+                          {
+                              "name": "jugos naturales",
+                              "price": 350.00
+                          }
+                      ],
+                      "coffees": [
+                          {
+                              "name": "cafe expreso",
+                              "price": 250.00
+                          }
+                      ]
+                  }
+              ]
+          }
+      }    
+  }
+}

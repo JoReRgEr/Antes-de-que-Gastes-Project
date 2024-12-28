@@ -104,7 +104,8 @@
             "whatsapp": "+53 5 9694801",
             "X": false,
             "telegram": false,
-            "Cuban_websites": false
+            "Cuban_websites": false,
+            "Threads": false
         },
         "child_care": true,
         "disable_support": false,

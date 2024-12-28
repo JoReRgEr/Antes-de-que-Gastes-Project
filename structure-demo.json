@@ -1,52 +1,52 @@
 {
-    "type_of_establishment": "restaurante-bar",
-    "name": "Atlanta Café",
-    "property_type": "particular",
+    "type_of_establishment": "restaurante",
+    "name": "Don Burguer",
+    "property_type": "estatal",
     "address": {
-        "establishment_phone_number": "+53 5 9694801",
-        "email": "atlantacafe09@gmail.com",
+        "establishment_phone_number": "+53 56073379",
+        "email": null,
         "city": "La Habana",
         "district": "Arroyo Naranjo",
-        "location": "Atlanta #9, entre Calzada de Porvenir y Calzada de 10 de octubre, La Palma",
-        "coordinates": "23.075255986381205, -82.35820900856798" 
+        "location": "Calzada de 10 de Octubre, entre  Aranguren y Santa Isabel, La Palma",
+        "coordinates": "23.075317641382675, -82.35883888058378"
     },
     "schedules": {
-        "Reduced_working_hours_on_public_holidays": true,
+        "Reduced_working_hours_on_public_holidays": null,
         "monday": {
             "open": "10:00",
-            "closed": "22:00"
+            "closed": "23:00"
         },
         "tuesday": {
             "open": "10:00",
-            "closed": "22:00"
+            "closed": "23:00"
         },
         "wednesday": {
             "open": "10:00",
-            "closed": "22:00"
+            "closed": "23:00"
         },
         "thursday": {
             "open": "10:00",
-            "closed": "22:00"
+            "closed": "23:00"
         },
         "friday": {
             "open": "10:00",
-            "closed": "22:00"
+            "closed": "23:00"
         },
         "saturday": {
             "open": "10:00",
-            "closed": "22:00"
+            "closed": "23:00"
         },
         "sunday": {
             "open": "10:00",
-            "closed": "22:00"
+            "closed": "23:00"
         }
     },
     "location_details": {
         "rating": {
             "google": {
-                    "stars": 4.0,
-                    "number_of_reviews": 25,
-                    "recurring_themes": [ ["pizzas"],
+                    "stars": 5.0,
+                    "number_of_reviews": 3,
+                    "recurring_themes": [ ["servicio"],
                     {
                         "for_better_or_worse": "buenas"
                     }
@@ -62,21 +62,21 @@
                 ]
             },
             "facebook": {
-                    "stars": 4.0,
-                    "number_of_reviews": 35,
-                    "recurring_themes": [ ["pizzas", "servicio"],
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null],
                     {
-                        "for_better_or_worse": "buenas"
+                        "for_better_or_worse": null
                     }
                 ]
             },
             "regularity": true
         },
-        "establishment_capacity": "media",
-        "decoration": "sport",
-        "festive_decorations": true,
-        "dress_code": "informal",
-        "collaboration_for_events": true,
+        "establishment_capacity": "grande",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "dress_code": "formal",
+        "collaboration_for_events": null,
         "type_of_concurrent_clients": ["familias"],
         "digital_menus": [ false,
             {
@@ -85,37 +85,38 @@
         ],
         "robotic": false,
         "concurrent_music": "variada",
-        "energy_backup": null,
-        "other_services": "mercado"
+        "energy_backup": true,
+        "other_services": null
     },
     "services": {
         "social_networks": {
             "web_page": false,
             "facebook": [ true,
                 {
-                    "url": "https://www.instagram.com/cafeatlanta/"
+                    "url": "https://www.facebook.com/lacasadelmaizcuba/?locale=en_GB"
                 }
             ],
             "instagram": [ true,
                 {
-                    "url": "https://www.facebook.com/atlantacafe/?locale=es_LA"
+                    "url": "https://www.instagram.com/explore/locations/1727121417357588/la-casa-del-maiz/?hl=am-et"
                 }
             ],
             "whatsapp": "+53 5 9694801",
             "X": false,
             "telegram": false,
-            "Cuban_websites": false
+            "Cuban_websites": false,
+            "Threads": ""
         },
         "child_care": true,
-        "disable_support": false,
+        "disable_support": true,
         "wifi": false,
-        "parking": false,
-        "delivery": true,
-        "reserves": true,
-        "rent_from_the_client": true,
+        "parking":  true,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
         "vip_zone": false,
         "catering": false,
-        "interactive_activities": true,
+        "interactive_activities": false,
         "sanitary": true,
         "pet_friendly": false
     },
@@ -125,7 +126,9 @@
             {
                 "transfermovil": true,
                 "enzona": false,
-                "bancaremota": false
+                "bancaremota": false,
+                "visa": false,
+                "mastercard": false
             },
         "currency": {
             "cup": true,
@@ -134,11 +137,11 @@
             "mlc": false,
             "others": false
         },
-        "10% charge": false
+        "10% charge": true
     },
     "menu_details": {
-        "kind_of_food": ["variada"],
-        "healthy_food_options": false,
+        "kind_of_food": ["cubana"],
+        "healthy_food_options": true,
         "menu_card": {
             "menu_sections": {
                 "starters": [
@@ -147,52 +150,6 @@
                             {
                                 "course_name": "croquetas de la casa",
                                 "price": 850.00,
-                                "main_ingredients": [null]
-                            },
-                            {
-                                "course_name": "ensalada de pollo",
-                                "price": 950.00,
-                                "main_ingredients": ["pollo"]
-                            },
-                            {
-                                "course_name": "tostones rellenos",
-                                "price": 850.00,
-                                "main_ingredients": [null]
-                            },
-                            {
-                                "course_name": "frituras de malanga",
-                                "price": 650.00,
-                                "main_ingredients": ["malanga"]
-                            },
-                            {
-                                "course_name": "garbanzos fritos",
-                                "price": 1200.00,
-                                "main_ingredients": ["garbanzos"]
-                            },
-                            {
-                                "course_name": "eperlán de picar",
-                                "price": 1200.00,
-                                "main_ingredients": ["pescado"]
-                            },
-                            {
-                                "course_name": "fajitas de pollo",
-                                "price": 950.00,
-                                "main_ingredients": ["pollo"]
-                            },
-                            {
-                                "course_name": "ceviche ATLANTA",
-                                "price": 950.00,
-                                "main_ingredients": ["pescado"]
-                            }
-                        ]
-                    }
-                ],
-                "tacos":[
-                    {
-                        "courses": [
-                            {
-                                "course_name": "tacos ATLANTA",
-                                "price": 1650.00,
                                 "main_ingredients": [null]
                             }
                         ]
@@ -205,102 +162,6 @@
                                 "course_name": "arroz frito",
                                 "price": 1200.00,
                                 "main_ingredients": ["arroz"]
-                            },
-                            {
-                                "course_name": "arroz frito especial",
-                                "price": 1400.00,
-                                "main_ingredients": ["arroz"]
-                            },
-                            {
-                                "course_name": "paella valenciana",
-                                "price": 1500.00,
-                                "main_ingredients": ["arroz", "carnes", "verduras"]
-                            },
-                            {
-                                "course_name": "paella mixta",
-                                "price": 1650.00,
-                                "main_ingredients": ["arroz", "carnes", "verduras", "mariscos"]
-                            },
-                            {
-                                "course_name": "arroz con pollo a la chorrera",
-                                "price": 1500.00,
-                                "main_ingredients": ["arroz"]
-                            },
-                            {
-                                "course_name": "bistec de cerdo grillé",
-                                "price": 1600.00,
-                                "main_ingredients": ["cerdo"]
-                            },
-                            {
-                                "course_name": "masas de cerdo fritas",
-                                "price": 2000.00,
-                                "main_ingredients": ["cerdo"]
-                            },
-                            {
-                                "course_name": "bistec uruguayo de cerdo",
-                                "price": 2500.00,
-                                "main_ingredients": ["cerdo"]
-                            },
-                            {
-                                "course_name": "filete de pescado grillé",
-                                "price": 1850.00,
-                                "main_ingredients": ["pescado"]
-                            },
-                            {
-                                "course_name": "filete de pescado con queso",
-                                "price": 2200.00,
-                                "main_ingredients": ["pescado", "queso"]
-                            },
-                            {
-                                "course_name": "filete canciller",
-                                "price": 2500.00,
-                                "main_ingredients": ["pescado"]
-                            },
-                            {
-                                "course_name": "pollo frito/asado",
-                                "price": 1500.00,
-                                "main_ingredients": ["pollo"]
-                            },
-                            {
-                                "course_name": "pechuga de pollo grillé",
-                                "price": 1600.00,
-                                "main_ingredients": ["pollo"]
-                            },
-                            {
-                                "course_name": "pechuga gratinada",
-                                "price": 1850.00,
-                                "main_ingredients": ["pollo"]
-                            },
-                            {
-                                "course_name": "pechuga princesa",
-                                "price": 2000.00,
-                                "main_ingredients": ["pollo"]
-                            },
-                            {
-                                "course_name": "Gordon Bleu",
-                                "price": 2500.00,
-                                "main_ingredients": ["pollo", "queso", "jamon"]
-                            },
-                            {
-                                "course_name": "lomo ahumado grille",
-                                "price": 1850.00,
-                                "main_ingredients": ["cerdo"]
-                            },
-
-                            {
-                                "course_name": "lomo ahumado gratinado con queso",
-                                "price": 2150.00,
-                                "main_ingredients": ["cerdo"]
-                            },
-                            {
-                                "course_name": "lomo ahumado a la piña",
-                                "price": 2000.00,
-                                "main_ingredients": ["cerdo"]
-                            },
-                            {
-                                "course_name": "pechugón ATLANTA",
-                                "price": 2650.00,
-                                "main_ingredients": ["pollo"]
                             }
                         ]
                     }
@@ -312,11 +173,6 @@
                                 "course_name": "spaguetti Napolitano",
                                 "price": 950.00,
                                 "main_ingredients": ["pastas", "tomate"]
-                            },
-                            {
-                                "course_name": "lasagna de jamón",
-                                "price": 950.00,
-                                "main_ingredients": ["pastas", "tomate", "jamon"]
                             }
                         ]
                     }
@@ -328,11 +184,6 @@
                                 "course_name": "pizza napolitana",
                                 "price": 950.00,
                                 "main_ingredients": ["harina", "tomate"]
-                            },
-                            {
-                                "course_name": "pizza ATLANTA",
-                                "price": 1800.00,
-                                "main_ingredients": ["harina", "tomate", "variados"]
                             }
                         ]
                     }
@@ -341,85 +192,6 @@
                     {
                         "name": "queso gouda",
                         "price": 250.00
-                    },
-                    {
-                        "name": "jamon visking",
-                        "price": 250.00
-                    },
-
-                    {
-                        "name": "queso azul",
-                        "price": 650.00
-                    },
-                    {
-                        "name": "lomo ahumado",
-                        "price": 450.00
-                    },
-                    {
-                        "name": "jamon pierna",
-                        "price": 450.00
-                    },
-                    {
-                        "name": "bacon",
-                        "price": 650.00
-                    },
-                    {
-                        "name": "cebolla",
-                        "price": 200.0
-                    },
-                    {
-                        "name": "piña",
-                        "price": 200.00
-                    },
-                    {
-                        "name": "pimientos",
-                        "price": 200.00
-                    },
-                    {
-                        "name": "aceitunas",
-                        "price": 450.00
-                    },
-                    {
-                        "name": "chorizo criollo",
-                        "price": 250.00
-                    },
-                    {
-                        "name": "atun",
-                        "price": 650.00
-                    },
-                    {
-                        "name": "chorizo vela",
-                        "price": 650.00
-                    },
-                    {
-                        "name": "champiñones",
-                        "price": 650.00
-                    },
-                    {
-                        "name": "jamon serrano",
-                        "price": 920.00
-                    },
-                    {
-                        "name": "queso parmesano",
-                        "price": 820.00
-                    }
-                ],
-                "companions": [
-                    {
-                        "name": "arroz blanco",
-                        "price": 320.00
-                    },
-                    {
-                        "name": "ensalada mixta",
-                        "price": 320.00
-                    },
-                    {
-                        "name": "arroz congris",
-                        "price": 480.00
-                    },
-                    {
-                        "name": "vianda frita",
-                        "price": 320.00
                     }
                 ],
                 "desserts": [
@@ -440,31 +212,6 @@
                                 "course_name": "sandwich de jamon y queso",
                                 "price": 850.00,
                                 "main_ingredients": ["harina", "jamon", "queso"]
-                            },
-                            {
-                                "course_name": "sandwich de Media Noche",
-                                "price": 1650.00,
-                                "main_ingredients": ["harina"]
-                            },
-                            {
-                                "course_name": "sandwich Cubano",
-                                "price": 1650.00,
-                                "main_ingredients": ["harina", "jamon", "queso", "cerdo"]
-                            },
-                            {
-                                "course_name": "sandwich de atun",
-                                "price": 1300.00,
-                                "main_ingredients": ["harina", "pescado"]
-                            },
-                            {
-                                "course_name": "Cheeseburguer",
-                                "price": 1200.00,
-                                "main_ingredients": ["harina", "queso","cerdo"]
-                            },
-                            {
-                                "course_name": "hamburguesa ATLANTA",
-                                "price": 1500.00,
-                                "main_ingredients": ["harina", "variados"]
                             }
                         ]
                     }
@@ -477,260 +224,6 @@
                                     {
                                         "name": "chelada",
                                         "price": 200.00
-                                    },
-                                    {
-                                        "name": "michelada",
-                                        "price": 250.00
-                                    },
-                                    {
-                                        "name": "roncollins",
-                                        "price": 600.00
-                                    },
-                                    {
-                                        "name": "calimocho",
-                                        "price": 600.00
-                                    },
-                                    {
-                                        "name": "tinto de verano",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "caipiroska",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "caipirinha",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "caipirisima",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "canchanchara",
-                                        "price": 600.00
-                                    },
-                                    {
-                                        "name": "piña colada",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "cubalibre",
-                                        "price": 650.00
-                                    },
-                                    {
-                                        "name": "sangría",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "mojito",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "daiquirí",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "cubata",
-                                        "price": 800.00
-                                    },
-                                    {
-                                        "name": "cubanito",
-                                        "price": 800.00
-                                    },
-                                    {
-                                        "name": "sex on the beach",
-                                        "price": 800.00
-                                    },
-                                    {
-                                        "name": "bloody mary",
-                                        "price": 800.00
-                                    },
-                                    {
-                                        "name": "gintonic",
-                                        "price": 900.00
-                                    },
-                                    {
-                                        "name": "vodkatonic",
-                                        "price": 900.00
-                                    },
-                                    {
-                                        "name": "margarita",
-                                        "price": 900.00
-                                    },
-                                    {
-                                        "name": "jaggerbull",
-                                        "price": 1250.00
-                                    },
-                                    {
-                                        "name": "negroni",
-                                        "price": 1550.00
-                                    }
-                                ],
-                                "ginebra": [
-                                    {
-                                        "name": "ginebra de la casa",
-                                        "price": 350.00
-                                    },
-                                    {
-                                        "name": "ginebra Beefeater",
-                                        "price": 500.00
-                                    },
-                                    {
-                                        "name": "ginebra Tanqueray",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "ginebra Gordons",
-                                        "price": 1000.00
-                                    }
-                                ],
-                                "tequila": [
-                                    {
-                                        "name": "tequila silver de la casa",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "tequila reposado de la casa",
-                                        "price": 750.00
-                                    },
-                                    {
-                                        "name": "tequila Olmeca silver",
-                                        "price": 750.00
-                                    },
-                                    {
-                                        "name": "tequila Olmeca reposado",
-                                        "price": 800.00
-                                    },
-                                    {
-                                        "name": "tequila Olmeca dark",
-                                        "price": 800.00
-                                    },
-                                    {
-                                        "name": "tequila Patrón silver",
-                                        "price": 1550.00
-                                    },
-                                    {
-                                        "name": "tequila Patrón reposado",
-                                        "price": 1700.00
-                                    }
-                                ],
-                                "vodka": [
-                                    {
-                                        "name": "vodka de la casa",
-                                        "price": 350.00
-                                    },
-                                    {
-                                        "name": "vodka Absolut",
-                                        "price": 650.00
-                                    },
-                                    {
-                                        "name": "vodka Grey Goose",
-                                        "price": 1550.00
-                                    }
-                                ],
-                                "whisky": [
-                                    {
-                                        "name": "whisky de la casa",
-                                        "price": 400.00
-                                    },
-                                    {
-                                        "name": "william lawson",
-                                        "price": 500.00
-                                    },
-                                    {
-                                        "name": "VAT 69",
-                                        "price": 500.00
-                                    },
-                                    {
-                                        "name": "Ballantines",
-                                        "price": 650.00
-                                    },
-                                    {
-                                        "name": "Jhonie W. etiqueta roja",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "Jhonie W. etiq. negra",
-                                        "price": 1250.00
-                                    },
-                                    {
-                                        "name": "Buchanans deluxe",
-                                        "price": 1550.00
-                                    },
-                                    {
-                                        "name": "Chivas Regal",
-                                        "price": 1200.00
-                                    }
-                                ],
-                                "ron": [
-                                    {
-                                        "name": "ron h.c. blanco",
-                                        "price": 350.00
-                                    },
-                                    {
-                                        "name": "ron h.c. 3 años",
-                                        "price": 400.00
-                                    },
-                                    {
-                                        "name": "ron h.c. reserva",
-                                        "price": 500.00
-                                    },
-                                    {
-                                        "name": "ron h.c 7 años",
-                                        "price": 550.00
-                                    },
-                                    {
-                                        "name": "ron santiago c. blanca",
-                                        "price": 500.00
-                                    },
-                                    {
-                                        "name": "ron santiago 8 años",
-                                        "price": 1000.00
-                                    },
-                                    {
-                                        "name": "ron santiago 11 años",
-                                        "price": 1450.00
-                                    },
-                                    {
-                                        "name": "ron santiango 12 años",
-                                        "price": 1550.00
-                                    }
-                                ],
-                                "beers": [
-                                    {
-                                        "name": "cerveza Cristal (lata)",
-                                        "price": 350.00
-                                    },
-                                    {
-                                        "name": "cerveza Cristal (botella)",
-                                        "price": 400.00
-                                    },
-                                    {
-                                        "name": "cerveza Bucanero",
-                                        "price": 350.00
-                                    },
-                                    {
-                                        "name": "cerveza Corona",
-                                        "price": 550.00
-                                    },
-                                    {
-                                        "name": "cerveza Heineken",
-                                        "price": 500.00
-                                    },
-                                    {
-                                        "name": "cervezas importadas",
-                                        "price": 300.00
-                                    }
-                                ],
-                                "wines": [
-                                    {
-                                        "name": "copa de vino de la casa",
-                                        "price": 420.00
-                                    },
-                                    {
-                                        "name": "copa de vino Frontera",
-                                        "price": 500.00
                                     }
                                 ]
                             }
@@ -745,54 +238,18 @@
                             {
                                 "name": "refrescos importados (lata)",
                                 "price": 350.00
-                            },
-                            {
-                                "name": "red bull",
-                                "price": 650.00
-                            },
-                            {
-                                "name": "malta Bucanero",
-                                "price": 400.00
-                            },
-                            {
-                                "name": "maltas (otras marcas)",
-                                "price": 350.00
                             }
                         ],
                         "natural_juices": [
                             {
                                 "name": "jugos naturales",
                                 "price": 350.00
-                            },
-                            {
-                                "name": "batidos de frutas",
-                                "price": 600.00
                             }
                         ],
                         "coffees": [
                             {
                                 "name": "cafe expreso",
                                 "price": 250.00
-                            },
-                            {
-                                "name": "cafe cortado",
-                                "price": 320.00
-                            },
-                            {
-                                "name": "cafe bombon",
-                                "price": 400.00
-                            },
-                            {
-                                "name": "capuchino",
-                                "price": 450.00
-                            },
-                            {
-                                "name": "frapuchino",
-                                "price": 500.00
-                            },
-                            {
-                                "name": "frapuchino con helado",
-                                "price": 880.00
                             }
                         ]
                     }
