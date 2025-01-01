@@ -495,18 +495,10 @@
                                     {
                                         "name": "Un Tilin",
                                         "price": 750
-                                    }
-                                ],
-                                "sangria": [
+                                    },
                                     {
                                         "name": "Sangria",
                                         "price": 850
-                                    }
-                                ],
-                                "tequila": [
-                                    {
-                                        "name": "Tequila",
-                                        "price": 900
                                     }
                                 ],
                                 "wine_glass": [
@@ -547,6 +539,10 @@
                                     {
                                         "name": "Linea Jack Daniels",
                                         "price": 2500
+                                    },
+                                    {
+                                        "name": "Tequila",
+                                        "price": 900
                                     }
                                 ],
                                 "bottles": [
@@ -557,6 +553,24 @@
                                     {
                                         "name": "Botella de Vino Casillero del Diablo",
                                         "price": 8000
+                                    }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "Cerveza Nacional",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Cerveza Bucanero",
+                                        "price": 250.00
+                                    },
+                                    {
+                                        "name": "Cerveza Escorial",
+                                        "price": 200.00
+                                    },
+                                    {
+                                        "name": "Cerveza Holanda",
+                                        "price": 200.00
                                     }
                                 ]
                             }
@@ -569,24 +583,6 @@
                             {
                                 "name": "Agua Natural Importada",
                                 "price": 300.00
-                            }
-                        ],
-                        "beers": [
-                            {
-                                "name": "Cerveza Nacional",
-                                "price": 400.00
-                            },
-                            {
-                                "name": "Cerveza Bucanero",
-                                "price": 250.00
-                            },
-                            {
-                                "name": "Cerveza Escorial",
-                                "price": 200.00
-                            },
-                            {
-                                "name": "Cerveza Holanda",
-                                "price": 200.00
                             }
                         ],
                         "soft_drinks": [

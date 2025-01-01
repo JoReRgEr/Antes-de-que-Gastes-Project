@@ -405,7 +405,7 @@
                         "price": 820.00
                     }
                 ],
-                "companions": [
+                "rations": [
                     {
                         "name": "arroz blanco",
                         "price": 320.00
@@ -568,170 +568,174 @@
                                         "price": 1550.00
                                     }
                                 ],
-                                "ginebra": [
+                                "shots": [
                                     {
-                                        "name": "ginebra de la casa",
-                                        "price": 350.00
-                                    },
-                                    {
-                                        "name": "ginebra Beefeater",
-                                        "price": 500.00
-                                    },
-                                    {
-                                        "name": "ginebra Tanqueray",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "ginebra Gordons",
-                                        "price": 1000.00
-                                    }
-                                ],
-                                "tequila": [
-                                    {
-                                        "name": "tequila silver de la casa",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "tequila reposado de la casa",
-                                        "price": 750.00
-                                    },
-                                    {
-                                        "name": "tequila Olmeca silver",
-                                        "price": 750.00
-                                    },
-                                    {
-                                        "name": "tequila Olmeca reposado",
-                                        "price": 800.00
-                                    },
-                                    {
-                                        "name": "tequila Olmeca dark",
-                                        "price": 800.00
-                                    },
-                                    {
-                                        "name": "tequila Patrón silver",
-                                        "price": 1550.00
-                                    },
-                                    {
-                                        "name": "tequila Patrón reposado",
-                                        "price": 1700.00
-                                    }
-                                ],
-                                "vodka": [
-                                    {
-                                        "name": "vodka de la casa",
-                                        "price": 350.00
-                                    },
-                                    {
-                                        "name": "vodka Absolut",
-                                        "price": 650.00
-                                    },
-                                    {
-                                        "name": "vodka Grey Goose",
-                                        "price": 1550.00
-                                    }
-                                ],
-                                "whisky": [
-                                    {
-                                        "name": "whisky de la casa",
-                                        "price": 400.00
-                                    },
-                                    {
-                                        "name": "william lawson",
-                                        "price": 500.00
-                                    },
-                                    {
-                                        "name": "VAT 69",
-                                        "price": 500.00
-                                    },
-                                    {
-                                        "name": "Ballantines",
-                                        "price": 650.00
-                                    },
-                                    {
-                                        "name": "Jhonie W. etiqueta roja",
-                                        "price": 700.00
-                                    },
-                                    {
-                                        "name": "Jhonie W. etiq. negra",
-                                        "price": 1250.00
-                                    },
-                                    {
-                                        "name": "Buchanans deluxe",
-                                        "price": 1550.00
-                                    },
-                                    {
-                                        "name": "Chivas Regal",
-                                        "price": 1200.00
-                                    }
-                                ],
-                                "ron": [
-                                    {
-                                        "name": "ron h.c. blanco",
-                                        "price": 350.00
-                                    },
-                                    {
-                                        "name": "ron h.c. 3 años",
-                                        "price": 400.00
-                                    },
-                                    {
-                                        "name": "ron h.c. reserva",
-                                        "price": 500.00
-                                    },
-                                    {
-                                        "name": "ron h.c 7 años",
-                                        "price": 550.00
-                                    },
-                                    {
-                                        "name": "ron santiago c. blanca",
-                                        "price": 500.00
-                                    },
-                                    {
-                                        "name": "ron santiago 8 años",
-                                        "price": 1000.00
-                                    },
-                                    {
-                                        "name": "ron santiago 11 años",
-                                        "price": 1450.00
-                                    },
-                                    {
-                                        "name": "ron santiango 12 años",
-                                        "price": 1550.00
-                                    }
-                                ],
-                                "beers": [
-                                    {
-                                        "name": "cerveza Cristal (lata)",
-                                        "price": 350.00
-                                    },
-                                    {
-                                        "name": "cerveza Cristal (botella)",
-                                        "price": 400.00
-                                    },
-                                    {
-                                        "name": "cerveza Bucanero",
-                                        "price": 350.00
-                                    },
-                                    {
-                                        "name": "cerveza Corona",
-                                        "price": 550.00
-                                    },
-                                    {
-                                        "name": "cerveza Heineken",
-                                        "price": 500.00
-                                    },
-                                    {
-                                        "name": "cervezas importadas",
-                                        "price": 300.00
-                                    }
-                                ],
-                                "wines": [
-                                    {
-                                        "name": "copa de vino de la casa",
-                                        "price": 420.00
-                                    },
-                                    {
-                                        "name": "copa de vino Frontera",
-                                        "price": 500.00
+                                        "ginebra": [
+                                            {
+                                                "name": "ginebra de la casa",
+                                                "price": 350.00
+                                            },
+                                            {
+                                                "name": "ginebra Beefeater",
+                                                "price": 500.00
+                                            },
+                                            {
+                                                "name": "ginebra Tanqueray",
+                                                "price": 700.00
+                                            },
+                                            {
+                                                "name": "ginebra Gordons",
+                                                "price": 1000.00
+                                            }
+                                        ],
+                                        "tequila": [
+                                            {
+                                                "name": "tequila silver de la casa",
+                                                "price": 700.00
+                                            },
+                                            {
+                                                "name": "tequila reposado de la casa",
+                                                "price": 750.00
+                                            },
+                                            {
+                                                "name": "tequila Olmeca silver",
+                                                "price": 750.00
+                                            },
+                                            {
+                                                "name": "tequila Olmeca reposado",
+                                                "price": 800.00
+                                            },
+                                            {
+                                                "name": "tequila Olmeca dark",
+                                                "price": 800.00
+                                            },
+                                            {
+                                                "name": "tequila Patrón silver",
+                                                "price": 1550.00
+                                            },
+                                            {
+                                                "name": "tequila Patrón reposado",
+                                                "price": 1700.00
+                                            }
+                                        ],
+                                        "vodka": [
+                                            {
+                                                "name": "vodka de la casa",
+                                                "price": 350.00
+                                            },
+                                            {
+                                                "name": "vodka Absolut",
+                                                "price": 650.00
+                                            },
+                                            {
+                                                "name": "vodka Grey Goose",
+                                                "price": 1550.00
+                                            }
+                                        ],
+                                        "whisky": [
+                                            {
+                                                "name": "whisky de la casa",
+                                                "price": 400.00
+                                            },
+                                            {
+                                                "name": "william lawson",
+                                                "price": 500.00
+                                            },
+                                            {
+                                                "name": "VAT 69",
+                                                "price": 500.00
+                                            },
+                                            {
+                                                "name": "Ballantines",
+                                                "price": 650.00
+                                            },
+                                            {
+                                                "name": "Jhonie W. etiqueta roja",
+                                                "price": 700.00
+                                            },
+                                            {
+                                                "name": "Jhonie W. etiq. negra",
+                                                "price": 1250.00
+                                            },
+                                            {
+                                                "name": "Buchanans deluxe",
+                                                "price": 1550.00
+                                            },
+                                            {
+                                                "name": "Chivas Regal",
+                                                "price": 1200.00
+                                            }
+                                        ],
+                                        "ron": [
+                                            {
+                                                "name": "ron h.c. blanco",
+                                                "price": 350.00
+                                            },
+                                            {
+                                                "name": "ron h.c. 3 años",
+                                                "price": 400.00
+                                            },
+                                            {
+                                                "name": "ron h.c. reserva",
+                                                "price": 500.00
+                                            },
+                                            {
+                                                "name": "ron h.c 7 años",
+                                                "price": 550.00
+                                            },
+                                            {
+                                                "name": "ron santiago c. blanca",
+                                                "price": 500.00
+                                            },
+                                            {
+                                                "name": "ron santiago 8 años",
+                                                "price": 1000.00
+                                            },
+                                            {
+                                                "name": "ron santiago 11 años",
+                                                "price": 1450.00
+                                            },
+                                            {
+                                                "name": "ron santiango 12 años",
+                                                "price": 1550.00
+                                            }
+                                        ],
+                                        "beers": [
+                                            {
+                                                "name": "cerveza Cristal (lata)",
+                                                "price": 350.00
+                                            },
+                                            {
+                                                "name": "cerveza Cristal (botella)",
+                                                "price": 400.00
+                                            },
+                                            {
+                                                "name": "cerveza Bucanero",
+                                                "price": 350.00
+                                            },
+                                            {
+                                                "name": "cerveza Corona",
+                                                "price": 550.00
+                                            },
+                                            {
+                                                "name": "cerveza Heineken",
+                                                "price": 500.00
+                                            },
+                                            {
+                                                "name": "cervezas importadas",
+                                                "price": 300.00
+                                            }
+                                        ],
+                                        "wine_glass": [
+                                            {
+                                                "name": "copa de vino de la casa",
+                                                "price": 420.00
+                                            },
+                                            {
+                                                "name": "copa de vino Frontera",
+                                                "price": 500.00
+                                            }
+                                        ]
                                     }
                                 ]
                             }

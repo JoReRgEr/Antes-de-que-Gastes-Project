@@ -269,12 +269,16 @@
                 ],
                 "liquids": [
                     {
-                        "beers": [
+                        "alcoholic_beverages": [
                             {
-                                "name": "Cerveza",
-                                "price": 280.00
+                                "beers": [
+                                    {
+                                        "name": "Cerveza",
+                                        "price": 280.00
+                                    }
+                                ]
                             }
-                        ],
+                        ], 
                         "soft_drinks": [
                             {
                                 "name": "Refresco",

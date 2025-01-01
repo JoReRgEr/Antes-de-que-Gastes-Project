@@ -1,1168 +1,1104 @@
 {
-    "municipality": "Boyeros",
-    "info":
-        {
-        "nameLocal": "Tanokura",
-        "location":
-        {
-            "address": "Calle 403 %Ave. Rancho Boyeros  Calle B",
-            "barrio": "Santiago de las Vegas",
-            "GPS": "22.972472,-82.382986"
+    "type_of_establishment": "restaurante",
+    "name": "Tanokura",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "+53 76832173",
+        "email": null,
+        "city": "La Habana",
+        "district": "Boyeros",
+        "location": "Calle 403 entre Ave. Rancho Boyeros  Calle B, Santiago de las Vegas",
+        "coordinates": "22.971383805574256, -82.38492268780422"
+    },
+    "schedules": {
+        "Reduced_working_hours_on_public_holidays": true,
+        "monday": {
+            "open": "12:00",
+            "closed": "00:00"
         },
-        "horarios": 
-        {
-            "monday": "",
-            "thuesday": "",
-            "wednesday": "",
-            "thursday": "",
-            "friday": "",
-            "saturday": "",
-            "sunday": ""
+        "tuesday": {
+            "open": "12:00",
+            "closed": "00:00"
         },
-        "contactUs":
-        {
-            "phone": [],
-            "web": "",
-            "social": ["https://www.instagram.com/restaurant_tanokura/"]
+        "wednesday": {
+            "open": "12:00",
+            "closed": "00:00"
         },
-        "services":
-        {
-            "tranfer": null,
-            "delivery": null,
-            "parallevar": null,
-            "reservation": null,
-            "tipoDeMoneda": [],
-            "parqueo": null,
-            "porCiento":null,
-            "alquiler": false,
-            "comentarios": ""
+        "thursday": {
+            "open": "12:00",
+            "closed": "00:00"
         },
-        "ambientacion":
-        {
-            "inside": true,
-            "outside": false,
-            "bajos": true,
-            "altos": false,
-            "ac": false,
-            "entretenimiento": [],
-            "comentarios": ""
-
+        "friday": {
+            "open": "12:00",
+            "closed": "00:00"
         },
-        "vestimenta": ["casual"],
-        "estatal": false,
-        "tipoDeComidaEspecializada": [],
-        "menu":
-        {
-            "entrantes":
-            [
-                {
-                    "foodName": "Maripositas Chinas",
-                    "foodPrecio": 520
-                },
-                {
-                    "foodName": "Frituras de Malanga",
-                    "foodPrecio": 520
-                },
-                {
-                    "foodName": "Tostones Rellenos de Jamon y Queso",
-                    "foodPrecio": 750
-                },
-                {
-                    "foodName": "Tostones Rellenos de Chorizo y Queso",
-                    "foodPrecio": 770
-                },
-                {
-                    "foodName": "Tostones Rellenos de Ropa Vieja",
-                    "foodPrecio": 770
-                },
-                {
-                    "foodName": "Tostones Rellenos de Atun",
-                    "foodPrecio": 770
-                },
-                {
-                    "foodName": "Tostones Rellenos de Cangrejo",
-                    "foodPrecio": 770
-                },
-                {
-                    "foodName": "Croquetas de Bechamel de Pollo",
-                    "foodPrecio": 920
-                },
-                {
-                    "foodName": "Croquetas de Bechamel de Pescado",
-                    "foodPrecio": 920
-                },
-                {
-                    "foodName": "Delicias Tanokura",
-                    "foodPrecio": 2000
-                },
-                {
-                    "foodName": "Garbanzos Fritos",
-                    "foodPrecio": 1220
-                },
-                {
-                    "foodName": "Eperlan",
-                    "foodPrecio": 1020
-                },
-                {
-                    "foodName": "Fajitas de Cerdo",
-                    "foodPrecio": 920
-                },
-                {
-                    "foodName": "Fajitas de Pollo",
-                    "foodPrecio": 920
-                },
-                {
-                    "foodName": "Coctel de Camaron",
-                    "foodPrecio": 1020
-                },
-                {
-                    "foodName": "Coctel de Langosta",
-                    "foodPrecio": 1020
-                },
-                {
-                    "foodName": "Ensalada Fria de Pollo",
-                    "foodPrecio": 720
-                },
-                {
-                    "foodName": "Ensalada Fria de Jamon",
-                    "foodPrecio": 770
-                },
-                {
-                    "foodName": "Ensalada Fria de Atun",
-                    "foodPrecio": 770
-                },
-                {
-                    "foodName": "Enchilado de Cangrejo con Pan",
-                    "foodPrecio": 820
-                }
-            ],
-            "platoFuerte":
-            [
-                {
-                    "foodName": "Ensalada Estacion",
-                    "foodPrecio": 600,
-                    "description": null,
-                    "clasificacion": "ensalada"
-                },
-                {
-                    "foodName": "Ensalada de Vegetales con Pollo",
-                    "foodPrecio": 720,
-                    "description": null,
-                    "clasificacion": "ensalada"
-                },
-                {
-                    "foodName": "Papas Fritas",
-                    "foodPrecio": 490,
-                    "description": null,
-                    "clasificacion": "guarniciones"
-                },
-                {
-                    "foodName": "Mariquitas de Platano",
-                    "foodPrecio": 300,
-                    "description": null,
-                    "clasificacion": "guarniciones"
-                },
-                {
-                    "foodName": "Mariquitas de Malanga",
-                    "foodPrecio": 300,
-                    "description": null,
-                    "clasificacion": "guarniciones"
-                },
-                {
-                    "foodName": "Tostones",
-                    "foodPrecio": 300,
-                    "description": null,
-                    "clasificacion": "guarniciones"
-                },
-                {
-                    "foodName": "Boniato Frito",
-                    "foodPrecio": 300,
-                    "description": null,
-                    "clasificacion": "guarniciones"
-                },
-                {
-                    "foodName": "Malanga con Mojo",
-                    "foodPrecio": 520,
-                    "description": null,
-                    "clasificacion": "guarniciones"
-                },
-                {
-                    "foodName": "Yuca con Mojo",
-                    "foodPrecio": 300,
-                    "description": null,
-                    "clasificacion": "guarniciones"
-                },
-                {
-                    "foodName": "Plátano Maduro Frito",
-                    "foodPrecio": 300,
-                    "description": null,
-                    "clasificacion": "guarniciones"
-                },
-                {
-                    "foodName": "Arroz Blanco",
-                    "foodPrecio": 270,
-                    "description": null,
-                    "clasificacion": "guarniciones"
-                },
-                {
-                    "foodName": "Arroz Moro",
-                    "foodPrecio": 320,
-                    "description": null,
-                    "clasificacion": "guarniciones"
-                },
-                {
-                    "foodName": "Arroz Pilaf",
-                    "foodPrecio": 470,
-                    "description": null,
-                    "clasificacion": "guarniciones"
-                },
-                {
-                    "foodName": "Arroz Frito",
-                    "foodPrecio": 1130,
-                    "description": null,
-                    "clasificacion": "guarniciones"
-                },
-                {
-                    "foodName": "Arroz Frito con Camaron",
-                    "foodPrecio": 1630,
-                    "description": null,
-                    "clasificacion": "mixto"
-                },
-                {
-                    "foodName": "Arroz Campesino",
-                    "foodPrecio": 1630,
-                    "description": null,
-                    "clasificacion": "mixto"
-                },
-                {
-                    "foodName": "Paella Tanokura",
-                    "foodPrecio": 2530,
-                    "description": null,
-                    "clasificacion": "mixto"
-                },
-                {
-                    "foodName": "Crema de Queso",
-                    "foodPrecio": 410,
-                    "description": null,
-                    "clasificacion": "sopas y cremas"
-                },
-                {
-                    "foodName": "Crema Aurora",
-                    "foodPrecio": 360,
-                    "description": null,
-                    "clasificacion": "sopas y cremas"
-                },
-                {
-                    "foodName": "Crema Virginia",
-                    "foodPrecio": 520,
-                    "description": null,
-                    "clasificacion": "sopas y cremas"
-                },
-                {
-                    "foodName": "Crema de Malanga",
-                    "foodPrecio": 720,
-                    "description": null,
-                    "clasificacion": "sopas y cremas"
-                },
-                {
-                    "foodName": "Crema Reina",
-                    "foodPrecio": 520,
-                    "description": null,
-                    "clasificacion": "sopas y cremas"
-                },
-                {
-                    "foodName": "Crema de Mariscos",
-                    "foodPrecio": 570,
-                    "description": null,
-                    "clasificacion": "sopas y cremas"
-                },
-                {
-                    "foodName": "Rollo de Pechuga con Jamon, Bacon y Queso",
-                    "foodPrecio": 2500,
-                    "description": null,
-                    "clasificacion": "ligero"
-                },
-                {
-                    "foodName": "Churrasco",
-                    "foodPrecio": 2930,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Pescado Entero Frito",
-                    "foodPrecio": 2400,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Pechuga Parisien",
-                    "foodPrecio": 2250,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Pechuga Cardenal",
-                    "foodPrecio": 2250,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Spaguetis Alfredo",
-                    "foodPrecio": 2400,
-                    "description": null,
-                    "clasificacion": "pasta"
-                },
-                {
-                    "foodName": "Spaguetis Carbonara",
-                    "foodPrecio": 2600,
-                    "description": null,
-                    "clasificacion": "pasta"
-                },
-                {
-                    "foodName": "Empanado de Cerdo y Pollo",
-                    "foodPrecio": 2330,
-                    "description": null,
-                    "clasificacion": "ligero"
-                },
-                {
-                    "foodName": "Empanado de Cerdo y Res",
-                    "foodPrecio": 2430,
-                    "description": null,
-                    "clasificacion": "ligero"
-                },
-                {
-                    "foodName": "Empanado de Pollo y Res",
-                    "foodPrecio": 2330,
-                    "description": null,
-                    "clasificacion": "ligero"
-                },
-                {
-                    "foodName": "Bistec Uruguayo Don Gilberto",
-                    "foodPrecio": 3030,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Grillada del Corral",
-                    "foodPrecio": 2730,
-                    "description": null,
-                    "clasificacion": "mixto"
-                },
-                {
-                    "foodName": "Grillada Mar y Tierra",
-                    "foodPrecio": 3930,
-                    "description": null,
-                    "clasificacion": "mixto"
-                },
-                {
-                    "foodName": "Grillada del Mar",
-                    "foodPrecio": 3830,
-                    "description": null,
-                    "clasificacion": "mixto"
-                },
-                {
-                    "foodName": "Grillada Mediterranea",
-                    "foodPrecio": 3030,
-                    "description": null,
-                    "clasificacion": "mixto"
-                },
-                {
-                    "foodName": "Pollo Grille",
-                    "foodPrecio": 1380,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Pollo Frito a la Criolla",
-                    "foodPrecio": 1480,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Suprema de Pollo Grille",
-                    "foodPrecio": 1330,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Suprema de Pollo Gratinada",
-                    "foodPrecio": 1530,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Bistec de Pollo Empanado",
-                    "foodPrecio": 1530,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Gordon Blue",
-                    "foodPrecio": 1930,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Bistec de Pollo Grille Tanokura",
-                    "foodPrecio": 1730,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Bistec de Cerdo Grille",
-                    "foodPrecio": 1430,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Escalope de Cerdo",
-                    "foodPrecio": 1630,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Masas Fritas de Cerdo",
-                    "foodPrecio": 1730,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Fricase de Cerdo",
-                    "foodPrecio": 1730,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Bistec de Cerdo Grille Tanokura",
-                    "foodPrecio": 1930,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Bistec Uruguayo de Cerdo",
-                    "foodPrecio": 2180,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Bistec Uruguayo de Cerdo Tanokura",
-                    "foodPrecio": 2430,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Lomo Ahumado de Cerdo sin Hueso",
-                    "foodPrecio": 1850,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Chuletas de Cerdo",
-                    "foodPrecio": 2100,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Lomo Ahumado de Cerdo con Hueso",
-                    "foodPrecio": 1880,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Costillas de Cerdo Natural",
-                    "foodPrecio": 2900,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Costillas de Cerdo Ahumadas",
-                    "foodPrecio": 1830,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Estofado de Cordero",
-                    "foodPrecio": 2500,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Chilindrón de Cordero",
-                    "foodPrecio": 2500,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Ropa Vieja de Cordero",
-                    "foodPrecio": 2500,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Estofado de Conejo",
-                    "foodPrecio": 2000,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Fricase de Conejo",
-                    "foodPrecio": 2000,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Ropa Vieja de Res",
-                    "foodPrecio": 1630,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Vaca Frita",
-                    "foodPrecio": 1630,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Filete Migñon",
-                    "foodPrecio": 3530,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Filete a la Deutch",
-                    "foodPrecio": 3030,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Solomillo de Res Encebollado",
-                    "foodPrecio": 3230,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Uruguayo Solomillo Res",
-                    "foodPrecio": 4030,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Uruguayo Solomillo Res TNK",
-                    "foodPrecio": 4330,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Bistec Grille de Res",
-                    "foodPrecio": 1500,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Bistec Uruguayo de Res",
-                    "foodPrecio": 2330,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Uruguayo de Res TNK",
-                    "foodPrecio": 2330,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Bistec Grille de Res TNK",
-                    "foodPrecio": 2030,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Bistec de Riñonada",
-                    "foodPrecio": 1830,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Bistec Uruguayo de Riñonada de Res",
-                    "foodPrecio": 2130,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Bistec Uruguayo de Riñonada de Res TNK",
-                    "foodPrecio": 2330,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Bistec Grille de Riñonada de Res TNK",
-                    "foodPrecio": 2030,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Pizza de Queso",
-                    "foodPrecio": 1430,
-                    "description": null,
-                    "clasificacion": "pizza"
-                },
-                {
-                    "foodName": "Pizza Tanokura",
-                    "foodPrecio": 2680,
-                    "description": null,
-                    "clasificacion": "pizza"
-                },
-                {
-                    "foodName": "Pizza de Peperoni",
-                    "foodPrecio": 1830,
-                    "description": null,
-                    "clasificacion": "pizza"
-                },
-                {
-                    "foodName": "Spaguetis Napolitanos con Queso",
-                    "foodPrecio": 930,
-                    "description": null,
-                    "clasificacion": "pasta"
-                },
-                {
-                    "foodName": "Lasaña Tanokura",
-                    "foodPrecio": 1230,
-                    "description": null,
-                    "clasificacion": "pasta"
-                },
-                {
-                    "foodName": "Brochetas de Cerdo",
-                    "foodPrecio": 1760,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Brochetas de Pollo",
-                    "foodPrecio": 1460,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Brochetas de Langosta",
-                    "foodPrecio": 2060,
-                    "description": null,
-                    "clasificacion": "marisco"
-                },
-                {
-                    "foodName": "Chuletas de Cerdo a la Brasa",
-                    "foodPrecio": 2100,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Costilla Natural a la Brasa",
-                    "foodPrecio": 2900,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Costilla Ahumada a la Brasa",
-                    "foodPrecio": 1860,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Mixto de Chorizo Parrillero",
-                    "foodPrecio": 1430,
-                    "description": null,
-                    "clasificacion": "mixto"
-                },
-                {
-                    "foodName": "Lomo Ahumado sin Hueso a la Brasa",
-                    "foodPrecio": 1930,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Bistec de Cerdo a la Brasa",
-                    "foodPrecio": 1460,
-                    "description": null,
-                    "clasificacion": "carne roja"
-                },
-                {
-                    "foodName": "Suprema de Pollo a la Brasa",
-                    "foodPrecio": 1460,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Pollo Grille a la Brasa",
-                    "foodPrecio": 1400,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Langosta Mariposa a la Brasa",
-                    "foodPrecio": 2060,
-                    "description": null,
-                    "clasificacion": "marisco"
-                },
-                {
-                    "foodName": "Filete de Pescado Grille",
-                    "foodPrecio": 1980,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Filete de Pescado Empanado",
-                    "foodPrecio": 2380,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Filete de Pescado a la Muselina",
-                    "foodPrecio": 2430,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Filete de Pescado Grille Gratinado",
-                    "foodPrecio": 2230,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Filete de Pescado Don Pedro",
-                    "foodPrecio": 2930,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Filete Canciller",
-                    "foodPrecio": 2780,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Filete de Pescado Joinville",
-                    "foodPrecio": 3030,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Filete de Pescado Relleno",
-                    "foodPrecio": 2780,
-                    "description": null,
-                    "clasificacion": "carne blanca"
-                },
-                {
-                    "foodName": "Camarones Grille",
-                    "foodPrecio": 2030,
-                    "description": null,
-                    "clasificacion": "marisco"
-                },
-                {
-                    "foodName": "Camarones al Ajillo",
-                    "foodPrecio": 2030,
-                    "description": null,
-                    "clasificacion": "marisco"
-                },
-                {
-                    "foodName": "Enchilado de Camarones",
-                    "foodPrecio": 2030,
-                    "description": null,
-                    "clasificacion": "marisco"
-                },
-                {
-                    "foodName": "Camarones Orly",
-                    "foodPrecio": 2330,
-                    "description": null,
-                    "clasificacion": "marisco"
-                },
-                {
-                    "foodName": "Camarones Empanados",
-                    "foodPrecio": 2330,
-                    "description": null,
-                    "clasificacion": "marisco"
-                },
-                {
-                    "foodName": "Camaron Marnay",
-                    "foodPrecio": 2330,
-                    "description": null,
-                    "clasificacion": "marisco"
-                },
-                {
-                    "foodName": "Langosta Grille",
-                    "foodPrecio": 2030,
-                    "description": null,
-                    "clasificacion": "marisco"
-                },
-                {
-                    "foodName": "Langosta Enchilada",
-                    "foodPrecio": 2030,
-                    "description": null,
-                    "clasificacion": "marisco"
-                },
-                {
-                    "foodName": "Langosta Termidor",
-                    "foodPrecio": 2030,
-                    "description": null,
-                    "clasificacion": "marisco"
-                },
-                {
-                    "foodName": "Langosta Varadero",
-                    "foodPrecio": 2030,
-                    "description": null,
-                    "clasificacion": "marisco"
-                },
-                {
-                    "foodName": "Langosta Marnay",
-                    "foodPrecio": 2030,
-                    "description": null,
-                    "clasificacion": "marisco"
-                }
-            ],
-            "postre":
-            [
-                {
-                    "foodName": "Sundae de Helado",
-                    "foodPrecio": 360
-                },
-                {
-                    "foodName": "Cuña de Capuchino",
-                    "foodPrecio": 780
-                },
-                {
-                    "foodName": "Cake a la Moda",
-                    "foodPrecio": 780
-                },
-                {
-                    "foodName": "Cuña de Tres Leches",
-                    "foodPrecio": 680
-                },
-                {
-                    "foodName": "Suero de Helado",
-                    "foodPrecio": 680
-                },
-                {
-                    "foodName": "Flan",
-                    "foodPrecio": 400
-                },
-                {
-                    "foodName": "Copa Lolita",
-                    "foodPrecio": 600
-                }
-            ],
-            "bebidas":
-            [
-                {
-                    "foodName": "Café Expreso",
-                    "foodPrecio": 100,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Café Cortado",
-                    "foodPrecio": 150,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Café Bombon",
-                    "foodPrecio": 250,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Capuchino",
-                    "foodPrecio": 250,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Agua Natural 500ml",
-                    "foodPrecio": 300,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Agua Gaseada",
-                    "foodPrecio": 600,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Kermato",
-                    "foodPrecio": 550,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Jugo de Lata",
-                    "foodPrecio": 360,
-                    "alcoholica": false,
-                    "importada": true
-                },
-                {
-                    "foodName": "Malta",
-                    "foodPrecio": 320,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Malteada",
-                    "foodPrecio": 650,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Agua Natural",
-                    "foodPrecio": 65,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Refrescos Variados",
-                    "foodPrecio": 300,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Malta Bucanero",
-                    "foodPrecio": 385,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Cerveza Corona",
-                    "foodPrecio": 500,
-                    "alcoholica": true,
-                    "importada": true
-                },
-                {
-                    "foodName": "Cerveza Cristal",
-                    "foodPrecio": 350,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Cerveza Heineken",
-                    "foodPrecio": 395,
-                    "alcoholica": true,
-                    "importada": true
-                },
-                {
-                    "foodName": "Michelada",
-                    "foodPrecio": 350,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Chelada",
-                    "foodPrecio": 250,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Energizantes",
-                    "foodPrecio": 400,
-                    "alcoholica": false,
-                    "importada": true
-                },
-                {
-                    "foodName": "Limonada",
-                    "foodPrecio": 550,
-                    "alcoholica": false,
-                    "importada": false
-                },
-                {
-                    "foodName": "Copa de Vino",
-                    "foodPrecio": 600,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Sangria",
-                    "foodPrecio": 650,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Tinto de Verano",
-                    "foodPrecio": 650,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Caipirisima",
-                    "foodPrecio": 650,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Kaipiroska",
-                    "foodPrecio": 650,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Daiquiri",
-                    "foodPrecio": 650,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Cubanito",
-                    "foodPrecio": 650,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Ron Havana Club 3 Años",
-                    "foodPrecio": 200,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Ron Havana Club Especial",
-                    "foodPrecio": 250,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Ron Havana Club 7 Años",
-                    "foodPrecio": 300,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Ron Havana Club Reserva",
-                    "foodPrecio": 250,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Ginebra Trago",
-                    "foodPrecio": 250,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Barcelo Blanco",
-                    "foodPrecio": 400,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Barcelo Dorado",
-                    "foodPrecio": 450,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Tequila Señor de los Cielos",
-                    "foodPrecio": 500,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Tequila Reposado",
-                    "foodPrecio": 400,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Tequila Olmeca Silver",
-                    "foodPrecio": 400,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Tequila Olmeca Blanco",
-                    "foodPrecio": 400,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Vodka Tragos",
-                    "foodPrecio": 250,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Vodka Absolut",
-                    "foodPrecio": 450,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Ballantines",
-                    "foodPrecio": 400,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Ballantines 12 Años",
-                    "foodPrecio": 700,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Chivas Regal",
-                    "foodPrecio": 700,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Red Label",
-                    "foodPrecio": 600,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Jameson",
-                    "foodPrecio": 500,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Pacto Navio",
-                    "foodPrecio": 600,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Gin Tonic",
-                    "foodPrecio": 650,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Cuba Libre",
-                    "foodPrecio": 650,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Cubata",
-                    "foodPrecio": 650,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Mojito",
-                    "foodPrecio": 650,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Piña Colada",
-                    "foodPrecio": 800,
-                    "alcoholica": true,
-                    "importada": false
-                },
-                {
-                    "foodName": "Piña Colada sin Alcohol",
-                    "foodPrecio": 700,
-                    "alcoholica": false,
-                    "importada": false
-                }
-            ]                        
+        "saturday": {
+            "open": "12:00",
+            "closed": "00:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "closed": "00:00"
         }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                    "stars": 4.1,
+                    "number_of_reviews": 18,
+                    "recurring_themes": [ ["variados"],
+                    {
+                        "for_better_or_worse": "buenas"
+                    }
+                ]
+            },
+            "tripadvisor": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null],
+                    {
+                        "for_better_or_worse": null
+                    }
+                ]
+            },
+            "facebook": {
+                    "stars": 3.0,
+                    "number_of_reviews": 6,
+                    "recurring_themes": [ ["variados"],
+                    {
+                        "for_better_or_worse": "buenas"
+                    }
+                ]
+            },
+            "regularity": true
+        },
+        "establishment_capacity": "grande",
+        "decoration": "caribeña",
+        "festive_decorations": false,
+        "dress_code": "formal",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": ["familias"],
+        "digital_menus": [ false,
+            {
+                "page_or_application_used": null
+            }
+        ],
+        "robotic": false,
+        "concurrent_music": "variada",
+        "energy_backup": true,
+        "other_services": null
+    },
+    "services": {
+        "social_networks": {
+            "web_page": false,
+            "facebook": [ true,
+                {
+                    "url": "https://www.facebook.com/restaurante.tanokura/?locale=es_LA"
+                }
+            ],
+            "instagram": [ true,
+                {
+                    "url": "https://www.instagram.com/restaurant_tanokura/"
+                }
+            ],
+            "whatsapp": "+53 52921541",
+            "X": false,
+            "telegram": false,
+            "Cuban_websites": [ true,
+                {
+                    "url": "https://www.alamesacuba.com/en/la-habana/restaurant/tanokura/"
+                }
+            ],
+            "Threads": false
+        },
+        "child_care": false,
+        "disable_support": false,
+        "wifi": false,
+        "parking":  true,
+        "delivery": false,
+        "reserves": true,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "catering": false,
+        "interactive_activities": false,
+        "sanitary": true,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer":
+            {
+                "transfermovil": true,
+                "enzona": false,
+                "bancaremota": false,
+                "visa": true,
+                "mastercard": true
+            },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": false,
+            "others": false
+        },
+        "10% charge": false
+    },
+    "menu_details": {
+        "kind_of_food": ["variada"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+                "starters": [
+                    {
+                        "coures": [
+                            {
+                                "course_name": "Maripositas Chinas",
+                                "price": 520,
+                                "main_ingredients": ["harina"]
+                            },
+                            {
+                                "course_name": "Frituras de Malanga",
+                                "price": 520,
+                                "main_ingredients": ["vianda"]
+                            },
+                            {
+                                "course_name": "Tostones Rellenos de Jamon y Queso",
+                                "price": 750,
+                                "main_ingredients": ["fruta", "jamon", "queso"]
+                            },
+                            {
+                                "course_name": "Tostones Rellenos de Chorizo y Queso",
+                                "price": 770,
+                                "main_ingredients": ["fruta", "queso", "chorizo"]
+                            },
+                            {
+                                "course_name": "Tostones Rellenos de Ropa Vieja",
+                                "price": 770,
+                                "main_ingredients": ["fruta", "res"]
+                            },
+                            {
+                                "course_name": "Tostones Rellenos de Atun",
+                                "price": 770,
+                                "main_ingredients": ["fruta", "pescado"]
+                            },
+                            {
+                                "course_name": "Tostones Rellenos de Cangrejo",
+                                "price": 770,
+                                "main_ingredients": ["fruta", "marisco"]
+                            },
+                            {
+                                "course_name": "Croquetas de Bechamel de Pollo",
+                                "price": 920,
+                                "main_ingredients": ["harina", "pollo"]
+                            },
+                            {
+                                "course_name": "Croquetas de Bechamel de Pescado",
+                                "price": 920,
+                                "main_ingredients": ["harina", "pescado"]
+                            },
+                            {
+                                "course_name": "Delicias Tanokura",
+                                "price": 2000,
+                                "main_ingredients": ["variados"]
+                            },
+                            {
+                                "course_name": "Garbanzos Fritos",
+                                "price": 1220,
+                                "main_ingredients": ["grano"]
+                            },
+                            {
+                                "course_name": "Eperlan",
+                                "price": 1020,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "course_name": "Fajitas de Cerdo",
+                                "price": 920,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Fajitas de Pollo",
+                                "price": 920,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "course_name": "Coctel de Camaron",
+                                "price": 1020,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Coctel de Langosta",
+                                "price": 1020,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Ensalada Fria de Pollo",
+                                "price": 720,
+                                "main_ingredients": ["pasta", "pollo"]
+                            },
+                            {
+                                "course_name": "Ensalada Fria de Jamon",
+                                "price": 770,
+                                "main_ingredients": ["pasta", "jamon"]
+                            },
+                            {
+                                "course_name": "Ensalada Fria de Atun",
+                                "price": 770,
+                                "main_ingredients": ["pasta", "pescado"]
+                            },
+                            {
+                                "course_name": "Enchilado de Cangrejo con Pan",
+                                "price": 820,
+                                "main_ingredients": ["harina", "marisco"]
+                            },
+                            {
+                                "course_name": "Crema de Queso",
+                                "price": 410,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "course_name": "Crema Aurora",
+                                "price": 360,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "course_name": "Crema Virginia",
+                                "price": 520,
+                                "main_ingredients": ["harina", "queso", "jamon"]
+                            },
+                            {
+                                "course_name": "Crema de Malanga",
+                                "price": 720,
+                                "main_ingredients": ["harina", "vianda"]
+                            },
+                            {
+                                "course_name": "Crema Reina",
+                                "price": 720,
+                                "main_ingredients": ["harina", "variados"]
+                            },
+                            {
+                                "course_name": "Crema de Mariscos",
+                                "price": 720,
+                                "main_ingredients": ["harina", "marisco"]
+                            }
+                        ]
+                    }
+                ],
+                "main_dishes": [
+                    {
+                        "coures": [
+                            {
+                                "course_name": "Arroz Frito",
+                                "price": 1130.00,
+                                "main_ingredients": ["arroz"]
+                            },
+                            {
+                                "course_name": "Arroz Frito con Camaron",
+                                "price": 1630.00,
+                                "main_ingredients": ["arroz", "marisco"]
+                            },
+                            {
+                                "course_name": "Arroz Campesino",
+                                "price": 1630.00,
+                                "main_ingredients": ["variados"]
+                            },
+                            {
+                                "course_name": "Paella Tanokura",
+                                "price": 2530.00,
+                                "main_ingredients": ["arroz", "marisco"]
+                            },
+                            {
+                                "course_name": "Rollo de Pechuga con Jamon, Bacon y Queso",
+                                "price": 2500.00,
+                                "main_ingredients": ["pollo", "jamon", "cerdo", "queso"]
+                            },
+                            {
+                                "course_name": "Churrasco",
+                                "price": 2930.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Pescado Entero Frito",
+                                "price": 2400.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "course_name": "Pechuga Parisien",
+                                "price": 2250.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "course_name": "Pechuga Cardenal",
+                                "price": 2250.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "course_name": "Empanado de Cerdo y Pollo",
+                                "price": 2330.00,
+                                "main_ingredients": ["cerdo", "pollo", "harina"]
+                            },
+                            {
+                                "course_name": "Empanado de Cerdo y Res",
+                                "price": 2430.00,
+                                "main_ingredients": ["cerdo", "res", "harina"]
+                            },
+                            {
+                                "course_name": "Empanado de Pollo y Res",
+                                "price": 2330.00,
+                                "main_ingredients": ["pollo", "res"]
+                            },
+                            {
+                                "course_name": "Bistec Uruguayo Don Gilberto",
+                                "price": 3030.00,
+                                "main_ingredients": ["res", "jamon", "queso"]
+                            },
+                            {
+                                "course_name": "Grillada del Corral",
+                                "price": 2730.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "course_name": "Grillada Mar y Tierra",
+                                "price": 3930.00,
+                                "main_ingredients": ["cerdo", "pescado"]
+                            },
+                            {
+                                "course_name": "Grillada del Mar",
+                                "price": 3830.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "course_name": "Grillada Mediterranea",
+                                "price": 3030.00,
+                                "main_ingredients": ["res", "vegetales"]
+                            },
+                            {
+                                "course_name": "Pollo Grille",
+                                "price": 1380.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "course_name": "Pollo Frito a la Criolla",
+                                "price": 1480.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "course_name": "Suprema de Pollo Grille",
+                                "price": 1330.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "course_name": "Suprema de Pollo Gratinada",
+                                "price": 1530.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "course_name": "Bistec de Pollo Empanado",
+                                "price": 1530.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "course_name": "Cordom Bleu",
+                                "price": 1930.00,
+                                "main_ingredients": ["pollo", "jamon", "queso"]
+                            },
+                            {
+                                "course_name": "Bistec de Pollo Grille Tanokura",
+                                "price": 1730.00,
+                                "main_ingredients": ["pollo", "variados"]
+                            },
+                            {
+                                "course_name": "Bistec de Cerdo Grille",
+                                "price": 1430.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "course_name": "Escalope de Cerdo",
+                                "price": 1630.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Masas Fritas de Cerdo",
+                                "price": 1730.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Fricase de Cerdo",
+                                "price": 1730.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Bistec de Cerdo Grille Tanokura",
+                                "price": 1930.00,
+                                "main_ingredients": ["cerdo", "variados"]
+                            },
+                            {
+                                "course_name": "Bistec Uruguayo de Cerdo",
+                                "price": 2180.00,
+                                "main_ingredients": ["cerdo", "jamon", "queso"]
+                            },
+                            {
+                                "course_name": "Bistec Uruguayo de Cerdo Tanokura",
+                                "price": 2430.00,
+                                "main_ingredients": ["cerdo", "jamon", "queso", "variados"]
+                            },
+                            {
+                                "course_name": "Lomo Ahumado de Cerdo sin Hueso",
+                                "price": 1850.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Chuletas de Cerdo",
+                                "price": 2100.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Lomo Ahumado de Cerdo con Hueso",
+                                "price": 1880.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Costillas de Cerdo Natural",
+                                "price": 2900.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Costillas de Cerdo Ahumadas",
+                                "price": 1830.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Estofado de Cordero",
+                                "price": 2500.00,
+                                "main_ingredients": ["cordero"]
+                            },
+                            {
+                                "course_name": "Chilindrón de Cordero",
+                                "price": 2500.00,
+                                "main_ingredients": ["cordero"]
+                            },
+                            {
+                                "course_name": "Ropa Vieja de Cordero",
+                                "price": 2500.00,
+                                "main_ingredients": ["cordero"]
+                            },
+                            {
+                                "course_name": "Estofado de Conejo",
+                                "price": 2000.00,
+                                "main_ingredients": ["conejo"]
+                            },
+                            {
+                                "course_name": "Fricase de Conejo",
+                                "price": 2500.00,
+                                "main_ingredients": ["cordero"]
+                            },
+                            {
+                                "course_name": "Ropa Vieja de Res",
+                                "price": 1630.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Vaca Frita",
+                                "price": 1630.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Filete Migñon",
+                                "price": 3530.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Filete a la Deutch",
+                                "price": 3030.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Solomillo de Res Encebollado",
+                                "price": 3230.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Uruguayo Solomillo Res",
+                                "price": 4030.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Uruguayo Solomillo Res TNK",
+                                "price": 4330.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Bistec Grille de Res",
+                                "price": 1500.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Bistec Uruguayo de Res",
+                                "price": 2330.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Uruguayo de Res TNK",
+                                "price": 2330.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Bistec Grille de Res TNK",
+                                "price": 2030.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Bistec de Riñonada",
+                                "price": 1830.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Bistec Uruguayo de Riñonada de Res",
+                                "price": 2130.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Bistec Uruguayo de Riñonada de Res TNK",
+                                "price": 2330.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Bistec Grille de Riñonada de Res TNK",
+                                "price": 2030.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "course_name": "Brochetas de Cerdo",
+                                "price": 1760.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Brochetas de Langosta",
+                                "price": 2060.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Chuletas de Cerdo a la Brasa",
+                                "price": 2100.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Costilla Natural a la Brasa",
+                                "price": 2900.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Costilla Ahumada a la Brasa",
+                                "price": 1860.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Mixto de Chorizo Parrillero",
+                                "price": 1430.00,
+                                "main_ingredients": ["chorizo"]
+                            },
+                            {
+                                "course_name": "Lomo Ahumado sin Hueso a la Brasa",
+                                "price": 1930.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Bistec de Cerdo a la Brasa",
+                                "price": 1460.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "course_name": "Suprema de Pollo a la Brasa",
+                                "price": 1460.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "course_name": "Pollo Grille a la Brasa",
+                                "price": 1400.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "course_name": "Langosta Mariposa a la Brasa",
+                                "price": 2060.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Filete de Pescado Grille",
+                                "price": 1980.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "course_name": "Filete de Pescado Empanado",
+                                "price": 2380.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "course_name": "Filete de Pescado a la Muselina",
+                                "price": 2430.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "course_name": "Filete de Pescado Grille Gratinado",
+                                "price": 2230.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "course_name": "Filete de Pescado Don Pedro",
+                                "price": 2930.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "course_name": "Filete Canciller",
+                                "price": 2780.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "course_name": "Filete de Pescado Joinville",
+                                "price": 3030.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "course_name": "Filete de Pescado Relleno",
+                                "price": 2780.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "course_name": "Camarones Grille",
+                                "price": 2030.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Camarones al Ajillo",
+                                "price": 2030.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Enchilado de Camarones",
+                                "price": 2030.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Camarones Orly",
+                                "price": 2330.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Camarones Empanados",
+                                "price": 2330.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Camaron Marnay",
+                                "price": 2330.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Langosta Grille",
+                                "price": 2030.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Langosta Enchilada",
+                                "price": 2030.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Langosta Termidor",
+                                "price": 2030.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Langosta Varadero",
+                                "price": 2030.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "course_name": "Langosta Marnay",
+                                "price": 2030.00,
+                                "main_ingredients": ["marisco"]
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "coures": [
+                            {
+                                "course_name": "Spaguetis Alfredo",
+                                "price": 2400.00,
+                                "main_ingredients": ["pasta", "harina", "leche"]
+                            },
+                            {
+                                "course_name": "Spaguetis Carbonara",
+                                "price": 2600.00, 
+                                "main_ingredients": ["pasta", "cerdo", "huevo"]
+                            },
+                            {
+                                "course_name": "Spaguetis Napolitanos con Queso",
+                                "price": 930.00, 
+                                "main_ingredients": ["pasta", "queso"]
+                            },
+                            {
+                                "course_name": "Lasaña Tanokura",
+                                "price": 1230.00, 
+                                "main_ingredients": ["pasta", "variados"]
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "coures": [
+                            {
+                                "course_name": "Pizza de Queso",
+                                "price": 1430.00,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "course_name": "Pizza Tanokura",
+                                "price": 2680.00,
+                                "main_ingredients": ["harina", "queso", "variados"]
+                            },
+                            {
+                                "course_name": "Pizza de Peperoni",
+                                "price": 1830.00,
+                                "main_ingredients": ["harina", "queso", "cerdo"]
+                            }
+                        ]
+                    }
+                ],
+                "rations": [
+                    {
+                        "name": "Ensalada Estacion",
+                        "price": 600
+                    },
+                    {
+                        "name": "Ensalada de Vegetales con Pollo",
+                        "price": 720
+                    },
+                    {
+                        "name": "Papas Fritas",
+                        "price": 490
+                    },
+                    {
+                        "name": "Mariquitas de Platano",
+                        "price": 300
+                    },
+                    {
+                        "name": "Mariquitas de Malanga",
+                        "price": 300
+                    },
+                    {
+                        "name": "Tostones",
+                        "price": 300
+                    },
+                    {
+                        "name": "Boniato Frito",
+                        "price": 300
+                    },
+                    {
+                        "name": "Malanga con Mojo",
+                        "price": 520
+                    },
+                    {
+                        "name": "Yuca con Mojo",
+                        "price": 300
+                    },
+                    {
+                        "name": "Plátano Maduro Frito",
+                        "price": 300
+                    },
+                    {
+                        "name": "Arroz Blanco",
+                        "price": 270
+                    },
+                    {
+                        "name": "Arroz Moro",
+                        "price": 320
+                    },
+                    {
+                        "name": "Arroz Pilaf",
+                        "price": 470
+                    }
+                ],
+                "desserts": [
+                    {
+                        "coures": [
+                            {
+                                "course_name": "Sundae de Helado",
+                                "price": 360.00,
+                                "main_ingredients": ["helado"]
+                            },
+                            {
+                                "course_name": "Cuña de Capuchino",
+                                "price": 780.00,
+                                "main_ingredients": ["harina"]
+                            },
+                            {
+                                "course_name": "Cake a la Moda",
+                                "price": 780.00,
+                                "main_ingredients": ["harina", "variados"]
+                            },
+                            {
+                                "course_name": "Cuña de Tres Leches",
+                                "price": 680.00,
+                                "main_ingredients": ["harina", "leche"]
+                            },
+                            {
+                                "course_name": "Suero de Helado",
+                                "price": 680.00,
+                                "main_ingredients": ["helado", "leche"]
+                            },
+                            {
+                                "course_name": "Flan",
+                                "price": 400.00,
+                                "main_ingredients": ["huevo", "leche"]
+                            },
+                            {
+                                "course_name": "Copa Lolita",
+                                "price": 600.00,
+                                "main_ingredients": ["helado", "huevo", "leche"]
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "cocktails": [
+                                    {
+                                        "name": "Michelada",
+                                        "price": 350
+                                    },
+                                    {
+                                        "name": "Chelada",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "Sangria",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Caipirisima",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Caipiroska",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Daiquiri",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Cubanito",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Sangria",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Gin Tonic",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Cuba Libre",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Cubata",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Mojito",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Piña Colada",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "Piña Colada sin Alcohol",
+                                        "price": 700
+                                    }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "Cerveza Corona",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Cerveza Cristal",
+                                        "price": 350
+                                    },
+                                    {
+                                        "name": "Cerveza Heineken",
+                                        "price": 395
+                                    }
+                                ],
+                                "wine_glass": [
+                                    {
+                                        "name": "Copa de Vino",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Tinto de Verano",
+                                        "price": 650
+                                    }
+                                ],
+                                "shots": [
+                                    {
+                                        "name": "Ron Havana Club 3 Años",
+                                        "price": 200
+                                    },
+                                    {
+                                        "name": "Ron Havana Club Especial",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "Ron Havana Club 7 Años",
+                                        "price": 300
+                                    },
+                                    {
+                                        "name": "Ron Havana Club Reserva",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "Ginebra",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "Barcelo Blanco",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Barcelo Dorado",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "Tequila Señor de los Cielos",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Tequila Reposado",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Tequila Olmeca Silver",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Tequila Olmeca Blanco",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Vodka",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "Vodka Absolut",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "Ballantines",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Ballantines 12 Años",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Chivas Regal",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Red Label",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Jameson",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Pacto Navio",
+                                        "price": 600
+                                    }
+                                ]
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "Cafe Expreso",
+                                "price": 100
+                            },
+                            {
+                                "name": "Cafe Cortado",
+                                "price": 150
+                            },
+                            {
+                                "name": "Cafe Bombon",
+                                "price": 250
+                            },
+                            {
+                                "name": "Capuchino",
+                                "price": 250
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua Natural 500ml",
+                                "price": 300
+                            },
+                            {
+                                "name": "Agua Gaseada",
+                                "price": 600
+                            },
+                            {
+                                "name": "Agua Natural",
+                                "price": 65
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Kermato",
+                                "price": 550
+                            },
+                            {
+                                "name": "Malta",
+                                "price": 320
+                            },
+                            {
+                                "name": "Malteada",
+                                "price": 550
+                            },
+                            {
+                                "name": "Refrescos Variados",
+                                "price": 300
+                            },
+                            {
+                                "name": "Malta Bucanero",
+                                "price": 385
+                            },
+                            {
+                                "name": "Energizantes",
+                                "price": 400
+                            }
+                        ],
+                        "natural_juices": [
+                            {
+                                "name": "Jugo de Lata",
+                                "price": 360
+                            },
+                            {
+                                "name": "Limonada",
+                                "price": 550
+                            }
+                        ]
+                    }
+                ]
+            }
+        }    
     }
 }

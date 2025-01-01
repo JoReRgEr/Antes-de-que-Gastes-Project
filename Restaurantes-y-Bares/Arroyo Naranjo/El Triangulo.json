@@ -183,28 +183,32 @@
                 ],
                 "liquids": [
                     {
+                        "alcoholic_beverages": [
+                            {
+                                "beers": [
+                                    {
+                                        "name": "Cerveza Cristal",
+                                        "price": 250.00
+                                    },
+                                    {
+                                        "name": "Cerveza Bucanero",
+                                        "price": 250.00
+                                    },
+                                    {
+                                        "name": "Cerveza Escorial",
+                                        "price": 200.00
+                                    },
+                                    {
+                                        "name": "Cerveza Holanda",
+                                        "price": 200.00
+                                    }
+                                ]
+                            }
+                        ],
                         "water": [
                             {
                                 "name": "agua",
                                 "price": 120.00
-                            }
-                        ],
-                        "beers": [
-                            {
-                                "name": "Cerveza Cristal",
-                                "price": 250.00
-                            },
-                            {
-                                "name": "Cerveza Bucanero",
-                                "price": 250.00
-                            },
-                            {
-                                "name": "Cerveza Escorial",
-                                "price": 200.00
-                            },
-                            {
-                                "name": "Cerveza Holanda",
-                                "price": 200.00
                             }
                         ],
                         "soft_drinks": [

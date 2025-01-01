@@ -616,6 +616,28 @@
                                         "name": "Sangria",
                                         "price": 550
                                     }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "Cerveza Cristal",
+                                        "price": 300.00
+                                    },
+                                    {
+                                        "name": "Cerveza Cristal botella",
+                                        "price": 300.00
+                                    },
+                                    {
+                                        "name": "Cerveza Corono botella",
+                                        "price": 380.00
+                                    },
+                                    {
+                                        "name": "Cerveza Sol",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "Cerveza Bucanero Botella",
+                                        "price": 300.00
+                                    }
                                 ]
                             }
                         ],
@@ -623,28 +645,6 @@
                             {
                                 "name": "Agua Natural Nacional",
                                 "price": 180.00
-                            }
-                        ],
-                        "beers": [
-                            {
-                                "name": "Cerveza Cristal",
-                                "price": 300.00
-                            },
-                            {
-                                "name": "Cerveza Cristal botella",
-                                "price": 300.00
-                            },
-                            {
-                                "name": "Cerveza Corono botella",
-                                "price": 380.00
-                            },
-                            {
-                                "name": "Cerveza Sol",
-                                "price": 350.00
-                            },
-                            {
-                                "name": "Cerveza Bucanero Botella",
-                                "price": 300.00
                             }
                         ],
                         "soft_drinks": [
