@@ -150,7 +150,7 @@
             "menu_sections": {
                 "starters": [
                     {
-                        "coures": [
+                        "courses": [
                             {
                                 "course_name": "Maripositas Chinas",
                                 "price": 520,
@@ -286,7 +286,7 @@
                 ],
                 "main_dishes": [
                     {
-                        "coures": [
+                        "courses": [
                             {
                                 "course_name": "Arroz Frito",
                                 "price": 1130.00,
@@ -595,7 +595,7 @@
                             {
                                 "course_name": "Mixto de Chorizo Parrillero",
                                 "price": 1430.00,
-                                "main_ingredients": ["chorizo"]
+                                "main_ingredients": ["embutido"]
                             },
                             {
                                 "course_name": "Lomo Ahumado sin Hueso a la Brasa",
@@ -722,7 +722,7 @@
                 ],
                 "pastas": [
                     {
-                        "coures": [
+                        "courses": [
                             {
                                 "course_name": "Spaguetis Alfredo",
                                 "price": 2400.00,
@@ -748,7 +748,7 @@
                 ],
                 "pizzas": [
                     {
-                        "coures": [
+                        "courses": [
                             {
                                 "course_name": "Pizza de Queso",
                                 "price": 1430.00,
@@ -823,7 +823,7 @@
                 ],
                 "desserts": [
                     {
-                        "coures": [
+                        "courses": [
                             {
                                 "course_name": "Sundae de Helado",
                                 "price": 360.00,

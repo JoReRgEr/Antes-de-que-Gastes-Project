@@ -146,7 +146,7 @@
             "menu_sections": {
                 "starters": [
                     {
-                        "coures": [
+                        "courses": [
                             {
                                 "course_name": "Picadera mixta",
                                 "price": 1600,
@@ -157,7 +157,7 @@
                 ],
                 "main_dishes": [
                     {
-                        "coures": [
+                        "courses": [
                             {
                                 "course_name": "Arroz Frito",
                                 "price": 700.00,
@@ -228,7 +228,7 @@
                 ],
                 "pizzas": [
                     {
-                        "coures": [
+                        "courses": [
                             {
                                 "course_name": "Pizza Napolitana",
                                 "price": 600,
