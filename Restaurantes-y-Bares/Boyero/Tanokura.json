@@ -290,7 +290,7 @@
                             {
                                 "course_name": "Arroz Frito",
                                 "price": 1130.00,
-                                "main_ingredients": ["arroz"]
+                                "main_ingredients": ["cereal"]
                             },
                             {
                                 "course_name": "Arroz Frito con Camaron",
@@ -922,6 +922,10 @@
                                     {
                                         "name": "Piña Colada sin Alcohol",
                                         "price": 700
+                                    },
+                                    {
+                                        "name": "Tinto de Verano",
+                                        "price": 650
                                     }
                                 ],
                                 "beers": [
@@ -942,10 +946,6 @@
                                     {
                                         "name": "Copa de Vino",
                                         "price": 600
-                                    },
-                                    {
-                                        "name": "Tinto de Verano",
-                                        "price": 650
                                     }
                                 ],
                                 "shots": [

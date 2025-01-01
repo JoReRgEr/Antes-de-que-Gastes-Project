@@ -205,12 +205,12 @@
                             {
                                 "course_name": "arroz frito",
                                 "price": 1200.00,
-                                "main_ingredients": ["arroz"]
+                                "main_ingredients": ["cereal"]
                             },
                             {
                                 "course_name": "arroz frito especial",
                                 "price": 1400.00,
-                                "main_ingredients": ["arroz"]
+                                "main_ingredients": ["cereal"]
                             },
                             {
                                 "course_name": "paella valenciana",
@@ -225,7 +225,7 @@
                             {
                                 "course_name": "arroz con pollo a la chorrera",
                                 "price": 1500.00,
-                                "main_ingredients": ["arroz"]
+                                "main_ingredients": ["cereal"]
                             },
                             {
                                 "course_name": "bistec de cerdo grillé",
