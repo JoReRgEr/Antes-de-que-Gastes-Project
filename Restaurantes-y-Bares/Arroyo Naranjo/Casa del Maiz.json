@@ -102,8 +102,6 @@
       "transfer":
           {
               "transfermovil": true,
-              "enzona": false,
-              "bancaremota": false,
               "visa": false,
               "mastercard": false
           },

@@ -103,10 +103,8 @@
         "transfer":
             {
                 "transfermovil": true,
-                "enzona": false,
-                "bancaremota": false,
-                "visa": false,
-                "mastercard": false
+                "visa": true,
+                "mastercard": true
             },
         "currency": {
             "cup": true,
