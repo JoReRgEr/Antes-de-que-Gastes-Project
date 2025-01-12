@@ -1,0 +1,196 @@
+{
+    "ID": 708,
+    "locality": {
+        "mun": "Guanabacoa",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "plus_code": "3Q5F+6C6, La Habana"
+        }
+    },
+    "name": "El Pellizco",
+    "type_cuisine": ["criolla"],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "24:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "24:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "24:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "24:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "24:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "24:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "24:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.6,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": ["Instagram"],
+    "payment_options": ["Transfermóvil" , "Efectivo"],
+    "service_details": [null],
+    "menu": {
+        "breakfasts": [null],
+        "starters": [
+            {
+                "item": "Ración de Chicharrón",
+                "price": 150.00,
+                "description": null
+            },
+            {
+                "item": "Ración de Empella",
+                "price": 100.00,
+                "description": null
+            },
+            {
+                "item": "Caldoza de la Casa",
+                "price": 250.00,
+                "description": null
+            },
+            {
+                "item": "Ración de Tostones",
+                "price": 80.00,
+                "description": null
+            },
+            {
+                "item": "Ración de Mariquitas",
+                "price": 80.00,
+                "description": null
+            },
+            {
+                "item": "Plátano maduro frito",
+                "price": 80.00,
+                "description": null
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "Bistec de Hígado",
+                "price": 400.00,
+                "description": null
+            },
+            {
+                "item": "Hígado a la Italiana",
+                "price": 450.00,
+                "description": null
+            },
+            {
+                "item": "Bistec de Cerdo",
+                "price": 600.00,
+                "description": null
+            },
+            {
+                "item": "Masa de Cerdo",
+                "price": 650.00,
+                "description": null
+            },
+            {
+                "item": "Chuleta de Cerdo",
+                "price": 650.00,
+                "description": null
+            },
+            {
+                "item": "Lomo Ahumado",
+                "price": 650.00,
+                "description": null
+            },
+            {
+                "item": "Lonjas de Cerdo Asada",
+                "price": 600.00,
+                "description": null
+            },
+            {
+                "item": "Pollo Asado",
+                "price": 450.00,
+                "description": null
+            },
+            {
+                "item": "Costilla Asada",
+                "price": 650.00,
+                "description": null
+            },
+            {
+                "item": "Ropa Vieja de Cerdo",
+                "price": 650.00,
+                "description": null
+            },
+            {
+                "item": "Fricase de Costilla",
+                "price": 650.00,
+                "description": null
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "Pizza Napolitana",
+                "price": 200.00,
+                "description": null
+            }
+        ],
+        "pasta": [null],
+        "desserts": [null]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "Cerveza Nacional",
+                "price": 220.00,
+                "description": null
+            },
+            {
+                "item": "Cerveza Importada",
+                "price": 220.00,
+                "description": null
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "Jugo de Caja",
+                "price": 150.00,
+                "description": null
+            },
+            {
+                "item": "Jugo de Botella",
+                "price": 120.00,
+                "description": null
+            },
+            {
+                "item": "Malta",
+                "price": 150.00,
+                "description": null
+            },
+            {
+                "item": "Agua Natural",
+                "price": 100.00,
+                "description": null
+            },
+            {
+                "item": "Energizante",
+                "price": 220.00,
+                "description": null
+            }
+        ]
+    }
+}

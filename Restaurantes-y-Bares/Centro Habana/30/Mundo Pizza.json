@@ -1,0 +1,216 @@
+{
+    "type_of_establishment": "restaurante",
+    "place_name": "Mundo Pizza",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.13771148492377, 
+        "longitude": -82.36400171839173
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "53372715",
+        "facebook": "Mundo Pizza",
+        "instagram": "@mundopizza_habana"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2200"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": "italiana",
+    "services": {
+        "plant": null,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu_details": {
+        "kind_of_food": ["italiana", "criolla"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+                "starters": [
+                    {
+                        "courses": [
+                            { 
+                                "name": "croquetas caseras", 
+                                "price": 590,
+                                "main_ingredients": ["harina", "variados"] 
+                            },
+                            { 
+                                "name": "tostones criollos", 
+                                "price": 540,
+                                "main_ingredients": ["fruta"] 
+                            },
+                            { 
+                                "name": "focaccia", 
+                                "price": 560,
+                                "main_ingredients": ["harina", "variados"] 
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "courses": [
+                            { 
+                                "name": "pizza metro criolla", 
+                                "price": 2800,
+                                "main_ingredients": ["harina", "queso", "cerdo"] 
+                            },
+                            {     
+                                "name": "pizza metro casa", 
+                                "price": 3700,
+                                "main_ingredients": ["harina", "queso"] 
+                            },
+                            { 
+                                "name": "pizza metro gouda", 
+                                "price": 5100,
+                                "main_ingredients": ["harina", "queso"] 
+                            },
+                            { 
+                                "name": "pizza metro elección", 
+                                "price": 5150,
+                                "main_ingredients": ["harina", "queso", "variados"] 
+                            },
+                            { 
+                                "name": "pizza 1/2 metro mix", 
+                                "price": 2500,
+                                "main_ingredients": ["harina", "queso", "variados"] 
+                            },
+                            { 
+                                "name": "pizza 1/2 metro elección", 
+                                "price": 2700,
+                                "main_ingredients": ["harina", "queso", "variados"] 
+                            },
+                            { 
+                                "name": "pizza rossa", 
+                                "price": 590,
+                                "main_ingredients": ["harina", "queso"] 
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "spaghetti",
+                                "price": 950,
+                                "main_ingredients": ["pasta", "queso"]
+                            },
+                            {
+                                "name": "lasaña",
+                                "price": 1250,
+                                "main_ingredients": ["pasta", "queso"]
+                            },
+                            {
+                                "name": "spaghetti al pesto",
+                                "price": 1050,
+                                "main_ingredients": ["pasta", "queso", "vegetales"]
+                            },
+                            {
+                                "name": "spaghetti del dia",
+                                "price": 1600,
+                                "main_ingredients": ["pasta", "queso", "vegetales"]
+                            }
+                        ]
+                    }
+                ],
+                "desserts": [
+                    {
+                        "courses": [
+                            { 
+                                "name": "postre del dia", 
+                                "price": 650,
+                                "main_ingredients": ["variados"]
+                            },
+                            { 
+                                "name": "pizza a chocolate", 
+                                "price": 815,
+                                "main_ingredients": ["harina"] 
+                            },
+                            { 
+                                "name": "helado 3 gracias", 
+                                "price": 500,
+                                "main_ingredients": ["helado"] 
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "beers": [
+                                    { 
+                                        "name": "cerveza", 
+                                        "price": 300 
+                                    }
+                                ]
+                            }
+                        ],
+                        "soft_drinks": [
+                            { 
+                                "name": "refresco", 
+                                "price": 250 
+                            },
+                            { 
+                                "name": "energizante", 
+                                "price": 390 
+                            },
+                            { 
+                                "name": "malta", 
+                                "price": 300 
+                            }
+                        ],
+                        "natual_juices": [
+                            { 
+                                "name": "jugo cajita", 
+                                "price": 250 
+                            }
+                        ]
+                    }
+                ]
+            }
+        }    
+    }
+}

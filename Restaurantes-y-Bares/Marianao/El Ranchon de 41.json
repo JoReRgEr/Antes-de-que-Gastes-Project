@@ -1,0 +1,151 @@
+{
+    "Name": "Ranchon de 41",
+    "Type": "Restaurante",
+    "Phone_Number": "52014975",
+    "Web_Page": [null],
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["24h"],
+        "Tuesday":  ["24h"],
+        "Wendsday": ["24h"],
+        "Thursday": ["24h"],
+        "Friday":   ["24h"],
+        "Saturday": ["24h"],
+        "Sunday":   ["24h"]
+    },
+    "Location": {
+        "District": "Marianao",
+        "Address": "Avenida 41 y 84",
+        "Coordinates": "3HQH+R9"
+    },
+    "Cuisine": "Variada",
+    
+    "menu_details": {
+        "kind_of_food": ["panes", "criolla", "italiana"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "name": "Croquetas de l casa",
+                  "price": 400
+              },
+              {
+                  "name": "Coctel de camaon",
+                  "price": 650
+              },
+              {
+                  "name": "Picadera el tor bravo",
+                  "price": 1700
+              }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name": "Pollo chiflado",
+                      "price": 1200
+                  },
+                  {
+                      "name": "Fajitas de polo",
+                      "price": 750
+                  }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {
+                      "name": "pizza de quesoblanco",
+                      "price": 400
+                  },
+                  {
+                      "name": "pizza de quesogouda",
+                      "price": 680
+                  }
+                  ]
+                }
+              ],
+              "pizzas": [
+                  {
+                    "courses": [
+                      {
+                        "name": "Pizza Margarita 5.1 ",
+                        "price": 1930
+                    },
+                    {
+                        "name": "Pizza de Jamón",
+                        "price": 2115
+                    },
+                    {
+                        "name": "Pizza hawaiana",
+                        "price": 2215
+                    },
+                    {
+                        "name": "Pizza de Bacon, Pepperoni y Jamón Serrano",
+                        "price": 2845
+                    },
+                    {
+                        "name": "Pizza Campesina",
+                        "price": 2645
+                    },
+                    {
+                        "name": "Pizza Marinera",
+                        "price": 3020
+                    }
+                    ]
+                  }
+              ],
+              "additions": [
+                {
+                  "name": "Queso",
+                  "price": 200
+              },
+              {
+                  "name": "Jamon",
+                  "price": 150
+              },
+              {
+                  "name": "Chorizo",
+                  "price": 150
+              },
+              {
+                  "name": "Cebolla",
+                  "price": 150
+              },
+              {
+                  "name": "Piña",
+                  "price": 150
+              },
+              {
+                  "name": "Aceituna",
+                  "price": 200
+              },
+              {
+                  "name": "Queso gouda",
+                  "price": 500
+              },
+              {
+                  "name": "atun",
+                  "price": 300
+              }
+              ]
+            }
+        }    
+    },
+    "Other Info": {
+        "Entertainment": ["Musica grabada"],
+        "Facilities": [null],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "Si",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

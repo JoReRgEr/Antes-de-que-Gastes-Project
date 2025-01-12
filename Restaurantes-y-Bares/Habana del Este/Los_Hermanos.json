@@ -1,0 +1,165 @@
+{
+    "Restaurants":{
+        "Restaurante_Los_Hermanos":{
+            "Province": "La Habana",
+            "Municipality": "La Habana del Este",
+            "Location": "478, La Habana",
+            "Stars":{
+                "Social network": "Google",
+                "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Restaurante%2BLos%2Bhermanos/%4023.1687562,-82.1394682,15z/data%3D!4m2!3m1!1s0x0:0x7d473d4da7d4b894%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjJoOHv4oyKAxVkmYQIHU4dBF4Q_BJ6BAg7EAk&usg=AOvVaw3MzpRZZC18gUjC9OOsTCiV",
+                "total": 5.0,
+                "date": "20241202"
+            },
+            "Schedules": "Apertura 9:00am y Cierre 12:00pm",
+            "Days of the week": "Todos",
+            "Type of food or specialty": "Criolla",
+            "Most popular food": "Bistec de Cerdo",
+            "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "Infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "Efectivo y transferencia"
+        },
+            "Capacity": 50,
+            "Menu and price": {
+                "Entrepanes": {
+                    "Sandwich de Jamon y Queso": "1200",
+                    "Pan con Lechon": "900"
+            },
+                "Starters": {
+                    "Toston Relleno de Jamon y Queso": "950",
+                    "Fritura de Malanga": "900",
+                    "Eperlan de Pescado": "1200",
+                    "Ceviche de Pescado": "1500",
+                    "Coctel de Camaron": "2000",
+                    "Tabla de Jamon Serrano": "2700",
+                    "Fajitas de Pollo": "1100"
+            },
+                "Pizzas": {
+                    "Napole": "1250",
+                    "Con Jamon": "1500",
+                    "Hawaiana": "1600",
+                    "Con Chorizo": "1750",
+                    "Con Atun y Cebolla": "1750",
+                    "Con Langosta": "1800",
+                    "Con Camaron": "1800"
+            },
+                "Additions": {
+                    "Cebolla": "250",
+                    "Queso": "600",
+                    "Jamon Cocido": "350",
+                    "Jamon Serrano": "950",
+                    "Chorizo": "600",
+                    "Piña": "200",
+                    "Camaron": "850"
+            },
+                "Pasta": {
+                    "Napoles": "1250",
+                    "Con Jamon": "1500",
+                    "Con Atun": "1750",
+                    "Con Camarones": "1900",
+                    "Con Langosta": "2000",
+                    "Lasaña": "1300"
+            },
+            "Pork":{
+                "Bistec Uruguayo": "3000",
+                "Lonjas de Cerdo Asado al Carbon": "1900",
+                "Costillas de Cerdo a la Brasa en Aroma de Carbon": "3000",
+                "Bistec de Cerdo Encebollado": "1700",
+                "Lomo Ahumado": "1700",
+                "Tacos de Cerdo Asado": "1500",
+                "Tacos de Fajita de Cerdo": "1500",
+                "Tacos de Fajitas de Pollo": "1400",
+                "Tacos de Langosta": "2000",
+                "Tacos de Camaron": "1900",
+                "Pollo Grille": "1600",
+                "Filete Canciller": "3000",
+                "Filete de Pescado Grille": "1900",
+                "Camarones Grille": "2000",
+                "Enchilado de Camarones": "2300",
+                "Langosta Grille": "2500",
+                "Enchilado de Langosta": "2600",
+                "Langosta Varadero": "2800",
+                "Pescado Frito Entero": "2500"
+            },
+            "Mexican Tacos(4 lot)": {
+                "Tacos de Cerdo Asado": "2000",
+                "Tacos de Fajita de Cerdo": "2000",
+                "Tacos de Langosta": "2100",
+                "Tacos de Camaron": "2100"
+            },
+            "Chef's Suggestions":{
+                "Arroz Frito": "1500",
+                "Arroz Frito Especial": "1900",
+                "Grillada Los Hermanos": "3000",
+                "Mariscada Los Hermanos": "3500"
+            },
+            "Dessert":{
+                "Copa de Helado": "600",
+                "Flan": "700",
+                "Copa Lolita": "800",
+                "Mermelada de Mango con Queso": "600"
+            },
+            "Drinks":{
+                "Agua de 500ml": "200",
+                "Jugo Natural de Frutas": "400",
+                "Jugo de Frutas(Cajita)": "300",
+                "Malta Importada": "350",
+                "Malta Nacional": "400",
+                "Bebidas Energizantes": "400",
+                "Refrescos Importados": "350",
+                "Cervezas Nacionales": {
+                    "Cristal(Lata)": "400",
+                    "Cristal(Botella)": "450",
+                    "Bucanero": "400"
+                },
+                "Cerveza Importada":{
+                    "Colonia": "250"
+                },
+                "Havana Club 3 Años": "370",
+                "Havana Club Añejo Especial": "480",
+                "Añejo Reserva": "500",
+                "Havana Club 7 Años": "500",
+                "Whisky Ballantine": "800",
+                "Whisky Johnnie Walker Red Lavel": "800",
+                "Whisky Johnnie Walker Swing": "1000",
+                "Whisky Chivas Regal 12": "900",
+                "Tequila Blanco": "800",
+                "Tequila Reposado": "900",
+                "Jagermeifter": "600",
+                "Crema Baileys": "600",
+                "Aguardiente": "400",
+                "Vodka Absolute": "700",
+                "Ginebra Ginmaster": "700",
+                "Cocteles": {
+                    "Mojito": "800",
+                    "Mojito de Fruta": "1000",
+                    "Ginc Tonic": "1500",
+                    "Cuba Libre": "900",
+                    "Cubata": "1000",
+                    "Daiquiri": "850",
+                    "Piña Colada/...con Ron": "850/950",
+                    "Sangria": "900",
+                    "Sangria Tinto Verano": "950",
+                    "Caipirinha/...Caipiroshka": "1000",
+                    "Canchanchara": "800",
+                    "Canchanchara 7 Años": "1000",
+                    "Margarita": "950",
+                    "Tekila Sunrise": "950",
+                    "Agrego de Michelada": "350",
+                    "Agrego de Chelada": "250"
+                },
+                "Copa de vino Tinto": "700",
+                "Copa de Vino Blanco": "700",
+                "Batido de Helado": "950",
+                "Malteada": "950",
+                "Limonada Frappe": "700",
+                "Limonada Frescura": "800"
+            }
+        }
+    }
+}
+}

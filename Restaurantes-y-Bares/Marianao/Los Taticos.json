@@ -1,0 +1,169 @@
+{
+    "Name": "Los taticos",
+    "Type": "Restaurante",
+    "Phone_Number": [null],
+    "Web_Page": [null],
+    "Ownership": "Particular",
+    "Operating_Hours": {
+        "Monday":   ["08:00-00:00"],
+        "Tuesday":  ["08:00-00:00"],
+        "Wendsday": ["08:00-00:00"],
+        "Thursday": ["08:00-00:00"],
+        "Friday":   ["08:00-00:00"],
+        "Saturday": ["08:00-00:00"],
+        "Sunday":   ["08:00-00:00"]
+    },
+    "Location": {
+        "District": "Marianao",
+        "Address": "27 y 27A",
+        "Coordinates": "3HM7+JJC"
+    },
+    "Cuisine": "Variada",
+    
+    "menu_details": {
+        "kind_of_food": ["panes", "criolla", "italiana", "mexicana"],
+        "menu_card": {
+            "menu_sections": {
+              "breads": [
+                    {
+                      "name": "Sandwich Tatico",
+                      "price": 650
+                    },
+                    {
+                      "name": "Bocadito de atun",
+                      "price": 600
+                    },
+                    {
+                      "name": "Pan con lechon",
+                      "price": 650
+                    },
+                    {
+                      "name": "Pan con croqueta",
+                      "price": 240
+                    },
+                  {
+                    "name": "Super Hamburguesa Tatico",
+                    "price": 900
+                  },
+                  {
+                    "name": "Hamburguesa Tatico",
+                    "price": 750
+                  },
+                  {
+                    "name": "Super hamburguesa queso",
+                    "price": 800
+                  },
+                  {
+                    "name": "Hamburguesa queso",
+                    "price": 650
+                  },
+                  {
+                    "name": "Super hamburguesa sencilla",
+                    "price": 700
+                  },
+                  {
+                    "name": "Hamburguesa sencilla",
+                    "price": 600
+                  }
+              ],
+              "tacos": [
+                {
+                  "courses": [
+                     {
+                      "name": "Taco de cerdo",
+                      "price": 650
+                     },
+                     {
+                      "name": "Pollo al carbon",
+                      "price": 1200
+                     },
+                     {
+                      "name": "Taco de carne",
+                      "price": 800
+                     },
+                     {
+                      "name": "Taco de atun",
+                      "price": 800
+                     }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {
+                      "name": "Lasagña",
+                      "price": 1250
+                  }
+                  ]
+                }
+              ],
+              "pizzas": [
+                  {
+                    "courses": [
+                  {"name": "Pizza mixta",
+                    "price": 680
+                  },
+                  {"name": "pizza hawaiana",
+                    "price": 680
+                  },
+                  {"name": "pizza jamon",
+                    "price": 680
+                  },
+                  {"name": "pizza de queso",
+                    "price": 680
+                  }
+                    ]
+                  }
+              ],
+              "additions": [
+              {
+                "name": "Entremes surtido",
+                "price": 800
+              },
+              {
+                "name": "Tostones rellenos",
+                "price": 800
+              },
+              {
+                "name": "Bolitas de queso",
+                "price": 800
+              },
+              {
+                "name": "Bolitas de carne",
+                "price": 800
+              },
+              {
+                "name": "Croquetas caseras",
+                "price": 800
+              }
+              ],
+              "desserts": [
+                {
+                  "courses": [
+                    {
+                      "name": "Helados gusto",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
+    },
+    "Other Info": {
+        "Entertainment": ["Musica grabada","Domino"],
+        "Facilities": ["Sillas para niños"],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "Si",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "Si",
+            "Euros": "Si",
+            "Others": "Si"
+        }
+    }
+}

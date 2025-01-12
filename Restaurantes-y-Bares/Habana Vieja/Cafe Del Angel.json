@@ -1,0 +1,329 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["restaurante"]
+    },
+    "name": "Cafe Del Angel",
+    "description": "Bar-restaurante con asientos al aire libre, ubicado en Chacón #201 esquina Compostela, Habana Vieja.",
+    "contact_info": {
+      "phone": {
+        "number": "078015162",
+        "type": ["landline"]
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "tuesday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "wednesday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "thursday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "friday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "saturday": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "22:00"
+      }
+    },
+    "address": "Chacón #201 esquina Compostela, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null
+    },
+    "accepted_payment_methods": [],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Cargo por servicio del 10%",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Desayunos", "Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": ["Opciones vegetarianas", "Opciones veganas"],
+    "meals": ["Comidas", "Cenas", "Brunch"],
+    "advantages": ["Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+    "highlights": ["Aperitivos", "Buenos cócteles", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  },
+  "menu_details": {
+      "kind_of_food": ["variada", "europea", "criolla", "italiana"],
+      "healthy_food_options": false,
+      "menu_card": {
+          "menu_sections": {
+              "breakfasts": [
+                  {
+                      "courses": [
+                          {
+                              "name": "Del Ängel",
+                              "price": 2500,
+                              "main_ingredients": ["huevo", "harina", "cerdo"]
+                            },
+                            {
+                              "name": "Croissant Madame",
+                              "price": 2500,
+                              "main_ingredients": ["harina", "jamón", "queso"]
+                            },
+                            {
+                              "name": "Omelette al Queso",
+                              "price": 1630,
+                              "main_ingredients": ["huevo", "queso"]
+                            },
+                            {
+                              "name": "Americano",
+                              "price": 2400,
+                              "main_ingredients": ["huevo", "cerdo", "harina"]
+                            },
+                            {
+                              "name": "Pancakes",
+                              "price": 1700,
+                              "main_ingredients": ["harina", "huevo", "leche"]
+                            },
+                            {
+                              "name": "Continental",
+                              "price": 1600,
+                              "main_ingredients": ["harina", "fruta"]
+                            },
+                            {
+                              "name": "Bagel Nórdico",
+                              "price": 2450,
+                              "main_ingredients": ["harina", "pescado", "queso"]
+                            },
+                            {
+                              "name": "Yogurt Parfait",
+                              "price": 1360,
+                              "main_ingredients": ["leche", "frutas"]
+                            },
+                            {
+                              "name": "Bagel Catalán",
+                              "price": 2450,
+                              "main_ingredients": ["harina", "jamón", "vegetales"]
+                            }
+                      ]
+                  }
+              ],
+              "starters": [
+                  { 
+                      "courses": [
+                          {
+                              "name": "Croquetas Serrano",
+                              "price": 1480,
+                              "main_ingredients": ["jamon", "harina", "huevo"]
+                            },
+                            {
+                              "name": "Rillete de Cerdo",
+                              "price": 1500,
+                              "main_ingredients": ["cerdo"]
+                            },
+                            {
+                              "name": "Tacos de Cerdo",
+                              "price": 2200,
+                              "main_ingredients": ["harina", "cerdo"]
+                            },
+                            {
+                              "name": "Mixto de Brusquetas",
+                              "price": 2200,
+                              "main_ingredients": ["harina", "vegetales", "queso", "jamón"]
+                            },
+                            {
+                              "name": "Tacos de Camarones",
+                              "price": 2380,
+                              "main_ingredients": ["harina", "marisco"]
+                            },
+                            {
+                              "name": "Empanadillas de Queso",
+                              "price": 1400,
+                              "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                              "name": "Tabla Charcutería",
+                              "price": 4000,
+                              "main_ingredients": ["jamón", "queso", "embutido"]
+                            }
+                      ]
+                  }
+              ],
+              "breads": [
+                  {
+                      "courses": [
+                          {
+                              "name": "Bocata Catalana",
+                              "price": 2400,
+                              "main_ingredients": ["harina", "jamón", "vegetales"]
+                            },
+                            {
+                              "name": "Sandwich de Atún",
+                              "price": 1530,
+                              "main_ingredients": ["harina", "pescado"]
+                            },
+                            {
+                              "name": "Sandwich Vegetales",
+                              "price": 1530,
+                              "main_ingredients": ["harina", "vegetales", "queso"]
+                            },
+                            {
+                              "name": "Sandwich Cubano",
+                              "price": 2600,
+                              "main_ingredients": ["harina", "jamón", "cerdo", "queso", "vegetales"]
+                            },
+                            {
+                              "name": "Huevos & Pesto",
+                              "price": 2400,
+                              "main_ingredients": ["huevo", "vegetales", "harina"]
+                            }
+                      ]
+                  }
+              ],
+              "main_courses": [
+                  {
+                      "courses": [
+                          {
+                              "name": "Ensalada del Ángel",
+                              "price": 2340,
+                              "main_ingredients": ["queso", "vegetales"]
+                            },
+                            {
+                              "name": "Baguette de Jamón & Queso",
+                              "price": 1600,
+                              "main_ingredients": ["harina", "jamón", "queso"]
+                            },
+                            {
+                              "name": "Solomillo de Cerdo",
+                              "price": 4200,
+                              "main_ingredients": ["cerdo"]
+                            },
+                            {
+                              "name": "Pescado a la Siciliana",
+                              "price": 3580,
+                              "main_ingredients": ["pescado", "vegetales", "fruta"]
+                            },
+                            {
+                              "name": "Ropa Vieja",
+                              "price": 3580,
+                              "main_ingredients": ["res", "vegetales"]
+                            },
+                            {
+                              "name": "Costillas de Cerdo",
+                              "price": 4950,
+                              "main_ingredients": ["cerdo"]
+                            },
+                            {
+                              "name": "Hamburguesa de Res",
+                              "price": 3200,
+                              "main_ingredients": ["harina", "res", "vegetales"]
+                            },
+                            {
+                              "name": "Langosta Caribeña",
+                              "price": 5400,
+                              "main_ingredients": ["marisco"]
+                            },
+                            {
+                              "name": "Pollo Mediterráneo",
+                              "price": 2340,
+                              "main_ingredients": ["pollo", "fruta", "vegetales"]
+                            }
+                      ]
+                  }
+              ],
+              "pastas": [
+                  {
+                      "courses": [
+                          {
+                              "name": "Spaghetti Pomodoro",
+                              "price": 1880,
+                              "main_ingredients": ["pasta"]
+                            },
+                            {
+                              "name": "Ragu de Cordero",
+                              "price": 3450,
+                              "main_ingredients": ["pasta", "cordero"]
+                            },
+                            {
+                              "name": "Ravioli Carbonara",
+                              "price": 3200,
+                              "main_ingredients": ["pasta", "cerdo", "huevo"]
+                            },
+                            {
+                              "name": "Spaghetti al Pesto",
+                              "price": 2200,
+                              "main_ingredients": ["pasta", "vegetales"]
+                            },
+                            {
+                              "name": "Rigatoni Amatriciana",
+                              "price": 3200,
+                              "main_ingredients": ["pasta", "cerdo"]
+                            },
+                            {
+                              "name": "Spaghetti Altamar",
+                              "price": 3450,
+                              "main_ingredients": ["pasta", "mariscos"]
+                            }
+                      ]
+                  }
+              ],
+              "desserts": [
+                  {
+                      "courses": [
+                          {
+                              "name": "Mousse de Chocolate",
+                              "price": 1925,
+                              "main_ingredients": ["huevo", "leche"]
+                            },
+                            {
+                              "name": "Esfera de Maracuyá",
+                              "price": 1925,
+                              "main_ingredients": ["fruta"]
+                            },
+                            {
+                              "name": "Arroz con Leche",
+                              "price": 1500,
+                              "main_ingredients": ["grano", "leche"]
+                            },
+                            {
+                              "name": "Dados de Guayaba",
+                              "price": 1500,
+                              "main_ingredients": ["fruta"]
+                            }
+                      ]
+                  }
+              ]
+          }
+      }    
+  }
+            }
+            

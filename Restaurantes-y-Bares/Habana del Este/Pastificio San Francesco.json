@@ -1,0 +1,85 @@
+{
+    "Place":"Pastificio San Francesco",
+    "Location":[
+        {"Address":"Calle 478 entre 5ta Avenida y 5ta D, Guanabo",
+        "Municipality":"Habana del Este",
+        "Coordinates":"5V96+C6"}
+    ],
+    "Classification":"Restaurante",
+    "Specialization":"Cocina italiana",
+    "Ownership":"Privado",
+    "Schedule":[
+        {"Opening":"11h30",
+        "Closing":"23h30",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":4.5,
+        "Google Maps":4.4}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["La Habana"]}
+    ],
+    "Phone number":"77990695",
+    "Accounts or website":[
+        {"Facebook":"Ristorante San Francesco"},
+        {"Instagram":null},
+        {"Website":null},
+        {"Email":"maiuridanilofrancesc@libero.it"}
+    ],
+    "Payment":[
+        {"Method":["Transferencia","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR","Otras"]}
+    ],
+    "Capacity":35,
+    "Parking service":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":null,
+        "Main course":[
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti a la bolognesa",
+            "Price":2100},
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti con salciccia",
+            "Price":2100},
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti al Pesto",
+            "Price":2050},
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti al pomodoro e basilico",
+            "Price":1900},
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti a la carbonara",
+            "Price":2100},
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti a la amatriciana",
+            "Price":2100},
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti Gamberetti",
+            "Price":2600},
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti Frutti di Mare",
+            "Price":3500},
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti Aragosta",
+            "Price":3600},
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti Arrabiata",
+            "Price":1900},
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti con salmone",
+            "Price":3000},
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti Panna e salciccia",
+            "Price":2400},
+            {"Plate":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti con atun",
+            "Price":2200},
+            {"Plate":"Lasagna",
+            "Price":3000},
+            {"Plate":"Ravioli",
+            "Price":3000}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":null,
+        "Desserts":null,
+        "Vegetarian options":[
+            {"Option":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti al Pesto",
+            "Classification":"Main course"},
+            {"Option":"Fettuccine, fussili, tonnarelli, pappardelle o spaghetti al pomodoro e basilico",
+            "Classification":"Main course"}
+        ]
+    }
+}

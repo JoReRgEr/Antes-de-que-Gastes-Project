@@ -1,0 +1,599 @@
+{
+    "Name" : "Bom Apetite",
+    "type" : "Restaurante",
+    "#" : null,
+    "web" : "no poseen una web pero poseen insta",
+    "Reference Point" : "Hotel Gran Mutuh",
+    "Status" : "mipime",
+    "events" : "Competencia de Bartender en la Florida",
+    "people_trend" : "Todas las edades",
+    "establishment_features" : [
+        "vistas al mar",
+        "triplanta",
+        "establecimiento confeccionado de madera"
+    ],
+    "speciality" : [
+        "cocteleria completa",
+        "comida criolla",
+        "comida italiana",
+        "comida internacional"
+    ],
+    
+    "establishment_address" : {
+        "Province" : "La Habana",
+        "municipality" : "Playa",
+        "address" : "1ra Avenida entre calle 70 y 68"
+    },
+
+    "open_hours": {
+        "sunday" : "10:00am - 4:00am",
+        "monday" : "10:00am - 4:00am",
+        "tuesday" : "10:00am - 4:00am",
+        "wednesday" : "10:00am - 4:00am",
+        "thursday" : "10:00am - 4:00am",
+        "friday" : "10:00am - 4:00am",
+        "saturday" : "10:00am - 4:00am"
+    },
+
+    "curiosity" : "los menores de edad están prohibidos a partir de las 10 pm en adelante",
+    
+    "menu_details": {
+        "kind_of_food": ["panes", "criolla", "italiana"],
+        "menu_card": {
+            "menu_sections": {
+              "breakfasts": [
+                {
+                  "courses": [
+                    {"name": "Americano",
+                    "price" : 1300.00
+                  },
+                {"name": "Bom Apetite" ,
+                    "price" : 2200.00
+                  },
+                {"name": "Europeo" ,
+                    "price" : 14000
+                  },
+                {"name": "Continental" ,
+                    "price" : 1500.00
+                  }
+                  ]
+                }
+              ],
+              "starters": [
+                {
+                  "courses": [
+                    {"name":"Crema de Queso" ,
+                    "price" : 980.00
+                },
+                {"name":"Crema de Jamón" ,
+                    "price" : 880.00 
+                },
+                {"name":"Crema Aurora" ,
+                    "price" : 850.00
+                },
+                {"name":"Crema de Calabaza" ,
+                    "price" : 800.00
+                },
+                    {"name":"Costero" ,
+                    "price" : 2800
+                },
+                {"name":"De Pulpo" ,
+                    "price" : 2500
+                },
+                {"name":"De Langosta" ,
+                    "price" : 2400.00
+                },
+                {"name":"De Camarón" ,
+                    "price" : 2800.00
+                },
+                {"name":"De Pescado" ,
+                    "price" : 2300.00
+                },
+                    {"name":"De Camaron" ,
+                    "price" : 2100.00
+                },
+                {"name":"De Langosta" ,
+                    "price" : 2300.00
+                },
+                {"name":"De Pescado" ,
+                    "price" : 2100.00
+                },
+                {"name":"De Pargo" ,
+                    "price" : 2200
+                },
+                    {"name":"De Pollo" ,
+                    "price" : 1100
+                },
+                {"name":"De Pescado" ,
+                    "price" : 1600.00
+                },
+                {"name":"De Mariscos" ,
+                    "price" : 2800.00
+                },
+                {"name":"Puré de Malanga" ,
+                    "price" : 600.00
+                },
+                {"name":"Puré de Papa" ,
+                    "price" : 500.00
+                },
+                {"name":"Vegetal Natural" ,
+                    "price" : 350.00
+                },
+                {"name":"Vegetales Salteados" ,
+                    "price" : 390.00
+                },
+                {"name":"Vianda Hervida" ,
+                    "price" : 400.00
+                },
+                {"name":"Vianda Fritas" ,
+                    "price" : 290.00
+                },
+                {"name":"Papas Fritas" ,
+                    "price" : 400.00
+                },
+                    {"name":"Fritura de Malanga" ,
+                    "price" : 500.00
+                },
+                {"name":"Croquetas de Embutidos" ,
+                    "price" : 900.00
+                },
+                {"name":"Croquetas de Pescados" ,
+                    "price" : 800.00
+                },
+                {"name":"Croquetas de J.Queso Azul" ,
+                    "price" : 1000.00
+                },
+                {"name":"Bolitas de Carne" ,
+                    "price" : 900.00
+                },
+                {"name":"Bolitas de Queso" ,
+                    "price" : 1100.00
+                },
+                {"name":"Fajitas de Pollo" ,
+                    "price" : 1700.00
+                },
+                {"name":"Fajitas de Cerdo" ,
+                    "price" : 1800.00
+                },
+                {"name":"San Jacobo" ,
+                    "price" : 1600.00
+                },
+                {"name":"Tabla de Salmón Serrano" ,
+                    "price" : 3300.00
+                },
+                {"name":"Tostón Montado de J.Q" ,
+                    "price" : 1650.00
+                },
+                {"name":"Brusqueta de Lux" ,
+                    "price" : 1500.00
+                },
+                {"name":"Brusqueta" ,
+                    "price" : 700.00
+                },
+                {"name":"Emsañada Cesar" ,
+                    "price" :  1800.00
+                },
+                {"name":"Ensalada de Lux" ,
+                    "price" : 2400.00
+                },
+                {"name":"Tabla de Embutidos" ,
+                    "price" : 3150.00
+                },
+                {"name":"Entremes de J.Q.CH" ,
+                    "price" : 1400.00
+                },
+                {"name":"Tabla Especial  BOM" ,
+                    "price" : 4200.00
+                },
+                {"name":"RAC Aceitunas" ,
+                    "price" : 600.00
+                },
+                {"name":"Pica Pica Bom Apetite" ,
+                    "price" : 3000.00
+                },
+                {"name":"Carpaccio De Res" ,
+                    "price" : 3000.00
+                },
+                {"name":"Tabla de Queso" ,
+                    "price" : 3600.00
+                },
+                {"name":"Eperlan de Pescado" ,
+                    "price" : 2500.00
+                }
+                  ]
+                }
+              ],
+              "breads": [
+                {
+                  "courses": [
+                    {"name": "De Queso" ,
+                    "price" : 650.00
+                  },
+                {"name": "De Jamón" ,
+                    "price" : 600.00
+                  },
+                {"name": "De J.Q" ,
+                    "price" : 850
+                  },
+                {"name": "De Atún" ,
+                    "price" : 900.0
+                  },
+                {"name": "Bom Apetite" ,
+                    "price" : 1350.00
+                  },
+                {"name": "Don Pepito" ,
+                    "price" : 1200.00
+                  },
+                {"name": "De Pollo" ,
+                    "price" : 1100.0
+                  },
+                {"name": "De Vegetales" ,
+                    "price" : 600.00
+                  }
+                  ]
+                }
+                
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {"name":"Deshuesado" ,
+                    "price" : 1700.00
+                },
+                {"name":"Al'Limon" ,
+                    "price" : 1950
+                },
+                {"name":"A la Cazadora" ,
+                    "price" : 2000.00
+                },
+                {"name":"A la Miel y Mostaza" ,
+                    "price" : 2100.00
+                },
+                {"name":"Gordon Blue" ,
+                    "price" : 2500.00
+                },
+                {"name":"Rebosado" ,
+                    "price" : 2700
+                },
+                {"name":"Pollo Frito" ,
+                    "price" : 1500.00
+                },
+                {"name":"Medio Pollo" ,
+                    "price" : 2800.00
+                },
+                {"name":"Pollo Entero" ,
+                    "price" : 3000.00
+                },
+                {"name":"Pollo en Cazuela" ,
+                    "price" : 1980.00
+                },
+                    {"name":"Filete Grille" ,
+                    "price" : 3000.00
+                },
+                {"name":"Filete Papillote" ,
+                    "price" : 3400.00
+                },
+                {"name":"Al Sofrito" ,
+                    "price" : 3100
+                },
+                {"name":"Filete Canciller" ,
+                    "price" : 4000.00
+                },
+                {"name":"Crujiente" ,
+                    "price" : 3300.0
+                },
+                {"name":"John Bill" ,
+                    "price" : 4300.0
+                },
+                {"name":"Pescado de Talla" ,
+                    "price" : 6000.00
+                },
+                    {"name":"Bistec" ,
+                    "price" : 2000.00
+                },
+                {"name":"Masas" ,
+                    "price" : 2100.00
+                },
+                {"name":"Filete" ,
+                    "price" : 3400.00
+                }, 
+                {"name":"Lomo ahumado" ,
+                    "price" : 2300.00
+                },
+                {"name":"Lomo a la Miel y Mostaza" ,
+                    "price" : 2500.00 
+                },
+                {"name":"Filete de Lomo Importado" ,
+                    "price" : 4200.00
+                },
+                {"name":"Lomo a la Teriyaki" ,
+                    "price" : 4300.00 
+                },
+                {"name":"Chuletas" ,
+                    "price" : 2700
+                },
+                {"name":"Involtini" ,
+                    "price" : 3000.0
+                },
+                {"name":"Uruguayó" ,
+                    "price" : 3400
+                },
+                {"name":"Chateaubriand" ,
+                    "price" : 5000.00
+                },
+                {"name":"Tournedu" ,
+                    "price" : 4000
+                }, 
+                {"name":"Solomillo" ,
+                    "price" : 4200.0
+                },
+                    {"name":"Paletilla" ,
+                    "price" : 3700.0
+                },
+                {"name":"Chilindron" ,
+                    "price" : 3100.00
+                }, 
+                {"name":"Cordero Al vino Tinto" ,
+                    "price" : 3300.00 
+                },
+                    {"name":"Nero Di Seppia" ,
+                    "price" : 3200.00
+                },
+                {"name":"De Carne" ,
+                    "price" : 2900
+                },
+                {"name":"Frutti Di Mare" ,
+                    "price" : 3700.00 
+                },
+                {"name":"Hongo 4 Quesos" ,
+                    "price" : 3800.00
+                },
+                {"name":"Porcini" ,
+                    "price" : 3900
+                },
+                    {"name":"Grille" ,
+                        "price" : 3300.00 
+                    },
+                    {"name":"Al Ajillo" ,
+                        "price" : 3300.0
+                    },
+                    {"name":"Al Pesto" ,
+                        "price" : 3600.00 
+                    },
+                    {"name":"Rebosado" ,
+                        "price" : 3500
+                    },
+                    {"name":"Enchilado" ,
+                        "price" : 3100.0
+                    },
+                    {"name":"Con Salsa Teriyaki" ,
+                        "price" : 3700.00 
+                    },
+                    {"name":"Mar y Tierra" ,
+                        "price" : 4900.00 
+                    },
+                    {"name":"Langosta Pesto" ,
+                        "price" : 3600.00
+                    },
+                    {"name":"Batabano" ,
+                        "price" : 3900
+                    },
+                    {"name":"Grille" ,
+                        "price" : 3100.00
+                    },
+                    {"name":"Termidor" ,
+                        "price" : 3700
+                    },
+                    {"name":"Enchilado" ,
+                        "price" : 3300.0
+                    }, 
+                    {"name":"Mariscada Sote" ,
+                        "price" : 4300.00 
+                    },
+                    {"name":"Pulpo al Ajillo" ,
+                        "price" : 3900.00
+                    },
+                    {"name":"Al estilo del chef" ,
+                        "price" : 3900.00
+                    },
+                    {"name":"Grille" ,
+                        "price" : 3800.00 
+                    },
+                    {"name":"Enchilado" ,
+                        "price" : 4100 
+                    },
+                    {"name":"Tourneda de Solomillo" ,
+                    "price" : 5200.00
+                },
+                {"name":"Solomillo" ,
+                    "price" : 5100.0
+                },
+                {"name":"Mora Bom" ,
+                    "price" : 4700
+                },
+                {"name":"Filete a la Dotch" ,
+                    "price" : 4100.00 
+                },
+                {"name":"Chateaubriand" ,
+                    "price" : 7000.00 
+                },
+                {"name":"Churasco" ,
+                    "price" : 5000
+                },
+                {"name":"Migñon" ,
+                    "price" : 5500.00
+                },
+                {"name":"Ropa Vieja" ,
+                    "price" : 3500.00
+                },
+                {"name":"Vaca Frita" ,
+                    "price" : 3200.00
+                }, 
+                {"name":"New York" ,
+                    "price" : 8000
+                },
+                {"name":"Picadillo a la Habanera" ,
+                    "price" : 2000
+                },
+                {"name":"Bistec" ,
+                    "price" : 3400.00
+                }, 
+                    {"name": "Bistec de cerdo",
+                    "price": 1300
+                  },
+                {"name": "Bistec de cerdo a la milanesa",
+                    "price": 1800
+                  },
+                  {"name": "Bistec de pollo",
+                    "price": 1000
+                  },
+                {"name": "Pollo frito",
+                    "price": 1000
+                  },
+                {"name": "Pollo a la milanesa",
+                    "price": 1500
+                  },
+                  {"name": "Ropa vieja",
+                    "price": 1550
+                  },
+                  {"name": "Canciller",
+                    "price": 2500
+                  },
+                {"name": "Pescado entero",
+                    "price": 2000
+                  },
+                {"name": "Rueda de atun",
+                    "price": 1700
+                  },
+                {"name": "Camarones",
+                    "price": 1700
+                  },
+                {"name": "Filete de pescado",
+                    "price": 1500
+                  }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {"name":"Pomodoro" ,
+                    "price" : 1300
+                },
+                {"name":" Proscuitto" ,
+                    "price" : 1700.00
+                },
+                {"name":"Amatriciana" ,
+                    "price" : 2100.00
+                },
+                {"name":"Putanesca" ,
+                    "price" : 1900.0
+                },
+                {"name":"Carbonara" ,
+                    "price" : 2550.0
+                },
+                {"name":"Alfredo" ,
+                    "price" : 2450
+                },
+                {"name":"Nero Di sepia" ,
+                    "price" : 3200.00
+                },
+                {"name":"Fruti Di Mare" ,
+                    "price" : 2900.00
+                },
+                {"name":"4 Quesos" ,
+                    "price" : 2900
+                },
+                {"name":"Ragu" ,
+                    "price" : 2100.00
+                },
+                {"name":"Pesto" ,
+                    "price" : 2500.00
+                },
+                {"name":"Sugo Di Iono" ,
+                    "price" : 2500.00
+                },
+                {"name":"Alioli" ,
+                    "price" : 1900.00
+                }
+                  ]
+                }
+              ],
+              "pizzas": [
+                  {
+                    "courses": [
+                      {"name":"Napoles" ,
+                      "price" : 1000
+                  },
+                  {"name":"Margarita" ,
+                      "price" : 1100.0
+                  },
+                  {"name":"Chorizo" ,
+                      "price" : 1800
+                  },
+                  {"name":"Mar y Tierra" ,
+                      "price" : 3300.00
+                  },
+                  {"name":"Camaron" ,
+                      "price" : 2800
+                  },
+                  {"name":"D' Langosta" ,
+                      "price" : 3100.00
+                  },
+                  {"name":"Caprichosa" ,
+                      "price" : 2100.00
+                  },
+                  {"name":"D' Jamon y Bacon" ,
+                      "price" : 2000.00
+                  },
+                  {"name":"4 Quesos" ,
+                      "price" : 2700
+                  },
+                  {"name":"D' Jamon" ,
+                      "price" : 1700
+                  },
+                  {"name":"4 Estaciones" ,
+                      "price" : 30000.00
+                  },
+                  {"name":"Hawaiana" ,
+                      "price" : 2100
+                  },
+                  {"name":"De Pepperoni" ,
+                      "price" : 2200.00
+                  },
+                  {"name":"Primavera" ,
+                      "price" : 2350.0
+                  },
+                  {"name":"Panna" ,
+                      "price" : 2250.00
+                  },
+                  {"name":"Calzones de RV" ,
+                      "price" : 3890.00
+                  },
+                  {"name":"Diabola" ,
+                      "price" : 2150
+                  },
+                  {"name":"Atun, Ceb y Aceit" ,
+                      "price" : 2200.00
+                  }
+                    ]
+                  }
+              ],
+              "rations": [
+                {"name":"Blanco" ,
+                "price" : 300
+            },
+            {"name":"Moro" ,
+                "price" : 350.00
+            },
+            {"name":"Pilaf" ,
+                "price" : 400
+            },
+            {"name":"Primavera" ,
+                "price" : 4500.0
+            }
+              ]
+            }
+        }    
+    }
+}

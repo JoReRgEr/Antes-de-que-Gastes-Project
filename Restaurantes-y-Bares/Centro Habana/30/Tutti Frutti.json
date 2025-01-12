@@ -1,0 +1,187 @@
+{
+    "municipality": "ch",
+    "name": "Tutti Frutti",
+    "address": "San Lazaro entre San Fransico y Espada",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Particular",
+    "type": "Restaurante",
+    "specialty": "Desayunos",
+    "hours": {
+        "monday": "0800_2000",
+        "tuesday": "0800_2000",
+        "wednesday": "0800_2000",
+        "thursday": "0800_2000",
+        "friday": "0800_2000",
+        "saturday": "0800_2000",
+        "sunday": "0800_2000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup",
+        "mlc",
+        "usd"
+    ],
+    "menu_details": {
+        "kind_of_food": ["variada"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+                "breakfasts": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Desayuno completo",
+                                "price": 1200,
+                                "main_ingredients": ["variados"]
+                            },
+                            {
+                                "name": "Dulce de fruta",
+                                "price": 600,
+                                "main_ingredients": ["fruta"]
+                            },
+                            {
+                                "name": "Sándwiche Cubano",
+                                "price": 1200,
+                                "main_ingredients": ["harina", "cerdo", "jamon", "queso"]
+                            },
+                            {
+                                "name": "Sándwiches Aguacate",
+                                "price": 1200,
+                                "main_ingredients": ["harina", "queso", "vegetales"]
+                            }
+                        ]
+                    }
+                ],
+                "additions": [
+                    {
+                        "name": "Huevo",
+                        "price": 250
+                    },
+                    {
+                        "name": "Atún",
+                        "price": 800
+                    },
+                    {
+                        "name": "Jamón",
+                        "price": 300
+                    },
+                    {
+                        "name": "Pollo",
+                        "price": 500
+                    },
+                    {
+                        "name": "Cebolla",
+                        "price": 200
+                    }
+                ],
+                "desserts": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Copa de frutas",
+                                "price": 400
+                            },
+                            {
+                                "name": "Tutti Frutti",
+                                "price": 500
+                            },
+                            {
+                                "name": "Frutas dulces",
+                                "price": 300
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "cocktails": [
+                                    {
+                                        "name": "Mojito",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Mojito Tutti Frutti",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "Daiquirí",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Daiquirí Tutti Frutti",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "Santiago",
+                                        "price": 900
+                                    },
+                                    {
+                                        "name": "Cuba Libre",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Piña Colada",
+                                        "price": 900
+                                    },
+                                    {
+                                        "name": "Canchánchara",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "Caribbean",
+                                        "price": 900
+                                    },
+                                    {
+                                        "name": "Emma",
+                                        "price": 900
+                                    }
+                                ]
+                            }
+                        ],
+                        "natual_juices": [
+                            {
+                                "name": "Jugo Natural",
+                                "price": 400
+                            },
+                            {
+                                "name": "Batidos",
+                                "price": 600
+                            },
+                            {
+                                "name": "Champola",
+                                "price": 600
+                            },
+                            {
+                                "name": "Smoothies",
+                                "price": 800
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "Leche",
+                                "price": 400
+                            },
+                            {
+                                "name": "Café",
+                                "price": 900
+                            }
+                        ]
+                    }
+                ]
+            }
+        }    
+    }
+}

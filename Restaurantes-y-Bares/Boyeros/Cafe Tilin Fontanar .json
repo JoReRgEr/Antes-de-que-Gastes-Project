@@ -1,6 +1,6 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "Cafe Tilin Fontanar",
+    "place_name": "Cafe Tilin Fontanar",
     "property_type": "particular",
     "address": {
         "establishment_phone_number": "+53 5 9428119",
@@ -256,7 +256,7 @@
                             {
                                 "course_name": "Arroz Frito",
                                 "price": 1500.00,
-                                "main_ingredients": ["cereal"]
+                                "main_ingredients": ["grano"]
                             },
                             {
                                 "course_name": "Suprema de Pollo",

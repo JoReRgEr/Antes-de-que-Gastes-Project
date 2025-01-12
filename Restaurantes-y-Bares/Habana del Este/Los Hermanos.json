@@ -1,0 +1,521 @@
+{
+    "Restaurants":{
+        "Restaurante_Los_Hermanos":{
+            "Province": "La Habana",
+            "Municipality": "La Habana del Este",
+            "Location": "478, La Habana",
+            "Stars":{
+                "Social network": "Google",
+                "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Restaurante%2BLos%2Bhermanos/%4023.1687562,-82.1394682,15z/data%3D!4m2!3m1!1s0x0:0x7d473d4da7d4b894%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjJoOHv4oyKAxVkmYQIHU4dBF4Q_BJ6BAg7EAk&usg=AOvVaw3MzpRZZC18gUjC9OOsTCiV",
+                "total": 5.0,
+                "date": "20241202"
+            },
+            "Schedules": "Apertura 9:00am y Cierre 12:00pm",
+            "Days of the week": "Todos",
+            "Type of food or specialty": "Criolla",
+            "Most popular food": "Bistec de Cerdo",
+            "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "Infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "Efectivo y transferencia"
+        },
+            "Capacity": 50,
+
+"menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name": "Sandwich de Jamon y Queso",
+                      "price": 1200
+                    },
+                    {
+                      "name": "Pan con Lechon",
+                      "price": 900
+                    },
+                    {
+                      "name": "Toston Relleno de Jamon y Queso",
+                      "price": 950
+                    },
+                    {
+                      "name": "Fritura de Malanga",
+                      "price": 900
+                    },
+                    {
+                      "name": "Eperlan de Pescado",
+                      "price": 1200
+                    },
+                    {
+                      "name": "Ceviche de Pescado",
+                      "price": 1500
+                    },
+                    {
+                      "name": "Coctel de Camaron",
+                      "price": 2000
+                    },
+                    {
+                      "name": "Tabla de Jamon Serrano",
+                      "price": 2700
+                    },
+                    {
+                      "name": "Fajitas de Pollo",
+                      "price": 1100
+                    }
+                    ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name": "Arroz Frito",
+                      "price": 1500
+                    },
+                    {
+                      "name": "Arroz Frito Especial",
+                      "price": 1900
+                    },
+                    {
+                      "name": "Grillada Los Hermanos",
+                      "price": 3000
+                    },
+                    {
+                      "name": "Mariscada Los Hermanos",
+                      "price": 3500
+                    },
+                    {
+                      "name": "Bistec Uruguayo",
+                      "price": 3000
+                    },
+                    {
+                      "name": "Lonjas de Cerdo Asado al Carbon",
+                      "price": 1900
+                    },
+                    {
+                      "name": "Costillas de Cerdo a la Brasa en Aroma de Carbon",
+                      "price": 3000
+                    },
+                    {
+                      "name": "Bistec de Cerdo Encebollado",
+                      "price": 1700
+                    },
+                    {
+                      "name": "Lomo Ahumado",
+                      "price": 1700
+                    },
+                    {
+                      "name": "Tacos de Cerdo Asado",
+                      "price": 1500
+                    },
+                    {
+                      "name": "Tacos de Fajita de Cerdo",
+                      "price": 1500
+                    },
+                    {
+                      "name": "Tacos de Fajitas de Pollo",
+                      "price": 1400
+                    },
+                    {
+                      "name": "Tacos de Langosta",
+                      "price": 2000
+                    },
+                    {
+                      "name": "Tacos de Camaron",
+                      "price": 1900
+                    },
+                    {
+                      "name": "Pollo Grille",
+                      "price": 1600
+                    },
+                    {
+                      "name": "Filete Canciller",
+                      "price": 3000
+                    },
+                    {
+                      "name": "Filete de Pescado Grille",
+                      "price": 1900
+                    },
+                    {
+                      "name": "Camarones Grille",
+                      "price": 2000
+                    },
+                    {
+                      "name": "Enchilado de Camarones",
+                      "price": 2300
+                    },
+                    {
+                      "name": "Langosta Grille",
+                      "price": 2500
+                    },
+                    {
+                      "name": "Enchilado de Langosta",
+                      "price": 2600
+                    },
+                    {
+                      "name": "Langosta Varadero",
+                      "price": 2800
+                    },
+                    {
+                      "name": "Pescado Frito Entero",
+                      "price": 2500
+                    }
+                  ]
+                }
+              ],
+              "tacos": [
+                {
+                  "courses": [
+                    {
+                      "name": "Tacos de Cerdo Asado",
+                      "price": 2000
+                    },
+                    {
+                      "name": "Tacos de Fajita de Cerdo",
+                      "price": 2000
+                    },
+                    {
+                      "name": "Tacos de Langosta",
+                      "price": 2100
+                    },
+                    {
+                      "name": "Tacos de Camaron",
+                      "price": 2100
+                    }
+                  ]
+                }
+              ],
+              "pizzas": [
+                {
+                  "courses": [
+                    {
+                      "name": "Napole",
+                      "price": 1250
+                    },
+                    {
+                      "name": "Con Jamon",
+                      "price": 1500
+                    },
+                    {
+                      "name": "Hawaiana",
+                      "price": 1600
+                    },
+                    {
+                      "name": "Con Chorizo",
+                      "price": 1750
+                    },
+                    {
+                      "name": "Con Atun y Cebolla",
+                      "price": 1750
+                    },
+                    {
+                      "name": "Con Langosta",
+                      "price": 1800
+                    },
+                    {
+                      "name": "Con Camaron",
+                      "price": 1800
+                    }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {
+                      "name": "Napoles",
+                      "price": 1250
+                    },
+                    {
+                      "name": "Con Jamon",
+                      "price": 1500
+                    },
+                    {
+                      "name": "Con Atun",
+                      "price": 1750
+                    },
+                    {
+                      "name": "Con Camarones",
+                      "price": 1900
+                    },
+                    {
+                      "name": "Con Langosta",
+                      "price": 2000
+                    },
+                    {
+                      "name": "Lasaña",
+                      "price": 1300
+                    }
+                  ]
+                }
+              ],
+              "additions": [
+                {
+                  "name": "Cebolla",
+                  "price": 250
+                },
+                {
+                  "name": "Queso",
+                  "price": 600
+                },
+                {
+                  "name": "Jamon Cocido",
+                  "price": 350
+                },
+                {
+                  "name": "Jamon Serrano",
+                  "price": 950
+                },
+                {
+                  "name": "Chorizo",
+                  "price": 600
+                },
+                {
+                  "name": "Piña",
+                  "price": 200
+                },
+                {
+                  "name": "Camaron",
+                  "price": 850
+                }
+              ],
+              "rations": [
+                {
+                  "name": "Arroz Blanco",
+                  "price": 240
+                },
+                {
+                  "name": "Arroz Moro",
+                  "price": 260
+                },
+                {
+                  "name": "Ensalada de Vegetales",
+                  "price": 280
+                },
+                {
+                  "name": "Racion de Vianda Hervida",
+                  "price": 300
+                },
+                {
+                  "name": "Papas Fritas",
+                  "price": 500
+                },
+                {
+                  "name": "Otras Viandas Fritas",
+                  "price": 400
+                }
+              ],
+              "desserts": [
+                {
+                  "courses": [
+                    {
+                      "name": "Copa de Helado",
+                      "price": 600
+                    },
+                    {
+                      "name": "Flan",
+                      "price": 700
+                    },
+                    {
+                      "name": "Copa Lolita",
+                      "price": 800
+                    },
+                    {
+                      "name": "Mermelada de Mango con Queso",
+                      "price": 600
+                    }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "cocktails": [
+                        {
+                          "name": "Mojito",
+                          "price": 800
+                        },
+                        {
+                          "name": "Mojito de Fruta",
+                          "price": 1000
+                        },
+                        {
+                          "name": "Ginc Tonic",
+                          "price": 1500
+                        },
+                        {
+                          "name": "Cuba Libre",
+                          "price": 900
+                        },
+                        {
+                          "name": "Cubata",
+                          "price": 1000
+                        },
+                        {
+                          "name": "Daiquiri",
+                          "price": 850
+                        },
+                        {
+                          "name": "Sangria",
+                          "price": 900
+                        },
+                        {
+                          "name": "Sangria Tinto Verano",
+                          "price": 950
+                        },
+                        {
+                          "name": "Caipirinha/...Caipiroshka",
+                          "price": 1000
+                        },
+                        {
+                          "name": "Canchanchara",
+                          "price": 800
+                        },
+                        {
+                          "name": "Canchanchara 7 Años",
+                          "price": 1000
+                        },
+                        {
+                          "name": "Margarita",
+                          "price": 950
+                        },
+                        {
+                          "name": "Tekila Sunrise",
+                          "price": 950
+                        },
+                        {
+                          "name": "Agrego de Michelada",
+                          "price": 350
+                        },
+                        {
+                          "name": "Agrego de Chelada",
+                          "price": 250
+                        }
+                      ],
+                      "beers": [
+                        {
+                          "name": "Cervezas Nacionales",
+                          "price": 400
+                        },
+                        {
+                          "name": "Cerveza Importada",
+                          "price": 250
+                        }
+                      ],
+                      "shots": [
+                        {
+                          "name": "Havana Club 3 Años",
+                          "price": 370
+                        },
+                        {
+                          "name": "Havana Club Añejo Especial",
+                          "price": 480
+                        },
+                        {
+                          "name": "Añejo Reserva",
+                          "price": 500
+                        },
+                        {
+                          "name": "Havana Club 7 Años",
+                          "price": 500
+                        },
+                        {
+                          "name": "Whisky Ballantine",
+                          "price": 800
+                        },
+                        {
+                          "name": "Whisky Johnnie Walker Red Lavel",
+                          "price": 800
+                        },
+                        {
+                          "name": "Whisky Johnnie Walker Swing",
+                          "price": 1000
+                        },
+                        {
+                          "name": "Whisky Chivas Regal 12",
+                          "price": 900
+                        },
+                        {
+                          "name": "Tequila Blanco",
+                          "price": 800
+                        },
+                        {
+                          "name": "Tequila Reposado",
+                          "price": 900
+                        },
+                        {
+                          "name": "Jagermeifter",
+                          "price": 600
+                        },
+                        {
+                          "name": "Crema Baileys",
+                          "price": 600
+                        },
+                        {
+                          "name": "Aguardiente",
+                          "price": 400
+                        },
+                        {
+                          "name": "Vodka Absolute",
+                          "price": 700
+                        },
+                        {
+                          "name": "Ginebra Ginmaster",
+                          "price": 700
+                        }
+                      ]
+                    }
+                  ],
+                  "water": [
+                    {
+                      "name": "Agua de 500ml",
+                      "price": 200
+                    }
+                  ],
+                  "soft_drinks": [
+                    {
+                      "name": "Malta Importada",
+                      "price": 350
+                    },
+                    {
+                      "name": "Malta Nacional",
+                      "price": 400
+                    },
+                    {
+                      "name": "Bebidas Energizantes",
+                      "price": 400
+                    },
+                    {
+                      "name": "Refrescos Importados",
+                      "price": 350
+                    }
+                  ],
+                  "natual_juices": [
+                    {
+                      "name": "Limonada Frappe",
+                      "price": 700
+                    },
+                    {
+                      "name": "Limonada Frescura",
+                      "price": 800
+                    },
+                    {
+                      "name": "Jugo Natural de Frutas",
+                      "price": 400
+                    },
+                    {
+                      "name": "Jugo de Frutas(Cajita)",
+                      "price": 300
+                    }
+                  ]
+                }
+              ]
+            }
+            }
+        }
+    }
+

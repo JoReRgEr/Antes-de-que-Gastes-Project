@@ -17,128 +17,262 @@
     "Parking":"True",
     "Wifi":"False",
     "Smoking area":"True",
-    "Menu card":{
-        "Starters":[
-            {"Plate":"Tacos de camaron",
-            "Price":1250},
-            {"Plate":"Tacos de res",
-            "Price":995},
-            {"Plate":"Tacos de cerdo",
-            "Price":975},
-            {"Plate":"Tacos de langosta",
-            "Price":1350},
-            {"Plate":"Tacos de pescado",
-            "Price":975},
-            {"Plate":"Fritura de malanga",
-            "Price":750},
-            {"Plate":"Tostones rellenos de camaron",
-            "Price":1100},
-            {"Plate":"Tostones rellenos de jamon y queso",
-            "Price":975}
-        ],
-        "Main course":[
-            {"Plate":"Brochetas de langosta",
-            "Price":2350},
-            {"Plate":"Brochetas de camaron",
-            "Price":2100},
-            {"Plate":"Brochetas de cerdo",
-            "Price":1850},
-            {"Plate":"Brochetas de pollo",
-            "Price":1550},
-            {"Plate":"Langosta a las brasas",
-            "Price":2350},
-            {"Plate":"Lomo de pescado a las brasas",
-            "Price":2200},
-            {"Plate":"Mar y tierra",
-            "Price":3650},
-            {"Plate":"Rueda de albacora a las brasas",
-            "Price":1775},
-            {"Plate":"Fajitas de pollo empanadas",
-            "Price":1450},
-            {"Plate":"Bistec de pollo grille",
-            "Price":1250},
-            {"Plate":"Pechuga de pollo en salsa de jengibre y ajonjoli",
-            "Price":1450},
-            {"Plate":"Pollo al limon y al oregano",
-            "Price":1350},
-            {"Plate":"Pollo a la parmesana",
-            "Price":1650},
-            {"Plate":"Pollo al ajo y vino blanco",
-            "Price":1350},
-            {"Plate":"Fajitas de pollo a la pina y miel",
-            "Price":1275},
-            {"Plate":"Pollo Princesa",
-            "Price":1650},
-            {"Plate":"Fajitas de cerdo a la pina y miel",
-            "Price":1875},
-            {"Plate":"Uruguayo de cerdo",
-            "Price":2250},
-            {"Plate":"Bistec de cerdo Princesa",
-            "Price":2000},
-            {"Plate":"Masa de cerdo al estilo Kopas",
-            "Price":1875},
-            {"Plate":"Bistec de cerdo encebollado",
-            "Price":1550},
-            {"Plate":"Lomo de cerdo ahumado con salsa barbecue",
-            "Price":1850},
-            {"Plate":"Lomo de cerdo ahumado con salsa agridulce",
-            "Price":1875},
-            {"Plate":"Lomo de cerdo ahumado encebollado",
-            "Price":1775},
-            {"Plate":"Bistec de res encebollado",
-            "Price":1750},
-            {"Plate":"Fajitas de res",
-            "Price":1750},
-            {"Plate":"Mignon salsa del Chef",
-            "Price":1850},
-            {"Plate":"Ropa vieja",
-            "Price":1575},
-            {"Plate":"Uruguayo de res",
-            "Price":2250},
-            {"Plate":"Vaca frita",
-            "Price":1450},
-            {"Plate":"Filete a la Deutch",
-            "Price":1750},
-            {"Plate":"Filete de pescado Princesa",
-            "Price":2150},
-            {"Plate":"Filete de pescado en salsa de limon",
-            "Price":1975},
-            {"Plate":"Langosta enchilada",
-            "Price":2475},
-            {"Plate":"Langosta grille",
-            "Price":2100},
-            {"Plate":"Camaron enchilado",
-            "Price":2300},
-            {"Plate":"camaron grille",
-            "Price":2000},
-            {"Plate":"Camaron empanado",
-            "Price":2300},
-            {"Plate":"Camarones al ajillo",
-            "Price":2200},
-            {"Plate":"Langosta al ajillo",
-            "Price":2250},
-            {"Plate":"Filete de pescado Costa Sur",
-            "Price":2650},
-            {"Plate":"Dados de pescado al ajillo",
-            "Price":1750},
-            {"Plate":"Camaron tropical",
-            "Price":3250}
-        ],
-        "Siders":"Null",
-        "Drinks":[
-            {"Type":"Vodka Ciroc Red Berry",
-            "Price":8900},
-            {"Type":"Whisky Jameson",
-            "Price":8500},
-            {"Type":"Whisky J&B Rare",
-            "Price":5900},
-            {"Type":"Whisky Elliot Hall",
-            "Price":4900},
-            {"Type":"whisky Chanceler",
-            "Price":2900},
-            {"Type":"Whisky Ballantines",
-            "Price":8500}
-        ],
-        "Desserts":"Null"
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla", "europea"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name":"Tacos de camaron",
+                     "price":1250
+                    },
+                    {
+                      "name":"Tacos de res",
+                     "price":995
+                    },
+                    {
+                      "name":"Tacos de cerdo",
+                     "price":975
+                    },
+                    {
+                      "name":"Tacos de langosta",
+                     "price":1350
+                    },
+                    {
+                      "name":"Tacos de pescado",
+                     "price":975
+                    },
+                    {
+                      "name":"Fritura de malanga",
+                     "price":750
+                    },
+                    {
+                      "name":"Tostones rellenos de camaron",
+                     "price":1100
+                    },
+                    {
+                      "name":"Tostones rellenos de jamon y queso",
+                     "price":975
+                    }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name":"Brochetas de langosta",
+                      "price":2350
+                    },
+                    {
+                      "name":"Brochetas de camaron",
+                      "price":2100
+                    },
+                    {
+                      "name":"Brochetas de cerdo",
+                      "price":1850
+                    },
+                    {
+                      "name":"Brochetas de pollo",
+                      "price":1550
+                    },
+                    {
+                      "name":"Langosta a las brasas",
+                      "price":2350
+                    },
+                    {
+                      "name":"Lomo de pescado a las brasas",
+                      "price":2200
+                    },
+                    {
+                      "name":"Mar y tierra",
+                      "price":3650
+                    },
+                    {
+                      "name":"Rueda de albacora a las brasas",
+                      "price":1775
+                    },
+                    {
+                      "name":"Fajitas de pollo empanadas",
+                      "price":1450
+                    },
+                    {
+                      "name":"Bistec de pollo grille",
+                      "price":1250
+                    },
+                    {
+                      "name":"Pechuga de pollo en salsa de jengibre y ajonjoli",
+                      "price":1450
+                    },
+                    {
+                      "name":"Pollo al limon y al oregano",
+                      "price":1350
+                    },
+                    {
+                      "name":"Pollo a la parmesana",
+                      "price":1650
+                    },
+                    {
+                      "name":"Pollo al ajo y vino blanco",
+                      "price":1350
+                    },
+                    {
+                      "name":"Fajitas de pollo a la pina y miel",
+                      "price":1275
+                    },
+                    {
+                      "name":"Pollo Princesa",
+                      "price":1650
+                    },
+                    {
+                      "name":"Fajitas de cerdo a la pina y miel",
+                      "price":1875
+                    },
+                    {
+                      "name":"Uruguayo de cerdo",
+                      "price":2250
+                    },
+                    {
+                      "name":"Bistec de cerdo Princesa",
+                      "price":2000
+                    },
+                    {
+                      "name":"Masa de cerdo al estilo Kopas",
+                      "price":1875
+                    },
+                    {
+                      "name":"Bistec de cerdo encebollado",
+                      "price":1550
+                    },
+                    {
+                      "name":"Lomo de cerdo ahumado con salsa barbecue",
+                      "price":1850
+                    },
+                    {
+                      "name":"Lomo de cerdo ahumado con salsa agridulce",
+                      "price":1875
+                    },
+                    {
+                      "name":"Lomo de cerdo ahumado encebollado",
+                      "price":1775
+                    },
+                    {
+                      "name":"Bistec de res encebollado",
+                      "price":1750
+                    },
+                    {
+                      "name":"Fajitas de res",
+                      "price":1750
+                    },
+                    {
+                      "name":"Mignon salsa del Chef",
+                      "price":1850
+                    },
+                    {
+                      "name":"Ropa vieja",
+                      "price":1575
+                    },
+                    {
+                      "name":"Uruguayo de res",
+                      "price":2250
+                    },
+                    {
+                      "name":"Vaca frita",
+                      "price":1450
+                    },
+                    {
+                      "name":"Filete a la Deutch",
+                      "price":1750
+                    },
+                    {
+                      "name":"Filete de pescado Princesa",
+                      "price":2150
+                    },
+                    {
+                      "name":"Filete de pescado en salsa de limon",
+                      "price":1975
+                    },
+                    {
+                      "name":"Langosta enchilada",
+                      "price":2475
+                    },
+                    {
+                      "name":"Langosta grille",
+                      "price":2100
+                    },
+                    {
+                      "name":"Camaron enchilado",
+                      "price":2300
+                    },
+                    {
+                      "name":"camaron grille",
+                      "price":2000
+                    },
+                    {
+                      "name":"Camaron empanado",
+                      "price":2300
+                    },
+                    {
+                      "name":"Camarones al ajillo",
+                      "price":2200
+                    },
+                    {
+                      "name":"Langosta al ajillo",
+                      "price":2250
+                    },
+                    {
+                      "name":"Filete de pescado Costa Sur",
+                      "price":2650
+                    },
+                    {
+                      "name":"Dados de pescado al ajillo",
+                      "price":1750
+                    },
+                    {
+                      "name":"Camaron tropical",
+                      "price":3250
+                    }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "shots": [
+                        {
+                          "name":"Vodka Ciroc Red Berry",
+                          "price":8900
+                        },
+                        {
+                          "name":"Whisky Jameson",
+                          "price":8500
+                        },
+                        {
+                          "name":"Whisky J&B Rare",
+                          "price":5900
+                        },
+                        {
+                          "name":"Whisky Elliot Hall",
+                          "price":4900
+                        },
+                        {
+                          "name":"whisky Chanceler",
+                          "price":2900
+                        },
+                        {
+                          "name":"Whisky Ballantines",
+                          "price":8500
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
     }
 }

@@ -1,6 +1,6 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "Tanokura",
+    "place_name": "Tanokura",
     "property_type": "particular",
     "address": {
         "establishment_phone_number": "+53 76832173",
@@ -290,7 +290,7 @@
                             {
                                 "course_name": "Arroz Frito",
                                 "price": 1130.00,
-                                "main_ingredients": ["cereal"]
+                                "main_ingredients": ["grano"]
                             },
                             {
                                 "course_name": "Arroz Frito con Camaron",

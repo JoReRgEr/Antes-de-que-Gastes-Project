@@ -1,0 +1,85 @@
+{
+    "Place":"Crispy Chicken",
+    "Location":[
+        {"Address":"Avenida de Acosta y Juan Delgado, Monaco",
+        "Municipality":"10 de Octubre",
+        "Coordinates":null}
+    ],
+    "Classification":"Cafeteria",
+    "Specialization":"Cocina rapida",
+    "Property":"Privado",
+    "Schedule":[
+        {"Opening":"11h00",
+        "Closing":"23h00",
+        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":null,
+        "Google Maps":null}
+    ],
+    "Reservations":false,
+    "Delivery":[
+        {"Service existence":true,
+        "Delivery area":["La Habana"]}
+    ],
+    "Phone number":"50763525",
+    "Accounts or website":[
+        {"Facebook":"Crispy Chicken"},
+        {"Instagram":"@crispy.chicken.monaco"},
+        {"Website":null},
+        {"Email":null}
+    ],
+    "Payment":[
+        {"Method":["Tarjeta","Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":10,
+    "Parking":true,
+    "Wifi":false,
+    "Smoking area":true,
+    "Menu card":{
+        "Starters":[
+            {"Plate":"Mini Hot Dog",
+            "Price":300},
+            {"Plate":"Flamenquin",
+            "Price":1000},
+            {"Plate":"San Jacobo",
+            "Price":1000},
+            {"Plate":"Tostones rellenos",
+            "Price":800},
+            {"Plate":"Entremes de jamon y queso",
+            "Price":1200},
+            {"Plate":"Picadera de la casa",
+            "Price":2500},
+            {"Plate":"Chips de boniato",
+            "Price":500}
+        ],
+        "Main course":[
+            {"Plate":"Pollo frito",
+            "Price":1300},
+            {"Plate":"Pollo chiflado",
+            "Price":1600},
+            {"Plate":"Pollo chiflado sin hueso",
+            "Price":1800},
+            {"Plate":"Pollo relleno de jamon y queso",
+            "Price":2000},
+            {"Plate":"Nuggets de pollo",
+            "Price":1000},
+            {"Plate":"Sandwich de pollo",
+            "Price":900}
+        ],
+        "Additionals":null,
+        "Siders":null,
+        "Drinks":[
+            {"Type":"Batido de helado",
+            "Price":1000},
+            {"Type":"Malteada",
+            "Price":900},
+            {"Type":"Jugo natural",
+            "Price":400},
+            {"Type":"Vaca Negra",
+            "Price":800}
+        ],
+        "Desserts":null
+    }
+}

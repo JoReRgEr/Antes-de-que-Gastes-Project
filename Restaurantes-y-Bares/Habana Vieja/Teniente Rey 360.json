@@ -1,108 +1,330 @@
 {
-    "Place":"Teniente Rey 360",
-    "Address":"Calle Teniente Rey, #360, esquina de Aguacate y Villegas",
-    "Municipality":"Habana Vieja",
-    "Classification":"Restaurant",
-    "Specialization":"Comida criolla",
-    "Property":"Privado",
-    "Schedule":"11h00 - 23h30 (Todos los dias)",
-    "Ratings":"4.5 (Tripadvisor) / 4.6 (Google Maps)",
-    "Reservations":"True",
-    "Delivery":"False",
-    "Delivery area":"False",
-    "Phone":"78602916",
-    "Accounts or website":"Teniente Rey 360 (Facebook)",
-    "Payment method":"Tarjeta o efectivo (MN o moneda extranjera)",
-    "Capacity":20,
-    "Parking":"False",
-    "Wifi":"False",
-    "Smoking area":"True",
-    "Menu card":{
-        "Starters":[
-         {"Plate":"Croquetas",
-         "Price":400},
-         {"Plate":"Bolitas de queso",
-         "Price":500},
-         {"Plate":"Tostones rellenos",
-         "Price":600},
-         {"Plate":"Garbanzos fritos",
-         "Price":700}
-        ],
-        "Main course":[
-         {"Plate":"Pechuga de pollo",
-         "Price":1950},
-         {"Plate":"Fajitas de pechuga de pollo",
-         "Price":2000},
-         {"Plate":"Ropa vieja",
-         "Price":1950},
-         {"Plate":"Picadillo a la cubana",
-         "Price":1500},
-         {"Plate":"Masas de cerdo",
-         "Price":1700},
-         {"Plate":"Fricase de cerdo",
-         "Price":1750},
-         {"Plate":"Solomillo",
-         "Price":1900},
-         {"Plate":"Coctel de camarones",
-         "Price":700},
-         {"Plate":"Coctel de langosta",
-         "Price":700},
-         {"Plate":"Langosta al ajillo o enchilada",
-         "Price":2500},
-         {"Plate":"Colas de langosta",
-         "Price":2600},
-         {"Plate":"Camarones a la orden (al ajillo o enchilado)",
-         "Price":2500},
-         {"Plate":"Camarones rebosados",
-         "Price":2800},
-         {"Plate":"Pulpo al ajillo o grille",
-         "Price":2700},
-         {"Plate":"Cazuelita Teniente Rey",
-         "Price":2900},
-         {"Plate":"Mariscada Teniente Rey",
-         "Price":2900},
-         {"Plate":"Filete de pescado",
-         "Price":2400},
-         {"Plate":"Filete Mignon",
-         "Price":3200},
-         {"Plate":"Punta de filete",
-         "Price":2900},
-         {"Plate":"Filete Jhonvill",
-         "Price":3500}
-        ],
-        "Siders":[
-        {"Type":"Arroz",
-        "Price":200},
-        {"Type":"Chatinos",
-        "Price":300},
-        {"Type":"Yuca",
-        "Price":200}
-        ],
-        "Drinks":[
-        {"Type":"Refrescos nacionales",
-        "Price":380},
-        {"Type":"Refrescos importados",
-        "Price":420},
-        {"Type":"Malta nacional",
-        "Price":420},
-        {"Type":"Agua natural nacional",
-        "Price":250},
-        {"Type":"Kermato",
-        "Price":500},
-        {"Type":"Agua tonica",
-        "Price":450},
-        {"Type":"Cerveza nacional enlatada",
-        "Price":360},
-        {"Type":"Cerveza nacional en botella",
-        "Price":460},
-        {"Type":"Cerveza importada",
-        "Price":460}
-        ],
-        "Desserts":[
-        {"Plate":"Flan",
-        "Price":500},
-        {"Plate":"Torrejas",
-        "Price":400}
-        ]
-    }
+  "establishment": {
+    "classification": {
+      "type": ["bar-restaurante"]
+    },
+    "name": "Teniente Rey 360",
+    "type": ["Caribeña", "Latina", "Marisco", "Cubana", "Sudamericana", "Centroamericana"],
+    "description": "El bar-restaurante especializado en comida cubana, las mejores ofertas, excelente relación calidad y precio. A solo unos pasos del Capitolio, visítanos.",
+    "contact_info": {
+      "phone": {
+        "number": "7 8602916",
+        "type": "landline"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "21:30"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "21:30"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "21:30"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "21:30"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "21:30"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "21:30"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "21:30"
+      }
+    },
+    "address": "Calle Teniente Rey #360 entre Aguacate y Villegas, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "instagram": "https://www.instagram.com/teniente_rey360",
+      "facebook": null,
+      "whatsapp": null
+    },
+    "accepted_payment_methods": [],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "10% service charge",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Comidas", "Cenas", "Brunch"],
+      "services": ["Sanitario", "Tiene bar", "Televisión", "Acceso para discapacitados"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": ["Opciones vegetarianas"],
+    "meals": ["Comidas", "Cenas", "Brunch"],
+    "advantages": ["Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+    "highlights": ["Aperitivos", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  },
+  "menu_details": {
+      "kind_of_food": ["variada", "criolla"],
+      "menu_card": {
+          "menu_sections": {
+            "starters": [
+              {
+                "courses": [
+                  {
+                    "name": "Surtidos Tte Rey Especialidades",
+                    "price": null
+                  },
+                  {
+                    "name": "Croquetas",
+                    "price": 400
+                  },
+                  {
+                    "name": "Bolitas de Queso",
+                    "price": 500
+                  },
+                  {
+                    "name": "Tostones Rellenos",
+                    "price": 600
+                  },
+                  {
+                    "name": "Garbanzos Fritos",
+                    "price": 700
+                  },
+                  {
+                    "name": "Tamal con salsa BBQ",
+                    "price": 600
+                  },
+                  {
+                    "name": "Selección del panadero",
+                    "price": 600
+                  },
+                  {
+                    "name": "Tostas de cangrejo",
+                    "price": 800
+                  },
+                  {
+                    "name": "Croquetas de la casa",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Tartar de albacora",
+                    "price": 1300
+                  },
+                  {
+                    "name": "Ceviche Sibarita",
+                    "price": 1300
+                  },
+                  {
+                    "name": "Bruschettas Mix",
+                    "price": 1350
+                  },
+                  {
+                    "name": "Tacos de ropa vieja",
+                    "price": 1700
+                  },
+                  {
+                    "name": "Tacos de cerdo",
+                    "price": 1600
+                  },
+                  {
+                    "name": "Tataki de albacora",
+                    "price": 1950
+                  },
+                  {
+                    "name": "Tabla de jamón serrano, embutidos y queso",
+                    "price": 2700
+                  },
+                  {
+                    "name": "Tacos de camarón y bacón",
+                    "price": 2950
+                  },
+                  {
+                    "name": "Carpaccio de Res (Angus Prime)",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Natural",
+                    "price": 800
+                  },
+                  {
+                    "name": "Chicken Little",
+                    "price": 1650
+                  }
+                ]
+              }
+            ],
+            "main_courses": [
+              {
+                "courses": [
+                  {
+                    "name": "Pechuga de Pollo",
+                    "price": 1950
+                  },
+                  {
+                    "name": "Fajitas de Pechuga de Pollo",
+                    "price": 2000
+                  },
+                  {
+                    "name": "Spaguettis",
+                    "price": null
+                  },
+                  {
+                    "name": "Ropa Vieja",
+                    "price": 2000
+                  },
+                  {
+                    "name": "Picadillo a la Cubana",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Masas de Cerdo",
+                    "price": 1700
+                  },
+                  {
+                    "name": "Fricase de Cerdo",
+                    "price": 1750
+                  },
+                  {
+                    "name": "Solomillo",
+                    "price": 1900
+                  },
+                  {
+                    "name": "Cazuelita Tte Rey",
+                    "price": 2900
+                  },
+                  {
+                    "name": "Mariscada Tte Rey",
+                    "price": 12900
+                  },
+                  {
+                    "name": "Filete de Pescado",
+                    "price": 2400
+                  },
+                  {
+                    "name": "Filet Mignon",
+                    "price": 3200
+                  },
+                  {
+                    "name": "Punta de Filete",
+                    "price": 2900
+                  },
+                  {
+                    "name": "Filete Jhonvill",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Coctel de Camarones",
+                    "price": 700
+                  },
+                  {
+                    "name": "Coctel de Langosta",
+                    "price": 700
+                  },
+                  {
+                    "name": "Langosta",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Colas de Langosta",
+                    "price": 2600
+                  },
+                  {
+                    "name": "Camarones a la Orden",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Camarones Rebosados",
+                    "price": 2800
+                  },
+                  {
+                    "name": "Pulpo",
+                    "price": 2700
+                  }
+                ]
+              }
+            ],
+            "rations": [
+              {
+                "name": "Arroz",
+                "price": 200
+              },
+              {
+                "name": "Chatinos",
+                "price": 300
+              },
+              {
+                "name": "Yuca",
+                "price": 200
+              }
+            ],
+            "liquids": [
+              {
+                "alcoholic_beverages": [
+                  {
+                    "beers": [
+                      {
+                        "name": "Cerveza Nacional Lata",
+                        "price": 360
+                      },
+                      {
+                        "name": "Cerveza Nacional Botella",
+                        "price": 460
+                      },
+                      {
+                        "name": "Cerveza Importada",
+                        "price": 460
+                      }
+                    ]
+                  }
+                ],
+                "water": [
+                  {
+                    "name": "Agua Natural Nacional",
+                    "price": 250
+                  },
+                  {
+                    "name": "Agua Tónica",
+                    "price": 450
+                  }
+                ],
+                "soft_drinks": [
+                  {
+                    "name": "Refrescos Nacionales",
+                    "price": 380
+                  },
+                  {
+                    "name": "Refrescos Importados",
+                    "price": 420
+                  },
+                  {
+                    "name": "Malta Nacional",
+                    "price": 420
+                  }
+                ]
+              }
+            ]
+          }
+      }    
+  }
 }
+        

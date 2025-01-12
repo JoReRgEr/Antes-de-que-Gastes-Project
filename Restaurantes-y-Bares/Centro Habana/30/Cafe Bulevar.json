@@ -1,0 +1,265 @@
+{
+    "type_of_establishment": "restaurante-bar",
+    "place_name": "Cafe Boulevard",
+    "property_type": "estatal",
+    "address": {
+        "establishment_phone_number": "+53 78602134",
+        "email": null,
+        "city": "La Habana",
+        "district": "Centro Habana",
+        "location": "Blvd. de San Rafael",
+        "coordinates": "23.136484050512784, -82.36292479045765"
+    },
+    "schedules": {
+        "Reduced_working_hours_on_public_holidays": null,
+        "monday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "closed": "23:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                    "stars": 3.4,
+                    "number_of_reviews": 9,
+                    "recurring_themes": [ ["comida", "precios"],
+                    {
+                        "for_better_or_worse": "variadas"
+                    }
+                ]
+            },
+            "tripadvisor": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null],
+                    {
+                        "for_better_or_worse": null
+                    }
+                ]
+            },
+            "facebook": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null],
+                    {
+                        "for_better_or_worse": null
+                    }
+                ]
+            },
+            "regularity": false
+        },
+        "establishment_capacity": "medio",
+        "decoration": "contemporaneo",
+        "festive_decorations": false,
+        "dress_code": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": ["grupos"],
+        "digital_menus": [ false,
+            {
+                "page_or_application_used": null
+            }
+        ],
+        "robotic": false,
+        "concurrent_music": "variada",
+        "energy_backup": false,
+        "other_services": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": false,
+            "X": false,
+            "telegram": false,
+            "Cuban_websites": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "Threads": false
+        },
+        "child_care": false,
+        "disable_support": false,
+        "wifi": false,
+        "parking":  false,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "catering": false,
+        "interactive_activities": false,
+        "sanitary": true,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer":
+            {
+                "transfermovil": true,
+                "enzona": false,
+                "bancaremota": false,
+                "visa": false,
+                "mastercard": false
+            },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false,
+            "others": false
+        },
+        "10% charge": false
+    },
+    "menu_details": {
+        "kind_of_food": ["variada"],
+        "healthy_food_options": true,
+        "menu_card": {
+            "menu_sections": {
+                "snacks": [
+                    {
+                        "courses": [
+                            {
+                                "name": "ensalada de estacion",
+                                "price": 200,
+                                "main_ingredients": ["vegetales"]
+                            },
+                            {
+                                "name": "papas fritas",
+                                "price": 150,
+                                "main_ingredients": ["vianda"]
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "caldosa boulevard",
+                                "price": 200,
+                                "main_ingredients": ["grano", "vegetales", "variados"]
+                            },
+                            {
+                                "name": "arroz con subproductos",
+                                "price": 300,
+                                "main_ingredients": ["grano"]
+                            },
+                            {
+                                "name": "fajitas de cerdo",
+                                "price": 1350,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "name": "fajitas de pollo",
+                                "price": 1300,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "name": "filete de merluza",
+                                "price": 550,
+                                "main_ingredients": ["pescado"]
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "beers": [
+                                    {
+                                        "name" : "cerveza importada",
+                                        "price" : 180
+                                    }
+                                ],
+                                "wine_glass": [
+                                    {
+                                        "name" : "vino tinto cabernet",
+                                        "price" : 1340
+                                    }
+                                ],
+                                "shots": [
+                                    {
+                                        "name" : "licor paso pondal",
+                                        "price" : 75
+                                    },
+                                    {
+                                        "name" : "licor fenet blanca",
+                                        "price" : 75
+                                    },
+                                    {
+                                        "name" : "grappa carolina bianca",
+                                        "price" : 75
+                                    },
+                                    {
+                                        "name" : "ron legendario añejo",
+                                        "price" : 90
+                                    },
+                                    {
+                                        "name" : "ron legendario dorado",
+                                        "price" : 100
+                                    },
+                                    {
+                                        "name" : "trago legendario ronse",
+                                        "price" : 75
+                                    },
+                                    {
+                                        "name" : "licor de cafe",
+                                        "price" : 75
+                                    },
+                                    {
+                                        "name" : "copa de vino blanco",
+                                        "price" : 145
+                                    }
+                                ]
+                            }
+                        ],
+                        "natural_juices": [
+                            {
+                                "name" : "jugo de fruta",
+                                "price" : 100
+                            }
+                        ]
+                    }
+                ]
+            }
+        }    
+    }
+}

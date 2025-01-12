@@ -1,0 +1,647 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["bar-restaurante"]
+    },
+    "name": "Habana 5 Rooftop",
+    "type": "Nacional e Internacional",
+    "description": "Restaurante de Cocina Nacional e Internacional, coctelería de autor. Ofrecemos desayunos, almuerzos y cenas. Excelente vista a La Bahía de La Habana, música en vivo y ambientación.",
+    "contact_info": {
+      "phone": {
+        "number": "055519987",
+        "type": ["mobile"]
+      },
+      "mobile": null,
+      "email": null,
+      "website": null,
+      "whatsapp": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "09:00",
+        "close": "02:00"
+      },
+      "tuesday": {
+        "open": "09:00",
+        "close": "02:00"
+      },
+      "wednesday": {
+        "open": "09:00",
+        "close": "02:00"
+      },
+      "thursday": {
+        "open": "09:00",
+        "close": "02:00"
+      },
+      "friday": {
+        "open": "09:00",
+        "close": "02:00"
+      },
+      "saturday": {
+        "open": "09:00",
+        "close": "02:00"
+      },
+      "sunday": {
+        "open": "09:00",
+        "close": "02:00"
+      }
+    },
+    "address": "Calle Habana entre Peña Pobre y Av. Bélgica, Habana Vieja",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null,
+      "whatsapp": null
+    },
+    "accepted_payment_methods": ["Pagos digitales"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "10% service charge",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Desayunos", "Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": null,
+      "pets": true,
+      "parking": ["Aparcamiento en la calle", "Estacionamiento gratuito en la calle"]
+    },
+    "dietary_options": [],
+    "meals": ["Desayuno", "Comidas", "Cenas", "Brunch", "Abierto hasta tarde", "Bebidas"],
+    "advantages": ["Reservas", "Terraza exterior", "Restaurante privado", "Capacidad", "Sirve alcohol", "Vino y cerveza", "Servicio de mesa", "Música en directo", "Frente a una costa o ribera", "Admite perros", "Estilo familiar"],
+    "highlights": ["Asientos al aire libre", "Aperitivos", "Buenos cócteles", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  },
+  "menu_details": {
+      "kind_of_food": ["variada", "criolla", "europea"],
+      "healthy_food_options": false,
+      "menu_card": {
+          "menu_sections": {
+              "starters": [
+                  { 
+                      "courses": [
+                        {
+                          "name": "Bowl de frutas con yogurt, cereales y granola",
+                          "price": 800.00
+                        },
+                        {
+                          "name": "Bowl de frutas tropicales",
+                          "price": 650.00
+                        },
+                        {
+                          "name": "Pan bao con lechón y mojo criollo",
+                          "price": 1350.00
+                        },
+                        {
+                          "name": "Sandwich del mar",
+                          "price": 1500.00
+                        },
+                        {
+                          "name": "Hamburguesa de langosta",
+                          "price": 1500.00
+                        },
+                        {
+                          "name": "Sandwich cubano",
+                          "price": 1500.00
+                        },
+                        {
+                          "name": "Baguette de punta de filete de res",
+                          "price": 1350.00
+                        },
+                        {
+                          "name": "Ceviche de pescado y pulpo en leche de tigre",
+                          "price": 2100.00
+                        },
+                        {
+                          "name": "Tartar de albacora curada",
+                          "price": 2500.00
+                        },
+                        {
+                          "name": "Enchilado de cangrejo sobre casabe",
+                          "price": 1500.00
+                        },
+                        {
+                          "name": "Tacos de cerdo asado",
+                          "price": 1800.00
+                        },
+                        {
+                          "name": "Croquetas del día",
+                          "price": 1800.00
+                        },
+                        {
+                          "name": "Satay de punta de filete en salsa de maní",
+                          "price": 2100.00
+                        },
+                        {
+                          "name": "Crema de maíz con enchilado de cangrejo",
+                          "price": 1500.00
+                        },
+                        {
+                          "name": "Tiradito de robalo ahumado en ajo blanco de coco y maní con hueva de emperador curada",
+                          "price": 1800.00
+                        },
+                        {
+                          "name": "Minuta de pescado sobre pan focaccia",
+                          "price": 1800.00
+                        },
+                        {
+                          "name": "Tacos de langosta",
+                          "price": 2100.00
+                        },
+                        {
+                          "name": "Pimientos piquillo rellenos con frutos del mar",
+                          "price": 2100.00
+                        },
+                        {
+                          "name": "Pollo satay",
+                          "price": 1500.00
+                        },
+                        {
+                          "name": "Tabla surtida de quesos y embutidos",
+                          "price": 3500.00
+                        }
+                      ]
+                  }
+              ],
+              "main_courses": [
+                  {
+                      "courses": [
+                        {
+                          "name": "Huevos benedictinos",
+                          "price": 1500.00
+                        },
+                        {
+                          "name": "Omelette cuatro quesos",
+                          "price": 1500.00
+                        },
+                        {
+                          "name": "Huevos fritos",
+                          "price": 1350.00
+                        },
+                        {
+                          "name": "Huevos rancheros",
+                          "price": 1350.00
+                        },
+                        {
+                          "name": "Ensalada verde con queso de cabra fresco y vinagreta de maracuyá",
+                          "price": 1500.00
+                        },
+                        {
+                          "name": "Ensalada de burrata y remolacha",
+                          "price": 2800.00
+                        },
+                        {
+                          "name": "Salmorejo con crujiente de jamón serrano",
+                          "price": 1500.00
+                        },
+                        {
+                          "name": "Langosta a baja temperatura sobre risotto de almejas",
+                          "price": 4200.00
+                        },
+                        {
+                          "name": "Pescado frito del día con salsa agridulce picante y tzatziki",
+                          "price": 3500.00
+                        },
+                        {
+                          "name": "Camarones al pil pil",
+                          "price": 4200.00
+                        },
+                        {
+                          "name": "Solomillo de res",
+                          "price": 8500.00
+                        },
+                        {
+                          "name": "Ropa vieja",
+                          "price": 3000.00
+                        },
+                        {
+                          "name": "Filete de pescado al estilo del chef",
+                          "price": 3000.00
+                        },
+                        {
+                          "name": "Pulpo a la brasa",
+                          "price": 4200.00
+                        },
+                        {
+                          "name": "Costillas de cerdo y zanahorias a baja temperatura sobre humus",
+                          "price": 3500.00
+                        },
+                        {
+                          "name": "Rib-eye",
+                          "price": 12500.00
+                        },
+                        {
+                          "name": "Arroz meloso del mar",
+                          "price": 3500.00
+                        },
+                        {
+                          "name": "Risotto de calabaza y queso gorgonzola",
+                          "price": 2500.00
+                        },
+                        {
+                          "name": "Arroz campesino",
+                          "price": 3000.00
+                        },
+                        {
+                          "name": "Paella del día (2 pax)",
+                          "price": 4200.00
+                        }
+                      ]
+                  }
+              ],
+              "rations": [
+                {
+                  "name": "Arroz blanco / White rice",
+                  "price": 450
+                },
+                {
+                  "name": "Frijoles negros / Black beans",
+                  "price": 750
+                },
+                {
+                  "name": "Yuca con mojo / Yucca with traditional sauce",
+                  "price": 600
+                },
+                {
+                  "name": "Vegetales salteados / Sauteed vegetables",
+                  "price": 600
+                },
+                {
+                  "name": "Chicharritas de plátano / Banana chips",
+                  "price": 600
+                }
+              ],
+              "desserts": [
+                  {
+                      "courses": [
+                        {
+                          "name": "Tostadas francesas",
+                          "price": 800.00
+                        },
+                        {
+                          "name": "Crepes suzette",
+                          "price": 850.00
+                        },
+                        {
+                          "name": "Hot cakes",
+                          "price": 650.00
+                        },
+                        {
+                          "name": "Sweet potato pudin crema cardamono",
+                          "price": 1000.00
+                        },
+                        {
+                          "name": "Tiramisú",
+                          "price": 1000.00
+                        },
+                        {
+                          "name": "Tarta de queso",
+                          "price": 1250.00
+                        }
+                      ]
+                  }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "cocktails": [
+                        {
+                          "name": "Habana cinco",
+                          "price": 1750.00
+                        },
+                        {
+                          "name": "Smoky canchänchara",
+                          "price": 1750.00
+                        },
+                        {
+                          "name": "Piña colada",
+                          "price": 2100.00
+                        },
+                        {
+                          "name": "Spicy margarita",
+                          "price": 2100.00
+                        },
+                        {
+                          "name": "Whiskey sour",
+                          "price": 2100.00
+                        },
+                        {
+                          "name": "Sangría blanca",
+                          "price": 2450.00
+                        },
+                        {
+                          "name": "French 75",
+                          "price": 2100.00
+                        },
+                        {
+                          "name": "Daiquirí Habana cinco",
+                          "price": 1750.00
+                        },
+                        {
+                          "name": "Deep caipirinha",
+                          "price": 1750.00
+                        },
+                        {
+                          "name": "Negroni frozzen",
+                          "price": 2100.00
+                        },
+                        {
+                          "name": "Bramble",
+                          "price": 2100.00
+                        },
+                        {
+                          "name": "Habana fashion",
+                          "price": 2100.00
+                        },
+                        {
+                          "name": "Aperol spritz",
+                          "price": 2500.00
+                        }
+                      ],
+                      "wine_glass": [
+                        {
+                          "name": "Copa de vino",
+                          "price": 1400.00
+                        }
+                      ],
+                      "beers": [
+                        {
+                          "name": "Cerveza",
+                          "price": 1000.00
+                        }
+                      ],
+                      "bottles": [
+                        {
+                          "name": "Copa de cava",
+                          "price": 1500.00
+                        },
+                        {
+                          "name": "Champagne Moet & Chandon Imperial",
+                          "price": 42000.00
+                        },
+                        {
+                          "name": "Marrugat selección",
+                          "price": 7000.00
+                        },
+                        {
+                          "name": "Champagne Pommery",
+                          "price": 17500.00
+                        },
+                        {
+                          "name": "Cava Gorner Brut",
+                          "price": 7500.00
+                        },
+                        {
+                          "name": "Lambrusco dell Emilia",
+                          "price": 5400.00
+                        },
+                        {
+                          "name": "Marrugat Imperial Brut",
+                          "price": 7500.00
+                        },
+                        {
+                          "name": "Lunetta Prosecco Brut",
+                          "price": 9000.00
+                        },
+                        {
+                          "name": "Melior 2021",
+                          "price": 7500.00
+                        },
+                        {
+                          "name": "Marquéz de Casa Concha",
+                          "price": 13500.00
+                        },
+                        {
+                          "name": "Peique Godello 2022",
+                          "price": 8400.00
+                        },
+                        {
+                          "name": "Señorío de Rubiós Condado do Tea",
+                          "price": 8400.00
+                        },
+                        {
+                          "name": "Heredad Peñalosa 2021",
+                          "price": 7500.00
+                        },
+                        {
+                          "name": "Leira Reyero 2022",
+                          "price": 7500.00
+                        },
+                        {
+                          "name": "Pazo Pondal",
+                          "price": 10500.00
+                        },
+                        {
+                          "name": "Albariño Leira Pondal",
+                          "price": 9000.00
+                        },
+                        {
+                          "name": "Señorío de Rubiós Albariño",
+                          "price": 8400.00
+                        },
+                        {
+                          "name": "Paco Mulero",
+                          "price": 8400.00
+                        },
+                        {
+                          "name": "Giró del Corner",
+                          "price": 7500.00
+                        },
+                        {
+                          "name": "Pirovano Collezione Beatrice Garda",
+                          "price": 5400.00
+                        },
+                        {
+                          "name": "Pirovano Garganega",
+                          "price": 5400.00
+                        },
+                        {
+                          "name": "Casillero del Diablo Reserva 2020",
+                          "price": 6000.00
+                        },
+                        {
+                          "name": "Peique Rosado 2022",
+                          "price": 6000.00
+                        },
+                        {
+                          "name": "Casillero del Diablo Reserva 2019",
+                          "price": 6000.00
+                        },
+                        {
+                          "name": "Pirovano Montepulciano d'Abruzzo",
+                          "price": 5400.00
+                        },
+                        {
+                          "name": "Pirovano Nero d'Avola",
+                          "price": 5400.00
+                        },
+                        {
+                          "name": "Viña Aldaia Crianza 2020",
+                          "price": 6000.00
+                        },
+                        {
+                          "name": "Prisma Rioja 2021",
+                          "price": 6000.00
+                        },
+                        {
+                          "name": "Prisma Calatayud 2021",
+                          "price": 6000.00
+                        },
+                        {
+                          "name": "Las Cuadras",
+                          "price": 6000.00
+                        },
+                        {
+                          "name": "Petit Sios",
+                          "price": 6000.00
+                        },
+                        {
+                          "name": "Arzuaca Crianza",
+                          "price": 12000.00
+                        },
+                        {
+                          "name": "Coronas Crianza 2018",
+                          "price": 7500.00
+                        },
+                        {
+                          "name": "Puntes de Calnegre 2020",
+                          "price": 7500.00
+                        },
+                        {
+                          "name": "Peique Ramón Valle 2020",
+                          "price": 8400.00
+                        },
+                        {
+                          "name": "Gran Coronas",
+                          "price": 10500.00
+                        },
+                        {
+                          "name": "Pago de los Capellanes 2021",
+                          "price": 12000.00
+                        },
+                        {
+                          "name": "Muga Roja Crianza 2019",
+                          "price": 15000.00
+                        },
+                        {
+                          "name": "Valduero Una Cepa 2018",
+                          "price": 24000.00
+                        },
+                        {
+                          "name": "Prisma orgánico ecológico 2021",
+                        "price": 6000.00
+                      },
+                      {
+                        "name": "Peique mencía 2022",
+                        "price": 6000.00
+                      },
+                      {
+                        "name": "Alto sios 2020",
+                        "price": 6000.00
+                      },
+                      {
+                        "name": "Heredad peñalosa roble 2021",
+                        "price": 7500.00
+                      },
+                      {
+                        "name": "Rectoral de amandi",
+                        "price": 7500.00
+                      },
+                      {
+                        "name": "Melior 2021",
+                        "price": 7500.00
+                      },
+                      {
+                        "name": "Sangre de toro",
+                        "price": 7500.00
+                      },
+                      {
+                        "name": "Altos ibéricos crianza 2017",
+                        "price": 9000.00
+                      },
+                      {
+                        "name": "Selección torres celeste crianza",
+                        "price": 12000.00
+                      },
+                      {
+                        "name": "Marquez de murrieta reserva 2017",
+                        "price": 15000.00
+                      },
+                      {
+                        "name": "Matarromera crianza",
+                        "price": 18000.00
+                        }
+                      ]
+                    }
+                  ],
+                  "water": [
+                    {
+                      "name": "Agua gaseada importada",
+                      "price": 750.00
+                    },
+                    {
+                      "name": "Agua natural",
+                      "price": 700.00
+                    },
+                    {
+                      "name": "Agua tónica importada",
+                      "price": 900.00
+                    }
+                  ],
+                  "natual_juices": [
+                    {
+                      "name": "Jugos naturales",
+                      "price": 750.00
+                    }
+                  ],
+                  "soft_drinks": [
+                    {
+                      "name": "Refrescos importados",
+                      "price": 900.00
+                    },
+                    {
+                      "name": "Iced tea lemonade (sin alcohol)",
+                      "price": 1400.00
+                    }
+                  ],
+                  "coffees": [
+                    {
+                      "name": "Café espresso",
+                      "price": 250.00
+                    },
+                    {
+                      "name": "Café americano",
+                      "price": 250.00
+                    },
+                    {
+                      "name": "Frapuccino",
+                      "price": 500.00
+                    },
+                    {
+                      "name": "Café cortado",
+                      "price": 350.00
+                    },
+                    {
+                      "name": "Café capuccino",
+                      "price": 500.00
+                    }
+                  ]
+                }
+              ]
+          }
+      }    
+  }
+  }
+  

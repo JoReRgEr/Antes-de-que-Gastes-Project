@@ -1,0 +1,141 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Hotel"]
+    },
+    "name": "Mini Bar (Hotel Royalton Paseo Del Prado)",
+    "description": "Mini bar del Hotel Royalton Paseo Del Prado ubicado en Prado y Malecón, Habana Vieja.",
+    "contact_info": {
+      "phone": null,
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "tuesday": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "wednesday": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "thursday": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "friday": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "saturday": {
+        "open": "00:00",
+        "close": "23:59"
+      },
+      "sunday": {
+        "open": "00:00",
+        "close": "23:59"
+      }
+    },
+    "address": "Prado y Malecón, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null,
+      "whatsapp": null
+    },
+    "accepted_payment_methods": ["Crédito"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "10% por servicios prestados",
+      "description": "Se adiciona el 10% a su cuenta por servicios prestados.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": false,
+      "takeaway": false,
+      "offers": ["Mini Bar"],
+      "local_options": [],
+      "services": [],
+      "ambience": ["Casual"],
+      "usual_customers": ["Huéspedes del hotel"],
+      "planning": [],
+      "children": null,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [],
+    "advantages": ["Sirve alcohol", "Agua y refrescos"],
+    "highlights": ["Mini Bar en habitación"]
+  },
+  "menu_details": {
+      "kind_of_food": ["bebidas"],
+      "healthy_food_options": false,
+      "menu_card": {
+          "menu_sections": {
+            "liquids": [
+              {
+                "alcoholic_beverages": [
+                  {
+                    "beers": [
+                      {
+                        "name": "Cerveza nacional / National beer",
+                        "price": 600
+                      },
+                      {
+                        "name": "Cerveza importada / Imported beer",
+                        "price": 750
+                      }
+                    ],
+                    "shots": [
+                      {
+                        "name": "Ron en miniatura (45ml) / Miniature rum (45ml)",
+                        "price": 850
+                      }
+                    ]
+                  }
+                ],
+                "natual_juices": [
+                  {
+                    "name": "Jugo de frutas / Fruit juice",
+                    "price": 360
+                  }
+                ],
+                "soft_drinks": [
+                  {
+                    "name": "Refresco / Soda",
+                    "price": 390
+                  }
+                ],
+                "water": [
+                  {
+                    "name": "Agua tónica / Tonic water",
+                    "price": 450
+                  },
+                  {
+                    "name": "Agua natural / Natural water",
+                    "price": 600
+                  },
+                  {
+                    "name": "Agua gaseada / Sparkling water",
+                    "price": 600
+                  }
+                ]
+              }
+            ]
+          }
+      }    
+  }
+  }
+  

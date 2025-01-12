@@ -1,0 +1,132 @@
+{
+    "ID": 1302,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "plus_code": "4HVX+3WQ, y C, Vedado, La, Malecón, La Habana"
+        }
+    },
+    "name": "Bohío_Mercadito",
+    "type_cuisine": ["Bar","Americana"],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.2,
+        "qualification_tripadvisor": "",
+        "qualification_facebook": ""
+    },
+    "reservation_options": false,
+    "social_networks": ["Instagram"],
+    "payment_options": ["Efectivo","Transfermovil"],
+    "service_details": ["A la carta"],
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "europea"],
+        "menu_card": {
+            "menu_sections": {
+              "breakfasts": [
+                {
+                  "course": [
+                    {
+                      "name": "Baguette Jamón y Queso",
+                      "price": 700.00
+                  },
+                  {
+                      "name": "Croissant Nutella",
+                      "price": 800.00
+                  },
+                  {
+                      "name": "Croissant Jamón y Queso",
+                      "price": 900.00
+                  },
+                  {
+                      "name": "Mini Croissants Chocolate",
+                      "price": 150.00
+                  },
+                  {
+                      "name": "Dona Chocolate",
+                      "price": 250.00
+                  }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "natual_juices": [
+                    {
+                      "name": "Frutos del Bosque/Plátano",
+                      "price": 600.00
+                  },
+                  {
+                      "name": "Mango",
+                      "price": 500.00
+                  },
+                  {
+                      "name": "Frutabomba",
+                      "price": 500.00
+                  }
+                  ],
+                  "coffees": [
+                    {
+                      "name": "Capuchino",
+                      "price": 250.00
+                  },
+                  {
+                      "name": "Expresso",
+                      "price": 100.00
+                  },
+                  {
+                      "name": "Cortado",
+                      "price": 150.00
+                  },
+                  {
+                      "name": "Bombón",
+                      "price": 250.00
+                  },
+                  {
+                      "name": "Affogato",
+                      "price": 500.00
+                  },
+                  {
+                      "name": "Frappuccino",
+                      "price": 500.00
+                  }
+                  ]
+                }
+              ]
+            }
+        }    
+    }
+}

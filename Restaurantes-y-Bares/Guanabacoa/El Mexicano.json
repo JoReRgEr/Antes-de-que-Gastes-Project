@@ -1,0 +1,186 @@
+{
+    "ID": 705,
+    "locality": {
+        "mun": "Guanabacoa",
+        "locator": {
+            "phones": {
+                "mobile": null ,
+                "landline": "72635413"
+            },
+            "plus_code": "4MHR+MC7, Avenida Quinta, La Habana, Cuba"
+        }
+    },
+    "name": "El Mexicano",
+    "type_cuisine": ["pizzas", "pastas"],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+           "opening": "10:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.7,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [null],
+    "payment_options": ["Efectivo"],
+    "service_details": ["A la carta"],
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "italiana"],
+        "menu_card": {
+            "menu_sections": {
+              "breads": [
+                {
+                  "courses": [
+                    {
+                      "name": "Sandwich de Jamón y Queso",
+                      "price": 350.00
+                  },
+                  {
+                      "name": "Sandwich de Queso Jamón Especial",
+                      "price": 600.00
+                  }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name": "Costillas de Cerdo",
+                      "price": 1200.00
+                    },
+                    {
+                      "name": "Ruedas de pescado Grille",
+                      "price": 1400.00
+                    },
+                    {
+                      "name": "Pollo Grille",
+                      "price": 950.00
+                    }
+                  ]
+                }
+              ],
+              "pizzas": [
+                {
+                  "courses": [
+                    {
+                      "name": "Pizza Queso Gouda",
+                      "price": 450.00
+                  }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {
+                      "name": "Spaguetti Queso Gouda",
+                      "price": 770.00
+                  }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "beers": [
+                        {
+                          "name": "Cerveza",
+                          "price": 200.00
+                      },
+                      {
+                          "name": "Holandia",
+                          "price": 200.00
+                      },
+                      {
+                          "name": "Cristal Lata",
+                          "price": 250.00
+                      },
+                      {
+                          "name": "Cristal Botella",
+                          "price": 200.00
+                      },
+                      {
+                          "name": "Shaka",
+                          "price": 350.00
+                      }
+                      ]
+                    }
+                  ],
+                  "soft_drinks": [
+                    {
+                      "name": "Tigon",
+                      "price": 300.00
+                  },
+                  {
+                      "name": "Malta 1 Hyper",
+                      "price": 270.00
+                  },
+                  {
+                      "name": "Pepsi",
+                      "price": 270.00
+                  },
+                  {
+                      "name": "Mirinda",
+                      "price": 280.00
+                  },
+                  {
+                      "name": "Perla negra",
+                      "price": 270.00
+                  },
+                  {
+                      "name": "Ironbeer",
+                      "price": 240.00
+                  },
+                  {
+                      "name": "Orange",
+                      "price": 220.00
+                  },
+                  {
+                      "name": "Cola Polo",
+                      "price": 220.00
+                  },
+                  {
+                      "name": "Limon",
+                      "price": 220.00
+                  },
+                  {
+                      "name": "Coca Cola",
+                      "price": 280.00
+                  }
+                  ]
+                }
+              ]
+            }
+        }    
+    }
+}

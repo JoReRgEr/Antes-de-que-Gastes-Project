@@ -1,0 +1,133 @@
+{
+    "general_info": {
+        "name":"El Bache",
+        "township":"Cotorro",
+        "adress":"Calle 30 entre 95 y 97,Las Brisas",
+        "local":"cafetería",
+        "open":"1030",
+        "close":"2230",
+        "days_of_week":["lunes","martes","miércoles","jueves","viernes"],
+        "sector":"privado",
+        "capability":30,
+        "social_network":["Facebook","Instagram"],
+        "years":15
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":true,
+        "delivery":true
+    },
+    "menu_details": {
+            "kind_of_food": ["italiana"],
+            "menu_card": {
+                "menu_sections": {
+                  "pizzas": [
+                    {
+                      "courses": [
+                        {
+                          "name":"pizza napolitana",
+                          "price":600
+                        },
+                        {
+                          "name":"pizza doble queso",
+                          "price":900
+                        },
+                        {
+                          "name":"pizza queso gouda",
+                          "price":900
+                        },
+                        {
+                          "name":"pizza jamón",
+                          "price":800
+                        },
+                        {
+                          "name":"pizza chorizo",
+                          "price":800
+                        },
+                        {
+                          "name":"pizza aceituna",
+                          "price":1350
+                        },
+                        {
+                          "name":"pizza atún",
+                          "price":800
+                        },
+                        {
+                          "name":"pizza cebolla",
+                          "price":1100
+                        },
+                        {
+                          "name":"pizza 4 estaciones",
+                          "price":1450
+                        }
+                      ]
+                    }
+                  ],
+                  "pastas": [
+                    {
+                      "courses": [
+                        {
+                          "name":"lasaña",
+                          "price": 800
+                        },
+                        {
+                          "name":"lasaña de queso gouda",
+                          "price": 1200
+                        },
+                        {
+                          "name":"espaguetti con queso gouda",
+                          "price": 900
+                        },
+                        {
+                          "name":"espaguetti",
+                          "price": 600
+                        }
+                      ]
+                    }
+                  ],
+                  "additions": [
+                    {
+                      "name":"queso",
+                      "price":200
+                    },
+                    {
+                      "name":"jamón",
+                      "price":200
+                    },
+                    {
+                      "name":"chorizo",
+                      "price":200
+                    },
+                    {
+                      "name":"aceituna",
+                      "price":200
+                    },
+                    {
+                      "name":"atún",
+                      "price":750
+                    },
+                    {
+                      "name":"cebolla",
+                      "price":300
+                    },
+                    {
+                      "name":"gouda",
+                      "price":650
+                    }
+                  ]
+                }
+            }    
+        },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":true,
+        "entertainment":[],
+        "peak_hour":["comida"],
+        "tourism":false,
+        "pets":false,
+        "bathroom":true,
+        "heated":false
+    }
+}

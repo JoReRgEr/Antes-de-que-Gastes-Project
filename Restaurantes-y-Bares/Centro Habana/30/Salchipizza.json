@@ -1,0 +1,187 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Salchipizza",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.13412923367649, 
+        "longitude": -82.37826298998031
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Salchipizza",
+        "instagram": "@salchipizza"
+    },
+    "schedule": {
+        "monday": { 
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "1300",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1300",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1300",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1300",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1300",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": false,
+            "close": false
+        }
+    },
+    "rating": 4.2,
+    "intake_capacity": "media",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": true,
+        "parking":false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu_details": {
+        "kind_of_food": ["variada"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+                "starters": [
+                    {
+                        "courses": [
+                            {
+                                "name": "tabla de panes artesanales",
+                                "price": 1500,
+                                "main_ingredients": ["harina", "variados"]
+                            },
+                            {
+                                "name": "terrina de pescado",
+                                "price": 2700,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "tinaja de carbón con crema Parmentier de verduras de estacion",
+                                "price": 2500,
+                                "main_ingredients": ["vegetales"]
+                            },
+                            {
+                                "name": "ensalada de cerdo guayaba y fruta bomba",
+                                "price": 2000,
+                                "main_ingredients": ["cerdo", "fruta"]
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "carretón de boniato, rueda de quimbombó y y látigo de carnero ahumado",
+                                "price": 3000,
+                                "main_ingredients": ["vianda", "carnero"]
+                            },
+                            {
+                                "name": "volcán de maíz, lava de pescado ardiente y cenizas de pulpo",
+                                "price": 3500,
+                                "main_ingredients": ["grano", "pescado", "marisco"]
+                            },
+                            {
+                                "name": "masa de cerdo con verduras al gratin",
+                                "price": 2300,
+                                "main_ingredients": ["cerdo", "vegetales"]
+                            },
+                            {
+                                "name": "señorita de cerdo con verduras al gratin",
+                                "price": 3000,
+                                "main_ingredients": ["cerdo", "vegetales"]
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "lasaña de carne a la boloñesa",
+                                "price": 1600,
+                                "main_ingredients": ["pasta", "queso", "cerdo"]
+                            }
+                        ]
+                    }
+                ],
+                "desserts": [
+                    {
+                        "courses": [
+                            {
+                                "name": "recuerdos de la infancia",
+                                "price" : 2000,
+                                "main_ingredients": ["variados"]
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "beers": [
+                                    {
+                                        "name" : "cerveza nacional",
+                                        "price" : 350
+                                    },
+                                    {
+                                        "name" : "cerveza importada",
+                                        "price" : 400
+                                    }
+                                ],
+                                "wine_glass": [
+                                    {
+                                        "name" : "copa de vino",
+                                        "price" : 750
+                                    },
+                                    {
+                                        "name" : "copa de champagne",
+                                        "price" : 800
+                                    }
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name" : "agua",
+                                "price" : 200
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name" : "cafe",
+                                "price" : 150
+                            }
+                        ]
+                    }
+                ]
+            }
+        }    
+    }
+}

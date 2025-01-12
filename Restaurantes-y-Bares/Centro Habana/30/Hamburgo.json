@@ -1,0 +1,129 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Hamburgo",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.131235737365408, 
+        "longitude": -82.37630082066377
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0900",
+            "close": "1900"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "1900"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "1900"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "1900"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "1900"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "1900"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "1900"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "media",
+    "cuisine": ["americana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu_details": {
+        "kind_of_food": ["panes"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+                "breads": [
+                    {
+                        "courses": [
+                            {
+                                "name": "hamburguesa de cerdo",
+                                "price": 275,
+                                "main_ingredients": ["harina", "cerdo"]
+                            },
+                            {
+                                "name": "hamburguesa de res",
+                                "price": 275,
+                                "main_ingredients": ["harina", "res"]
+                            },
+                            {
+                                "name": "hamburguesa vegetal con aderezos",
+                                "price": 300,
+                                "main_ingredients": ["harina", "vegetales"]
+                            },
+                            {
+                                "name": "super hamburguesa",
+                                "price": 550,
+                                "main_ingredients": ["harina", "variados"]
+                            }
+                        ]
+                    }
+                ],
+                "additions": [
+                    {
+                        "name": "queso gouda",
+                        "price": 150
+                    },
+                    {
+                        "name": "jamon bravo",
+                        "price": 120
+                    },
+                    {
+                        "name": "jamon serrano",
+                        "price": 250
+                    },
+                    {
+                        "name": "aceitunas",
+                        "price": 120
+                    },
+                    {
+                        "name": "vegetales encurtidos",
+                        "price": 80
+                    },
+                    {
+                        "name": "papas fritas",
+                        "price": 75
+                    },
+                    {
+                        "name": "papas fritas",
+                        "price": 150
+                    }
+                ]
+            }
+        }    
+    }
+}

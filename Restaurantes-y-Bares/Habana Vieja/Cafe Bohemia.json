@@ -1,0 +1,605 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["restaurante"]
+      },
+      "name": "Cafe Bohemia",
+      "type": ["Latina", "Saludable", "Cubana"],
+      "description": "El bar Restaurante Bohemia ofrece una variada coctelería, tapas, y dulces. Ubicado en la planta baja del majestuoso Palacio del Conde de Lombillo, se encuentra decorado con portadas de números de la revista Bohemia.",
+      "contact_info": {
+        "phone": {
+          "number": "+53 5 4031568",
+          "type": "mobile"
+        },
+        "email": "annalisa.gallina78@gmail.com",
+        "website": "https://www.havanabohemia.com/?fbclid=PAZXh0bgNhZW0CMTEAAaZfdC42A_xW3vKEhflH7fuNicWLPKj7CRNRWwJ7QMvMfz5eZPclZM_wXy0_aem_lFcK0zHOafgVrnYQpGOsnw"
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "08:00",
+          "close": "22:00"
+        },
+        "tuesday": {
+          "open": "08:00",
+          "close": "22:00"
+        },
+        "wednesday": {
+          "open": "08:00",
+          "close": "22:00"
+        },
+        "thursday": {
+          "open": "08:00",
+          "close": "22:00"
+        },
+        "friday": {
+          "open": "08:00",
+          "close": "22:00"
+        },
+        "saturday": {
+          "open": "08:00",
+          "close": "22:00"
+        },
+        "sunday": {
+          "open": "08:00",
+          "close": "22:00"
+        }
+      },
+      "address": "San Ignacio entre Teniente Rey y Mercaderes, Plaza Vieja, Habana Vieja",
+      "municipality": "Habana Vieja",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "social_media": {
+        "instagram": "https://www.instagram.com/cafebohemiaplaza?igsh=MXJnM2ZmcGthdTl3cA==",
+        "facebook": null,
+        "whatsapp": null
+      },
+      "accepted_payment_methods": ["efectivo", "transferencia"],
+      "delivery_available": true,
+      "service_fee": {
+        "name": "Sin tarifa de servicio",
+        "description": "No se cobra tarifa de servicio adicional.",
+        "applies": false
+      },
+      "features": {
+        "reservation_required": true,
+        "outdoor_seating": true,
+        "dine_in": true,
+        "takeaway": true,
+        "offers": ["Café", "Bistrot"],
+        "local_options": ["Desayuno", "Almuerzo", "Cena", "Postres"],
+        "services": ["Sanitario", "Tiene bar"],
+        "ambience": ["Agradable", "Informal"],
+        "usual_customers": ["Grupos"],
+        "planning": ["Se aceptan reservas"],
+        "children": null,
+        "pets": false,
+        "parking": null
+      },
+      "dietary_options": ["Opciones vegetarianas", "Opciones veganas", "Opciones sin gluten"],
+      "meals": ["Desayuno", "Comidas", "Cenas", "Brunch", "Abierto hasta tarde", "Bebidas"],
+      "advantages": ["Para llevar", "Terraza exterior", "Capacidad", "Acceso para discapacitados", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
+      "highlights": ["Asientos al aire libre", "Aperitivos", "Buenos cócteles", "Agradable", "Informal", "Recomendable para ir en grupo"]
+    },
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla", "americana", "italiana"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name": "Desayuno Bohemia",
+                      "price": 3200
+                    },
+                    {
+                      "name": "Berenjena a la parmesana",
+                      "price": 2450
+                    },
+                    {
+                      "name": "Tabla de charcutería italiana mixta, quesos mixtos, aceitunas negras y yuca frita",
+                      "price": 4500
+                    },
+                    {
+                      "name": "Tabla de quesos mixtos",
+                      "price": 3500
+                    },
+                    {
+                      "name": "Ensalada ecléctica",
+                      "price": 2450
+                    },
+                    {
+                      "name": "Yuca frita con mojo criollo",
+                      "price": 1800
+                    }
+                  ]
+                }
+              ],
+                "main_courses": [
+                    {
+                        "courses": [
+                          {
+                            "name": "Hamburguesa kingsize (300 gr) con scamorza y cebolla caramelizada",
+                            "price": 5500
+                          },
+                          {
+                            "name": "Entrecote a la parrilla (370-450 gr) y chips de patatas",
+                            "price": 11550
+                          },
+                          {
+                            "name": "Pescado del día con risotto rosado, salsa verde y zanahorias glaseadas",
+                            "price": 6650
+                          },
+                          {
+                            "name": "Costillas de cerdo en salsa BBQ, yuca frita, y vegetales grillados",
+                            "price": 5600
+                          }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                  {
+                    "courses": [
+                      {
+                        "name": "Margherita (salsa de tomate, mozzarella y albahaca)",
+                        "price": 3250
+                      },
+                      {
+                        "name": "Capricciosa (salsa de tomate, mozzarella, salami picante, alcachofas, aceitunas negras y serrano)",
+                        "price": 3750
+                      },
+                      {
+                        "name": "Cinco quesos (mozzarella, scamorza, provolone, parmesano y queso azul)",
+                        "price": 4500
+                      },
+                      {
+                        "name": "Ortolana (salsa de tomate, tomate fresco, hongos, cebolla y pimientos)",
+                        "price": 3250
+                      }
+                    ]
+                  }
+                ],
+                "pastas": [
+                  {
+                    "courses": [
+                      {
+                        "name": "Spaghetti al pomodoro y albahaca",
+                        "price": 3000
+                      },
+                      {
+                        "name": "Spaghetti al ragu de ternera cortado a mano",
+                        "price": 3500
+                      },
+                      {
+                        "name": "Spaghetti a la carbonara",
+                        "price": 3500
+                      },
+                      {
+                        "name": "Fettuccine hecho en casa en salsa roja de langosta flambeada con ron",
+                        "price": 5250
+                      },
+                      {
+                        "name": "Fettuccine hecho en casa estilo Alfredo con gotas de trufa",
+                        "price": 4900
+                      }
+                    ]
+                  }
+                ],
+                "desserts": [
+                    {
+                        "courses": [
+                          {
+                            "name": "Cheesecake de queso parmesano",
+                            "price": 2800
+                          },
+                          {
+                            "name": "Minicalzone relleno de queso Philadelphia y Nutella",
+                            "price": 2250
+                          },
+                          {
+                            "name": "Gelato Italiano",
+                            "price": 1800
+                          },
+                          {
+                            "name": "Ensalada de fruta de temporada",
+                            "price": 1250
+                          }
+                        ]
+                    }
+                ],
+                "liquids": [
+                  {
+                    "alcoholic_beverages": [
+                      {
+                        "cocktails": [
+                          {
+                            "name": "Piña Colada",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Dry Martini",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Screw Driver",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Caipiroska",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Caipirinha",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Margarita",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Caipirissima",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Vodka Tonic",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Blue Lagoon",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Sangria",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Tinto de Verano",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Gin Tonic",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Herejes",
+                            "price": 3000
+                          },
+                          {
+                            "name": "J & Ginger Author Cocktail",
+                            "price": 4000
+                          },
+                          {
+                            "name": "Pasión Tropical",
+                            "price": 2500
+                          },
+                          {
+                            "name": "Campari Spritz",
+                            "price": 3200
+                          },
+                          {
+                            "name": "Campari Soda",
+                            "price": 3200
+                          },
+                          {
+                            "name": "Campari Orange",
+                            "price": 3200
+                          },
+                          {
+                            "name": "Negroni",
+                            "price": 3200
+                          },
+                          {
+                            "name": "Aperol Spritz",
+                            "price": 3200
+                          },
+                          {
+                            "name": "Daiquiri",
+                            "price": 1900
+                          },
+                          {
+                            "name": "Daiquiri Tropical",
+                            "price": 1900
+                          },
+                          {
+                            "name": "Mojito",
+                            "price": 1900
+                          },
+                          {
+                            "name": "Mojito Tropical",
+                            "price": 1900
+                          },
+                          {
+                            "name": "Canchánchara",
+                            "price": 1900
+                          },
+                          {
+                            "name": "Cuba Libre",
+                            "price": 1900
+                          },
+                          {
+                            "name": "Cubanito",
+                            "price": 1900
+                          },
+                          {
+                            "name": "Havana Special",
+                            "price": 1900
+                          },
+                          {
+                            "name": "Old Fashioned",
+                            "price": 2500
+                          },
+                          {
+                            "name": "El Presidente",
+                            "price": 2500
+                          },
+                          {
+                            "name": "Manhattan",
+                            "price": 2500
+                          },
+                          {
+                            "name": "Hemingway Daiquiri",
+                            "price": 2500
+                          },
+                          {
+                            "name": "Mary Pickford",
+                            "price": 2500
+                          }
+                        ],
+                        "wine_glass": [
+                          {
+                            "name": "Copa de Vino Tinto",
+                            "price": 1200
+                          },
+                          {
+                            "name": "Copa de Vino Blanco",
+                            "price": 1200
+                          }
+                        ],
+                        "beers": [
+                          {
+                            "name": "Cervezas de Barril por Vaso",
+                            "price": 550
+                          },
+                          {
+                            "name": "Cristal 8 Oz",
+                            "price": 550
+                          },
+                        {
+                          "name": "Cristal 10 Oz",
+                          "price": 700
+                        },
+                        {
+                          "name": "Cristal Mug 160г",
+                          "price": 1000
+                        },
+                        {
+                          "name": "Cervezas Nacionales",
+                          "price": 750
+                        },
+                        {
+                          "name": "Cervezas Importadas",
+                          "price": 900
+                        },
+                        {
+                          "name": "Michelada Clásica o Picante",
+                          "price": 450
+                        }
+                        ],
+                        "shots": [
+                          {
+                            "name": "Absolut",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Stolichnaya",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Igor",
+                            "price": 2500
+                          },
+                          {
+                            "name": "Jelzin",
+                            "price": 2200
+                          },
+                          {
+                            "name": "JW Red Label",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Black & White",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Jameson",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Chivas Regal 15",
+                            "price": 3300
+                          },
+                          {
+                            "name": "Don Julio Reposado",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Espinosa",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Olmeca Blanco",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Crema Ruavieja",
+                            "price": 1700
+                          },
+                          {
+                            "name": "Sambuca",
+                            "price": 1500
+                          },
+                          {
+                            "name": "Amaro Averna",
+                            "price": 1600
+                          },
+                          {
+                            "name": "Grappa Nonnino",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Grappa Cavallina Bianca",
+                            "price": 1600
+                          },
+                          {
+                            "name": "Fernet Branca",
+                            "price": 1500
+                          },
+                          {
+                            "name": "Limoncello",
+                            "price": 1700
+                          },
+                          {
+                            "name": "Ron Santiago 8",
+                            "price": 2200
+                          },
+                          {
+                            "name": "Ron Santiago Extra Seco",
+                            "price": 1500
+                          },
+                          {
+                            "name": "Ron Santiago 11",
+                            "price": 2800
+                          },
+                          {
+                            "name": "Ron Santiago 12",
+                            "price": 2800
+                          },
+                          {
+                            "name": "Ron Santiago 20",
+                            "price": 5000
+                          },
+                          {
+                            "name": "Flor de Caña 12 años",
+                            "price": 6000
+                          },
+                          {
+                            "name": "Havana Club Smoky",
+                            "price": 1800
+                          },
+                          {
+                            "name": "Havana Club Especial",
+                            "price": 1800
+                          },
+                          {
+                            "name": "Havana Club Reserva",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Havana Club 7 años",
+                            "price": 2100
+                          },
+                          {
+                            "name": "Havana Club Spiced",
+                            "price": 1800
+                          }
+                        ]
+                      }
+                    ],
+                    "water": [
+                      {
+                        "name": "Agua Natural",
+                        "price": 800
+                      },
+                      {
+                        "name": "Agua con Gas",
+                        "price": 850
+                      },
+                      {
+                        "name": "Agua Tónica",
+                        "price": 950
+                      }
+                    ],
+                    "natual_juices": [
+                      {
+                        "name": "Papaya y Plátano",
+                        "price": 1000
+                      },
+                      {
+                        "name": "Mango y Plátano",
+                        "price": 1000
+                      },
+                      {
+                        "name": "Piña y Plátano",
+                        "price": 1000
+                      },
+                      {
+                        "name": "Guayaba y Plátano",
+                        "price": 1000
+                      },
+                      {
+                        "name": "Jugos naturales",
+                        "price": 650
+                      },
+                      {
+                        "name": "Limonada",
+                        "price": 650
+                      },
+                      {
+                        "name": "Limonada con menta, miel y jengibre",
+                        "price": 750
+                      }
+                    ],
+                    "soft_drinks": [
+                      {
+                        "name": "Refrescos",
+                        "price": 850
+                      },
+                      {
+                        "name": "RedBull",
+                        "price": 1000
+                      }
+                    ],
+                    "coffees": [
+                      {
+                        "name": "Espresso",
+                        "price": 650
+                      },
+                      {
+                        "name": "Cappuccino",
+                        "price": 800
+                      },
+                      {
+                        "name": "Café Bombón",
+                        "price": 850
+                      },
+                      {
+                        "name": "Frappuccino",
+                        "price": 850
+                      },
+                      {
+                        "name": "Café Bohemia",
+                        "price": 850
+                      },
+                      {
+                        "name": "Macchiato",
+                        "price": 700
+                      },
+                      {
+                        "name": "Americano",
+                        "price": 700
+                      },
+                      {
+                        "name": "Latte",
+                        "price": 700
+                      }
+                    ]
+                  }
+                ]
+            }
+        }    
+    }
+}
+     

@@ -1,6 +1,6 @@
 {
     "type_of_establishment": "restaurante-bar",
-    "name": "Atlanta Café",
+    "place_name": "Atlanta Café",
     "property_type": "particular",
     "address": {
         "establishment_phone_number": "+53 5 9694801",
@@ -205,12 +205,12 @@
                             {
                                 "course_name": "arroz frito",
                                 "price": 1200.00,
-                                "main_ingredients": ["cereal"]
+                                "main_ingredients": ["grano"]
                             },
                             {
                                 "course_name": "arroz frito especial",
                                 "price": 1400.00,
-                                "main_ingredients": ["cereal"]
+                                "main_ingredients": ["grano"]
                             },
                             {
                                 "course_name": "paella valenciana",
@@ -225,7 +225,7 @@
                             {
                                 "course_name": "arroz con pollo a la chorrera",
                                 "price": 1500.00,
-                                "main_ingredients": ["cereal"]
+                                "main_ingredients": ["grano"]
                             },
                             {
                                 "course_name": "bistec de cerdo grillé",

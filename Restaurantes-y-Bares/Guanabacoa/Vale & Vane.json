@@ -1,0 +1,240 @@
+{
+    "ID": 706,
+    "locality": {
+        "mun": "Guanabacoa",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "77947261"
+            },
+            "plus_code": "4PC3+GQ8, La Habana"
+        }
+    },
+    "name": "Vale & Vane",
+    "type_cuisine": ["italiana","criolla"],
+    "schedule": {
+        "monday": {
+            "opening": null,
+            "closing": null
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.8,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": 4.3
+    },
+    "reservation_options": false,
+    "social_networks": ["Facebook","Instagram"],
+    "payment_options": ["Transferencia","Efectivo"],
+    "service_details": ["A domicilio"],
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "italiana", "criolla"],
+        "menu_card": {
+            "menu_sections": {
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name": "Chuleta de Cerdo",
+                      "price": 1100.00
+                  },
+                  {
+                      "name": "Bistec Cerdo Grille",
+                      "price": 1200.00
+                  },
+                  {
+                      "name": "Masa de Cerdo Frita",
+                      "price": 1300.00
+                  },
+                  {
+                      "name": "Bistec Encebollado",
+                      "price": 1450.00
+                  },
+                  {
+                      "name": "Costilla Cerdo",
+                      "price": 1650.00
+                  },
+                  {
+                      "name": "Lomo Ahumado",
+                      "price": 1400.00
+                  },
+                  {
+                      "name": "Uruguayo",
+                      "price": 1600.00
+                  },
+                  {
+                      "name": "Bistec princesa",
+                      "price": 1720.00
+                  },
+                  {
+                      "name": "Garbanzo Frito",
+                      "price": 1300.00
+                  },
+                  {
+                      "name": "Pollo Frito",
+                      "price": 1000.00
+                  },
+                  {
+                      "name": "Suprema Grille",
+                      "price": 1400.00
+                  },
+                  {
+                      "name": "Bistec Princesa",
+                      "price": 1920.00
+                  },
+                  {
+                      "name": "Suprema Encebollada",
+                      "price": 1650.00
+                  },
+                  {
+                      "name": "Filete Pescado Grille",
+                      "price": 1800.00
+                  },
+                  {
+                      "name": "Camarón Grille",
+                      "price": 1800.00
+                  },
+                  {
+                      "name": "Enchilado Camarón",
+                      "price": 1850.00
+                  },
+                  {
+                      "name": "Mar y Tierra",
+                      "price": 2500.00
+                  },
+                  {
+                      "name": "Vaca Frita",
+                      "price": 1600.00
+                  },
+                  {
+                      "name": "Ropa Vieja",
+                      "price": 1600.00
+                  }
+                  ]
+                }
+              ],
+              "pizzas": [
+                {
+                  "courses": [
+                    {
+                      "name": "Pizza Napolitana",
+                      "price": 350.00
+                  },
+                  {
+                      "name": "Pizza Napolitana",
+                      "price": 650.00
+                  },
+                  {
+                      "name": "Pizza Familiar",
+                      "price": 2500.00
+                  }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {
+                      "name": "Espagueti Napolitano",
+                      "price": 650.00
+                  },
+                  {
+                      "name": "Espagueti con Jamón",
+                      "price": 900.00
+                  },
+                  {
+                      "name": "Espagueti con Chorizo",
+                      "price": 900.00
+                  },
+                  {
+                      "name": "Espagueti doble Queso",
+                      "price": 920.00
+                  }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "beers": [
+                        {
+                          "name": "Cerveza Cristal (lata)",
+                          "price": 280.00
+                      },
+                      {
+                          "name": "Cerveza Cristal (botella)",
+                          "price": 380.00
+                      },
+                      {
+                          "name": "Cerveza Hollandia",
+                          "price": 250.00
+                      },
+                      {
+                          "name": "Cerveza Wild Hill",
+                          "price": 250.00
+                      }
+                      ]
+                    }
+                  ],
+                  "water": [
+                    {
+                      "name": "Agua Natural",
+                      "price": 180.00
+                  }
+                  ],
+                  "soft_drinks": [
+                    {
+                      "name": "Refresco lata",
+                      "price": 250.00
+                  },
+                  {
+                      "name": "Malta Hyper Malta",
+                      "price": 270.00
+                  },
+                  {
+                      "name": "Malta Bucanero",
+                      "price": 300.00
+                  }
+                  ],
+                  "natual_juices": [
+                    {
+                      "name": "Jugo Natural (cajita)",
+                      "price": 200.00
+                  },
+                  {
+                      "name": "Jugo Natural (lata)",
+                      "price": 270.00
+                  }
+                  ]
+                }
+              ]
+            }
+        }    
+    }
+}

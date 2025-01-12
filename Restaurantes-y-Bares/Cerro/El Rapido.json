@@ -1,0 +1,114 @@
+{
+    "municipality": "ce",
+    "name": "El Rápido",
+    "address": "Cruz del Pader entre Pedrosa y Amenidares",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Particular",
+    "type": "Restaurante",
+    "specialty": "",
+    "hours": {
+        "monday": "0730_1930",
+        "tuesday": "0730_1930",
+        "wednesday": "0730_1930",
+        "thursday": "0730_1930",
+        "friday": "0730_1930",
+        "saturday": "0730_1930",
+        "sunday": "0730_1930"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu_details": {
+        "kind_of_food": ["variada", "italiana", "panes"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name":"Croquetas",
+                      "price": 300
+                    },
+                    {
+                      "name":"Papas fritas",
+                      "price": 360
+                    }
+                  ]
+                }
+              ],
+              "breads": [
+                {
+                  "courses": [
+                    {
+                      "name": "Sandwich Cubano", 
+                      "price": 860
+                    },
+                    {
+                      "name": "Pan con Bitec de Cerdo",
+                     "price": 750
+                    },
+                    {
+                      "name": "Hamburguesa de Cerdo",
+                      "price": 620
+                    },
+                    {
+                      "name": "Hamburguesa de Res",
+                      "price": 720
+                    },
+                    {
+                      "name": "Pan con Tortilla",
+                      "price": 300
+                    },
+                    {
+                      "name": "Pan con Tortilla , Jamón",
+                      "price": 360
+                    },
+                    {
+                      "name": "Pan con Tortilla, Chorizo",
+                      "price": 360
+                    },
+                    {
+                      "name": "Pan con Tortilla, Cebolla",
+                      "price": 360
+                    },
+                    {
+                      "name": "Pan con Tortilla , Queso Gouda",
+                      "price": 400
+                    }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {
+                      "name": "Espaguetis",
+                      "price": 850
+                    },
+                    {
+                      "name": "Espaguetis Napolitano",
+                      "price": 380
+                    },
+                    {
+                      "name": "Espaguetis de chorizo",
+                      "price": 1000
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
+    }
+}

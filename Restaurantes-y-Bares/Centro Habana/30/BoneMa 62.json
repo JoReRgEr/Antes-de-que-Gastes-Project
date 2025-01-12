@@ -1,0 +1,763 @@
+{
+    "type_of_establishment": "restaurante-bar",
+    "place_name": "BoneMa 62",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "+53 78602134",
+        "email": null,
+        "city": "La Habana",
+        "district": "Centro Habana",
+        "location": "Blvd. de San Rafael",
+        "coordinates": "23.13730023968695, -82.35971156518033"
+    },
+    "schedules": {
+        "Reduced_working_hours_on_public_holidays": true,
+        "monday": {
+            "open": "09:00",
+            "closed": "00:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "closed": "00:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "closed": "00:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "closed": "00:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "closed": "00:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "closed": "00:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "closed": "00:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                    "stars": 4.4,
+                    "number_of_reviews": 59,
+                    "recurring_themes": [ ["comida", "precios"],
+                    {
+                        "for_better_or_worse": "buenas"
+                    }
+                ]
+            },
+            "tripadvisor": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null],
+                    {
+                        "for_better_or_worse": null
+                    }
+                ]
+            },
+            "facebook": {
+                    "stars": 4.0,
+                    "number_of_reviews": 29,
+                    "recurring_themes": [ ["servicio", "comida"],
+                    {
+                        "for_better_or_worse": "variadas"
+                    }
+                ]
+            },
+            "regularity": false
+        },
+        "establishment_capacity": "medio",
+        "decoration": "moderno",
+        "festive_decorations": false,
+        "dress_code": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": ["grupos"],
+        "digital_menus": [ false,
+            {
+                "page_or_application_used": null
+            }
+        ],
+        "robotic": false,
+        "concurrent_music": "variada",
+        "energy_backup": false,
+        "other_services": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [ true,
+                {
+                    "url": "https://www.facebook.com/restaurantebonema/?locale=es_LA"
+                }
+            ],
+            "instagram": [ true,
+                {
+                    "url": "https://www.instagram.com/bonema_62/?hl=es"
+                }
+            ],
+            "whatsapp": false,
+            "X": false,
+            "telegram": false,
+            "Cuban_websites": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "Threads": false
+        },
+        "child_care": false,
+        "disable_support": false,
+        "wifi": false,
+        "parking":  false,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "catering": false,
+        "interactive_activities": false,
+        "sanitary": true,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer":
+            {
+                "transfermovil": true,
+                "enzona": false,
+                "bancaremota": false,
+                "visa": true,
+                "mastercard": true
+            },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": false,
+            "others": false
+        },
+        "10% charge": false
+    },
+    "menu_details": {
+        "kind_of_food": ["variada", "turca"],
+        "healthy_food_options": true,
+        "menu_card": {
+            "menu_sections": {
+                "breakfasts": [
+                    {
+                        "courses": [
+                            {
+                                "course_name": "waffles, nutella, queso crema, mermelada, miel y frutas",
+                                "price": 1900
+                            },
+                            {
+                                "course_name": "huevos al gusto, pan, mantequilla, mermelada, frutas de temporada, jugo o café",
+                                "price": 2100
+                            },
+                            {
+                                "course_name": "huevos al gusto, pan, jamón, queso, mantequilla, jugo o café",
+                                "price": 2300
+                            }
+                        ]
+                    }
+                ],
+                "snacks": [
+                    {
+                        "courses": [
+                            {
+                                "name": "papas fritas",
+                                "price": 1050,
+                                "main_ingredients": ["vianda"]
+                            },
+                            {
+                                "name": "falafel",
+                                "price": 1050,
+                                "main_ingredients": ["grano"]
+                            },
+                            {
+                                "name": "sopa de lentejas",
+                                "price": 1350,
+                                "main_ingredients": ["grano"]
+                            },
+                            {
+                                "name": "ensalada mixta",
+                                "price": 950,
+                                "main_ingredients": ["vegetales"]
+                            },
+                            {
+                                "name": "coban salata",
+                                "price": 1200,
+                                "main_ingredients": ["vegetales"]
+                            },
+                            {
+                                "name": "caprese",
+                                "price": 1450,
+                                "main_ingredients": ["vegetales"]
+                            },
+                            {
+                                "name": "ensalada nizarda",
+                                "price": 1800,
+                                "main_ingredients": ["vegetales", "huevo"]
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "döner kebab (pan)",
+                                "price": 1700,
+                                "main_ingredients": ["harina", "cordero", "vegetales"]
+                            },
+                            {
+                                "name": "dürüm kebab (tortilla)",
+                                "price": 1750,
+                                "main_ingredients": ["harina", "vegetales", "cordero"]
+                            },
+                            {
+                                "name": "döner falafel",
+                                "price": 1300,
+                                "main_ingredients": ["harina", "vegetales", "cordero"]
+                            },
+                            {
+                                "name": "dürüm köfte",
+                                "price": 1750,
+                                "main_ingredients": ["harina", "vegetales", "cordero"]
+                            },
+                            {
+                                "name": "plato de döner kebab",
+                                "price": 2300,
+                                "main_ingredients": ["harina", "vegetales", "cordero"]
+                            },
+                            {
+                                "name": "iskender kebab",
+                                "price": 2400,
+                                "main_ingredients": ["harina", "cordero"]
+                            },
+                            {
+                                "name": "plato de köfte de res",
+                                "price": 2500,
+                                "main_ingredients": ["harina", "res"]
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "pasta napolitana",
+                                "price": 1900,
+                                "main_ingredients": ["pasta"]
+                            },
+                            {
+                                "name": "pasta arrabiata",
+                                "price": 2000,
+                                "main_ingredients": ["pasta", "vegetales"]
+                            },
+                            {
+                                "name": "pasta pesto",
+                                "price": 2200,
+                                "main_ingredients": ["pasta", "vegetales"]
+                            },
+                            {
+                                "name": "pasta bolognesa",
+                                "price": 2800,
+                                "main_ingredients": ["pasta", "res"]
+                            },
+                            {
+                                "name": "pasta carbonara",
+                                "price": 2650,
+                                "main_ingredients": ["pasta", "cerdo", "huevo"]
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "pizza margarita",
+                                "price": 2000,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "pizza friarielli y salchicha italiana",
+                                "price": 3000,
+                                "main_ingredients": ["harina", "embutido", "queso", "vegetales"]
+                            },
+                            {
+                                "name": "pizza funghi",
+                                "price": 2200,
+                                "main_ingredients": ["harina", "hongos", "queso"]
+                            },
+                            {
+                                "name": "pizza vegetariana",
+                                "price": 2300,
+                                "main_ingredients": ["harina", "vegetales", "queso"]
+                            },
+                            {
+                                "name": "pizza 4 quesos",
+                                "price": 2600,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "pizza hawaiana",
+                                "price": 2600,
+                                "main_ingredients": ["harina", "fruta", "jamon", "queso"]
+                            },
+                            {
+                                "name": "pizza pepperoni / diabola",
+                                "price": 2700,
+                                "main_ingredients": ["harina", "embutido", "queso"]
+                            },
+                            {
+                                "name": "pizza de salami",
+                                "price": 2800,
+                                "main_ingredients": ["harina", "embutido", "queso"]
+                            },
+                            {
+                                "name": "pizza de jamón serrano, rúcula y parmesano",
+                                "price": 3200,
+                                "main_ingredients": ["harina", "cerdo", "queso"]
+                            },
+                            {
+                                "name": "pizza de atún y cebolla",
+                                "price": 2600,
+                                "main_ingredients": ["harina", "queso", "vegetales", "pescado"]
+                            }
+                        ]
+                    }
+                ],
+                "breads": [
+                    {
+                        "courses": [
+                            {
+                                "name": "sándwich de vegetales",
+                                "price": 1400,
+                                "main_ingredients": ["harina", "vegetales"]
+                            },
+                            {
+                                "name": "sándwich de jamón y queso",
+                                "price": 1650,
+                                "main_ingredients": ["harina", "jamon", "queso"]
+                            },
+                            {
+                                "name": "sándwich de res",
+                                "price": 1800,
+                                "main_ingredients": ["harina", "res"]
+                            },
+                            {
+                                "name": "sándwich de atún",
+                                "price": 1700,
+                                "main_ingredients": ["harina", "pescado"]
+                            },
+                            {
+                                "name": "sándwich de jamón serrano",
+                                "price": 2250,
+                                "main_ingredients": ["harina", "cerdo"]
+                            },
+                            {
+                                "name": "hamburguesa natural smash",
+                                "price": 2150,
+                                "main_ingredients": ["harina", "cerdo"]
+                            },
+                            {
+                                "name": "hamburguesa de falafel",
+                                "price": 1900,
+                                "main_ingredients": ["harina", "vegetales"]
+                            },
+                            {
+                                "name": "hamburguesa smash con aguacate",
+                                "price": 2250,
+                                "main_ingredients": ["harina", "cerdo", "fruta"]
+                            },
+                            {
+                                "name": "hamburguesa smash con bacon y huevo frito",
+                                "price": 2500,
+                                "main_ingredients": ["harina", "cerdo", "huevo"]
+                            }
+                        ]
+                    }
+                ],
+                "desserts": [
+                    {
+                        "courses": [
+                            {
+                                "name": "flan",
+                                "price": 700,
+                                "main_ingredients": ["leche", "huevo"]
+                            },
+                            {
+                                "name": "copa de helado",
+                                "price": 900,
+                                "main_ingredients": ["helado"]
+                            },
+                            {
+                                "name": "copa lolita",
+                                "price": 1050,
+                                "main_ingredients": ["helado", "leche", "huevo"]
+                            },
+                            {
+                                "name": "cheesecake",
+                                "price": 1150,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "suero de helado",
+                                "price": 1500,
+                                "main_ingredients": ["helado", "leche"]
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "cocktails": [
+                                    {
+                                        "name": "ginger ale",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "chelada (servicio)",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "michelada (servicio)",
+                                        "price": 300
+                                    },
+                                    {
+                                        "name": "cuba libre",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "mojito",
+                                        "price": 1600
+                                    },
+                                    {
+                                        "name": "gin basil smash",
+                                        "price": 1700
+                                    },
+                                    {
+                                        "name": "caipirinha",
+                                        "price": 1400
+                                    },
+                                    {
+                                        "name": "strawberry caipi",
+                                        "price": 1550
+                                    },
+                                    {
+                                        "name": "daiquiri",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "strawberry daiquiri",
+                                        "price": 1600
+                                    },
+                                    {
+                                        "name": "piña colada",
+                                        "price": 1700
+                                    },
+                                    {
+                                        "name": "strawberry colada",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "margarita",
+                                        "price": 1600
+                                    },
+                                    {
+                                        "name": "whisky sour",
+                                        "price": 1650
+                                    },
+                                    {
+                                        "name": "espresso martini",
+                                        "price": 1650
+                                    },
+                                    {
+                                        "name": "sangría",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "yeni raki",
+                                        "price": 1300
+                                    },
+                                    {
+                                        "name": "aperol spritz",
+                                        "price": 1700
+                                    },
+                                    {
+                                        "name": "campari spritz",
+                                        "price": 1700
+                                    },
+                                    {
+                                        "name": "campari soda",
+                                        "price": 1600
+                                    },
+                                    {
+                                        "name": "beefeater gin tonic",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "gordons gin tonic",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "tanqueray gin tonic",
+                                        "price": 1600
+                                    },
+                                    {
+                                        "name": "tanqueray 10 gin tonic",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "gin mare gin tonic",
+                                        "price": 1950
+                                    },
+                                    {
+                                        "name": "malfy gin tonic",
+                                        "price": 2000
+                                    },
+                                    {
+                                        "name": "botanist gin tonic",
+                                        "price": 2100
+                                    },
+                                    {
+                                        "name": "london no. 1 gin tonic",
+                                        "price": 1900
+                                    }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "cerveza cristal",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "cerveza heineken",
+                                        "price": 750
+                                    },
+                                    {
+                                        "name": "cerveza corona",
+                                        "price": 800
+                                    }
+                                ],
+                                "wine_glass": [
+                                    {
+                                        "name": "vino tinto (copa)",
+                                        "price": 950
+                                    },
+                                    {
+                                        "name": "vino blanco (copa)",
+                                        "price": 950
+                                    }
+                                ],
+                                "shots": [
+                                    {
+                                        "name": "jameson whisky",
+                                        "price": 1400
+                                    },
+                                    {
+                                        "name": "ballantine's whisky",
+                                        "price": 1100
+                                    },
+                                    {
+                                        "name": "ballantine's 12 whisky",
+                                        "price": 1400
+                                    }, 
+                                    {
+                                        "name": "jack daniels whisky",
+                                        "price": 1650
+                                    },
+                                    {
+                                        "name": "johnnie walker red label whisky",
+                                        "price": 1400
+                                    },
+                                    {
+                                        "name": "johnnie walker black label whisky",
+                                        "price": 1600
+                                    },
+                                    {
+                                        "name": "chivas regal 12 años whisky",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "glenlivet 15 whisky",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "bruichladdich whisky",
+                                        "price": 1900
+                                    },
+                                    {
+                                        "name": "highland park whisky",
+                                        "price": 2250
+                                    },
+                                    {
+                                        "name": "laphroaig whisky",
+                                        "price": 2450
+                                    },
+                                    {
+                                        "name": "woodford reserve whisky",
+                                        "price": 2250
+                                    },
+                                    {
+                                        "name": "havana club añejo 3 años ron",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "havana club añejo especial ron",
+                                        "price": 1050
+                                    },
+                                    {
+                                        "name": "havana club añejo reserva ron",
+                                        "price": 1100
+                                    },
+                                    {
+                                        "name": "havana club añejo 7 años ron",
+                                        "price": 900
+                                    },
+                                    {
+                                        "name": "ron santiago añejo ron",
+                                        "price": 1200
+                                    },
+                                    {
+                                        "name": "ron santiago 8 años ron",
+                                        "price": 1650
+                                    },
+                                    {
+                                        "name": "ron santiago 11 años ron",
+                                        "price": 2200
+                                    },
+                                    {
+                                        "name": "selección de maestros ron",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "olmeca blanco tequila",
+                                        "price": 750
+                                    },
+                                    {
+                                        "name": "olmeca reposado tequila",
+                                        "price": 850
+                                    },
+                                    {
+                                        "name": "don ramón punta plateau tequila",
+                                        "price": 1050
+                                    },
+                                    {
+                                        "name": "don ramón punta dorada tequila",
+                                        "price": 1150
+                                    },
+                                    {
+                                        "name": "don julio reposado tequila",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "baileys licores & cremas",
+                                        "price": 1100
+                                    },
+                                    {
+                                        "name": "jägermeister licores & cremas",
+                                        "price": 1800
+                                    }
+                                ]
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "té",
+                                "price": 400
+                            },
+                            {
+                                "name": "café expreso",
+                                "price": 380
+                            },
+                            {
+                                "name": "espresso macchiato (cortado)",
+                                "price": 400
+                            },
+                            {
+                                "name": "americano",
+                                "price": 420
+                            },
+                            {
+                                "name": "cappuccino",
+                                "price": 650
+                            },
+                            {
+                                "name": "café con leche",
+                                "price": 700
+                            },
+                            {
+                                "name": "leche con chocolate",
+                                "price": 700
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "agua natural",
+                                "price": 450
+                            },
+                            {
+                                "name": "agua gaseada",
+                                "price": 950
+                            },
+                            {
+                                "name": "agua tónica mg",
+                                "price": 700
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "coca cola",
+                                "price": 800
+                            },
+                            {
+                                "name": "coca cola zero",
+                                "price": 800
+                            },
+                            {
+                                "name": "sprite",
+                                "price": 800
+                            },
+                            {
+                                "name": "energy drink",
+                                "price": 850
+                            }
+                        ],
+                        "natural_juices": [
+                            {
+                                "name": "jugo de fruta nat.",
+                                "price": 600
+                            },
+                            {
+                                "name": "limonada natural",
+                                "price": 500
+                            },
+                            {
+                                "name": "limonada frappe",
+                                "price": 550
+                            },
+                            {
+                                "name": "ayran",
+                                "price": 500
+                            }
+                        ]
+                    }
+                ]
+            }
+        }    
+    }
+}

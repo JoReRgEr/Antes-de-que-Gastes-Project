@@ -1,0 +1,701 @@
+{
+    "municipality": "ch",
+    "name": "El Biky",
+    "address": "Infanta Nº412 e/ San Lázaro y Concordia",
+    "contacts": {
+        "phone": [
+            "(+53) 7870 6515"
+        ],
+        "website": "elbiky.com",
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "tripadvisor": 4.5
+    },
+    "owner": "Particular",
+    "type": "Restaurante",
+    "specialty": "Comida Caribeña",
+    "hours": {
+        "monday": "0800_2300",
+        "tuesday": "0800_2300",
+        "wednesday": "0800_2300",
+        "thursday": "0800_2300",
+        "friday": "0800_2300",
+        "saturday": "0800_2300",
+        "sunday": "0800_2300"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": true,
+        "power plant": true
+    },
+    "payment_methods": [
+        "mlc",
+        "usd",
+        "cup"
+    ],
+    "menu_details": {
+        "kind_of_food": ["variada", "italiana", "criolla", "francesa"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+                "starters": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Croqueticas de la casa",
+                                "price": 700.00,
+                                "main_ingredients": ["harina", "variados"]
+                            },
+                            {
+                                "name": "Frituras de Malanga",
+                                "price": 500.00,
+                                "main_ingredients": ["vianda"]
+                            },
+                            {
+                                "name": "Tostones rellenos de jamón",
+                                "price": 2000.00,
+                                "main_ingredients": ["fruta", "jamon"]
+                            },
+                            {
+                                "name": "Tostones rellenos de ropa vieja",
+                                "price": 2200.00,
+                                "main_ingredients": ["fruta", "res"]
+                            },
+                            {
+                                "name": "Tostones rellenos mixtos",
+                                "price": 2200.00,
+                                "main_ingredients": ["fruta", "variados"]
+                            },
+                            {
+                                "name": "Tostones rellenos de atún",
+                                "price": 2200.00,
+                                "main_ingredients": ["fruta", "pescado"]
+                            },
+                            {
+                                "name": "Sándwich de jamón en pan baguette (con viandas fritas)",
+                                "price": 700,
+                                "main_ingredients": ["harina", "jamon", "vianda"]
+                            },
+                            {
+                                "name": "Sándwich de queso en pan baguette (con viandas fritas)",
+                                "price": 1400,
+                                "main_ingredients": ["harina", "queso", "vianda"]
+                            },
+                            {
+                                "name": "Sándwich de jamón y queso en pan baguette (con viandas fritas)",
+                                "price": 1200,
+                                "main_ingredients": ["harina", "jamon", "queso", "vianda"]
+                            },
+                            {
+                                "name": "Baguette con lomo de cerdo (con viandas fritas)",
+                                "price": 3500.00,
+                                "main_ingredients": ["harina", "cerdo", "vianda"]
+                            },
+                            {
+                                "name": "Baguette de atún",
+                                "price": 1900.00,
+                                "main_ingredients": ["harina", "pescado"]
+                            },
+                            {
+                                "name": "Baguette catalana (jamón serrano con viandas fritas)",
+                                "price": 1800.00,
+                                "main_ingredients": ["harina", "jamon", "vianda"]
+                            },
+                            {
+                                "name": "Baguette de pollo (pechuga de pollo con viandas fritas)",
+                                "price": 1900.00,
+                                "main_ingredients": ["harina", "pollo", "vianda"]
+                            },
+                            {
+                                "name": "Baguette cubano (cerdo asado, jamón ahumado y queso)",
+                                "price": 1393.00,
+                                "main_ingredients": ["harina", "cerdo", "jamon", "queso"]
+                            },
+                            {
+                                "name": "Pepito de filete de res (filete de res con vegetales y viandas fritas)",
+                                "price": 5000.00,
+                                "main_ingredients": ["harina", "res", "vianda"]
+                            },
+                            {
+                                "name": "Hamburguesa de carne (res) con vegetales y vianda frita",
+                                "price": 2740.00,
+                                "main_ingredients": ["harina", "res", "vegetales", "vianda"]
+                            },
+                            {
+                                "name": "Cheeseburger (res) con queso, vegetales y vianda frita",
+                                "price": 2950.00,
+                                "main_ingredients": ["harina", "res", "queso"]
+                            },
+                            {
+                                "name": "Hamburguesa especial (res) con jamón, queso, bacon y vegetales",
+                                "price": 3700.00,
+                                "main_ingredients": ["harina", "res", "jamon", "queso", "cerdo"]
+                            },
+                            {
+                                "name": "Crema de Queso",
+                                "price": 850.00,
+                                "main_ingredients": ["queso", "harina"]
+                            },
+                            {
+                                "name": "Crema Reina",
+                                "price": 850.00,
+                                "main_ingredients": ["queso", "harina", "variados"]
+                            },
+                            {
+                                "name": "Crema Aurora",
+                                "price": 850.00,
+                                "main_ingredients": ["queso", "harina", "vegetales"]
+                            },
+                            {
+                                "name": "Crema Virginia",
+                                "price": 850.0,
+                                "main_ingredients": ["queso", "harina", "jamon"]
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Carpaccio de Pulpo aderezado de aceite extra virgen de olivas",
+                                "price": 2300.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "name": "Carpaccio de Res",
+                                "price": 3800.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "name": "Ceviche de Camarones",
+                                "price": 2800.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "name": "Coctel de Camarones en Salsa Rosa",
+                                "price": 2400.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "name": "Fajitas de pollo",
+                                "price": 1300.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "name": "Ceviche de Pescado",
+                                "price": 2650.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Esperlan de pescado",
+                                "price": 1300.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Esperlan de langosta",
+                                "price": 2900.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "name": "Rosa de salmón ahumado",
+                                "price": 4100.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Surtido de Quesos",
+                                "price": 2200.00,
+                                "main_ingredients": ["queso"]
+                            },
+                            {
+                                "name": "Pimientos Piquillos Rellenos (queso crema, atún y vegetales)",
+                                "price": 1950.00,
+                                "main_ingredients": ["pescado", "vegetales", "queso"]
+                            },
+                            {
+                                "name": "Entremes de Jamón Serrano",
+                                "price": 2000.00,
+                                "main_ingredients": ["jamon"]
+                            },
+                            {
+                                "name": "Cazuela de Garbanzos",
+                                "price": 2100.00,
+                                "main_ingredients": ["grano"]
+                            },
+                            {
+                                "name": "Bistec de Cerdo a la plancha",
+                                "price": 3500.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "name": "Lomo de Cerdo Grille",
+                                "price": 3500.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "name": "Masas de Cerdo Fritas",
+                                "price": 2800.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "name": "Chuleta de Cerdo Frita",
+                                "price": 2300.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "name": "Escalope de Cerdo",
+                                "price": 3900,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "name": "Pollo Grille",
+                                "price": 1800,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "name": "Gordom Bleu",
+                                "price": 2400,
+                                "main_ingredients": ["pollo", "jamon", "queso"]
+                            },
+                            {
+                                "name": "Filete de Pescado",
+                                "price": 3000,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Filete de Salmón",
+                                "price": 5500,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Zalzuela de Mariscos",
+                                "price": 6000,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "name": "Solomillo de Res",
+                                "price": 6800,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "name": "Pulpo",
+                                "price": 5800,
+                                "main_ingredients": ["marisco"]
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Pizza de Queso",
+                                "price": 1300,
+                                "main_ingredients": ["harina", "queso"]
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Lasaña Bolognesa",
+                                "price": 3800.00,
+                                "main_ingredients": ["pasta", "queso"]
+                            },
+                            {
+                                "name": "Espaguetis a la Carbonara",
+                                "price": 3000.00,
+                                "main_ingredients": ["pasta", "queso", "cerdo", "huevo"]
+                            },
+                            {
+                                "name": "Espaguetis con Jamón y Queso",
+                                "price": 1250.00,
+                                "main_ingredients": ["pasta", "queso", "jamon"]
+                            },
+                            {
+                                "name": "Espaguetis Napolitanos",
+                                "price": 970,
+                                "main_ingredients": ["pasta", "queso"]
+                            },
+                            {
+                                "name": "Espaguetis Bolognesa",
+                                "price": 2500.00,
+                                "main_ingredients": ["pasta", "queso", "res"]
+                            },
+                            {
+                                "name": "Espaguetis con Atún",
+                                "price": 2400.00,
+                                "main_ingredients": ["pasta", "queso", "pescado"]
+                            }
+                        ]
+                    }
+                ],
+                "additions": [
+                    {
+                        "name": "Ración de Jamón",
+                        "price": 350.00
+                    },
+                    {
+                        "name": "Ración de Pimientos",
+                        "price": 250.00
+                    },
+                    {
+                        "name": "Ración de Bacón",
+                        "price": 1300.00
+                    },
+                    {
+                        "name": "Ración de Queso Gouda",
+                        "price": 750.00
+                    },
+                    {
+                        "name": "Ración de Salsa Boloñesa",
+                        "price": 1100.00
+                    },
+                    {
+                        "name": "Ración de Aceitunas",
+                        "price": 400.00
+                    },
+                    {
+                        "name": "Ración de Champiñones",
+                        "price": 400.00
+                    },
+                    {
+                        "name": "Ración de Jamón Serrano",
+                        "price":1100.00
+                    },
+                    {
+                        "name": "Ración de Atún",
+                        "price": 1600.00
+                    },
+                    {
+                        "name": "Ración de Camarón",
+                        "price": 2150.00
+                    },
+                    {
+                        "name": "Ración de Chorizo Vela",
+                        "price": 2000.00
+                    },
+                    {
+                        "name": "Ración Queso Parmesano",
+                        "price": 950.00
+                    }
+                ],
+                "rations": [
+                    {
+                        "name": "Ensalada de Vegetales, vegetales de estación",
+                        "price": 1000.00
+                    },
+                    {
+                        "name": "Ensalada Mixta Vegetal (Queso, atún, huevo y cebolla)",
+                        "price": 2300.00
+                    },
+                    {
+                        "name": "Ensalada Fría de Pasta (De la casa) Italiana",
+                        "price": 900.00
+                    },
+                    {
+                        "name": "Ración de Arroz Blanco",
+                        "price": 140.00
+                    },
+                    {
+                        "name": "Ración de Arroz Mongol",
+                        "price": 180.00
+                    },
+                    {
+                        "name": "Ensalada Verde",
+                        "price": 200.00
+                    },
+                    {
+                        "name": "Papas Fritas",
+                        "price": 1300.00
+                    },
+                    {
+                        "name": "Puré de Malanga",
+                        "price": 650.00
+                    }
+                ],
+                "desserts": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Flan de Caramelo",
+                                "price": 400.00,
+                                "main_ingredients": ["leche", "huevo"]
+                            },
+                            {
+                                "name": "Cheesecake",
+                                "price": 920.00,
+                                "main_ingredients": ["queso", "leche", "harina"]
+                            },
+                            {
+                                "name": "Bizcocho con helado",
+                                "price": 720.00,
+                                "main_ingredients": ["harina", "leche", "helado"]
+                            },
+                            {
+                                "name": "Copa Tres Leches",
+                                "price": 960.00,
+                                "main_ingredients": ["leche", "harina"]
+                            },
+                            {
+                                "name": "Pie de Limón",
+                                "price": 1100.00,
+                                "main_ingredients": ["fruta", "leche", "harina"]
+                            },
+                            {
+                                "name": "Helado Sencillo",
+                                "price": 420.00,
+                                "main_ingredients": ["helado"]
+                            },
+                            {
+                                "name": "Jimaguas",
+                                "price": 740.00,
+                                "main_ingredients": ["helado"]
+                            },
+                            {
+                                "name": "Tres Gracias",
+                                "price": 680.00,
+                                "main_ingredients": ["helado"]
+                            },
+                            {
+                                "name": "Copa Lolita (Helado con Flan)",
+                                "price": 860.00,
+                                "main_ingredients": ["helado", "leche", "huevo"]
+                            },
+                            {
+                                "name": "Ensalada de Helado",
+                                "price": 900.00,
+                                "main_ingredients": ["helado"]
+                            },
+                            {
+                                "name": "Batido de Helado",
+                                "price": 850.00,
+                                "main_ingredients": ["helado", "leche"]
+                            },
+                            {
+                                "name": "Suero de Helado",
+                                "price": 970.00,
+                                "main_ingredients": ["helado", "leche"]
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "cocktails": [
+                                    {
+                                        "name": "Ron Collis",
+                                        "price": 750.00
+                                    },
+                                    {
+                                        "name": "Limonada Clarete",
+                                        "price": 2000.00
+                                    },
+                                    {
+                                        "name": "Sangría",
+                                        "price": 750.00
+                                    },
+                                    {
+                                        "name": "Cuba Libre",
+                                        "price": 1800.00
+                                    },
+                                    {
+                                        "name": "Mary Pickford",
+                                        "price": 750.00
+                                    },
+                                    {
+                                        "name": "Cuba Bella",
+                                        "price": 750.00
+                                    },
+                                    {
+                                        "name": "Majto",
+                                        "price": 750.00
+                                    },
+                                    {
+                                        "name": "Daiquiri Rebelde",
+                                        "price": 750.00
+                                    },
+                                    {
+                                        "name": "Havana Special",
+                                        "price": 750.00
+                                    },
+                                    {
+                                        "name": "B-52",
+                                        "price": 800.00
+                                    },
+                                    {
+                                        "name": "Piña Colada",
+                                        "price": 1000.00
+                                    },
+                                    {
+                                        "name": "Bloody Mary",
+                                        "price": 800.00
+                                    },
+                                    {
+                                        "name": "Manhattan",
+                                        "price": 900.00
+                                    },
+                                    {
+                                        "name": "Cantharchars",
+                                        "price": 750.00
+                                    },
+                                    {
+                                        "name": "Martini",
+                                        "price": 800.00
+                                    },
+                                    {
+                                        "name": "San Francisco",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Colada",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Miami Vice",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Virgin Maria",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "47'S Frozen",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Michelada",
+                                        "price": 250.00
+                                    },
+                                    {
+                                        "name": "Chelada",
+                                        "price": 200.00
+                                    }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "Cervezas",
+                                        "price": 1200.00
+                                    },
+                                    {
+                                        "name": "Jarra de Cerveza",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Vaso de Cerveza",
+                                        "price": 350.00
+                                    }
+                                ],
+                                "wine_glass": [
+                                    {
+                                        "name": "Copa de Vino",
+                                        "price": 1500.00
+                                    },
+                                    {
+                                        "name": "Copa de vino digestivo dulce (50ml)",
+                                        "price": 1200.00
+                                    }
+                                ]
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Malta",
+                                "price": 650.00
+                            },
+                            {
+                                "name": "Refrescos",
+                                "price": 550.00
+                            },
+                            {
+                                "name": "Red Bull",
+                                "price": 1200.00
+                            },
+                            {
+                                "name": "Kermato",
+                                "price": 1200.00
+                            }
+                        ],
+                        "natual_juices": [
+                            {
+                                "name": "Limonada",
+                                "price": 720.00
+                            },
+                            {
+                                "name": "Limonada Fresca",
+                                "price": 850.00
+                            },
+                            {
+                                "name": "Jugos de Frutas Naturales",
+                                "price": 500.00
+                            },
+                            {
+                                "name": "Batidos de Frutas Naturales",
+                                "price": 600.00
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua Gaseosa Importada",
+                                "price": 550.00
+                            },
+                            {
+                                "name": "Agua Natural sin gas",
+                                "price": 440.00
+                            },
+                            {
+                                "name": "Agua Tónica",
+                                "price": 1000.00
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "Vaso de Leche",
+                                "price": 200.00
+                            },
+                            {
+                                "name": "Café Expreso",
+                                "price": 170.00
+                            },
+                            {
+                                "name": "Café Americano",
+                                "price": 170.00
+                            },
+                            {
+                                "name": "Café Cortado",
+                                "price": 200.00
+                            },
+                            {
+                                "name": "Café con Leche",
+                                "price": 270.00
+                            },
+                            {
+                                "name": "Café Carajillo",
+                                "price": 400.00
+                            },
+                            {
+                                "name": "Café Bombón",
+                                "price": 400.00
+                            },
+                            {
+                                "name": "Capuchino",
+                                "price": 310.00
+                            },
+                            {
+                                "name": "Té",
+                                "price": 150.00
+                            }
+                        ]
+                    }
+                ]
+            }
+        }    
+    }
+}

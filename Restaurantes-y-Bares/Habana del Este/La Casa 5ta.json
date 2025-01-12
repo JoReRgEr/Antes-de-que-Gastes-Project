@@ -1,0 +1,483 @@
+{ 
+    "Restaurants":{
+        "La_Casa_5ta":{
+            "Province": "La Habana",
+            "Municipality": "La Habana del Este",
+            "Location": "ave 5ta esquina 472, La Habana",
+            "Stars":{
+                "Social network": "Google",
+                "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/La%2BCasa%2BQuinta/%4023.1691988,-82.1423972,15z/data%3D!4m2!3m1!1s0x0:0x791f66660f30ea77%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwi19qO095CKAxUSRTABHaA2K84Q_BJ6BAg7EAk&usg=AOvVaw3XtZLMha9SaLsRt5PqeNTE",
+                "total": 3.9,
+                "date": "20241205"
+        },
+            "schedules": "Apertura 9:00am y Cierre 11:00pm",
+            "Days of the week": "Todos",
+            "Type of food or specialty": "Criolla",
+            "Most popular food": "Uruguayo",
+            "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Efectivo y Transferencia"
+        },
+            "Capacity": 42,
+            
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla", "europea", "italiana"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name": "Tostones Naturales",
+                      "price": 300
+                    },
+                    {
+                      "name": "Croquetas",
+                      "price": 400
+                    },
+                    {
+                      "name": "Coctel de Camarones",
+                      "price": 1150
+                    },
+                    {
+                      "name": "Eperlan",
+                      "price": 1200
+                    },
+                    {
+                      "name": "Fajitas de Pollo",
+                      "price": 1200
+                    },
+                    {
+                      "name": "Entremes de Jamon y Queso",
+                      "price": 800
+                    },
+                    {
+                      "name": "Garbanzo Frito",
+                      "price": 1000
+                    },
+                    {
+                      "name": "Papas Fritas",
+                      "price": 500
+                    },
+                    {
+                      "name": "Chicharritas",
+                      "price": 300
+                    },
+                    {
+                      "name": "Picadera Casa 5ta",
+                      "price": 3100
+                    },
+                    {
+                      "name": "Bolitas de Queso",
+                      "price": 600
+                    },
+                    {
+                      "name": "Ceviche",
+                      "price": 750
+                    },
+                    {
+                      "name": "Coctel de Langosta",
+                      "price": 1150
+                    }
+                    ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name": "Pechuga Grillet",
+                      "price": 1500
+                    },
+                    {
+                      "name": "Pechuga Rellena",
+                      "price": 1875
+                    },
+                    {
+                      "name": "Gordon Blue",
+                      "price": 1850
+                    },
+                    {
+                      "name": "Pollo Frito",
+                      "price": 1300
+                    },
+                    {
+                      "name": "Pollo al Curry",
+                      "price": 1600
+                    },
+                    {
+                      "name": "Paella Marinera",
+                      "price": 2900
+                    },
+                    {
+                      "name": "Paella Mixta",
+                      "price": 3050
+                    },
+                    {
+                      "name": "Arroz Frito",
+                      "price": 1350
+                    },
+                    {
+                      "name": "Arroz Moro",
+                      "price": 200
+                    },
+                    {
+                      "name": "Arroz Blanco",
+                      "price": 200
+                    },
+                    {
+                      "name": "Arroz Pilaf",
+                      "price": 300
+                    },
+                    {
+                      "name": "Arroz Salvaje con Pulpo",
+                      "price": 1500
+                    },
+                    {
+                      "name": "Cordero Montañes",
+                      "price": 2900
+                    },
+                    {
+                      "name": "Chilindron de Cordero",
+                      "price": 2500
+                    },
+                    {
+                      "name": "Canciller",
+                      "price": 1800
+                    },
+                    {
+                      "name": "Langosta al Gusto",
+                      "price": 2150
+                    },
+                    {
+                      "name": "Camaron al Gusto",
+                      "price": 2150
+                    },
+                    {
+                      "name": "Filete de Pescado Grille",
+                      "price": 1500
+                    },
+                    {
+                      "name": "Pulpo al Gusto",
+                      "price": 2800
+                    },
+                    {
+                      "name": "Grillada Mar y Tierra",
+                      "price": 3700
+                    },
+                    {
+                      "name": "Grillada de Mar",
+                      "price": 3400
+                    },
+                    {
+                      "name": "Cazuela del Mar",
+                      "price": 3400
+                    },
+                    {
+                      "name": "Uruguayo",
+                      "price": 1775
+                    },
+                    {
+                      "name": "Lomo Ahumado",
+                      "price": 1675
+                    },
+                    {
+                      "name": "Lomo Tres Capas",
+                      "price": 1950
+                    },
+                    {
+                      "name": "Bistec de Cerdo",
+                      "price": 1500
+                    },
+                    {
+                      "name": "Lomo Encebollado",
+                      "price": 1675
+                    },
+                    {
+                      "name": "Filete Mignon",
+                      "price": 2300
+                    },
+                    {
+                      "name": "Ropa Vieja",
+                      "price": 1900
+                    },
+                    {
+                      "name": "Bistec de Res",
+                      "price": 2000
+                    },
+                    {
+                      "name": "Higado de Res",
+                      "price": 1200
+                    }
+                  ]
+                }
+              ],
+              "pizzas": [
+                {
+                  "name": "Napolitana",
+                  "price": 975
+                }
+              ],
+              "pastas": [
+                {
+                  "name": "Lasagna",
+                  "price": 1525
+                }
+              ],
+              "additions": [
+                {
+                  "name": "Chorizo",
+                  "price": 300
+                },
+                {
+                  "name": "Jamon",
+                  "price": 360
+                },
+                {
+                  "name": "Champiñones",
+                  "price": 225
+                },
+                {
+                  "name": "Camarones",
+                  "price": 800
+                },
+                {
+                  "name": "Langosta",
+                  "price": 800
+                },
+                {
+                  "name": "Aceitunas",
+                  "price": 200
+                },
+                {
+                  "name": "Piña",
+                  "price": 100
+                },
+                {
+                  "name": "Vegetales",
+                  "price": 200
+                },
+                {
+                  "name": "Atun",
+                  "price": 525
+                },
+                {
+                  "name": "Bacon",
+                  "price": 350
+                }
+              ],
+              "rations": [
+                {
+                  "name": "Viandas Fritas",
+                  "price": 300
+                },
+                {
+                  "name": "Ensalada Mixta",
+                  "price": 300
+                }
+              ],
+              "desserts": [
+                {
+                  "name": "Flan",
+                  "price": 500
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "cocktails": [
+                        {
+                          "name": "Piña Colada",
+                          "price": 550
+                        },
+                        {
+                          "name": "Sangria",
+                          "price": 1400
+                        },
+                        {
+                          "name": "Tinto Verano",
+                          "price": 1400
+                        },
+                        {
+                          "name": "Daiquiri",
+                          "price": 550
+                        },
+                        {
+                          "name": "Mojito",
+                          "price": 650
+                        },
+                        {
+                          "name": "Cuba Libre",
+                          "price": 530
+                        },
+                        {
+                          "name": "Cubata",
+                          "price": 580
+                        },
+                        {
+                          "name": "Ron Collins",
+                          "price": 500
+                        },
+                        {
+                          "name": "Gin Tonic",
+                          "price": 550
+                        },
+                        {
+                          "name": "Bloody Mary",
+                          "price": 550
+                        },
+                        {
+                          "name": "Caipiriña",
+                          "price": 550
+                        },
+                        {
+                          "name": "Caipirisima",
+                          "price": 550
+                        },
+                        {
+                          "name": "Michelada",
+                          "price": 200
+                        }
+                      ],
+                      "beers": [
+                        {
+                          "name": "Cerveza Nacional",
+                          "price": 450
+                        },
+                        {
+                          "name": "Cerveza Importada",
+                          "price": 350
+                        }
+                      ],
+                      "shots": [
+                        {
+                          "name": "Licores Nacionales",
+                          "price": 180
+                        },
+                        {
+                          "name": "Sake",
+                          "price": 100
+                        },
+                        {
+                          "name": "Havana Club 3 Años",
+                          "price": 180
+                        },
+                        {
+                          "name": "Havana Club Especial",
+                          "price": 200
+                        },
+                        {
+                          "name": "Havana Club Reserva",
+                          "price": 220
+                        },
+                        {
+                          "name": "Havana Club 7 Años",
+                          "price": 400
+                        },
+                        {
+                          "name": "Seleccion Maestros",
+                          "price": 870
+                        },
+                        {
+                          "name": "Ginebra",
+                          "price": 230
+                        },
+                        {
+                          "name": "Vodka",
+                          "price": 400
+                        },
+                        {
+                          "name": "Tequila",
+                          "price": 400
+                        },
+                        {
+                          "name": "Crema de Whisky",
+                          "price": 220
+                        },
+                        {
+                          "name": "Whisky Chivas Regal",
+                          "price": 870
+                        },
+                        {
+                          "name": "Whisky White Label",
+                          "price": 240
+                        },
+                        {
+                          "name": "Whisky Red Label",
+                          "price": 850
+                        },
+                        {
+                          "name": "Whisky Black Label",
+                          "price": 870
+                        },
+                        {
+                          "name": "Brandy",
+                          "price": 200
+                        },
+                        {
+                          "name": "Ron Ritual",
+                          "price": 250
+                        },
+                        {
+                          "name": "Santiago 12 Años",
+                          "price": 870
+                        }
+                      ]
+                    }
+                  ],
+                  "natual_juices": [
+                    {
+                      "name": "Jugos Naturales",
+                      "price": 300
+                    },
+                    {
+                      "name": "Batido de Frutas",
+                      "price": 450
+                    }
+                  ],
+                  "soft_drinks": [
+                    {
+                      "name": "Refrescos Nacionales",
+                      "price": 325
+                    },
+                    {
+                      "name": "Refrescos Importados",
+                      "price": 350
+                    },
+                    {
+                      "name": "Bebidas Energeticas",
+                      "price": 350
+                    }
+                  ],
+                  "coffees": [
+                    {
+                      "name": "Expreso",
+                      "price": 100
+                    },
+                    {
+                      "name": "Cortadito",
+                      "price": 180
+                    },
+                    {
+                      "name": "Americano",
+                      "price": 120
+                    },
+                    {
+                      "name": "Cappuccino",
+                      "price": 350
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
+    }
+    }
+}
+}

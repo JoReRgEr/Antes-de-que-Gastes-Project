@@ -1,0 +1,209 @@
+{
+    "municipality": "ch",
+    "name": "Ivonne Cafe",
+    "address": "San Lazaro entre Espada y Hospital",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Particular",
+    "type": "Bar-Restaurante",
+    "specialty": "",
+    "hours": {
+        "monday": "0900_2200",
+        "tuesday": "0900_2200",
+        "wednesday": "0900_2200",
+        "thursday": "0900_2200",
+        "friday": "0900_2200",
+        "saturday": "0900_2200",
+        "sunday": "0900_2200"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu_details": {
+        "kind_of_food": ["variada", "italiana"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Espagueti Blanco",
+                                "price": 700,
+                                "main_ingredients": ["pasta", "queso"]
+                            },
+                            {
+                                "name": "Espagueti Gouda",
+                                "price": 850,
+                                "main_ingredients": ["pasta", "queso"]
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Pizza  queso blanco",
+                                "price": 350,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "Pizza Grande queso blanco",
+                                "price": 500,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "Pizza Pequeña Gouda",
+                                "price": 600,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "Pizza Grande Gouda",
+                                "price": 850,
+                                "main_ingredients": ["harina", "queso"]
+                            }
+                        ]
+                    }
+                ],
+                "additions": [
+                    {
+                        "name": "Cebolla",
+                        "price": 200
+                    },
+                    {
+                        "name": "Jamón",
+                        "price": 200
+                    },
+                    {
+                        "name": "Aceituna",
+                        "price": 200
+                    }
+                ],
+                "desserts": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Tartaleta",
+                                "price": 350,
+                                "main_ingredients": ["harina"]
+                            },
+                            {
+                                "name": "Donut",
+                                "price": 170,
+                                "main_ingredients": ["harina"]
+                            },
+                            {
+                                "name": "Coffee cake",
+                                "price": 160,
+                                "main_ingredients": ["harina", "leche"]
+                            },
+                            {
+                                "name": "Empanada",
+                                "price": 250,
+                                "main_ingredients": ["harina"]
+                            },
+                            {
+                                "name": "Cangrejitos",
+                                "price": 250,
+                                "main_ingredients": ["harina", "fruta"]
+                            },
+                            {
+                                "name": "Rollitos",
+                                "price": 200,
+                                "main_ingredients": ["harina"]
+                            },
+                            {
+                                "name": "Pasteles",
+                                "price": 100,
+                                "main_ingredients": ["harina"]
+                            },
+                            {
+                                "name": "Cakes",
+                                "price": 4500,
+                                "main_ingredients": ["harina", "leche"]
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "beers": [
+                                    {
+                                        "name": "Cervezas", 
+                                        "price": 300
+                                    } 
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Aguas",
+                                "price": 250
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Refrescos",
+                                "price": 250
+                            }
+                        ],
+                        "natual_juices": [
+                            {
+                                "name": "Limonada Frappe",
+                                "price": 850
+                            },
+                            {
+                                "name": "Batido Fruta",
+                                "price": 550
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "Expreso",
+                                "price": 100
+                            },
+                            {
+                                "name": "Cortado",
+                                "price": 150
+                            },
+                            {
+                                "name": "Con leche",
+                                "price": 100
+                            },
+                            {
+                                "name": "Americano",
+                                "price": 100
+                            },
+                            {
+                                "name": "Capuchino",
+                                "price": 300
+                            },
+                            {
+                                "name": "Bombon",
+                                "price": 300
+                            },
+                            {
+                                "name": "Frapuccino",
+                                "price": 750
+                            }
+                        ]
+                    }
+                ]
+            }
+        }    
+    }
+}

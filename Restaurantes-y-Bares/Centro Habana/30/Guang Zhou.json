@@ -1,0 +1,428 @@
+{
+    "municipality": "ch",
+    "name": "Guang Zhou",
+    "address": "Cuchillo entre San Nicolás y Rayo",
+    "contacts": {
+        "phone": [
+            "078615229"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "google": 3.1
+    },
+    "owner": "Particular",
+    "type": "Restaurante",
+    "specialty": "Comida China",
+    "hours": {
+        "monday": "1100_0000",
+        "tuesday": "1100_0000",
+        "wednesday": "1100_0000",
+        "thursday": "1100_0000",
+        "friday": "1100_0000",
+        "saturday": "1100_0000",
+        "sunday": "1100_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup",
+        "mlc",
+        "usd"
+    ],
+    "menu_details": {
+        "kind_of_food": ["variada", "italiana", "criolla"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Pollo a la plancha",
+                                "price": 1800,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "name": "Cerdo a la plancha",
+                                "price": 2000,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "name": "Res a la plancha",
+                                "price": 2100,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "name": "Pescado a la plancha",
+                                "price": 2100,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Pollo Grille",
+                                "price": 1500,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "name": "Pescado Grille",
+                                "price": 1500,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Marisco a la plancha",
+                                "price": 3100,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "name": "De la Tierra",
+                                "price": 4200,
+                                "main_ingredients": ["cerdo", "res"]
+                            },
+                            {
+                                "name": "Del Mar",
+                                "price": 5500,
+                                "main_ingredients": ["pescado", "marisco"]
+                            },
+                            {
+                                "name": "Mar y Tierra",
+                                "price": 5900,
+                                "main_ingredients": ["cerdo", "pescado"]
+                            },
+                            {
+                                "name": "Cazuela de Mariscos",
+                                "price": 5575,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "name": "Cerdo Grille",
+                                "price": 1650,
+                                "main_ingredients": ["cerdo"]
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Pizza Napolitana con queso blanco",
+                                "price": 1150.00,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "Pizza Napolitana con queso Gouda",
+                                "price": 1250.00,
+                                "main_ingredients": ["harina", "queso"]
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Espaguetis Napolitanos",
+                                "price": 1080.00,
+                                "main_ingredients": ["pasta", "queso"]
+                            }
+                        ]
+                    }
+                ],
+                "additions": [
+                    {
+                        "name": "Tomate natural",
+                        "price": 200.00
+                    },
+                    {
+                        "name": "Pimiento",
+                        "price": 200.00
+                    },
+                    {
+                        "name": "Cebolla",
+                        "price": 200.00
+                    },
+                    {
+                        "name": "Piña",
+                        "price": 200.00
+                    },
+                    {
+                        "name": "Jamón",
+                        "price": 450.00
+                    },
+                    {
+                        "name": "Chorizo",
+                        "price": 300.00
+                    },
+                    {
+                        "name": "Bacon",
+                        "price": 300.00
+                    },
+                    {
+                        "name": "Champiñones",
+                        "price": 300.00
+                    },
+                    {
+                        "name": "Aceitunas",
+                        "price": 250.00
+                    },
+                    {
+                        "name": "Atún",
+                        "price": 500.00
+                    },
+                    {
+                        "name": "Queso Blanco",
+                        "price": 250.00
+                    },
+                    {
+                        "name": "Marisco",
+                        "price": 750.00
+                    },
+                    {
+                        "name": "Jamón Serrano",
+                        "price": 500.00
+                    }
+                ],
+                "rations": [
+                    {
+                        "name": "Arroz blanco",
+                        "price": 315
+                    },
+                    {
+                        "name": "Arroz frito",
+                        "price": 1710
+                    },
+                    {
+                        "name": "Arroz Moro",
+                        "price": 415
+                    },
+                    {
+                        "name": "Arroz frito especial",
+                        "price": 2110
+                    },
+                    {
+                        "name": "Arroz frito familiar",
+                        "price": 2970
+                    },
+                    {
+                        "name": "Chao mian (Fideos fritos)",
+                        "price": 900
+                    },
+                    {
+                        "name": "Chop Suey de Pollo",
+                        "price": 1700
+                    },
+                    {
+                        "name": "Chop Suey de Cerdo",
+                        "price": 1900
+                    },
+                    {
+                        "name": "Chop Suey de vegetales" ,
+                        "price": 800.00
+                    },
+                    {
+                        "name": "Viandas fritas del día",
+                        "price":  300
+                    },
+                    {
+                        "name": "Yuca con mojo",
+                        "price":2500.00
+                    },
+                    {
+                        "name": "Ensalada mixta",
+                        "price": 300.00
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "cocktails": [
+                                    {
+                                        "name": "Michelada ",
+                                        "price": 200
+                                    },
+                                    {
+                                        "name": "Mojito",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Cuba Libre",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Ron Collins",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Limonada Frappe",
+                                        "price": 350
+                                    },
+                                    {
+                                        "name": "Daiquiri Frappe",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Piña Colada",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Cubata",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Sangría",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Gin Tonic",
+                                        "price": 550
+                                    },
+                                    {
+                                        "name": "Margarita",
+                                        "price": 550
+                                    },
+                                    {
+                                        "name": "Caipiriña",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "Caipiroska",
+                                        "price": 550
+                                    }
+                                ],
+                                "shots": [
+                                    {
+                                        "name": "Havana Club 3 años",
+                                        "price": 350
+                                    },
+                                    {
+                                        "name": "Havana Club Especial",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "Havana Club Reserva",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Havana Club 7 años",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "Whisky",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Vodka",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Tequila Blanco",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Tequila Reposado",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Ginebra",
+                                        "price": 500
+                                    }
+                                ],
+                                "wine_glass": [
+                                    {
+                                        "name": "Vino tinto",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Vino blanco",
+                                        "price": 500
+                                    }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "Cerveza Nacional",
+                                        "price": 385.00
+                                    },
+                                    {
+                                        "name": "Cerveza Importada",
+                                        "price": 300.00
+                                    }
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua",
+                                "price": 190.00
+                            },
+                            {
+                                "name": "Agua 1.5L",
+                                "price": 280.00
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Kermato (Jugo de tomate)",
+                                "price": 200.00
+                            },
+                            {
+                                "name": "Refresco Nacional",
+                                "price": 350.00
+                            },
+                            {
+                                "name": "Refresco Importado",
+                                "price": 350.00
+                            },
+                            {
+                                "name": "Malta",
+                                "price": 400.00
+                            },
+                            {
+                                "name": "Malteada (Malta con leche)",
+                                "price": 550.00
+                            }
+                        ],
+                        "natual_juices": [
+                            {
+                                "name": "Jugo Natural",
+                                "price": 325.00
+                            },
+                            {
+                                "name": "Jugo en conserva",
+                                "price": 350.00
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "Café Expreso",
+                                "price": 100.00
+                            },
+                            {
+                                "name": "Café Americano",
+                                "price": 150.00
+                            },
+                            {
+                                "name": "Café Cortado",
+                                "price": 150.00
+                            },
+                            {
+                                "name": "Café Capsula",
+                                "price": 300.00
+                            },
+                            {
+                                "name": "Té",
+                                "price": 60.00
+                            }
+                        ]
+                    }
+                ]
+            }
+        }    
+    }
+}

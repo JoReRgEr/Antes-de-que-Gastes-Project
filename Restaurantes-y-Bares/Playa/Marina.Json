@@ -39,376 +39,338 @@
         "los menores de edad están prohibidos a partir de las 10 pm en adelante",
         "poseen una barra centrada en el bar"
         ],
-    "Menu" : {
-        "Entrantes" :{
-            "Pica Pica" : {
-                "Bolitas de Queso" : {
-                    "Price" : 1000.00
-                },
-                "Croquetas Marina" : {
-                    "Price" : 1200.00
-                },
-                "Brusquetas" : {
-                    "Price" : 1100.00
-                },
-                "Entremés Surtido" : {
-                    "Price" : 1900.00
-                },
-                "Papas Fritas" : {
-                    "Price" : 950.00
-                },
-                "Coctel de Camarón" : {
-                    "Price" : 3000.00
-                },
-                "Tequeños" : {
-                    "Price" : 1140.00
-                },
-                "Tacos de la Casa" : {
-                    "Price" : 1600.00
-                },
-                "Escabeche de Pescado" : {
-                    "Price" : 2800.00
-                },
-                "Queso y Frutos Secos" : {
-                    "Price" : 3000.00
-                },
-                "Tostones con Mojo" : {
-                    "Price" : 850.00
-                },
-                "Tostones Rellenos" : {
-                    "Price" : 950.00
-                },
-                "Fajitas de Pollo" : {
-                    "Price" : 1800.00
-                },
-                "Eperlán de Pescado" : {
-                    "Price" : 1800.00
-                },
-                "Frituras de Malanga" : {
-                    "Price" : 850.00
-                },
-                "Ceviche de Pescado" : {
-                    "Price" : 2300.00
-                },
-                "Nuggets" : {
-                    "Price" : 1950.00
+        
+        "menu_details": {
+            "kind_of_food": ["italiana", "criolla"],
+            "menu_card": {
+                "menu_sections": {
+                  "starters": [
+                    {
+                      "courses": [
+                        {"name":"Bolitas de Queso" ,
+                        "price" : 1000.00
+                      },
+                    {"name":"Croquetas Marina" ,
+                        "price" : 1200.00
+                      },
+                    {"name":"Brusquetas" ,
+                        "price" : 1100.00
+                      },
+                    {"name":"Entremés Surtido" ,
+                        "price" : 1900.00
+                      },
+                    {"name":"Papas Fritas" ,
+                        "price" : 950.00
+                      },
+                    {"name":"Coctel de Camarón" ,
+                        "price" : 3000.00
+                      },
+                    {"name":"Tequeños" ,
+                        "price" : 1140
+                      },
+                    {"name":"Tacos de la Casa" ,
+                        "price" : 1600.00
+                      },
+                    {"name":"Escabeche de Pescado" ,
+                        "price" : 2800.00
+                      },
+                    {"name":"Queso y Frutos Secos" ,
+                        "price" : 3000.00
+                      },
+                    {"name":"Tostones con Mojo" ,
+                        "price" : 850.00
+                      },
+                    {"name":"Tostones Rellenos" ,
+                        "price" : 950.00
+                      },
+                    {"name":"Fajitas de Pollo" ,
+                        "price" : 1800.00
+                      },
+                    {"name":"Eperlán de Pescado" ,
+                        "price" : 1800.00
+                      },
+                    {"name":"Frituras de Malanga" ,
+                        "price" : 850.00
+                      },
+                    {"name":"Ceviche de Pescado" ,
+                        "price" : 2300.00
+                      },
+                    {"name":"Nuggets" ,
+                        "price" : 1950
+                      }
+                      ]
+                    }
+                  ],
+                  "pizzas": [
+                    {
+                      "courses": [
+                     {"name":"Napolitana" ,
+                        "price" : 1100.00
+                      },
+                    {"name": "Margarita" ,
+                        "price" :1250.00
+                      },
+                    {"name": "Hawaina" ,
+                        "price" : 1400.00
+                      },
+                    {"name": "Con Serrano y Aceitunas" ,
+                        "price" : 1800.00
+                      },
+                    {"name": "Super Marina" ,
+                        "price" : 2200.00
+                      }
+                      ]
+                    }
+                  ],
+                  "pastas": [
+                    {
+                      "courses": [
+                        {"name": "Napolitano" ,
+                        "price" : 1200.00
+                      },
+                    {"name": "Con Jamón" ,
+                        "price" : 1400.00
+                      },
+                    {"name": "Carbonara" ,
+                        "price" : 2000.00
+                      },
+                    {"name": "Amatriciana" ,
+                        "price" : 2000.00
+                      },
+                    {"name": "Puttanesca" ,
+                        "price" : 1800.00
+                      },
+                    {"name": "Bolognesa" ,
+                        "price" : 2000.00
+                      },
+                    {"name": "Con Salmón y Salsa Blanca" ,
+                        "price" : 2000.00
+                      },
+                    {"name": "Combo Marina" ,
+                        "price" : 4500.00
+                      }
+                      ]
+                    }
+                  ],
+                  "additions": [
+                    {"name": "De Jamón y Queso" ,
+                        "price" : 950.00
+                      },
+                    {"name": "De Atún" ,
+                        "price" : 1000.00
+                      },
+                    {"name": "Hamburguesa" ,
+                        "price" : 1900.00
+                      },
+                    {"name": "Cheese Burguer" ,
+                        "price" : 2000.00
+                      },
+                    {"name": "Jamón/Chorizo" ,
+                        "price" : 550.00
+                      },
+                    {"name": "Queso: Gouda/Azul" ,
+                        "price" : 650.00
+                      },
+                    {"name": "Piña. Cebolla, Aceitunas, Pimiento" ,
+                        "price" : 600.00
+                      }
+                  ],
+                  "liquids": [
+                    {
+                      "alcoholic_beverages": [
+                        {
+                          "cocktails": [
+                            {"name":"Daiquiri" ,
+                        "price" : 900.00
+                      },
+                    {"name":"Daiquiri de Frutas",
+                        "price" : 1000.00
+                      },
+                    {"name":"Cuba Libre" ,
+                        "price" : 800.00
+                      },
+                    {"name":"Mojito" ,
+                        "price" : 900.00
+                      },
+                    {"name":"Piña Colada" ,
+                        "price" : 1200.00
+                      },
+                    {"name":"Cubata" ,
+                        "price" : 900.00
+                      },
+                    {"name":"Cubanito" ,
+                        "price" : 1200.00
+                      },
+                    {"name":"Caipirisima" ,
+                        "price" : 850.00
+                      },
+                    {"name":"Canchanchara" ,
+                        "price" : 850.00
+                      },
+                    {"name":"Sex on The Beach" ,
+                        "price" : 950.00
+                      },
+                    {"name":"Havana Special" ,
+                        "price" : 800.00
+                      },
+                    {"name":"Calimocho" ,
+                        "price" : 990.00
+                      },
+                    {"name":"Tinto de Verano" ,
+                        "price" : 1000.00
+                      },
+                    {"name":"Presidente" ,
+                        "price" : 800.00
+                      },
+                    {"name":"San Francisco" ,
+                        "price" : 950.00 
+                      },
+                    {"name":"Ron Collins" ,
+                        "price" : 850.00
+                      },
+                    {"name":"Whisky Sour" ,
+                        "price" : 1500.00
+                      },
+                    {"name":"Mary Pickford" ,
+                        "price" : 800.00
+                      },
+                    {"name":"Caipiroska" ,
+                        "price" : 950.00
+                      },
+                    {"name":"Bloddy Mary" ,
+                        "price" : 950.00
+                      },
+                    {"name":"Screw Driver" ,
+                        "price" : 850.00
+                      },
+                    {"name":"Blue Lagoon" ,
+                        "price" : 800.00
+                      },
+                    {"name":"Gin Tonic" ,
+                        "price" : 950.00
+                      },
+                    {"name":"Tom Collins" ,
+                        "price" : 850.00
+                      },
+                    {"name":"Sangria" ,
+                        "price" : 1500.00
+                      },
+                    {"name":"Caipirinha" ,
+                        "price" : 900.00
+                      },
+                    {"name":"Tequila Sunrise" ,
+                        "price" : 900.00
+                      },
+                    {"name":"Old Fashioned" ,
+                        "price" : 900.00
+                      },
+                    {"name":"Manhattan" ,
+                        "price" : 900.00
+                      },
+                    {"name":"Martini" ,
+                        "price" : 900.00
+                      },
+                    {"name":"Negroni" ,
+                        "price" : 1000.00
+                      },
+                    {"name":"Vodkatonic" ,
+                        "price" : 950.00
+                      },
+                    {"name":"Orgasmo" ,
+                        "price" : 1000.00
+                      },
+                    {"name":"Margarita" ,
+                        "price" : 900.00 
+                      },
+                    {"name":"Long Island Ice Tea" ,
+                        "price" : 1000.00
+                      },
+                    {"name":"God Mother" ,
+                        "price" : 900.00
+                      },
+                    {"name":"God Father" ,
+                        "price" : 1000.00
+                      },
+                    {"name":"Aperol Spritz" ,
+                        "price" : 1500.00
+                      },
+                    {"name":"Amaretto Sour" ,
+                        "price" : 1200.00
+                      }
+                          ],
+                          "beers": [
+                            {"name": "Heineken" ,
+                        "price" : 900.00
+                      },
+                    {"name": "Corona" ,
+                        "price" : 900.00
+                      },
+                    {"name": "Cristal/Bucanero" ,
+                        "price" : 550.00
+                      },
+                    {"name": "Servicio Chelada" ,
+                        "price" : 400.00
+                      },
+                    {"name": "Servicio Michelada" ,
+                        "price" : 500.00
+                      }
+                          ]
+                        }
+                      ],
+                      "water": [
+                        {"name": "Agua Natural Nac." ,
+                        "price" : 300.00
+                      },
+                    {"name": "Agua Natural Imp." ,
+                        "price" : 400.00
+                      },
+                    {"name": "Agua Gaseada Nac." ,
+                        "price" : 400.00
+                      },
+                    {"name": "Agua Gaseada Imp" ,
+                        "price" : 900.00
+                      },
+                    {"name": "Agua Tónica Nac" ,
+                        "price" : 500.00
+                      },
+                    {"name": "Agua Tónica Impo" ,
+                        "price" : 950.00
+                      },
+                    {"name": "Agua T. Le Tribute" ,
+                        "price" : 1150.00
+                      }
+                      ],
+                      "natual_juices": [
+                        {"name": "Limonada Natural" ,
+                        "price" : 850.00
+                      },
+                    {"name": "Limonada Frappé" ,
+                        "price" : 950.00
+                      },
+                    {"name": "Limonada Frescura" ,
+                        "price" : 1000.00
+                      },
+                    {"name": "Limonada Clarete" ,
+                        "price" : 1000.00
+                      },
+                    {"name": "Jugo Natural" ,
+                        "price" : 750.00
+                      }
+                      ],
+                      "soft_drinks": [
+                        {"name": "Malta" ,
+                        "price" : 700.00
+                      },
+                    {"name": "Refresco Importado" ,
+                        "price" : 500.00
+                      },
+                    {"name": "Kermato" ,
+                        "price" : 900.00
+                      }
+                      ]
+                    }
+                  ]
                 }
-            }
-        },
-        "Platos Fuertes" : {
-            "Pizzas" : {
-                "Napolitana" : {
-                    "Price" : 1100.00
-                },
-                "Margarita" : {
-                    "Price" :1250.00
-                },
-                "Hawaina" : {
-                    "Price" : 1400.00
-                },
-                "Con Serrano y Aceitunas" : {
-                    "Price" : 1800.00
-                },
-                "Super Marina" : {
-                    "Price" : 2200.00
-                }        
-            },
-            "Pastas" : {
-                "Napolitano" : {
-                    "Price" : 1200.00
-                },
-                "Con Jamón" : {
-                    "Price" : 1400.00
-                },
-                "Carbonara" : {
-                    "Price" : 2000.00
-                },
-                "Amatriciana" : {
-                    "Price" : 2000.00
-                },
-                "Puttanesca" : {
-                    "Price" : 1800.00
-                },
-                "Bolognesa" : {
-                    "Price" : 2000.00
-                },
-                "Con Salmón y Salsa Blanca" : {
-                    "Price" : 2000.00
-                },
-                "Combo Marina" : {
-                    "Price" : 4500.00
-                }
-            }
-        },
-        "Agregos" :{ 
-            "Entrepanes" : {
-                "De Jamón y Queso" : {
-                    "Price" : 950.00
-                },
-                "De Atún" : {
-                    "Price" : 1000.00
-                },
-                "Hamburguesa" : {
-                    "Price" : 1900.00
-                },
-                "Cheese Burguer" : {
-                    "Price" : 2000.00
-                }
-            },
-            "Otros Agregos" : {
-                "Jamón/Chorizo" : {
-                    "Price" : 550.00
-                },
-                "Queso: Gouda/Azul" : {
-                    "Price" : 650.00
-                },
-                "Picña. Cebolla, Aceitunas, Pimiento" : {
-                    "Price" : 600.00
-                },
-                "Jamón Serrano" : 1500.00
-            }
-        },
-        "Bebidas" : {
-            "Cocteles" : {
-                "Daiquiri" : {
-                    "Price" : 900.00
-                },
-                "Daiquiri de Frutas" :{
-                    "Price" : 1000.00
-                },
-                "Cuba Libre" : {
-                    "Price" : 800.00
-                },
-                "Mojito" : {
-                    "Price" : 900.00
-                },
-                "Piña Colada" : {
-                    "Price" : 1200.00
-                },
-                "Cubata" : {
-                    "Price" : 900.00
-                },
-                "Cubanito" : {
-                    "Price" : 1200.00
-                },
-                "Caipirisima" : {
-                    "Price" : 850.00
-                },
-                "Canchanchara" : {
-                    "Price" : 850.00
-                },
-                "Sex on The Beach" : {
-                    "Price" : 950.00
-                },
-                "Havana Special" : {
-                    "Price" : 800.00
-                },
-                "Calimocho" : {
-                    "Price" : 990.00
-                },
-                "Tinto de Verano" : {
-                    "Price" : 1000.00
-                },
-                "Presidente" : {
-                    "Price" : 800.00
-                },
-                "San Francisco" : {
-                    "Price" : 950.00 
-                },
-                "Ron Collins" : {
-                    "Price" : 850.00
-                },
-                "Whisky Sour" : {
-                    "Price" : 1500.00
-                },
-                "Mary Pickford" : {
-                    "Price" : 800.00
-                },
-                "Caipiroska" : {
-                    "Price" : 950.00
-                },
-                "Bloddy Mary" : {
-                    "Price" : 950.00
-                },
-                "Screw Driver" : {
-                    "Price" : 850.00
-                },
-                "Blue Lagoon" : {
-                    "Price" : 800.00
-                },
-                "Gin Tonic" : {
-                    "Price" : 950.00
-                },
-                "Tom Collins" : {
-                    "Price" : 850.00
-                },
-                "Sangria" : {
-                    "Price" : 1500.00
-                },
-                "Caipirinha" : {
-                    "Price" : 900.00
-                },
-                "Tequila Sunrise" : {
-                    "Price" : 900.00
-                },
-                "Old Fashioned" : {
-                    "Price" : 900.00
-                },
-                "Manhattan" : {
-                    "Price" : 900.00
-                },
-                "Martini" : {
-                    "Price" : 900.00
-                },
-                "Negroni" : {
-                    "Price" : 1000.00
-                },
-                "Vodkatonic" : {
-                    "Price" : 950.00
-                },
-                "Orgasmo" : {
-                    "Price" : 1000.00
-                },
-                "Margarita" : {
-                    "Price" : 900.00 
-                },
-                "Long Island Ice Tea" : {
-                    "Price" : 1000.00
-                },
-                "God Mother" : {
-                    "Price" : 900.00
-                },
-                "God Father" : {
-                    "Price" : 1000.00
-                },
-                "Aperol Spritz" : {
-                    "Price" : 1500.00
-                },
-                "Amaretto Sour" : {
-                    "Price" : 1200.00
-                }
-            },
-            "Bebidas Normales" : {
-                "Agua Natural Nac." : {
-                    "Price" : 300.00
-                },
-                "Agua Natural Imp." : {
-                    "Price" : 400.00
-                },
-                "Agua Gaseada Nac." : {
-                    "Price" : 400.00
-                },
-                "Agua Gaseada Imp" : {
-                    "Price" : 900.00
-                },
-                "Agua Tónica Nac" : {
-                    "Price" : 500.00
-                },
-                "Agua Tónica Impo" : {
-                    "Price" : 950.00
-                },
-                "Agua T. Le Tribute" : {
-                    "Price" : 1150.00
-                },
-                "Limonada Natural" : {
-                    "Price" : 850.00
-                },
-                "Limonada Frappé" : {
-                    "Price" : 950.00
-                },
-                "Limonada Frescura" : {
-                    "Price" : 1000.00
-                },
-                "Limonada Clarete" : {
-                    "Price" : 1000.00
-                },
-                "Jugo Natural" : {
-                    "Price" : 750.00
-                },
-                "Malta" : {
-                    "Price" : 700.00
-                },
-                "Refresco Importado" : {
-                    "Price" : 500.00
-                },
-                "Kermato" : {
-                    "Price" : 900.00
-                }
-            },
-            "Cervezas" : {
-                "Heineken" : {
-                    "Price" : 900.00
-                },
-                "Corona" : {
-                    "Price" : 900.00
-                },
-                "Cristal/Bucanero" : {
-                    "Price" : 550.00
-                },
-                "Servicio Chelada" : {
-                    "Price" : 400.00
-                },
-                "Servicio Michelada" : {
-                    "Price" : 500.00
-                }
-            }
-
-        },
-        "Especial" : {
-            "Filete de Pescado" : {
-                "Grillé" : {
-                    "Price" : 2300.00
-                },
-                "A las Finas Hierbas" : {
-                    "Price" : 2500.00
-                },
-                "Princesa" : {
-                    "Price" : 2800.00
-                },
-                "Canciller" : {
-                    "Price" : 3000.00
-                }
-            },
-            "Langosta Al Gusto" : {
-                "Enchlada" : {
-                    "Price" : 4000.00
-                },
-                "Grillé" : {
-                    "Price" : 4000.00
-                },
-                "Al Ajillo" : {
-                    "Price" : 4000.00
-                },
-                "Termidor" : {
-                    "Price" : 4500.00
-                }
-            },
-            "Pulpo al Gusto" : {
-                "Enchilado" : {
-                    "Price" : 4600.00
-                },
-                "Al Ajillo" : {
-                    "Price" : 4600.00
-                },
-                "Grillé" : {
-                    "Price" : 4600.00
-                }
-            },
-            "Exclusivos!!!" : {
-                "Paella MARINA(2pax)" : {
-                    "Price" : 5500.00
-                },
-                "Mar y Tierra" : {
-                    "Price" : 5500.00
-                },
-                "Cazuela de Mariscos" : {
-                    "Price" : 5500.00
-                }
-            }
+            }    
         }
-
     }
-
-
-
-}

@@ -1,0 +1,256 @@
+{
+    "Name": "Bar Tropicana",
+    "Type": "Bar",
+    "Phone_Number": "7279147",
+    "Web_Page": "Cabaret-Tropicana.com",
+    "Ownership": "Estatal",
+    "Operating_Hours": {
+        "Monday":   ["12:00-22:00"],
+        "Tuesday":  ["12:00-22:00"],
+        "Wendsday": ["12:00-22:00"],
+        "Thursday": ["12:00-22:00"],
+        "Friday":   ["12:00-22:00"],
+        "Saturday": ["12:00-22:00"],
+        "Sunday":   ["12:00-22:00"]
+    },
+    "Location": {
+        "District": "Marianao",
+        "Address": "72A,Avenida 41",
+        "Coordinates": "3HVJ+R8W"
+    },
+    "Cuisine": "null",
+    
+    "menu_details": {
+        "kind_of_food": ["bebidas"],
+        "menu_card": {
+            "menu_sections": {
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "beers": [
+                        {
+                          "name": "Cervezas nacionales o importadas",
+                          "Price": 200
+                        },
+                        {
+                          "name": "Cerveza Dispensada ",
+                          "Price": 160
+                        }
+                      ],
+                      "cocktails": [
+                        {
+                          "name": "Daiquiri Natural",
+                          "Price": 450
+                      },
+                      {
+                          "name": "Daiquiri Frapeado Natural",
+                          "Price": 450
+                      },
+                      {
+                          "name": "Cuba libre",
+                          "Price": 730
+                      },
+                      {
+                          "name": "cubata",
+                          "Price": 700
+                      },
+                      {
+                          "name": "Daiquiri mulata",
+                          "Price": 620
+                      },
+                      {
+                          "name": "Daiquiri Saborizado",
+                          "Price": 450
+                      },
+                      {
+                          "name": "Gin cola",
+                          "Price": 750
+                      },
+                      {
+                          "name": "Gin tonic",
+                          "Price": 785
+                      },
+                      {
+                          "name": "Rom tonic",
+                          "Price": 550
+                      },
+                      {
+                          "name": "Vodka cola",
+                          "Price": 600
+                      },
+                      {
+                          "name": "Vodka tónica",
+                          "Price": 650
+                      },
+                      {
+                          "name": "Whisky cola",
+                          "Price": 500
+                      },
+                      {
+                          "name": "Tropicana special", 
+                          "Price": 450
+                      },
+                      {
+                          "name": "Cocteles Internacionales",
+                          "Price": 500
+                      },
+                      {
+                          "name": "Canchánchara",
+                          "Price": 450
+                      },
+                      {
+                          "name": "Piña colada", 
+                          "Price": 450
+                      }
+                      ],
+                      "wine_glass": [
+                        {
+                          "name": "Copa de vino de la casa",
+                          "Price": 300
+                        }
+                      ],
+                      "shots": [
+                        {
+                          "name": "Havana Club 3 años",
+                            "Price": 100
+                        },
+                        {
+                          "name": "Especial Havana Club",
+                            "Price": 120
+                        },
+                        {
+                          "name": "Havana Club 7 años",
+                            "Price": 320
+                        },
+                        {
+                          "name": "Havana Club Pacto Navio",
+                            "Price": 730
+                        },
+                        {
+                          "name": "Havana club seleccion de maestros",
+                            "Price": 750
+                        },
+                        {
+                          "name": "Aguardiente Gobernador",
+                          "Price": 14300
+                        },
+                        {
+                          "name": "Chiva Regal 12 Años",
+                          "Price": 995
+                        },
+                        {
+                          "name": "Ballentinees finest",
+                          "Price": 500
+                        },
+                        {
+                          "name": "J&B", 
+                            "Price": 650
+                        },
+                        {
+                          "name": "Johnnie Walker etiqueta roja",
+                          "Price": 550
+                        },
+                        {
+                          "name": "Jameson",
+                          "Price": 650
+                        },
+                        {
+                          "name": "VAT",
+                          "Price": 580
+                        },
+                        {
+                          "name": "Tequila 3 sombreros",
+                          "Price": 300
+                        },
+                        {
+                          "name": "Vodka Igor",
+                          "Price": 395
+                        },
+                        {
+                          "name": "Brandy Napoleón",
+                          "Price": 190
+                        },
+                        {
+                          "name": "Cremas y licores (Cacao)",
+                          "Price": 85
+                        },
+                        {
+                          "name": "Cremas y licores (Café)",
+                          "Price": 85
+                        },
+                        {
+                          "name": "Cremas y licores(Menta)",
+                          "Price": 85
+                        },
+                        {
+                          "name": "Cremas y licores(Marrasquino)",
+                          "Price": 85
+                        },
+                        {
+                          "name": "Cremas y licores(Triple sec)",
+                          "Price": 85
+                        },
+                        {
+                          "name": "Cremas y licores(Curacao azul)",
+                          "Price": 85
+                        },
+                        {
+                          "name": "Cremas y licores(Piña)",
+                          "Price": 85
+                        }
+                      ]
+                    }
+                  ],
+                  "water": [
+                      {
+                        "name": "Aguas nacionales", 
+                        "Price": 100
+                      },
+                      {
+                        "name": "Agua saborizada ", 
+                        "Price": 100
+                      },
+                      {
+                        "name": "Agua Natural ", 
+                        "Price": 100
+                      }
+            
+                  ],
+                  "soft_drinks": [
+                    {
+                      "name": "Refresco",
+                      "Price": 60
+                    }
+                  ],
+                  "natual_juices": [
+                     {
+                      "name": "Jugos de frutas en conserva ",
+                      "Price": 100
+                     },
+                     {
+                      "name": "Jugos de frutas naturales",
+                      "Price": 100
+                     }
+                  ]
+                }
+              ]
+            }
+        }    
+    },
+    "Other Info": {
+        "Entertainment": ["Show"],
+        "Facilities": ["Reservaciones"],
+        "Payments_Options": {
+            "Cash": "Si",
+            "Credit_Card": "Si",
+            "Mobile_Payment": "Si"
+        },
+        "Accepted_Currencies": {
+            "National_Currency": "Si",
+            "US_Dollars": "No",
+            "Euros": "No",
+            "Others": "No"
+        }
+    }
+}

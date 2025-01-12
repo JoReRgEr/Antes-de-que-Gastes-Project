@@ -1,6 +1,6 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "Ranchon Las Vegas",
+    "place_name": "Ranchon Las Vegas",
     "property_type": "particular",
     "address": {
         "establishment_phone_number": null,
@@ -184,7 +184,7 @@
                             {
                                 "course_name": "Tamal en Cazuela",
                                 "price": 1000,
-                                "main_ingredients": ["cereal"]
+                                "main_ingredients": ["grano"]
                             },
                             {
                                 "course_name": "Tacos de Pollo",
@@ -204,7 +204,7 @@
                             {
                                 "course_name": "Tabla de Serrano, Quesos y Frutos Secos",
                                 "price": 2000,
-                                "main_ingredients": ["cerdo", "queso", "cereal"]
+                                "main_ingredients": ["cerdo", "queso", "grano"]
                             },
                             {
                                 "course_name": "La Tranka",

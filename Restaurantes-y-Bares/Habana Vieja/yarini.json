@@ -1,348 +1,384 @@
 {
-    "establishment": {
-      "classification": {
-        "type": ["restaurante"]
+  "establishment": {
+    "classification": {
+      "type": ["restaurante"]
+    },
+    "name": "Yarini",
+    "type": ["Internacional", "Cubana"],
+    "description": "En medio de la zona portuaria habanera, en el barrio San Isidro, se encuentra el restaurante Yarini Habana, un espacio de estilo contemporáneo que pretende ofrecer un ambiente diferente y de desconexión. La cuidada iluminación, la vegetación tropical abundante y la exótica mezcla de sonidos intentan inmortalizar una experiencia única en la ciudad. Nuestra cocina recrea sabores cubanos e internacionales para adentrarse en un concepto de gustos mixtos, definidos por una preparación rigurosa, de excelencia. La carta exhibe una coctelería de autor que complementa el sabor del plato escogido y recrea la frescura y el erotismo tropical. Yarini trae al recuerdo a la personalidad que afamó a esa barrida en la Cuba de inicios del siglo XX: el conocido joven, político y proxeneta isleño Alberto Yarini Ponce de León. Leyenda que ha permanecido en el imaginario popular cubano, del cual el músico cubano Gerardo Taylor, dijo: “(...) cuando se dice San Isidro, hay que decir Yarini”.",
+    "contact_info": {
+      "phone": {
+        "number": "+53 5 8979835",
+        "type": "mobile"
       },
-      "name": "Yarini",
-      "type": "Internacional, Cubana",
-      "description": "En medio de la zona portuaria habanera, en el barrio San Isidro, se encuentra el restaurante Yarini Habana, un espacio de estilo contemporáneo que pretende ofrecer un ambiente diferente y de desconexión. La cuidada iluminación, la vegetación tropical abundante y la exótica mezcla de sonidos intentan inmortalizar una experiencia única en la ciudad. Nuestra cocina recrea sabores cubanos e internacionales para adentrarse en un concepto de gustos mixtos, definidos por una preparación rigurosa, de excelencia. La carta exhibe una coctelería de autor que complementa el sabor del plato escogido y recrea la frescura y el erotismo tropical. Yarini trae al recuerdo a la personalidad que afamó a esa barrida en la Cuba de inicios del siglo XX: el conocido joven, político y proxeneta isleño Alberto Yarini Ponce de León. Leyenda que ha permanecido en el imaginario popular cubano, del cual el músico cubano Gerardo Taylor, dijo: “(...) cuando se dice San Isidro, hay que decir Yarini”.",
-      "contact_info": {
-        "phone": {
-          "number": "+53 5 8979835",
-          "type": ["mobile"]
-        },
-        "email": "info@yarinihabana.com"
+      "email": "info@yarinihabana.com",
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "00:00"
       },
-      "opening_hours": {
-        "monday": "12:00 PM - 12:00 AM",
-        "tuesday": "12:00 PM - 12:00 AM",
-        "wednesday": "12:00 PM - 12:00 AM",
-        "thursday": "12:00 PM - 12:00 AM",
-        "friday": "12:00 PM - 12:00 AM",
-        "saturday": "12:00 PM - 12:00 AM",
-        "sunday": "12:00 PM - 12:00 AM"
+      "tuesday": {
+        "open": "12:00",
+        "close": "00:00"
       },
-      "address": "Calle San Isidro #214 entre Picota y Compostela, Habana Vieja",
-      "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+      "wednesday": {
+        "open": "12:00",
+        "close": "00:00"
       },
-      "social_media": {
-        "hashtag": "#yarinihabana"
+      "thursday": {
+        "open": "12:00",
+        "close": "00:00"
       },
-      "accepted_payment_methods": ["digital payments"],
-      "delivery_available": true,
-      "service_fee": {
-        "name": "10% service charge",
-        "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-        "applies": true
+      "friday": {
+        "open": "12:00",
+        "close": "00:00"
       },
-      "features": {
-        "reservation_required": true,
-        "outdoor_seating": true,
-        "dine_in": true,
-        "takeaway": true,
-        "offers": ["Restaurante", "Bar"],
-        "local_options": ["Almuerzo", "Cena", "Postres"],
-        "services": ["Sanitario", "Tiene bar"],
-        "ambience": ["Agradable"],
-        "usual_customers": ["Grupos"],
-        "planning": ["Se aceptan reservas"],
-        "children": null,
-        "pets": false,
-        "parking": ["Estacionamiento gratuito en la calle", "Estacionamiento accesible para personas en silla de ruedas"]
+      "saturday": {
+        "open": "12:00",
+        "close": "00:00"
       },
-      "dietary_options": [],
-      "meals": ["Comidas", "Cenas", "Abierto hasta tarde", "Bebidas"],
-      "advantages": ["Para llevar", "Reservas", "Terraza exterior", "Capacidad", "Aparcamiento en la calle", "Sirve alcohol", "Bar completo", "Pagos digitales", "Servicio de mesa"],
-      "highlights": ["Asientos al aire libre", "Aperitivos", "Buenos cócteles", "Agradable", "Recomendable para ir en grupo"],
-      "menu": {
-          "courses": [
-            {
-              "category": "Entrantes",
-              "items": [
-                {
-                  "name": "Cesta de Panes",
-                  "price": 1500
-                },
-                {
-                  "name": "Focaccia de Orégano",
-                  "price": 1500
-                },
-                {
-                  "name": "Calamar a la Andaluza",
-                  "price": 2500
-                },
-                {
-                  "name": "Majuas Fritas",
-                  "price": 1900
-                },
-                {
-                  "name": "Camarones en Tempura",
-                  "price": 2500
-                },
-                {
-                  "name": "Mortadela con Burrata y Pesto",
-                  "price": 4500
-                },
-                {
-                  "name": "Pulpo a la Gallega",
-                  "price": 5500
-                },
-                {
-                  "name": "Tartar de Salmón sobre Arroz Crujiente",
-                  "price": 2200
-                },
-                {
-                  "name": "Focaccia alla Caprese",
-                  "price": 2500
-                },
-                {
-                  "name": "Ensalada Yarini",
-                  "price": 2250
-                },
-                {
-                  "name": "Ensalada César de Pollo",
-                  "price": 2500
-                },
-                {
-                  "name": "Ensalada de Pulpo",
-                  "price": 4500
-                },
-                {
-                  "name": "Ceviche Gaston Acurio",
-                  "price": 2500
-                },
-                {
-                  "name": "Ensalada Griega 214",
-                  "price": 2500
-                },
-                {
-                  "name": "Mini Hamburguesas",
-                  "price": 2500
-                },
-                {
-                  "name": "Croquetas de Ibérico",
-                  "price": 1950
-                },
-                {
-                  "name": "Croquetas de Langosta",
-                  "price": 1950
-                },
-                {
-                  "name": "Croquetas de Frijoles Negros",
-                  "price": 1500
-                },
-                {
-                  "name": "Frituras del Medio Oriente",
-                  "price": 1000
-                },
-                {
-                  "name": "Tabla de Embutidos y Quesos",
-                  "price": 5000
-                },
-                        {
-                          "category": "Platos Principales",
-                          "items": [
-                            {
-                              "name": "Focaccia de Jamón Serrano",
-                              "price": 3500
-                            },
-                            {
-                              "name": "Focaccia de Chorizo",
-                              "price": 3200
-                            },
-                            {
-                              "name": "Focaccia 4 Quesos",
-                              "price": 3500
-                            },
-                            {
-                              "name": "Focaccia de Vegetales",
-                              "price": 2850
-                            },
-                            {
-                              "name": "Carpaccio de Res",
-                              "price": 3000
-                            },
-                            {
-                              "name": "Adoquines San Isidro",
-                              "price": 2800
-                            },
-                            {
-                              "name": "¿Qué me trajo el Pescador?",
-                              "price": 3800
-                            },
-                            {
-                              "name": "Pulpo Yarini",
-                              "price": 5500
-                            },
-                            {
-                              "name": "Camarones Empanados con Coco",
-                              "price": 4500
-                            },
-                            {
-                              "name": "Carnero Ararat",
-                              "price": 3000
-                            },
-                            {
-                              "name": "Masas de Cerdo sobre Puré de Yuca",
-                              "price": 3800
-                            },
-                            {
-                              "name": "Un Plato Muy Cubano",
-                              "price": 3500
-                            },
-                            {
-                              "name": "Entraña Argentina",
-                              "price": 7500
-                            },
-                            {
-                              "name": "Solomillo Argentino",
-                              "price": 10500
-                            },
-                            {
-                              "name": "Langosta Terminal",
-                              "price": 7000
-                            },
-                            {
-                              "name": "Langosta Grille",
-                              "price": 6500
-                            },
-                            {
-                              "name": "Zarzuela de Mariscos",
-                              "price": 10000
-                            },
-                            {
-                              "name": "Risotto de Mariscos",
-                              "price": 5000
-                            },
-                            {
-                              "name": "Risotto Cuatro Quesos",
-                              "price": 4500
-                            },
-                            {
-                              "name": "Risotto Negro de Pulpo y Camarones en Tempura",
-                              "price": 4500
-                            },
-                            {
-                              "name": "Pasta Fruti di Mare",
-                              "price": 4800
-                            },
-                                    {
-                                      "category": "Postres",
-                                      "items": [
-                                        {
-                                          "name": "Festival de Chocolates",
-                                          "price": 1500
-                                        },
-                                        {
-                                          "name": "Tarta Muerte por Chocolate",
-                                          "price": 1500
-                                        },
-                                        {
-                                          "name": "Copa de Helado",
-                                          "price": 1050
-                                        },
-                                            {
-                                              "category": "Cócteles",
-                                              "items": [
-                                                {
-                                                  "name": "Piña Colada Clarificada",
-                                                  "price": 1500
-                                                },
-                                                {
-                                                  "name": "Gin Love",
-                                                  "price": 1500
-                                                },
-                                                {
-                                                  "name": "1780 JJ&S",
-                                                  "price": 2000
-                                                },
-                                                {
-                                                  "name": "Miti Miti",
-                                                  "price": 1500
-                                                },
-                                                {
-                                                  "name": "Pac Man",
-                                                  "price": 1500
-                                                },
-                                                {
-                                                  "name": "Cachonda",
-                                                  "price": 1300
-                                                },
-                                                {
-                                                  "name": "Red Passion",
-                                                  "price": 1500
-                                                },
-                                                {
-                                                  "name": "Tomasa",
-                                                  "price": 1000
-                                                },
-                                                {
-                                                  "name": "Yarini Mule",
-                                                  "price": 2100
-                                                },
-                                                {
-                                                  "name": "Sangría Yarini",
-                                                  "price": 1500
-                                                },
-                                                {
-                                                  "name": "Agua Bendita",
-                                                  "price": 1300
-                                                },
-                                                {
-                                                  "name": "Al César lo que es del César",
-                                                  "price": 1250
-                                                },
-                                                {
-                                                  "name": "Pachula",
-                                                  "price": 1000
-                                                },
-                                                {
-                                                  "name": "Caipirrka",
-                                                  "price": 1700
-                                                },
-                                                {
-                                                  "name": "Mata Virgen",
-                                                  "price": 1300
-                                                },
-                                                {
-                                                  "name": "La Jaba'a",
-                                                  "price": 1500
-                                                },
-                                                {
-                                                  "name": "D.O.C",
-                                                  "price": 1500
-                                                },
-                                                {
-                                                  "name": "El Gallo",
-                                                  "price": 2400
-                                                },
-                                                {
-                                                  "name": "El Mulatón",
-                                                  "price": 1500
-                                                },
-                                                {
-                                                  "name": "El Primero de Cuba",
-                                                  "price": 960
-                                                },
-                                                {
-                                                  "name": "Penicillin 214",
-                                                  "price": 1800
-                                                },
-                                                {
-                                                  "name": "San Isidro 214",
-                                                  "price": 960
-                                                }
-                                              ]
-                                            }
-                                          ]
-                                        }
-                                      }
-                                      
-                                  ]
-                                }
-                              }
-                              
-      
-  
+      "sunday": {
+        "open": "12:00",
+        "close": "00:00"
+      }
+    },
+    "address": "Calle San Isidro #214 entre Picota y Compostela, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "hashtag": "#yarinihabana",
+      "facebook": null,
+      "instagram": null,
+      "whatsapp": null
+    },
+    "accepted_payment_methods": [],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "10% service charge",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": null,
+      "pets": false,
+      "parking": ["Estacionamiento gratuito en la calle", "Estacionamiento accesible para personas en silla de ruedas"]
+    },
+    "dietary_options": [],
+    "meals": ["Comidas", "Cenas", "Abierto hasta tarde", "Bebidas"],
+    "advantages": ["Para llevar", "Reservas", "Terraza exterior", "Capacidad", "Aparcamiento en la calle", "Sirve alcohol", "Bar completo", "Pagos digitales", "Servicio de mesa"],
+    "highlights": ["Asientos al aire libre", "Aperitivos", "Buenos cócteles", "Agradable", "Recomendable para ir en grupo"]
+  },
+  "menu_details": {
+      "kind_of_food": ["variada", "criolla", "europea"],
+      "menu_card": {
+          "menu_sections": {
+            "starters": [
+              {
+                "courses": [
+                  {
+                    "name": "Cesta de Panes",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Focaccia de Orégano",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Calamar a la Andaluza",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Majuas Fritas",
+                    "price": 1900
+                  },
+                  {
+                    "name": "Camarones en Tempura",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Mortadela con Burrata y Pesto",
+                    "price": 4500
+                  },
+                  {
+                    "name": "Pulpo a la Gallega",
+                    "price": 5500
+                  },
+                  {
+                    "name": "Tartar de Salmón sobre Arroz Crujiente",
+                    "price": 2200
+                  },
+                  {
+                    "name": "Focaccia alla Caprese",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Ensalada Yarini",
+                    "price": 2250
+                  },
+                  {
+                    "name": "Ensalada César de Pollo",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Ensalada de Pulpo",
+                    "price": 4500
+                  },
+                  {
+                    "name": "Ceviche Gaston Acurio",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Ensalada Griega 214",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Mini Hamburguesas",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Croquetas de Ibérico",
+                    "price": 1950
+                  },
+                  {
+                    "name": "Croquetas de Langosta",
+                    "price": 1950
+                  },
+                  {
+                    "name": "Croquetas de Frijoles Negros",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Frituras del Medio Oriente",
+                    "price": 1000
+                  },
+                  {
+                    "name": "Tabla de Embutidos y Quesos",
+                    "price": 5000
+                  }
+                ]
+              }
+            ],
+            "main_courses": [
+              {
+                "courses": [
+                  {
+                    "name": "Focaccia de Jamón Serrano",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Focaccia de Chorizo",
+                    "price": 3200
+                  },
+                  {
+                    "name": "Focaccia 4 Quesos",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Focaccia de Vegetales",
+                    "price": 2850
+                  },
+                  {
+                    "name": "Carpaccio de Res",
+                    "price": 3000
+                  },
+                  {
+                    "name": "Adoquines San Isidro",
+                    "price": 2800
+                  },
+                  {
+                    "name": "¿Qué me trajo el Pescador?",
+                    "price": 3800
+                  },
+                  {
+                    "name": "Pulpo Yarini",
+                    "price": 5500
+                  },
+                  {
+                    "name": "Camarones Empanados con Coco",
+                    "price": 4500
+                  },
+                  {
+                    "name": "Carnero Ararat",
+                    "price": 3000
+                  },
+                  {
+                    "name": "Masas de Cerdo sobre Puré de Yuca",
+                    "price": 3800
+                  },
+                  {
+                    "name": "Un Plato Muy Cubano",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Entraña Argentina",
+                    "price": 7500
+                  },
+                  {
+                    "name": "Solomillo Argentino",
+                    "price": 10500
+                  },
+                  {
+                    "name": "Langosta Terminal",
+                    "price": 7000
+                  },
+                  {
+                    "name": "Langosta Grille",
+                    "price": 6500
+                  },
+                  {
+                    "name": "Zarzuela de Mariscos",
+                    "price": 10000
+                  },
+                  {
+                    "name": "Risotto de Mariscos",
+                    "price": 5000
+                  },
+                  {
+                    "name": "Risotto Cuatro Quesos",
+                    "price": 4500
+                  },
+                  {
+                    "name": "Risotto Negro de Pulpo y Camarones en Tempura",
+                    "price": 4500
+                  },
+                  {
+                    "name": "Pasta Fruti di Mare",
+                    "price": 4800
+                  }
+                ]
+              }
+            ],
+            "desserts": [
+              {
+                "name": "Festival de Chocolates",
+                "price": 1500
+              },
+              {
+                "name": "Tarta Muerte por Chocolate",
+                "price": 1500
+              },
+              {
+                "name": "Copa de Helado",
+                "price": 1050
+              }
+            ],
+            "liquids": [
+              {
+                "alcoholic_beverages": [
+                  {
+                    "cocktails": [
+                      {
+                        "name": "Piña Colada Clarificada",
+                        "price": 1500
+                      },
+                      {
+                        "name": "Gin Love",
+                        "price": 1500
+                      },
+                      {
+                        "name": "1780 JJ&S",
+                        "price": 2000
+                      },
+                      {
+                        "name": "Miti Miti",
+                        "price": 1500
+                      },
+                      {
+                        "name": "Pac Man",
+                        "price": 1500
+                      },
+                      {
+                        "name": "Cachonda",
+                        "price": 1300
+                      },
+                      {
+                        "name": "Red Passion",
+                        "price": 1500
+                      },
+                      {
+                        "name": "Tomasa",
+                        "price": 1000
+                      },
+                      {
+                        "name": "Yarini Mule",
+                        "price": 2100
+                      },
+                      {
+                        "name": "Sangría Yarini",
+                        "price": 1500
+                      },
+                      {
+                        "name": "Agua Bendita",
+                        "price": 1300
+                      },
+                      {
+                        "name": "Al César lo que es del César",
+                        "price": 1250
+                      },
+                      {
+                        "name": "Pachula",
+                        "price": 1000
+                      },
+                      {
+                        "name": "Caipirrka",
+                        "price": 1700
+                      },
+                      {
+                        "name": "Mata Virgen",
+                        "price": 1300
+                      },
+                      {
+                        "name": "La Jaba'a",
+                        "price": 1500
+                      },
+                      {
+                        "name": "D.O.C",
+                        "price": 1500
+                      },
+                      {
+                        "name": "El Gallo",
+                        "price": 2400
+                      },
+                      {
+                        "name": "El Mulatón",
+                        "price": 1500
+                      },
+                      {
+                        "name": "El Primero de Cuba",
+                        "price": 960
+                      },
+                      {
+                        "name": "Penicillin 214",
+                        "price": 1800
+                      },
+                      {
+                        "name": "San Isidro 214",
+                        "price": 960
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+      }    
+  }
+}
+       
+                                           

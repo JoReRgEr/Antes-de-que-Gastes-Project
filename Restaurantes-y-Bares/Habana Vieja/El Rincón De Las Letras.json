@@ -1,0 +1,473 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["restaurante"]
+      },
+      "name": "El Rincón De Las Letras",
+      "type": ["Caribeña", "Cubana"],
+      "description": "Comida criolla e internacional",
+      "contact_info": {
+        "phone": {
+          "number": "78014746",
+          "type": "landline"
+        },
+        "email": null,
+        "website": null
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "08:30",
+          "close": "23:00"
+        },
+        "tuesday": {
+          "open": "08:30",
+          "close": "23:00"
+        },
+        "wednesday": {
+          "open": "08:30",
+          "close": "23:00"
+        },
+        "thursday": {
+          "open": "08:30",
+          "close": "23:00"
+        },
+        "friday": {
+          "open": "08:30",
+          "close": "23:00"
+        },
+        "saturday": {
+          "open": "08:30",
+          "close": "23:00"
+        },
+        "sunday": {
+          "open": "08:30",
+          "close": "23:00"
+        }
+      },
+      "address": "Calle Villegas #206 entre Obispo y Obrapia, Habana Vieja",
+      "municipality": "Habana Vieja",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "social_media": {
+        "instagram": "https://www.instagram.com/elrincondelasletras.lahabana?igsh=MWxramZlY3NjNDR6ZQ==",
+        "facebook": null,
+        "whatsapp": null
+      },
+      "accepted_payment_methods": [],
+      "delivery_available": false,
+      "service_fee": {
+        "name": "Tarifa de servicio 10%",
+        "description": "Se incluye un 10% del servicio en la cuenta.",
+        "applies": true
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": false,
+        "dine_in": true,
+        "takeaway": true,
+        "offers": ["Restaurante"],
+        "local_options": ["Desayuno", "Comidas", "Cenas"],
+        "services": [],
+        "ambience": ["Informal"],
+        "usual_customers": ["Grupos", "Menores"],
+        "planning": [],
+        "children": true,
+        "pets": false,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": ["Desayuno", "Comidas", "Cenas"],
+      "advantages": ["Para llevar", "Consumo en el lugar"],
+      "highlights": ["Informal", "Ideal para ir con niños", "Recomendable para ir en grupo"]
+    },
+    "menu_details": {
+        "kind_of_food": ["variada", "europea", "americana", "italiana"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name": "Ensalada de atún (150g)",
+                      "price": 1350
+                    },
+                    {
+                      "name": "Ensalada César (150g)",
+                      "price": 1800
+                    },
+                    {
+                      "name": "Ensalada nicois (50g)",
+                      "price": 1650
+                    },
+                    {
+                      "name": "Vegetales salteados (60g)",
+                      "price": 550
+                    },
+                    {
+                      "name": "Ensalada de vegetales (60g)",
+                      "price": 550
+                    },
+                    {
+                      "name": "Tabla especial de queso (4 tipos de queso x 70g)",
+                      "price": 1975
+                    },
+                    {
+                      "name": "Tabla de jamón serrano (150g)",
+                      "price": 2800
+                    },
+                    {
+                      "name": "Tabla de embutidos (4 tipos x 50g)",
+                      "price": 1725
+                    },
+                    {
+                      "name": "Tabla de surtido especial (460g)",
+                      "price": 6800
+                    },
+                    {
+                      "name": "Croquetas de la casa",
+                      "price": 1250
+                    },
+                    {
+                      "name": "Brusquetas de jamón serrano",
+                      "price": 1250
+                    },
+                    {
+                      "name": "Brusquetas de camarón o langosta",
+                      "price": 1250
+                    },
+                    {
+                      "name": "Brusquetas de salmón ahumado",
+                      "price": 1250
+                    },
+                    {
+                      "name": "Gazpacho",
+                      "price": 1200
+                    },
+                    {
+                      "name": "Fish stick",
+                      "price": 1125
+                    },
+                    {
+                      "name": "Eperlén",
+                      "price": 1125
+                    },
+                    {
+                      "name": "Ceviche de pescado",
+                      "price": 1250
+                    },
+                    {
+                      "name": "Coctel de camarón o langosta",
+                      "price": 1275
+                    },
+                    {
+                      "name": "Carpaccio de pulpo",
+                      "price": 1250
+                    },
+                    {
+                      "name": "Carpaccio de res",
+                      "price": 1500
+                    },
+                    {
+                      "name": "Tostón ropa vieja",
+                      "price": 1100
+                    },
+                    {
+                      "name": "Dos huevos a su gusto",
+                      "price": 1850
+                    },
+                    {
+                      "name": "Dos huevos a su gusto con queso manchego",
+                      "price": 2250
+                    },
+                    {
+                      "name": "Dos huevos a su gusto con salmón ahumado y queso manchego",
+                      "price": 2750
+                    },
+                    {
+                      "name": "Huevos (2u)",
+                      "price": 550
+                    },
+                    {
+                      "name": "Frutas 400g (3 tipos de frutas)",
+                      "price": 480
+                    },
+                    {
+                      "name": "Tostadas bud",
+                      "price": 100
+                    },
+                    {
+                      "name": "Tostadas francesas",
+                      "price": 250
+                    },
+                    {
+                      "name": "Hotcakes con sirope",
+                      "price": 360
+                    }
+                  ]
+                }
+              ],
+              "breads": [
+                {
+                  "courses": [
+                    {
+                      "name": "Sandwich de jamón y queso",
+                      "price": 950
+                    },
+                    {
+                      "name": "Sandwich de atún",
+                      "price": 1250
+                    },
+                    {
+                      "name": "Sandwich cubano",
+                      "price": 2000
+                    }
+                  ]
+                }
+              ],
+                "main_courses": [
+                    {
+                        "courses": [
+                          {
+                            "name": "Suprema de pollo (200g)",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Filete mignon (200g)",
+                            "price": 5000
+                          },
+                          {
+                            "name": "Ropa vieja (100g)",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Lonjas de res a la doocht (200g)",
+                            "price": 5000
+                          },
+                          {
+                            "name": "Res a la moda (240g)",
+                            "price": 5000
+                          },
+                          {
+                            "name": "Costilla de cerdo (300g)",
+                            "price": 4500
+                          },
+                          {
+                            "name": "Cerdo al gusto (200g)",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Masa de cerdo encebollada (200g)",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Churrasco (200g)",
+                            "price": 4500
+                          },
+                          {
+                            "name": "Cordero al gusto (200g)",
+                            "price": 2500
+                          },
+                          {
+                            "name": "Pollo a la barbacoa (250g)",
+                            "price": 2000
+                          },
+                          {
+                            "name": "Camarón al gusto",
+                            "price": 2500
+                          },
+                          {
+                            "name": "Langosta al gusto",
+                            "price": 3000
+                          },
+                          {
+                            "name": "Pulpo al gusto",
+                            "price": 3000
+                          },
+                          {
+                            "name": "Pescado",
+                            "price": 2500
+                          },
+                          {
+                            "name": "Salmón",
+                            "price": 3750
+                          },
+                          {
+                            "name": "Mariscada",
+                            "price": 6250
+                          }
+                        ]
+                    }
+                ],
+                "pastas": [
+                  {
+                    "courses": [
+                      {
+                        "name": "Pasta napole",
+                        "price": 1200
+                      },
+                      {
+                        "name": "Pasta pesto",
+                        "price": 1400
+                      },
+                      {
+                        "name": "Pasta al ajillo",
+                        "price": 1400
+                      },
+                      {
+                        "name": "Pasta marinera",
+                        "price": 2500
+                      },
+                      {
+                        "name": "Pasta carbonara",
+                        "price": 2500
+                      }
+                    ]
+                  }
+                ],
+                "rations": [
+                  {
+                    "name": "Arroz blanco (80g)",
+                    "price": 120
+                  },
+                  {
+                    "name": "Arroz con maíz (80g)",
+                    "price": 450
+                  },
+                  {
+                    "name": "Arroz moro (80g)",
+                    "price": 250
+                  },
+                  {
+                    "name": "Arroz pilaf (80g)",
+                    "price": 450
+                  },
+                  {
+                    "name": "Arroz salteado (80g)",
+                    "price": 1350
+                  },
+                  {
+                    "name": "Frijoles negros",
+                    "price": 300
+                  },
+                  {
+                    "name": "Puré de malanga (60g)",
+                    "price": 550
+                  },
+                  {
+                    "name": "Vianda con mojo (60g)",
+                    "price": 300
+                  },
+                  {
+                    "name": "Tostones (100g)",
+                    "price": 300
+                  },
+                  {
+                    "name": "Sopa del día",
+                    "price": 1150
+                  }
+                ],
+                "additions": [
+                  {
+                    "name": "Queso gouda (50g)",
+                    "price": 780
+                  },
+                  {
+                    "name": "Queso azul (40g)",
+                    "price": 890
+                  },
+                  {
+                    "name": "Queso parmesano (30g)",
+                    "price": 840
+                  },
+                  {
+                    "name": "Jamón vicky (50g)",
+                    "price": 750
+                  },
+                  {
+                    "name": "Jamón serrano (30g)",
+                    "price": 840
+                  },
+                  {
+                    "name": "Chorizo (40g)",
+                    "price": 840
+                  },
+                  {
+                    "name": "Bacon (50g)",
+                    "price": 680
+                  },
+                  {
+                    "name": "Atún (40g)",
+                    "price": 850
+                  },
+                  {
+                    "name": "Champiñón (50g)",
+                    "price": 560
+                  },
+                  {
+                    "name": "Aceitunas verdes (40g)",
+                    "price": 520
+                  }
+                ],
+                "liquids": [
+                  {
+                    "alcoholic_beverages": [
+                      {
+                        "cocktails": [
+                          {
+                            "name": "Mojito",
+                            "price": 800
+                          },
+                          {
+                            "name": "Daiquiri rebelde",
+                            "price": 800
+                          },
+                          {
+                            "name": "Cubata",
+                            "price": 800
+                          },
+                          {
+                            "name": "Caipirinha",
+                            "price": 800
+                          },
+                          {
+                            "name": "Caipirissima",
+                            "price": 800
+                          },
+                          {
+                            "name": "Canchánchara",
+                            "price": 830
+                          },
+                          {
+                            "name": "Vodka tonic",
+                            "price": 950
+                          },
+                          {
+                            "name": "Piña colada",
+                            "price": 950
+                          },
+                          {
+                            "name": "Sangria",
+                            "price": 1150
+                          },
+                          {
+                            "name": "Scull drive",
+                            "price": 940
+                          },
+                          {
+                            "name": "Bloody Mary",
+                            "price": 900
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+            }
+        }    
+    }
+  }
+        

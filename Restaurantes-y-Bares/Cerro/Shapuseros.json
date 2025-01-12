@@ -1,0 +1,92 @@
+{
+    "municipality": "ce",
+    "name": "Shapuseros",
+    "address": "Calzada de Ayestarán entre San Pedro y Ayuntamineto",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "particular",
+    "type": "Restaurante",
+    "specialty": "Hamburgusera",
+    "hours": {
+        "monday": "0900_2100",
+        "tuesday": "0900_2100",
+        "wednesday": "0900_2100",
+        "thursday": "0900_2100",
+        "friday": "0900_2100",
+        "saturday": "0900_2100",
+        "sunday": "0900_2100"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu_details": {
+        "kind_of_food": ["panes"],
+        "menu_card": {
+            "menu_sections": {
+              "breads": [
+                {
+                  "courses": [
+                    {
+                      "name": "hamburguesa de pollo",
+                      "price": 500
+                    },
+                    {
+                      "name": "hamburguesa de cerdo",
+                      "price": 550
+                    },
+                    {
+                      "name": "hamburguesa de res",
+                      "price": 600
+                    },
+                    {
+                      "name": "hamburguesa Shapusero",
+                      "price": 1200
+                    }
+                  ]
+                }
+              ],
+              "additions": [
+                {
+                  "name": "queso", 
+                  "price": 150
+                },
+                {
+                  "name": "jamon", 
+                  "price": 120
+                },
+                {
+                  "name": "chorizo", 
+                  "price": 150
+                },
+                {
+                  "name": "bacon", 
+                  "price": 155
+                },
+                {
+                  "name": "huevo", 
+                  "price": 150
+                },
+                {
+                  "name": "cebolla", 
+                  "price": 50
+                },
+                {
+                  "name": "salsa BBQ", 
+                  "price": 30
+                }
+              ]
+            }
+        }    
+    }
+}

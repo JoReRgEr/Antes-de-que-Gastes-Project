@@ -1,0 +1,339 @@
+{
+    "establishment": {
+      "classification": {
+        "type": ["Restaurante"]
+      },
+      "name": "Brutal Habana",
+      "type": "Hamburguesería",
+      "description": "Brutal Habana es un lugar agradable en familia, perfecto para disfrutar con niños. Ubicado en Infanta esquina Calle Universidad, Cerro, La Habana, ofrece una experiencia gastronómica única.",
+      "contact_info": {
+        "phone": {
+          "number": "050989151",
+          "type": "mobile"
+        },
+        "email": null,
+        "website": null 
+      },
+      "opening_hours": {
+        "monday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "tuesday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "wednesday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "thursday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "00:00"
+        }
+      },
+      "address": "Infanta esquina Calle Universidad, Cerro, La Habana",
+      "municipality": "Cerro",
+      "province": "La Habana",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "social_media": {
+        "facebook": null,
+        "instagram": "https://www.instagram.com/brutal_habana?igsh=aGtpOXVkdnlpaTA="
+      },
+      "accepted_payment_methods": ["Efectivo", "Transferencia"],
+      "delivery_available": null,
+      "service_fee": {
+        "name": "Servicio 10%",
+        "description": "Se cobra un 10% adicional por el servicio.",
+        "applies": true
+      },
+      "features": {
+        "reservation_required": false,
+        "outdoor_seating": true,
+        "dine_in": true,
+        "takeaway": true,
+        "offers": ["Comida Americana"],
+        "local_options": [],
+        "services": ["Sanitario"],
+        "ambience": ["Agradable", "Familiar"],
+        "usual_customers": ["Familias"],
+        "planning": [],
+        "children": true,
+        "pets": null,
+        "parking": null
+      },
+      "dietary_options": [],
+      "meals": ["Almuerzo", "Cena"],
+      "advantages": ["Perfecto para familias"],
+      "highlights": ["Ambiente acogedor"]
+    },
+    "menu_details": {
+        "kind_of_food": ["variada", "americana", "panes"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name": "Papas Fritas (Medias) 100g",
+                      "price": 300.00
+                    },
+                    {
+                      "name": "Papas Fritas (Normal) 200g",
+                      "price": 600.00
+                    },
+                    {
+                      "name": "SalchiPapas",
+                      "price": 500.00
+                    },
+                    {
+                      "name": "SalchiPapas BRUTAL",
+                      "price": 1400.00
+                    },
+                    {
+                      "name": "Croquetas de Pollo x 5",
+                      "price": 175.00
+                    },
+                    {
+                      "name": "Croquetas de Pollo x 10",
+                      "price": 350.00
+                    }
+                  ]
+                }
+              ],
+              "breads": [
+                {
+                  "courses": [
+                    {
+                      "name": "Hamburguesa Sencilla",
+                      "price": 1100
+                    },
+                    {
+                      "name": "Baguette",
+                      "price": 5150
+                    },
+                    {
+                      "name": "Suave",
+                      "price": 120
+                    },
+                    {
+                      "name": "Croissant",
+                      "price": 450
+                    },
+                    {
+                      "name": "Pan de Hamburguesa",
+                      "price": 150
+                    },
+                    {
+                      "name": "Hamburguesa Brutal",
+                      "price": 3200
+                    },
+                    {
+                      "name": "Baguette Brutal",
+                      "price": 2000
+                    }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name": "SalchiPapas Brutal",
+                      "price": 1400
+                    },
+                    {
+                      "name": "Papas Fritas Brutal",
+                      "price": 1100
+                    }
+                  ]
+                }
+              ],
+              "additions": [
+                {
+                  "name": "Queso Blanco",
+                  "price": 135
+                },
+                {
+                  "name": "Queso Cheddar",
+                  "price": 190
+                },
+                {
+                  "name": "Queso Cheddar Fundido",
+                  "price": 210
+                },
+                {
+                  "name": "Queso Curado con Trufas",
+                  "price": 240
+                },
+                {
+                  "name": "Queso Azul Gorgonzola",
+                  "price": 300
+                },
+                {
+                  "name": "Queso Gouda",
+                  "price": 350
+                },
+                {
+                  "name": "Queso Cheddar",
+                  "price": 350
+                },
+                {
+                  "name": "Queso Blanco Lombardo",
+                  "price": 650
+                },
+                {
+                  "name": "Jamón Barra York",
+                  "price": 240
+                },
+                {
+                  "name": "Bacon",
+                  "price": 260
+                },
+                {
+                  "name": "Jamón Ahumado 1964",
+                  "price": 350
+                },
+                {
+                  "name": "Chorizo Ibérico",
+                  "price": 350
+                },
+                {
+                  "name": "Salchichón Natural",
+                  "price": 370
+                },
+                {
+                  "name": "Jamón Serrano",
+                  "price": 500
+                },
+                {
+                  "name": "Jamón Pastrami de Ternera",
+                  "price": 500
+                },
+                {
+                  "name": "Jamón de Pechuga de Pollo",
+                  "price": 500
+                },
+                {
+                  "name": "Lomo de Cerdo Disco",
+                  "price": 500
+                },
+                {
+                  "name": "Pasta de Atún",
+                  "price": 820
+                }
+              ],
+              "rations": [
+                {
+                  "name": "Agrego de Nutella",
+                  "price": 50
+                },
+                {
+                  "name": "Agrego de Gomita",
+                  "price": 400
+                },
+                {
+                  "name": "Papas Fritas Medias",
+                  "price": 300
+                },
+                {
+                  "name": "Papas Fritas Normales",
+                  "price": 600
+                },
+                {
+                  "name": "SalchiPapas",
+                  "price": 500
+                },
+                {
+                  "name": "Fajitas de Pechuga con Papas Fritas",
+                  "price": 1500
+                },
+                {
+                  "name": "Croquetas de Pollo (5 unidades)",
+                  "price": 175
+                },
+                {
+                  "name": "Croquetas de Pollo (10 unidades)",
+                  "price": 350
+                },
+                {
+                  "name": "Cebolla",
+                  "price": 100
+                },
+                {
+                  "name": "Pepinillo",
+                  "price": 5100
+                },
+                {
+                  "name": "Pimiento",
+                  "price": 5100
+                },
+                {
+                  "name": "Tomate",
+                  "price": 100
+                },
+                {
+                  "name": "Aceituna",
+                  "price": 100
+                },
+                {
+                  "name": "Lechuga",
+                  "price": 50
+                }
+              ],
+              "mini_menu": [
+                {
+                  "courses": [
+                    {
+                      "name": "Brutal Junior",
+                      "price": 550.00
+                    },
+                    {
+                      "name": "Combo Brutal Junior",
+                      "price": 2550.00
+                    }
+                  ]
+                }
+              ],
+              "desserts": [
+                {
+                  "courses": [
+                    {
+                      "name": "Batido de Helado",
+                      "price": 1000.00
+                    },
+                    {
+                      "name": "Batido de Helado con Gomitas",
+                      "price": 1400.00
+                    },
+                    {
+                      "name": "Batido de Helado BRUTAL",
+                      "price": 2000.00
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
+    }
+  }
+            
+    
+          
+    
+              

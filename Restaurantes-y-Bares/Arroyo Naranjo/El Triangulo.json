@@ -1,6 +1,6 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "El Triangulo",
+    "place_name": "El Triangulo",
     "property_type": "particular",
     "address": {
         "establishment_phone_number": null,

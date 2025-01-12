@@ -1,54 +1,54 @@
 {
-    "type_of_establishment": "bar",
-    "name": "Macarena",
-    "property_type": "particular",
+    "type_of_establishment": "restaurante-bar",
+    "place_name": "Cafe Boulevard",
+    "property_type": "estatal",
     "address": {
-        "establishment_phone_number": "+53 58723821",
+        "establishment_phone_number": "+53 78602134",
         "email": null,
         "city": "La Habana",
         "district": "Centro Habana",
-        "location": "Entre las calles Principe & Vapor",
-        "coordinates": "23.13982021651692, -82.37805816133688"
+        "location": "Blvd. de San Rafael",
+        "coordinates": "23.136484050512784, -82.36292479045765"
     },
     "schedules": {
-        "Reduced_working_hours_on_public_holidays": true,
+        "Reduced_working_hours_on_public_holidays": null,
         "monday": {
-            "open": "15:00",
-            "closed": "03:00"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "tuesday": {
-            "open": "15:00",
-            "closed": "03:00"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "wednesday": {
-            "open": "15:00",
-            "closed": "03:00"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "thursday": {
-            "open": "15:00",
-            "closed": "03:00"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "friday": {
-            "open": "15:00",
-            "closed": "03:00"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "saturday": {
-            "open": "15:00",
-            "closed": "03:00"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "sunday": {
-            "open": "15:00",
-            "closed": "03:00"
+            "open": "11:00",
+            "closed": "23:00"
         }
     },
     "location_details": {
         "rating": {
             "google": {
-                    "stars": 5.0,
-                    "number_of_reviews": 4,
-                    "recurring_themes": [ ["servicio"],
+                    "stars": 3.4,
+                    "number_of_reviews": 9,
+                    "recurring_themes": [ ["comida", "precios"],
                     {
-                        "for_better_or_worse": "buenas"
+                        "for_better_or_worse": "variadas"
                     }
                 ]
             },
@@ -62,22 +62,22 @@
                 ]
             },
             "facebook": {
-                    "stars": 5.0,
-                    "number_of_reviews": 24,
+                    "stars": null,
+                    "number_of_reviews": null,
                     "recurring_themes": [ [null],
                     {
                         "for_better_or_worse": null
                     }
                 ]
             },
-            "regularity": true
+            "regularity": false
         },
-        "establishment_capacity": "chico",
-        "decoration": "contemporanea",
-        "festive_decorations": true,
+        "establishment_capacity": "medio",
+        "decoration": "contemporaneo",
+        "festive_decorations": false,
         "dress_code": "casual",
-        "collaboration_for_events": true,
-        "type_of_concurrent_clients": ["amistades"],
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": ["grupos"],
         "digital_menus": [ false,
             {
                 "page_or_application_used": null
@@ -86,19 +86,23 @@
         "robotic": false,
         "concurrent_music": "variada",
         "energy_backup": false,
-        "other_services": null
+        "other_services": false
     },
     "services": {
         "social_networks": {
-            "web_page": false,
-            "facebook": [ true,
+            "web_page": [ false,
                 {
-                    "url": "https://www.facebook.com/cafebarmacarena1968"
+                    "url": null
                 }
             ],
-            "instagram": [ true,
+            "facebook": [ false,
                 {
-                    "url": "https://www.instagram.com/explore/locations/206083845913399/cafe-bar-macarena/"
+                    "url": null
+                }
+            ],
+            "instagram": [ false,
+                {
+                    "url": null
                 }
             ],
             "whatsapp": false,
@@ -120,7 +124,7 @@
         "rent_from_the_client": false,
         "vip_zone": false,
         "catering": false,
-        "interactive_activities": true,
+        "interactive_activities": false,
         "sanitary": true,
         "pet_friendly": false
     },
@@ -131,451 +135,258 @@
                 "transfermovil": true,
                 "enzona": false,
                 "bancaremota": false,
-                "visa": true,
-                "mastercard": true
+                "visa": false,
+                "mastercard": false
             },
         "currency": {
             "cup": true,
-            "usd": true,
-            "euro": true,
+            "usd": false,
+            "euro": false,
             "mlc": false,
             "others": false
         },
         "10% charge": false
     },
     "menu_details": {
-        "kind_of_food": ["variada"],
-        "healthy_food_options": false,
+        "kind_of_food": ["variada", "criolla"],
         "menu_card": {
             "menu_sections": {
-                "snacks": [
+              "breakfasts": [
+                {
+                  "courses": [
                     {
-                        "courses": [
-                            {
-                                "course_name": "croquetas de la casa",
-                                "price": 550,
-                                "main_ingredients": ["harina", "variados"]
-                            },
-                            {
-                                "course_name": "jamón y queso",
-                                "price": 650,
-                                "main_ingredients": ["jamon", "queso"]
-                            },
-                            {
-                                "course_name": "rollitos a la macarena",
-                                "price": 700,
-                                "main_ingredients": ["harina"]
-                            },
-                            {
-                                "course_name": "tostones rellenos",
-                                "price": 750,
-                                "main_ingredients": ["fruta", "variados"]
-                            },
-                            {
-                                "course_name": "surtida queso y embutido",
-                                "price": 1200,
-                                "main_ingredients": ["queso", "embutidos"]
-                            },
-                            {
-                                "course_name": "mixta la macarena",
-                                "price": 2200,
-                                "main_ingredients": ["variados"]
-                            }
-                        ]
-                    }
-                ],
-                "liquids": [
+                      "name": "DESAYUNO",
+                      "price": 2800.00
+                  },
+                  {
+                      "name": "HAMBURGUESA DE POLLO",
+                      "price": 1400.00
+                  },
+                  {
+                      "name": "HAMBURGUESA DE RES",
+                      "price": 1900.00
+                  },
+                  {
+                      "name": "SANDWICH ZORRA PELUA",
+                      "price": 1600.00
+                  }
+                  ]
+                }
+              ],
+              "starters": [
+                {
+                  "course": [
                     {
-                        "alcoholic_beverages": [
-                            {
-                                "cocktails": [
-                                    {
-                                        "name": "mojitos",
-                                        "price": 650
-                                    },
-                                    {
-                                        "name": "cuba libre",
-                                        "price": 550
-                                    },
-                                    {
-                                        "name": "bello monte",
-                                        "price": 550
-                                    },
-                                    {
-                                        "name": "cuba bella",
-                                        "price": 750
-                                    },
-                                    {
-                                        "name": "mary pickford",
-                                        "price": 550
-                                    },
-                                    {
-                                        "name": "havana especial",
-                                        "price": 500
-                                    },
-                                    {
-                                        "name": "presidente",
-                                        "price": 500
-                                    },
-                                    {
-                                        "name": "piña colada",
-                                        "price": 900
-                                    },
-                                    {
-                                        "name": "daikiri",
-                                        "price": 750
-                                    },
-                                    {
-                                        "name": "caipirissima",
-                                        "price": 750
-                                    },
-                                    {
-                                        "name": "cubanito",
-                                        "price": 400
-                                    },
-                                    {
-                                        "name" : "caipiroska",
-                                        "price" : 750
-                                    },
-                                    {
-                                        "name" : "sex on the beach",
-                                        "price" : 550
-                                    },
-                                    {
-                                        "name" : "screw driver",
-                                        "price" : 550
-                                    },
-                                    {
-                                        "name": "kamikase",
-                                        "price": 650
-                                    },
-                                    {
-                                        "name": "black russian",
-                                        "price": 550
-                                    },
-                                    {
-                                        "name": "cosmopolitan",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "camino al cielo",
-                                        "price": 550
-                                    },
-                                    {
-                                        "name": "blue hawaii",
-                                        "price": 550
-                                    },
-                                    {
-                                        "name": "vodka tonic",
-                                        "price":750
-                                    },
-                                    {
-                                        "name": "bloody mary",
-                                        "price": 550
-                                    },
-                                    {
-                                        "name": "moscú mule",
-                                        "price": 500
-                                    },
-                                    {
-                                        "name": "long islad",
-                                        "price": 800
-                                    },
-                                    {
-                                        "name": "vodka martini",
-                                        "price": 700
-                                    },
-                                    {
-                                        "name": "charro negro",
-                                        "price": 550
-                                    },
-                                    {
-                                        "name": "margarita",
-                                        "price": 750
-                                    },
-                                    {
-                                        "name": "acapulco de noche",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "bloody mariachi",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "nieblas del caribe",
-                                        "price": 650
-                                    },
-                                    {
-                                        "name": "submarino",
-                                        "price": 700
-                                    },
-                                    {
-                                        "name": "long island ice tea",
-                                        "price": 800
-                                    },
-                                    {
-                                        "name": "tom collins",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "caruso",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "gin and sin",
-                                        "price" : 600
-                                    },
-                                    {
-                                        "name" : "gin tonic",
-                                        "price" : 750
-                                    },
-                                    {
-                                        "name" : "martini",
-                                        "price" : 800
-                                    },
-                                    {
-                                        "name": "old fashion",
-                                        "price": 700
-                                    },
-                                    {
-                                        "name": "mini julep",
-                                        "price": 800
-                                    },
-                                    {
-                                        "name": "jhon collins",
-                                        "price": 800
-                                    },
-                                    {
-                                        "name": "sangria",
-                                        "price": 750
-                                    },
-                                    {
-                                        "name": "calimocho",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "tinto verano",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "medusa",
-                                        "price": 450
-                                    },
-                                    {
-                                        "name": "derrame cerebral",
-                                        "price": 450
-                                    },
-                                    {
-                                        "name": "B52",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "orgasmo",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "orgasmos multiples",
-                                        "price": 900
-                                    },
-                                    {
-                                        "name": "submarino",
-                                        "price": 700
-                                    },
-                                    {
-                                        "name": "chelada",
-                                        "price": 620
-                                    },
-                                    {
-                                        "name": "michelada",
-                                        "price": 750
-                                    }
-                                ],
-                                "beers": [
-                                    {
-                                        "name": "cerveza cristal de botella",
-                                        "price": 420
-                                    },
-                                    {
-                                        "name": "cerveza bucanero de botella",
-                                        "price": 400
-                                    },
-                                    {
-                                        "name": "cerveza importada",
-                                        "price": 300
-                                    }
-                                ],
-                                "wine_glass": [
-                                    {
-                                        "course_name": "Vino Blanco",
-                                        "price": 700                                    
-                                    },
-                                    {
-                                        "course_name": "Vino Tinto",
-                                        "price": 700                                   
-                                    }
-                                ],
-                                "shots": [
-                                    {
-                                        "name": "santiago 8",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "havana club pacto de navio",
-                                        "price": 1000
-                                    },
-                                    {
-                                        "name": "santiago 11",
-                                        "price": 1000
-                                    },
-                                    {
-                                        "name": "santiago 12",
-                                        "price": 1200
-                                    },
-                                    {
-                                        "name": "monte de la rosa",
-                                        "price": 400
-                                    },
-                                    {
-                                        "name": "olmeca blanco",
-                                        "price": 550
-                                    },
-                                    {
-                                        "name": "olmeca reposado",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "don ramón",
-                                        "price": 800
-                                    },
-                                    {
-                                        "name": "ginebra beefeater",
-                                        "price": 500
-                                    },
-                                    {
-                                        "name": "ginebra q spades",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "ginebra q rosse",
-                                        "price": 600
-                                    },
-                                    {
-                                        "name": "ginebra master",
-                                        "price": 650
-                                    },
-                                    {
-                                        "name": "clan campbell",
-                                        "price": 550
-                                    },
-                                    {
-                                        "name": "jameson",
-                                        "price": 550
-                                    },
-                                    {
-                                        "name": "Johnnie Walker label",
-                                        "price": 650
-                                    },
-                                    {
-                                        "name": "ballantines",
-                                        "price": 650
-                                    },
-                                    {
-                                        "name": "chiva 12",
-                                        "price": 800
-                                    },
-                                    {
-                                        "name": "jack daniel",
-                                        "price": 1000
-                                    },
-                                    {
-                                        "name": "Johnnie Walker black lavel",
-                                        "price": 1100
-                                    },
-                                    {
-                                        "name": "Havana club añejo blanco",
-                                        "price": 250
-                                    },
-                                    {
-                                        "name": "Havana club añejo 3 años",
-                                        "price": 300
-                                    },
-                                    {
-                                        "name": "Havana club añejo 7 años",
-                                        "price": 500
-                                    },
-                                    {
-                                        "name": "Havana club ritual",
-                                        "price": 400
-                                    }
-                                ]
-                            }
-                        ],
-                        "coffees": [
-                            {
-                                "name" : "expreso",
-                                "price" : 150
-                            },
-                            {
-                                "name" : "cortado",
-                                "price" : 250
-                            },
-                            {
-                                "name" : "carajillo",
-                                "price" : 450
-                            },
-                            {
-                                "name" : "frappuccino",
-                                "price" : 750
-                            }
-                        ],
-                        "water": [
-                            {
-                                "name": "agua 500 ml",
-                                "price": 200
-                            },
-                            {
-                                "name": "agua tónica 330 ml",
-                                "price": 220
-                            }
-                        ],
-                        "soft_drinks": [
-                            {
-                                "name": "energizante",
-                                "price": 350
-                            },
-                            {
-                                "name": "refresco limón",
-                                "price": 300
-                            },
-                            {
-                                "name": "refresco cola",
-                                "price": 200
-                            }
-                        ],
-                        "natural_juices": [
-                            {
-                                "name" : "limonada frappe",
-                                "price" : 600
-                            },
-                            {
-                                "name" : "limonada blue",
-                                "price" : 600
-                            },
-                            {
-                                "name" : "limonada roja",
-                                "price" : 600
-                            },
-                            {
-                                "name" : "limonada natural",
-                                "price" : 600
-                            },
-                            {
-                                "name" : "limonada frescura",
-                                "price" : 700
-                            }
-                        ]
+                      "name": "NACHOS",
+                      "price": 400.00
+                  },
+                  
+                  {
+                      "name": "BONIATO FRITO",
+                      "price": 500.00
+                  },
+                  
+                  {
+                      "name": "FRITURAS DE MALANGA",
+                      "price": 700.00
+                  },
+                  
+                  {
+                      "name": "CROQUETAS DE PESCADO",
+                      "price": 1000.00
+                  },
+                  
+                  {
+                      "name": "CROQUETAS DE RES",
+                      "price": 1100.00
+                  },
+                  
+                  {
+                      "name": "TACOS DE POLLO",
+                      "price": 1100.00
+                  },
+                  
+                  {
+                      "name": "TACOS DE VEGETALES",
+                      "price": 1000.00
+                  },
+                  
+                  {
+                      "name": "TACOS DE RES",
+                      "price": 1200.00
+                  },
+                  
+                  {
+                      "name": "CEVICHE",
+                      "price": 1600.00
+                  },
+                  
+                  {
+                      "name": "FAJITAS DE POLLO",
+                      "price": 1200.00
+                  }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name": "BISTEC DE POLLO",
+                      "price": 2000.00
+                  },
+              
+                  {
+                      "name": "ESPAGUETTI NAPOLITANO",
+                      "price": 1600.00
+                  },
+              
+                  {
+                      "name": "FILETE DE PESCADO",
+                      "price": 2000.00
+                  },
+              
+                  {
+                      "name": "ROPA VIEJA",
+                      "price": 2100.00
+                  }
+                  ]
+                }
+              ],
+              "desserts": [
+                {
+                  "courses": [
+                    {
+                      "name": "CASCOS DE GUAYABA",
+                      "price": 800.00
+                  }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "cocktails": [
+                        {
+                          "name": "Mojito",
+                          "price": 700.00
+                      },
+                      {
+                          "name": "Cuba Libre",
+                          "price": 700.00
+                      },
+                      {
+                          "name": "Cubata",
+                          "price": 600.00
+                      },
+                      {
+                          "name": "Daiquirí",
+                          "price": 700.00
+                      },
+                      {
+                          "name": "Daiquirí de Sabores",
+                          "price": 750.00
+                      },
+                      {
+                          "name": "Caipiriña",
+                          "price": 600.00
+                      },
+                      {
+                          "name": "Caipiroska Base",
+                          "price": 570.00
+                      },
+                      {
+                          "name": "Caipirísima",
+                          "price": 650.00
+                      },
+                      {
+                          "name": "Piña Colada",
+                          "price": 700.00
+                      },
+                      {
+                          "name": "Chelada",
+                          "price": 880.00
+                      },
+                      {
+                          "name": "Michelada",
+                          "price": 900.00
+                      },
+                      {
+                          "name": "Sangría",
+                          "price": 1100.00
+                      },
+                      {
+                          "name": "Margarita",
+                          "price": 800.00
+                      },
+                      {
+                          "name": "Long Island",
+                          "price": 1100.00
+                      },
+                      {
+                          "name": "Jagger Bomb",
+                          "price": 1000.00
+                      },
+                      {
+                          "name": "Blue Lagon",
+                          "price": 1100.00
+                      }
+                      ],
+                      "beers": [
+                        {
+                          "name": "Importadas",
+                          "price": 500.00
+                      },
+                      {
+                          "name": "Nacional",
+                          "price": 550.00
+                      },
+                      {
+                          "name": "Cristal dispensada",
+                          "price": 400.00
+                      },
+                      {
+                          "name": "Cubetazo",
+                          "price": 2800.00
+                      }
+                      ]
                     }
-                ]
+                  ],
+                  "soft_drinks": [
+                    {
+                      "name": "Refrescos",
+                      "price": 500.00
+                  },
+                  {
+                      "name": "Energizante",
+                      "price": 700.00
+                  }
+                  ],
+                  "coffees": [
+                    {
+                      "name": "Expresso",
+                      "price": 400.00
+                  },
+                  {
+                      "name": "Cortado",
+                      "price": 450.00
+                  },
+                  {
+                      "name": "Capuccino",
+                      "price": 500.00
+                  },
+                  {
+                      "name": "Frappuccino",
+                      "price": 600.00
+                  },
+                  {
+                      "name": "Americano",
+                      "price": 350.00
+                  }
+                  ]
+                }
+              ]
             }
         }    
     }

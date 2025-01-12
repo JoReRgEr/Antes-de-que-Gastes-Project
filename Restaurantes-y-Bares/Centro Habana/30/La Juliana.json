@@ -1,0 +1,621 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "La Juliana",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.135543401312233, 
+        "longitude": -82.3644565648407
+    },
+    "contact": {
+        "phone_number": "78661823",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "58356065",
+        "facebook": "La Juliana",
+        "instagram": "@lajulianarestaurant"
+    },
+    "schedule": {
+        "monday": { 
+            "open": "1000",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2400"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": ["caribeña", "latina", "cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu_details": {
+        "kind_of_food": ["criolla", "variada"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+                "starters": [
+                    {
+                        "courses": [
+                            { 
+                                "name": "plátano maduro frito", 
+                                "price": 350,
+                                "main_ingredients": ["fruta"] 
+                            },
+                            { 
+                                "name": "tostones chatinos", 
+                                "price": 350,
+                                "main_ingredients": ["fruta"] 
+                            },
+                            { 
+                                "name": "ensalada de vegetales", 
+                                "price": 400,
+                                "main_ingredients": ["vegetales"] 
+                            },
+                            { 
+                                "name": "maripositas chinas", 
+                                "price": 530,
+                                "main_ingredients": ["harina"] 
+                            },
+                            { 
+                                "name": "caldosa criolla", 
+                                "price": 750,
+                                "main_ingredients": ["grano"] 
+                            },
+                            { 
+                                "name": "papas fritas", 
+                                "price": 750,
+                                "main_ingredients": ["vianda"] 
+                            },
+                            { 
+                                "name": "ensalada fira", 
+                                "price": 800,
+                                "main_ingredients": ["vegetales"] 
+                            },
+                            { 
+                                "name": "frituritas de malanga", 
+                                "price": 850,
+                                "main_ingredients": ["vianda"] 
+                            },
+                            { 
+                                "name": "coctel de camarones", 
+                                "price": 850,
+                                "main_ingredients": ["marisco"] 
+                            },
+                            { 
+                                "name": "tostones rellenos", 
+                                "price": 1150,
+                                "main_ingredients": ["fruta", "variados"] 
+                            },
+                            { 
+                                "name": "bolitas de queso", 
+                                "price": 1100,
+                                "main_ingredients": ["harina", "queso"] 
+                            },
+                            { 
+                                "name": "croquetas de jamón", 
+                                "price": 1100,
+                                "main_ingredients": ["harina", "jamon"] 
+                            },
+                            { 
+                                "name": "tamal en casuela", 
+                                "price": 1150,
+                                "main_ingredients": ["grano"] 
+                            },
+                            { 
+                                "name": "potaje de garbanzos fritos", 
+                                "price": 1300,
+                                "main_ingredients": ["grano"] 
+                            },
+                            { 
+                                "name": "bastoncitos de pollo", 
+                                "price": 1700,
+                                "main_ingredients": ["harina", "pollo"]  
+                            },
+                            { 
+                                "name": "club atún",  
+                                "price": 1300,
+                                "main_ingredients": ["pescado"]  
+                            },
+                            { 
+                                "name": "crema de queso",  
+                                "price": 780,
+                                "main_ingredients": ["harina", "leche", "queso"]  
+                            },
+                            { 
+                                "name": "crema aurora",  
+                                "price": 800,
+                                "main_ingredients": ["harina", "leche", "vegetales"]  
+                            },
+                            { 
+                                "name": "crema virginia",  
+                                "price": 960,
+                                "main_ingredients": ["harina", "leche", "jamon"]  
+                            }
+                        ]
+                    }
+                ],
+                "breads": [
+                    {
+                        "courses": [
+                            { 
+                                "name": "sandwich de jamón y queso",  
+                                "price": 1050,
+                                "main_ingredients": ["harina", "jamon", "queso"]  
+                            },
+                            { 
+                                "name": "sándwich campesino",  
+                                "price": 1450,
+                                "main_ingredients": ["harina", "cerdo"]  
+                            },
+                            { 
+                                "name": "sándwich juliana",  
+                                "price": 1650,
+                                "main_ingredients": ["harina", "variados"]  
+                            },
+                            { 
+                                "name": "hamburguesa",  
+                                "price": 1300,
+                                "main_ingredients": ["harina", "cerdo"]  
+                            },
+                            { 
+                                "name": "hamburguesa doble",  
+                                "price": 2350,
+                                "main_ingredients": ["harina", "cerdo"]  
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            { 
+                                "name": "arroz imperial", 
+                                "price": 2100,
+                                "main_ingredients": ["grano"] 
+                            },
+                            { 
+                                "name": "pollo frito/asado", 
+                                "price": 2500,
+                                "main_ingredients": ["pollo"] 
+                            },
+                            { 
+                                "name": "lomo ahumado", 
+                                "price": 2900,
+                                "main_ingredients": ["cerdo"] 
+                            },
+                            { 
+                                "name": "arroz a la chorrera", 
+                                "price": 2450,
+                                "main_ingredients": ["grano"] 
+                            },
+                            { 
+                                "name": "bistec de cerdo grille", 
+                                "price": 2470,
+                                "main_ingredients": ["cerdo"] 
+                            },
+                            { 
+                                "name": "cordom bleu", 
+                                "price": 3200,
+                                "main_ingredients": ["pollo", "queso", "jamon"] 
+                            },
+                            { 
+                                "name": "pechuga de pollo grillé", 
+                                "price": 3000,
+                                "main_ingredients": ["pollo"] 
+                            },
+                            { 
+                                "name": "escalope de cerdo", 
+                                "price": 2640,
+                                "main_ingredients": ["cerdo"] 
+                            },
+                            { 
+                                "name": "pechuga apanada", 
+                                "price": 3100,
+                                "main_ingredients": ["pollo"] 
+                            },
+                            { 
+                                "name": "pechuga salt c/vegetales", 
+                                "price": 3000,
+                                "main_ingredients": ["pollo"] 
+                            },
+                            { 
+                                "name": "bistec uruguayo", 
+                                "price": 2800,
+                                "main_ingredients": ["cerdo"] 
+                            },
+                            { 
+                                "name": "arroz frito", 
+                                "price": 2750,
+                                "main_ingredients": ["grano"] 
+                            },
+                            { 
+                                "name": "camarones grille", 
+                                "price": 3000,
+                                "main_ingredients": ["marisco"] 
+                            },
+                            { 
+                                "name": "cerdo camagüeyano", 
+                                "price": 2800,
+                                "main_ingredients": ["cerdo"] 
+                            },
+                            { 
+                                "name": "rollo de pechuga", 
+                                "price": 2800,
+                                "main_ingredients": ["pollo"] 
+                            },
+                            { 
+                                "name": "estofado de res", 
+                                "price": 3100,
+                                "main_ingredients": ["res"] 
+                            },
+                            { 
+                                "name": "bistec encebollado de res", 
+                                "price": 3000,
+                                "main_ingredients": ["res"] 
+                            },
+                            { 
+                                "name": "camarones al ajillo", 
+                                "price": 3150,
+                                "main_ingredients": ["marisco"] 
+                            },
+                            { 
+                                "name": "pechuga a la crema", 
+                                "price": 3500,
+                                "main_ingredients": ["pollo"]  
+                            },
+                            { 
+                                "name": "rueda de pescado empanado",  
+                                "price": 3400,
+                                "main_ingredients": ["pescado"]  
+                            },
+                            { 
+                                "name": "entrecote de res",  
+                                "price": 3000,
+                                "main_ingredients": ["res"]  
+                            },
+                            { 
+                                "name": "arroz marinero",  
+                                "price": 3000,
+                                "main_ingredients": ["grano"]  
+                            },
+                            { 
+                                "name": "camarones enchilado",  
+                                "price": 3600,
+                                "main_ingredients": ["marisco"]  
+                            },
+                            { 
+                                "name": "solomillo de cerdo",  
+                                "price": 3000,
+                                "main_ingredients": ["cerdo"]  
+                            },
+                            { 
+                                "name": "ropa vieja",  
+                                "price": 3300,
+                                "main_ingredients": ["res"]  
+                            },
+                            { 
+                                "name": "enchilado de pescado",  
+                                "price": 3050,
+                                "main_ingredients": ["pescado"]  
+                            },
+                            { 
+                                "name": "canciller",  
+                                "price": 3900,
+                                "main_ingredients": ["pescado"]  
+                            },
+                            { 
+                                "name": "camarón a la crema",  
+                                "price": 3800,
+                                "main_ingredients": ["marisco"]  
+                            },
+                            { 
+                                "name": "costillas de cerdo BBQ",  
+                                "price": 3900,
+                                "main_ingredients": ["cerdo"]  
+                            },
+                            { 
+                                "name": "rueda de pescado a la crema con camarón",  
+                                "price": 3650,
+                                "main_ingredients": ["pescado", "marisco"]  
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "courses": [
+                            {   
+                                "name":"pizza de queso",
+                                "price":1120,
+                                "main_ingredients": ["harina", "queso"]
+                            },   
+                            {
+                                "name":"pizza de oregano",
+                                "price": 1300,
+                                "main_ingredients": ["harina", "queso", "vegetales"] 
+                            },   
+                            {
+                                "name":"pizza de albahaca",
+                                "price": 1270,
+                                "main_ingredients": ["harina", "queso", "vegetales"] 
+                            },   
+                            {
+                                "name":"pizza de cebolla",
+                                "price": 1385,
+                                "main_ingredients": ["harina", "queso", "vegetales"] 
+                            },   
+                            {
+                                "name":"pizza de pimiento",
+                                "price": 1430,
+                                "main_ingredients": ["harina", "queso", "vegetales"] 
+                            },   
+                            {
+                                "name":"pizza de aceituna",
+                                "price": 1550,
+                                "main_ingredients": ["harina", "queso", "fruta"] 
+                            },   
+                            {
+                                "name":"pizza de jamon",
+                                "price": 1700,
+                                "main_ingredients": ["harina", "queso", "jamon"] 
+                            },   
+                            {
+                                "name":"pizza doble de queso",
+                                "price": 1800,
+                                "main_ingredients": ["harina", "queso"] 
+                            },   
+                            {
+                                "name":"pizza de lomo",
+                                "price": 1800,
+                                "main_ingredients": ["harina", "queso", "cerdo"] 
+                            },   
+                            {
+                                "name":"pizza de champiñón",
+                                "price": 1685,
+                                "main_ingredients": ["harina", "queso", "hongos"] 
+                            },   
+                            {
+                                "name":"pizza de bacón",
+                                "price": 2050,
+                                "main_ingredients": ["harina", "queso", "cerdo"] 
+                            },  
+                            {
+                                "name":"pizza de atún",
+                                "price": 1835,
+                                "main_ingredients": ["harina", "queso", "pescado"] 
+                            },   
+                            {
+                                "name":"pizza bolognesa",
+                                "price": 1950,
+                                "main_ingredients": ["harina", "queso", "res"] 
+                            },   
+                            {
+                                "name":"pizza campesina",
+                                "price": 1820,
+                                "main_ingredients": ["harina", "queso", "cerdo"] 
+                            },   
+                            {
+                                "name":"pizza hawaiana",
+                                "price": 1950,
+                                "main_ingredients": ["harina", "queso", "jamon", "fruta"] 
+                            },   
+                            {
+                                "name":"pizza de chorizo",
+                                "price": 1885,
+                                "main_ingredients": ["harina", "queso", "embutido"] 
+                            },   
+                            {
+                                "name":"pizza habanera",
+                                "price": 2200,
+                                "main_ingredients": ["harina", "queso", "variados"] 
+                            },   
+                            {
+                                "name":"pizza de serrano",
+                                "price": 2400,
+                                "main_ingredients": ["harina", "queso", "jamon"] 
+                            },   
+                            {
+                                "name":"pizza de camarón",
+                                "price": 1985,
+                                "main_ingredients": ["harina", "queso", "marisco"] 
+                            },    
+                            {
+                                "name":"pizza juliana",
+                                "price": 2250,
+                                "main_ingredients": ["harina", "queso", "variados"] 
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            { 
+                                "name": "media lasagna", 
+                                "price": 1500,
+                                "main_ingredients": ["pasta", "queso"] 
+                            },
+                            { 
+                                "name": "lasagna doble", 
+                                "price": 3000,
+                                "main_ingredients": ["pasta", "queso"] 
+                            },
+                            { 
+                                "name": "media lasagna", 
+                                "price": 3100,
+                                "main_ingredients": ["pasta", "queso"] 
+                            },
+                            { 
+                                "name": "canelon", 
+                                "price": 1150,
+                                "main_ingredients": ["pasta", "queso"] 
+                            },
+                            { 
+                                "name": "espagetti de queso", 
+                                "price": 1100,
+                                "main_ingredients": ["pasta", "queso"] 
+                            },
+                            { 
+                                "name": "espagetti de jamon", 
+                                "price": 1300,
+                                "main_ingredients": ["pasta", "queso", "jamon"]
+                            },
+                            { 
+                                "name": "espagueti bolognesa", 
+                                "price": 1600,
+                                "main_ingredients": ["pasta", "queso", "cerdo"] 
+                            },
+                            { 
+                                "name": "espagueti alfredo", 
+                                "price": 1800,
+                                "main_ingredients": ["pasta", "queso", "variados"] 
+                            },
+                            { 
+                                "name": "espagueti juliana", 
+                                "price": 1780,
+                                "main_ingredients": ["pasta", "queso", "variados"] 
+                            },
+                            { 
+                                "name": "espagueti carbonara", 
+                                "price": 1900,
+                                "main_ingredients": ["pasta", "queso", "cerdo", "huevo"]
+                            }
+                        ]
+                    }
+                ],
+                "tacos": [
+                    {
+                        "courses": [
+                            { 
+                                "name": "tacos de cerdo", 
+                                "price": 1200,
+                                "main_ingredients": ["harina", "cerdo"] 
+                            },
+                            { 
+                                "name": "tacos de pollo", 
+                                "price": 1400,
+                                "main_ingredients": ["harina", "pollo"] 
+                            },
+                            { 
+                                "name": "tacos ropa vieja", 
+                                "price": 1700,
+                                "main_ingredients": ["harina", "res"] 
+                            }
+                        ]
+                    }
+                ],
+                "desserts": [
+                    {
+                        "courses": [
+                            { 
+                                "name": "tres gracias", 
+                                "price": 400,
+                                "main_ingredients": ["helado"] 
+                            },
+                            { 
+                                "name": "flan al caramelo", 
+                                "price": 650,
+                                "main_ingredients": ["leche", "huevo"] 
+                            },
+                            { 
+                                "name": "copa lolita", 
+                                "price": 950,
+                                "main_ingredients": ["leche", "huevo", "helado"] 
+                            },
+                            { 
+                                "name": "cuña de chocolate", 
+                                "price": 800,
+                                "main_ingredients": ["harina", "leche"] 
+                            },
+                            { 
+                                "name": "cuña de chocolate con helado", 
+                                "price": 950,
+                                "main_ingredients": ["helado", "harina", "leche"] 
+                            },
+                            { 
+                                "name": "suero de helado", 
+                                "price": 730,
+                                "main_ingredients": ["helado", "leche"] 
+                            },
+                            { 
+                                "name": "batido de helado", 
+                                "price": 735,
+                                "main_ingredients": ["helado", "leche"] 
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "soft_drinks": [
+                            { 
+                                "name": "malteada", 
+                                "price": 850 
+                            }
+                        ],
+                        "natual_juices": [
+                            { 
+                                "name": "jugos naturales", 
+                                "price": 270 
+                            },
+                            { 
+                                "name": "jugo de mango", 
+                                "price": 300 
+                            },
+                            { 
+                                "name": "jugo de piña", 
+                                "price": 300 
+                            },
+                            { 
+                                "name": "coctel de frutas", 
+                                "price": 250 
+                            },
+                            { 
+                                "name": "limonadas", 
+                                "price": 350 
+                            },
+                            { 
+                                "name": "batidos de frutas", 
+                                "price": 600 
+                            }
+                        ]
+                    }
+                ]
+            }
+        }    
+    }
+}

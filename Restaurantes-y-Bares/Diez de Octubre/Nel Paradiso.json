@@ -1,0 +1,484 @@
+{
+    "ID": 601,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": 52953716,
+                "landline": 76967579
+            },
+            "plus_code": "3JQQ+JXX, La Habana"
+        }
+    },
+    "name": "Nel Paradiso",
+    "type_cuisine": ["Internacional","Bar","Criolla"],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.7,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": 4.7
+    },
+    "reservation_options": true,
+    "social_networks": ["Facebook","WhatsApp","Instagram"],
+    "payment_options": ["Transfermovil","Efectivo","Euro","USD","Pago desde el exterior"],
+    "service_details": ["Guardería","Wifi","A la carta","A domicilio"],
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla", "italiana"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name": "Croquetas de la casa con salsa rosa",
+                      "price": 792.00
+                  },
+                  {
+                      "name": "Frituras de la casa con miel y mostaza",
+                      "price": 880.00
+                  },
+                  {
+                      "name": "Bastones de Pollo con salsa rosa",
+                      "price": 1760.00
+                  },
+                  {
+                      "name": "Bastones de Mar en salsa alioli",
+                      "price": 1760.00
+                  },
+                  {
+                      "name": "Tamal en Cazuela",
+                      "price": 1584.00
+                  },
+                  {
+                      "name": "Tamal Marinero",
+                      "price": 2376.00
+                  },
+                  {
+                      "name": "Cóctel de Langosta",
+                      "price": 2112.00
+                  },
+                  {
+                      "name": "Tabla de Quesos",
+                      "price": 2816.00
+                  },
+                  {
+                      "name": "Lonjas de Jamón Serrano",
+                      "price": 2640.00
+                  },
+                  {
+                      "name": "Salmon Paradiso",
+                      "price": 2816.00
+                  },
+                  {
+                      "name": "Fajitas de Cerdo",
+                      "price": 2112.00
+                  },
+                  {
+                      "name": "Crema de Queso",
+                      "price": 1232.00
+                  },
+                  {
+                      "name": "Crema de Calabaza",
+                      "price": 750.00
+                  },
+                  {
+                      "name": "Ensalada de Atún y Huevo",
+                      "price": 1760.00
+                  },
+                  {
+                      "name": "Ceviche de Pescado",
+                      "price": 1584.00
+                  },
+                  {
+                      "name": "Picadera Paradiso ",
+                      "price": 2992.00
+                  },
+                  {
+                      "name": "Cóctel de Camarones",
+                      "price": 1936.00
+                  }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name": "Ropa Vieja de Cordero",
+                      "price": 1848.00
+                  },
+                  {
+                      "name": "Cabrito Picoso",
+                      "price": 2640.00
+                  },
+                  {
+                      "name": "Cordero al vino tinto",
+                      "price": 2464.00
+                  },
+                  {
+                      "name": "Pechuga Grille",
+                      "price": 2112.00
+                  },
+                  {
+                      "name": "Jardinera de Pechuga",
+                      "price": 2464.00
+                  },
+                  {
+                      "name": "Pechuga Roquefort",
+                      "price": 2816.00
+                  },
+                  {
+                      "name": "Pechuga Paradiso",
+                      "price": 2992.00
+                  },
+                  {
+                      "name": "Ropa Vieja de Res",
+                      "price": 2552.00
+                  },
+                  {
+                      "name": "Bistec de Res",
+                      "price": 2904.00
+                  },
+                  {
+                      "name": "Fajita de Res",
+                      "price": 2464.00
+                  },
+                  {
+                      "name": "Filete a la Douche",
+                      "price": 2990.00
+                  },
+                  {
+                      "name": "Bistec de Cerdo glaseado al Vino Tinto",
+                      "price": 2112.00
+                  },
+                  {
+                      "name": "Chuleta en Salsa Verde",
+                      "price": 2288.00
+                  },
+                  {
+                      "name": "Entrecot de Cerdo",
+                      "price": 3520.00
+                  },
+                  {
+                      "name": "Estofado de Cerdo",
+                      "price": 6600.00
+                  },
+                  {
+                      "name": "Masa de Pescado Frita",
+                      "price": 2640.00
+                  },
+                  {
+                      "name": "Filete John Bill",
+                      "price": 3256.00
+                  },
+                  {
+                      "name": "Camarones a Elección",
+                      "price": 2995.00
+                  },
+                  {
+                      "name": "Arroz Frito",
+                      "price": 2112.00
+                  },
+                  {
+                      "name": "Paella",
+                      "price": 3168.00
+                  },
+                  {
+                      "name": "Paella Especial",
+                      "price": 6600.00
+                  },
+                  {
+                      "name": "Arroz Blanco",
+                      "price": 422.00
+                  },
+                  {
+                      "name": "Arroz Moro",
+                      "price": 636.00
+                  },
+                  {
+                      "name": "Arroz Pilaf",
+                      "price": 880.00
+                  },
+                  {
+                      "name": "Pure de Malanga",
+                      "price": 640.00
+                  },
+                  {
+                      "name": "Ensalada de Vegetales",
+                      "price": 633.00
+                  }
+                  ]
+                }
+              ],
+              "pizzas": [
+                {
+                  "courses": [
+                    {
+                      "name": "Napolitana",
+                      "price": 1144.00
+                  },
+                  {
+                      "name": "Margarita",
+                      "price": 1232.00
+                  },
+                  {
+                      "name": "De Cebolla",
+                      "price": 1325.00
+                  },
+                  {
+                      "name": "Ortolan",
+                      "price": 1496.00
+                  },
+                  {
+                      "name": "Hawaiana",
+                      "price": 2288.00
+                  },
+                  {
+                      "name": "Jamón o Chorizo",
+                      "price": 1760.00
+                  },
+                  {
+                      "name": "De Atún",
+                      "price": 2640.00
+                  },
+                  {
+                      "name": "De Camarones",
+                      "price": 2640.00
+                  },
+                  {
+                      "name": "De Jamón Serrano",
+                      "price": 2816.00
+                  },
+                  {
+                      "name": "Pizza Nel Paradiso",
+                      "price": 2992.00
+                  }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {
+                      "name": "Napolitana",
+                      "price": 1230.00
+                  },
+                  {
+                      "name": "Amatriciana",
+                      "price": 1936.00
+                  },
+                  {
+                      "name": "Carbonara",
+                      "price": 2200.00
+                  },
+                  {
+                      "name": "Nero di Sepia",
+                      "price": 3256.00
+                  },
+                  {
+                      "name": "Pasta al Pesto",
+                      "price": 2756.00
+                  },
+                  {
+                      "name": "Lasagna",
+                      "price": 1895.00
+                  },
+                  {
+                      "name": "MonteMari Paradiso",
+                      "price": 4576.00
+                  },
+                  {
+                      "name": "Caldereta de Mariscos",
+                      "price": 4480.00
+                  }
+                  ]
+                }
+              ],
+              "desserts": [
+                {
+                  "courses": [
+                    {
+                      "name": "Flan de Caramelo",
+                      "price": 800.00
+                  },
+                  {
+                      "name": "Bola de Helado",
+                      "price": 200.00
+                  },
+                  {
+                      "name": "Copa de Helado",
+                      "price": 895.00
+                  },
+                  {
+                      "name": "Tarta del Dia",
+                      "price": 980.00
+                  },
+                  {
+                    "name": "Flan de Caramelo",
+                    "price": 800.00
+                },
+                {
+                    "name": "Bola de Helado",
+                    "price": 200.00
+                },
+                {
+                    "name": "Copa de Helado",
+                    "price": 895.00
+                },
+                {
+                    "name": "Tarta del Dia",
+                    "price": 980.00
+                }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "beers": [
+                        {
+                          "name": "Cerveza Nacional",
+                          "price": 375.00
+                      },
+                      {
+                          "name": "Cerveza Importada",
+                          "price": 330.00
+                      },
+                      {
+                          "name": "Corona/Heineken",
+                          "price": 600.00
+                      }
+                      ],
+                      "wine_glass": [
+                        {
+                          "name": "Copa de Vino Tinto",
+                          "price": 600.00
+                      },
+                      {
+                          "name": "Copa de Vino Blanco",
+                          "price": 550.00
+                      }
+                      ],
+                      "bottles": [
+                        {
+                          "name": "Sidra",
+                          "price": 3000.00
+                      },
+                      {
+                          "name": "Freixenet",
+                          "price": 6000.00
+                      }
+                      ],
+                      "cocktails": [
+                        {
+                          "name": "Coctel Paradiso",
+                          "price": 870.00
+                      },
+                      {
+                          "name": "Manhattan",
+                          "price": 720.00
+                      },
+                      {
+                          "name": "Blody Mary",
+                          "price": 825.00
+                      }
+                      ]
+                    }
+                  ],
+                  "water": [
+                    {
+                      "name": "Agua Natural",
+                      "price": 260.00
+                  }
+                  ],
+                  "soft_drinks": [
+                    {
+                      "name": "Malteada",
+                      "price": 675.00
+                  },
+                  {
+                    "name": "Refresco Nacional",
+                    "price": 300.00
+                },
+                {
+                    "name": "Refresco Importado",
+                    "price": 350.00
+                },
+                {
+                    "name": "Energizante",
+                    "price": 330.00
+                },
+                {
+                    "name": "Red Bull",
+                    "price": 600.00
+                },
+                {
+                    "name": "Kermato",
+                    "price": 600.00
+                }
+                  ],
+                  "natual_juices": [
+                    {
+                      "name": "Jugos Naturales",
+                      "price": 270.00
+                  },
+                  {
+                      "name": "Batido de Fruta Natural",
+                      "price": 450.00
+                  }
+                  ],
+                  "coffees": [
+                    {
+                      "name": "Expresso",
+                      "price": 300.00
+                  },
+                  {
+                      "name": "Cortado",
+                      "price": 375.00
+                  },
+                  {
+                      "name": "Americano",
+                      "price": 350.00
+                  },
+                  {
+                      "name": "Capuchino",
+                      "price": 400.00
+                  }
+                  ]
+                }
+              ]
+            }
+        }    
+    }
+}

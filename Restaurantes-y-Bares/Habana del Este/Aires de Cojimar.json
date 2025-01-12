@@ -16,99 +16,170 @@
     "Parking":"True",
     "Wifi":"False",
     "Smoking area":"True",
-    "Menu card":{
-        "Starters":[
-         {"Plate":"Coctel de pescado",
-         "Price":550},
-         {"Plate":"Ensalada mixta",
-         "Price":400},
-         {"Plate":"Picadera mixta",
-         "Price":1200},
-         {"Plate":"Coctel Bella Mar",
-         "Price":750},
-         {"Plate":"Ceviche Aires de Cojimar",
-         "Price":850},
-         {"Plate":"Lomo de pescado en escabeche",
-         "Price":950},
-         {"Plate":"Bolitas de queso",
-         "Price":550},
-         {"Plate":"Eperlan",
-         "Price":950},
-         {"Plate":"Frituras de malanga",
-         "Price":550},
-         {"Plate":"Tapas caprichosas",
-         "Price":425},
-         {"Plate":"Surtido de croquetas",
-         "Price":450},
-         {"Plate":"Tostones al ajo",
-         "Price":350},
-         {"Plate":"Sopon de mariscos",
-         "Price":750},
-         {"Plate":"Sopa de pollo y vegetales",
-         "Price":550},
-         {"Plate":"Crema de calabaza y queso",
-         "Price":500},
-         {"Plate":"Crema de queso",
-         "Price":500},
-         {"Plate":"Crema de mariscos",
-         "Price":600}
-        ],
-        "Main course":[
-         {"Plate":"Costillas de cerdo fritas",
-         "Price":1950},
-         {"Plate":"Arroz con camarones",
-         "Price":1450},
-         {"Plate":"Milanesa a la napolitana",
-         "Price":1450},
-         {"Plate":"Uruguayo de cerdo",
-         "Price":1750},
-         {"Plate":"Camaron al ajillo",
-         "Price":1550},
-         {"Plate":"Langosta Varadero",
-         "Price":1950},
-         {"Plate":"Langosta Busito",
-         "Price":2000},
-         {"Plate":"Langosta Aires de Cojimar",
-         "Price":5500},
-         {"Plate":"Pulpo al vino tinto",
-         "Price":2850},
-         {"Plate":"Pulpo al ajillo",
-         "Price":2850},
-         {"Plate":"Filete de pescado grille",
-         "Price":1250},
-         {"Plate":"Filete de pescado en salsa de romero y limon",
-         "Price":1350},
-         {"Plate":"Filete de pescado con camarones al graten",
-         "Price":1650},
-         {"Plate":"Filete de pescado Canciller",
-         "Price":1650},
-         {"Plate":"Camarones tropicales",
-         "Price":1550},
-         {"Plate":"Enchilado de camarones",
-         "Price":1450},
-         {"Plate":"Camarones al sesamo",
-         "Price":1450},
-         {"Plate":"Caldereta Dona Blanca",
-         "Price":3500},
-         {"Plate":"Dados de cerdo a la cojimera",
-         "Price":1400},
-         {"Plate":"Bistec de cerdo al mojo criollo",
-         "Price":1400},
-         {"Plate":"Pollo con camarones al graten",
-         "Price":1450},
-         {"Plate":"Pollo Hawaiano",
-         "Price":1150},
-         {"Plate":"Sabor del cielo",
-         "Price":1550}
-        ],
-        "Siders":[
-        {"Type":"Ensalada mixta",
-        "Price":400}
-        ],
-        "Drinks":"Null",
-        "Desserts":[
-        {"Plate":"Dulces finos",
-        "Price":450}
-        ]
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla", "europea"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+         {
+          "name": "Coctel Bella Mar",
+          "price": 750
+         },
+         {
+          "name": "Ceviche Aires de Cojimar",
+          "price": 850
+         },
+         {
+          "name": "Lomo de pescado en escabeche",
+          "price": 950
+         },
+         {
+          "name": "Bolitas de queso",
+          "price": 550
+         },
+         {
+          "name": "Eperlan",
+          "price": 950
+         },
+         {
+          "name": "Frituras de malanga",
+          "price": 550
+         },
+         {
+          "name": "Tapas caprichosas",
+          "price": 425
+         },
+         {
+          "name": "Surtido de croquetas",
+          "price": 450
+         },
+         {
+          "name": "Tostones al ajo",
+          "price": 350
+         },
+         {
+          "name": "Sopon de mariscos",
+          "price": 750
+         },
+         {
+          "name": "Sopa de pollo y vegetales",
+          "price": 550
+         },
+         {
+          "name": "Crema de calabaza y queso",
+          "price": 500
+         },
+         {
+          "name": "Crema de queso",
+          "price": 500
+         },
+         {
+          "name": "Crema de mariscos",
+          "price": 600
+         }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+         {
+          "name": "Arroz con camarones",
+          "price": 1450
+         },
+         {
+          "name": "Milanesa a la napolitana",
+          "price": 1450
+         },
+         {
+          "name": "Uruguayo de cerdo",
+          "price": 1750
+         },
+         {
+          "name": "Camaron al ajillo",
+          "price": 1550
+         },
+         {
+          "name": "Langosta Varadero",
+          "price": 1950
+         },
+         {
+          "name": "Langosta Busito",
+          "price": 2000
+         },
+         {
+          "name": "Langosta Aires de Cojimar",
+          "price": 5500
+         },
+         {
+          "name": "Pulpo al vino tinto",
+          "price": 2850
+         },
+         {
+          "name": "Pulpo al ajillo",
+          "price": 2850
+         },
+         {
+          "name": "Filete de pescado grille",
+          "price": 1250
+         },
+         {
+          "name": "Filete de pescado en salsa de romero y limon",
+          "price": 1350
+         },
+         {
+          "name": "Filete de pescado con camarones al graten",
+          "price": 1650
+         },
+         {
+          "name": "Filete de pescado Canciller",
+          "price": 1650
+         },
+         {
+          "name": "Camarones tropicales",
+          "price": 1550
+         },
+         {
+          "name": "Enchilado de camarones",
+          "price": 1450
+         },
+         {
+          "name": "Camarones al sesamo",
+          "price": 1450
+         },
+         {
+          "name": "Caldereta Dona Blanca",
+          "price": 3500
+         },
+         {
+          "name": "Dados de cerdo a la cojimera",
+          "price": 1400
+         },
+         {
+          "name": "Bistec de cerdo al mojo criollo",
+          "price": 1400
+         },
+         {
+          "name": "Pollo con camarones al graten",
+          "price": 1450
+         },
+         {
+          "name": "Pollo Hawaiano",
+          "price": 1150
+         }
+                  ]
+                }
+              ],
+              "desserts": [
+                {
+                  "name": "Dulces finos",
+                 "Price": 450
+                }
+              ]
+            }
+        }    
     }
 }

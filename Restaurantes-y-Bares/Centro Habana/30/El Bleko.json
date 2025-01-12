@@ -1,0 +1,394 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "El Bleko",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.141509790555908, 
+        "longitude": -82.374230422513
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "50985368",
+        "facebook": "El Bleko",
+        "instagram": "@blecohavana"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1300",
+            "close": "0200"
+        },
+        "tuesday": {
+            "open": "1300",
+            "close": "0200"
+        },
+        "wednesday": {
+            "open": "1300",
+            "close": "0200"
+        },
+        "thursday": {
+            "open": "1300",
+            "close": "0200"
+        },
+        "friday": {
+            "open": "1300",
+            "close": "0200"
+        },
+        "saturday": {
+            "open": "1300",
+            "close": "0200"
+        },
+        "sunday": {
+            "open": "1300",
+            "close": "0200"
+        }
+    },
+    "rating": 3.5,
+    "intake_capacity": "media",
+    "cuisine": ["caribeña", "italiana", "criolla"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu_details": {
+        "kind_of_food": ["variada"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+                "snacks": [
+                    {
+                        "courses": [
+                            {
+                                "name": "frituras de malanga",
+                                "price": 750,
+                                "main_ingredients": ["vianda"]
+                            },
+                            {
+                                "name": "croquetas mixtas",
+                                "price": 1050,
+                                "main_ingredients": ["harina", "variados"]
+                            },
+                            {
+                                "name": "palitos de queso",
+                                "price": 1100,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "tacos de cerdo",
+                                "price": 1550,
+                                "main_ingredients": ["harina", "cerdo"]
+                            },
+                            {
+                                "name": "tacos de cerdo ahumado",
+                                "price": 1750,
+                                "main_ingredients": ["harina", "cerdo"]
+                            },
+                            {
+                                "name": "tacos de pollo",
+                                "price": 1450,
+                                "main_ingredients": ["harina", "pollo"]
+                            },
+                            {
+                                "name": "nachos de salsa de queso",
+                                "price": 900,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "nachos con pollo a la barbacoa",
+                                "price": 1450,
+                                "main_ingredients": ["harina", "pollo"]
+                            },
+                            {
+                                "name": "alitas de pollo a la barbacoa",
+                                "price": 1350,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "name": "crostini mixto",
+                                "price": 950,
+                                "main_ingredients": ["harina", "variados"]
+                            },
+                            {
+                                "name": "torrejas saladas con cerdo ahumado",
+                                "price": 1050,
+                                "main_ingredients": ["harina", "cerdo"]
+                            },
+                            {
+                                "name": "quesadillas de jamón pierna",
+                                "price": 1650,
+                                "main_ingredients": ["harina", "queso", "jamon"]
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "bistec a la plancha",
+                                "price": 2000,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "name": "pollo frito",
+                                "price": 1500,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "name": "fajita de pechuga de pollo",
+                                "price": 2500,
+                                "main_ingredients": ["pollo"]
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "pizza de queso",
+                                "price": 1250,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "pizza de jamón",
+                                "price": 1450,
+                                "main_ingredients": ["harina", "jamon"]
+                            },
+                            {
+                                "name": "pizza de chorizo",
+                                "price": 1450,
+                                "main_ingredients": ["harina", "embutido"]
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "beers": [
+                                    {
+                                        "name": "cristal lata",
+                                        "price": 350
+                                    },
+                                    {
+                                        "name": "bucanero lata",
+                                        "price": 350
+                                    },
+                                    {
+                                        "name": "cristal botella",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "bucanero botella",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "hollandia",
+                                        "price": 300
+                                    },
+                                    {
+                                        "name": "unlaguer",
+                                        "price": 330
+                                    }
+                                ],
+                                "cocktails": [
+                                    {
+                                        "name": "caipirisima",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "canchanchara",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "caipiroska",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "caipiriña",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "mojito",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "cuba libre",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "sangria",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "margarita",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "piña colada",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "old fashion",
+                                        "price": 750
+                                    },
+                                    {
+                                        "name": "laguna azul",
+                                        "price": 650
+                                    }
+                                ],
+                                "shots": [
+                                    {
+                                        "name": "havana club reserva",
+                                        "price": 300
+                                    },
+                                    {
+                                        "name": "barceló dorado",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "barceló añejo",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "ritual",
+                                        "price": 300
+                                    },
+                                    {
+                                        "name": "añejo especial",
+                                        "price": 300
+                                    },
+                                    {
+                                        "name": "vat 69",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "black white",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "jw black",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "jw red",
+                                        "price": 1100
+                                    },
+                                    {
+                                        "name": "ballantines",
+                                        "price": 1000
+                                    },
+                                    {
+                                        "name": "doble black",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "gin master",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "gin master pink",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "gin tanqueray",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "gin beefarer",
+                                        "price": 550
+                                    },
+                                    {
+                                        "name": "gin johpur reserva",
+                                        "price": 900
+                                    },
+                                    {
+                                        "name": "vodka tonic",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "ciroc",
+                                        "price": 1000
+                                    },
+                                    {
+                                        "name": "ciroc coco",
+                                        "price": 1000
+                                    },
+                                    {
+                                        "name": "finlandia",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "czech driver",
+                                        "price": 750
+                                    },
+                                    {
+                                        "name": "tequila de la casa",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "bailey's",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "jagermeister",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "jaeger",
+                                        "price": 800
+                                    }
+                                ]
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "santa cola",
+                                "price": 350
+                            },
+                            {
+                                "name": "santa limon",
+                                "price": 350
+                            },
+                            {
+                                "name": "santa naranja",
+                                "price": 350
+                            },
+                            {
+                                "name": "energizante",
+                                "price": 500
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "agua natural",
+                                "price": 250
+                            }
+                        ],
+                        "natural_juices": [
+                            {
+                                "name" : "jugos",
+                                "price" : 300
+                            }
+
+                        ]
+                    }
+                ]
+            }
+        }    
+    }
+}

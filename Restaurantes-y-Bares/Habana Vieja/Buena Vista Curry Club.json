@@ -1,0 +1,642 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Bar-Restaurante"]
+    },
+    "name": "Buena Vista Curry Club",
+    "type": ["Indio", "Grill"],
+    "description": "El único Curry and Jazz Bistro de Cuba ubicado en el corazón de la histórica Habana Vieja. Apto para cigarros. Actuaciones en vivo todos los días de 7:30 a 10:30 p. m. Sin cubierta. Se recomiendan reservas.",
+    "contact_info": {
+      "phone": {
+        "number": "+53 5 975 77 91",
+        "type": "mobile"
+      },
+      "mobile": null,
+      "email": null,
+      "website": null,
+      "whatsapp": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "12:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "12:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Tejadillo #24 entre Cuba y San Ignacio, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "facebook": null,
+      "instagram": null,
+      "whatsapp": null
+    },
+    "accepted_payment_methods": ["Efectivo"],
+    "delivery_available": true,
+    "service_fee": {
+      "name": "Cargo por servicio del 10%",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": ["Restaurante", "Bar"],
+      "local_options": ["Almuerzo", "Cena", "Postres"],
+      "services": ["Sanitario", "Tiene bar"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Grupos"],
+      "planning": ["Se aceptan reservas"],
+      "children": ["Tronas disponibles"],
+      "pets": true,
+      "parking": ["Estacionamiento en la calle", "Estacionamiento gratuito fuera de la calle"]
+    },
+    "dietary_options": ["Apto para vegetarianos", "Opciones veganas", "Opciones sin gluten"],
+    "meals": ["Cena", "Tarde En La Noche", "Bebidas"],
+    "advantages": ["Comida para llevar", "Reservas", "Asientos", "Estacionamiento en la calle", "Estacionamiento gratuito fuera de la calle", "Tronas disponibles", "Sirve alcohol", "Bar completo", "Vino y cerveza", "Solo efectivo", "Servicio de mesa", "Música en vivo", "Bar de jazz", "Admite perros"],
+    "highlights": ["Aperitivos", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  },
+  "menu_details": {
+      "kind_of_food": ["variada", "turca", "criolla", "italiana"],
+      "healthy_food_options": false,
+      "menu_card": {
+          "menu_sections": {
+              "starters": [
+                  { 
+                      "courses": [
+                          {
+                              "name": "Samosas (v)",
+                              "price": 1900,
+                              "main_ingredients": ["vegetales"]
+                            },
+                            {
+                              "name": "Queso Paneer Tikka (v)",
+                              "price": 2200,
+                              "main_ingredients": ["queso"]
+                            },
+                            {
+                              "name": "Frutas Tropicales en horno Tandoori (v)",
+                              "price": 1750,
+                              "main_ingredients": ["frutas"]
+                            },
+                            {
+                              "name": "Pollo Tikka",
+                              "price": 2200,
+                              "main_ingredients": ["pollo"]
+                            },
+                            {
+                              "name": "Cerdo Tikka",
+                              "price": 2400,
+                              "main_ingredients": ["cerdo"]
+                            },
+                            {
+                              "name": "Pescado Tikka",
+                              "price": 2800,
+                              "main_ingredients": ["pescado"]
+                            },
+                            {
+                              "name": "Kebab De Pollo",
+                              "price": 2000,
+                              "main_ingredients": ["pollo"]
+                            },
+                            {
+                              "name": "Kebab De Cerdo",
+                              "price": 2000,
+                              "main_ingredients": ["cerdo"]
+                            }
+                      ]
+                  }
+              ],
+              "main_courses": [
+                  {
+                      "courses": [
+                          {
+                              "name": "Vegetales Biryani (v)",
+                              "price": 3000,
+                              "main_ingredients": ["grano", "vegetales"]
+                            },
+                            {
+                              "name": "Pollo Tandoori-Chisporreante",
+                              "price": 4500,
+                              "main_ingredients": ["pollo"]
+                            },
+                            {
+                              "name": "Pollo Biryani",
+                              "price": 3500,
+                              "main_ingredients": ["grano", "pollo"]
+                            },
+                            {
+                              "name": "Cordero Biryani",
+                              "price": 3800,
+                              "main_ingredients": ["grano", "cordero"]
+                            },
+                            {
+                              "name": "Daal (Lentejas) (v)",
+                              "price": 2300,
+                              "main_ingredients": ["grano"]
+                            },
+                            {
+                              "name": "Vegetal De La Temporada (v)",
+                              "price": 2900,
+                              "main_ingredients": ["vegetales"]
+                            },
+                            {
+                              "name": "Chola Bhatura (v)",
+                              "price": 3500,
+                              "main_ingredients": ["cerdo", "grano"]
+                            },
+                            {
+                              "name": "Pollo Tikka Masala",
+                              "price": 3500,
+                              "main_ingredients": ["pollo"]
+                            },
+                            {
+                              "name": "Pollo A La Mantequilla",
+                              "price": 3500,
+                              "main_ingredients": ["pollo"]
+                            },
+                            {
+                              "name": "Pollo Vindaloo",
+                              "price": 3500,
+                              "main_ingredients": ["pollo"]
+                            },
+                            {
+                              "name": "Pollo A La Cazuela",
+                              "price": 4000,
+                              "main_ingredients": ["pollo"]
+                            },
+                            {
+                              "name": "Cerdo Vindaloo",
+                              "price": 4000,
+                              "main_ingredients": ["cerdo"]
+                            },
+                            {
+                              "name": "Pescado Al Curry",
+                              "price": 4000,
+                              "main_ingredients": ["pescado"]
+                            },
+                            {
+                              "name": "Cordero Al Curry",
+                              "price": 4200,
+                              "main_ingredients": ["cordero"]
+                            },
+                            {
+                              "name": "Berenjena Agripicante (v)",
+                              "price": 2900,
+                              "main_ingredients": ["vegetales"]
+                            },
+                            {
+                              "name": "Cordero Biryani",
+                              "price": 3800,
+                              "main_ingredients": ["grano", "cordero"]
+                            },
+                            {
+                              "name": "Pollo Grillé",
+                              "price": 3000,
+                              "main_ingredients": ["pollo"]
+                            },
+                            {
+                              "name": "Pescado Grillé",
+                              "price": 3400,
+                              "main_ingredients": ["pescado"]
+                            }
+                      ]
+                  }
+              ],
+              "rations": [
+                  {
+                      "name": "Congrí (v)",
+                      "price": 1400
+                    },
+                    {
+                      "name": "Pan Naan - Natural",
+                      "price": 1000
+                    },
+                    {
+                      "name": "Pan Naan - Con Ajo",
+                      "price": 1250
+                    },
+                    {
+                      "name": "Arroz - Normal",
+                      "price": 900
+                    },
+                    {
+                      "name": "Arroz - Basmati",
+                      "price": 1700
+                    },
+                    {
+                      "name": "Yogurt (Dahi) - Raita",
+                      "price": 1000
+                    },
+                    {
+                      "name": "Yogurt (Dahi) - Raita Grande",
+                      "price": 1300
+                    }
+              ],
+              "desserts": [
+                  {
+                      "courses": [
+                          {
+                              "name": "Gulab Jamun",
+                              "price": 1200,
+                              "main_ingredients": ["leche", "harina"]
+                            },
+                            {
+                              "name": "Helado",
+                              "price": 1200,
+                              "main_ingredients": ["helado"]
+                            }
+                      ]
+                  }
+              ],
+              "liquids": [
+                  {
+                      "alcoholic_beverages": [
+                          {
+                              "shots": [
+                                  {
+                                      "name": "Gin Beefeater",
+                                      "price": 1800
+                                    },
+                                    {
+                                      "name": "Gin Tanqueray",
+                                      "price": 2200
+                                    },
+                                    {
+                                      "name": "Gin Bombay Sapphire",
+                                      "price": 2200
+                                    },
+                                    {
+                                      "name": "Gin Hendricks",
+                                      "price": 2400
+                                    },
+                                    {
+                                      "name": "Gin Bulldog",
+                                      "price": 3350
+                                    },
+                                    {
+                                      "name": "Vodka Absolut",
+                                      "price": 1200
+                                    },
+                                    {
+                                      "name": "Vodka Stoly",
+                                      "price": 1400
+                                    },
+                                    {
+                                      "name": "Vodka Tito's",
+                                      "price": 1600
+                                    },
+                                    {
+                                      "name": "Vodka Ciroc",
+                                      "price": 1600
+                                    },
+                                    {
+                                      "name": "Vodka Grey Goose",
+                                      "price": 3200
+                                    },
+                                    {
+                                      "name": "Blended Scotch Whisky Johnnie Walker \"Red\"",
+                                      "price": 1250
+                                    },
+                                    {
+                                      "name": "Blended Scotch Whisky Jameson",
+                                      "price": 1250
+                                    },
+                                    {
+                                      "name": "Blended Scotch Whisky Ballantine's",
+                                      "price": 1350
+                                    },
+                                    {
+                                      "name": "Blended Scotch Whisky Chivas 12",
+                                      "price": 1450
+                                    },
+                                    {
+                                      "name": "Blended Scotch Whisky Johnnie Walker \"Black\"",
+                                      "price": 2250
+                                    },
+                                    {
+                                      "name": "Ron Havana Club 3 Años",
+                                      "price": 700
+                                    },
+                                    {
+                                      "name": "Ron Havana Club Especial",
+                                      "price": 800
+                                    },
+                                    {
+                                      "name": "Ron Havana Club Reserva",
+                                      "price": 950
+                                    },
+                                    {
+                                      "name": "Ron Havana Club 7 Años",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Ron Havana Special",
+                                      "price": 1200
+                                    },
+                                    {
+                                      "name": "Ron Eminente 3 Años",
+                                      "price": 2700
+                                    },
+                                    {
+                                      "name": "Ron Eminente 10 Años",
+                                      "price": 3000
+                                    },
+                                    {
+                                      "name": "Santiago de Cuba 8 Años",
+                                      "price": 1200
+                                    },
+                                    {
+                                      "name": "Santiago de Cuba 11 Años",
+                                      "price": 2000
+                                    },
+                                    {
+                                      "name": "Santiago de Cuba 12 Años",
+                                      "price": 2500
+                                    },
+                                    {
+                                      "name": "Tequila Olmeca Blanco",
+                                      "price": 900
+                                    },
+                                    {
+                                      "name": "Tequila Olmeca Reposado",
+                                      "price": 1100
+                                    },
+                                    {
+                                      "name": "Tequila Jose Cuervo",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Brandy Torres 10 Años",
+                                      "price": 2000
+                                    },
+                                    {
+                                      "name": "Brandy Torres 15 Años",
+                                      "price": 2300
+                                    },
+                                    {
+                                      "name": "Macallan 12 Años",
+                                      "price": 3600
+                                    },
+                                    {
+                                      "name": "Glenlivet 12 Años",
+                                      "price": 2500
+                                    },
+                                    {
+                                      "name": "Glenfiddich 12 Años",
+                                      "price": 2750
+                                    },
+                                    {
+                                      "name": "Glenfiddich 15 Años",
+                                      "price": 4500
+                                    }
+                              ],
+                              "cocktails": [
+                                  {
+                                      "name": "Gimlet",
+                                      "price": 1700
+                                    },
+                                    {
+                                      "name": "Kamasutra",
+                                      "price": 1700
+                                    },
+                                    {
+                                      "name": "Gin Tonic",
+                                      "price": 1700
+                                    },
+                                    {
+                                      "name": "Starfruit Daiquiri",
+                                      "price": 1700
+                                    },
+                                    {
+                                      "name": "Bellamonte",
+                                      "price": 1700
+                                    },
+                                    {
+                                      "name": "Highball Paloma",
+                                      "price": 1700
+                                    },
+                                    {
+                                      "name": "Mojito",
+                                      "price": 1300
+                                    },
+                                    {
+                                      "name": "Cuba Libre",
+                                      "price": 1300
+                                    },
+                                    {
+                                      "name": "Daiquiri",
+                                      "price": 1300
+                                    },
+                                    {
+                                      "name": "Piña Colada",
+                                      "price": 1300
+                                    },
+                                    {
+                                      "name": "Cubanito",
+                                      "price": 1300
+                                    },
+                                    {
+                                      "name": "Habana Sidecar",
+                                      "price": 1300
+                                    },
+                                    {
+                                      "name": "Canchánchara",
+                                      "price": 1300
+                                    },
+                                    {
+                                      "name": "Cubata",
+                                      "price": 1300
+                                    },
+                                    {
+                                      "name": "Cosmopolitan",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Bloody Mary",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Martini",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Sangría",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Margarita",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Caipirinha",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Caipiroska",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Caipirissima",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Vodkatonic",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Ron Collins",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Long Island Ice Tea",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Alexander",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Screwdriver",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Dry Martini",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Black Russian",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "White Russian",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Manhattan",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Old Fashion",
+                                      "price": 1500
+                                    },
+                                    {
+                                      "name": "Negroni",
+                                      "price": 1500
+                                    }
+                              ],
+                              "beers": [
+                                  {
+                                      "name": "Cerveza Nacional",
+                                      "price": 750
+                                    },
+                                    {
+                                      "name": "Cerveza Importada",
+                                      "price": 750
+                                    },
+                                    {
+                                      "name": "Cerveza Dispensada (Caña 200ML)",
+                                      "price": 400
+                                    },
+                                    {
+                                      "name": "Cerveza Dispensada (Jarra 500ML)",
+                                      "price": 700
+                                    }
+                              ]
+                          }
+                      ],
+                      "water": [
+                          {
+                              "name": "Agua / Soda Nacional",
+                              "price": 350
+                            },
+                            {
+                              "name": "Agua / Soda Importada",
+                              "price": 500
+                            },
+                            {
+                              "name": "Agua Con Gas / Soda Agua Nacional",
+                              "price": 400
+                            },
+                            {
+                              "name": "Agua Con Gas / Soda Agua Importada",
+                              "price": 550
+                            },
+                            {
+                              "name": "Tonic Agua Nacional",
+                              "price": 400
+                            },
+                            {
+                              "name": "Tonic Agua Importada",
+                              "price": 600
+                            }
+                      ],
+                      "soft_drinks": [
+                          {
+                              "name": "Refresco Nacional",
+                              "price": 500
+                            },
+                            {
+                              "name": "Refresco Importado",
+                              "price": 600
+                            },
+                            {
+                              "name": "Redbull",
+                              "price": 1000
+                            }
+                      ],
+                      "natual_juices": [
+                          {
+                              "name": "Limonada Frappé",
+                              "price": 950
+                            },
+                            {
+                              "name": "Limonada Brasileña",
+                              "price": 1000
+                            },
+                            {
+                              "name": "Limonada Frescura",
+                              "price": 110
+                            },
+                            {
+                              "name": "Batido De Frutas",
+                              "price": 1300
+                            }
+                      ]
+                  }
+              ]
+          }
+      }    
+  }
+}
+        
+                                                                          

@@ -36,487 +36,514 @@
     },
 
     "curiosity" : "los menores de edad están prohibidos a partir de las 10 pm en adelante",
-    "Menú" : {
-        "Entremés" : {
-            "Pica Pica" : {
-                "Frituras de Malanga" : {
-                    "Price" : 550.00
-                },
-                "Fritura Muelle 70" : {
-                    "Price" : 700.00
-                },
-                "Brusquetas" : {
-                    "Price" : 650.00
-                },
-                "Tapas de Croquetas" : {
-                    "Price" : 850.00
-                },
-                "Bolitas de Queso" : {
-                    "Price" : 850.00
-                },
-                "Tostón Javier" : {
-                    "Price" : 1500.00
-                },
-                "Ceviche" : {
-                    "Price" : 2000.00
-                },
-                "Picadera Mixta" : {
-                    "Price" : 3000.00
-                },
-                "Tabla Muelle 70" : {
-                    "Price" : 6500.00
-                },
-                "Tacos de la Casa" : {
-                    "Price" : 1800.00
-                },
-                "Coctel de Camarón" : {
-                    "Price" : 2500.00
-                },
-                "Coctel de Langosta" : {
-                    "Price" : 2800.00
-                },
-                "Eperlan" : {
-                    "Price" : 2500.00
-                },
-                "Papas Fritas" : {
-                    "Price" : 1000.00
-                },
-                "Carpaccio de Pulpo" : {
-                    "Price" : 3000.00
+    
+    "menu_details": {
+        "kind_of_food": ["italiana", "criolla", "panes"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {"name": "Frituras de Malanga" ,
+                    "price" : 550.00
+                  },
+                {"name": "Fritura Muelle 70" ,
+                    "price" : 700.00
+                  },
+                {"name": "Brusquetas" ,
+                    "price" : 650.00
+                  },
+                {"name": "Tapas de Croquetas" ,
+                    "price" : 850.00
+                  },
+                {"name": "Bolitas de Queso" ,
+                    "price" : 850.00
+                  },
+                {"name": "Tostón Javier" ,
+                    "price" : 1500.00
+                  },
+                {"name": "Ceviche" ,
+                    "price" : 2000.00
+                  },
+                {"name": "Picadera Mixta" ,
+                    "price" : 3000.00
+                  },
+                {"name": "Tabla Muelle 70" ,
+                    "price" : 6500.00
+                  },
+                {"name": "Tacos de la Casa" ,
+                    "price" : 1800.00
+                  },
+                {"name": "Coctel de Camarón" ,
+                    "price" : 2500.00
+                  },
+                {"name": "Coctel de Langosta" ,
+                    "price" : 2800.00
+                  },
+                {"name": "Eperlan" ,
+                    "price" : 2500.00
+                  },
+                {"name": "Papas Fritas" ,
+                    "price" : 1000.00
+                  },
+                {"name": "Carpaccio de Pulpo" ,
+                    "price" : 3000.00
+                  }
+                  ]
                 }
-            },
-            "Entrepanes" : {
-                "Sándwich de Pollo" : {
-                    "Price" : 1500.00
-                },
-                "Sándwich de Atún" : {
-                    "Price" : 2500.00
-                },
-                "Sándwich Cubano" : {
-                    "Price" : 2500.00
-                },
-                "Sándwich Jamón y Queso" : {
-                    "Price" : 2000.00
+              ],
+              "breads": [
+                {
+                  "courses": [
+                    {"name": "Sándwich de Pollo" ,
+                      "price" : 1500.00
+                    },
+                  {"name": "Sándwich de Atún" ,
+                      "price" : 2500.00
+                    },
+                  {"name": "Sándwich Cubano" ,
+                      "price" : 2500.00
+                    },
+                  {"name": "Sándwich Jamón y Queso" ,
+                      "price" : 2000.00
+                    }
+                  ]
                 }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {"name": "Fajitas de Pollo" ,
+                    "price" : 2200.00
+                  },
+                {"name": "Fajitas de cerdo" ,
+                    "price" : 2500.00
+                  },
+                {"name": "Pollo Grille" ,
+                    "price" : 2300.00
+                  },
+                {"name": "Golden blue" ,
+                    "price" : 3500.00
+                  },
+                {"name": "Bistec de Cerdo" ,
+                    "price" : 3200.00
+                  },
+                {"name": "Masas de Cerdo" ,
+                    "price" : 3500.00
+                  },
+                {"name": "Pescado al plato" ,
+                    "price" : 4500.00
+                  },
+                {"name": "Filete de Pescado" ,
+                    "price" : 3500.00
+                  },
+                {"name": "John Bill" ,
+                    "price" : 4500.00
+                  },
+                {"name": "Camarón al gusto" ,
+                    "price" : 3800.00
+                  },
+                {"name": "Langosta al Gusto" ,
+                    "price" : 4000.00 
+                  },
+                {"name": "Pulpo al Gusto" ,
+                    "price" : 6000.00
+                  },
+                {"name": "Mar y Tierra" ,
+                    "price" : 6000.00
+                  },
+                {"name": "Mariscada" ,
+                    "price" : 6000.00
+                  }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {"name": "Spaguettis Nápoles" ,
+                    "price" : 2300.00
+                  },
+                {"name": "Spaguettis al Pesto" ,
+                    "price" : 2500.00
+                  },
+                {"name": "Spaguettis Frutti di Mare" ,
+                    "price" : 3800.00
+                  }
+                  ]
+                }
+              ],
+              "rations": [
+                {"name":"Arroz Blanco" ,
+                "price" : 350.00
+              },
+            {"name":"Arroz Moro" ,
+                "price" : 400.00
+              },
+            {"name":"Tostones Natural" ,
+                "price" : 500.00
+              },
+            {"name":"Ensalada Estación" ,
+                "price" : 800.00
+              },
+            {"name":"Vegetales Salteados" ,
+                "price" : 900.00
+              },
+            {"name":"Plátano Frito" ,
+                "price" : 500.00
+              }
+              ],
+              "desserts": [
+                {
+                  "courses": [
+                    {"name": "Postre del Día" ,
+                "price" : 800.00
+              },
+            {"name": "Helado Montado" ,
+                "price" : 600.00
+              }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "cocktails": [
+                       {"name": "Cuba Libre" ,
+                    "price" : 850.00
+                  },
+                {"name": "Cubata" ,
+                    "price" : 1100.00
+                  },
+                {"name": "Ron Collins" ,
+                    "price" : 800.00
+                  },
+                {"name": "Canchanchara" ,
+                    "price" : 950.00
+                  },
+                {"name": "Mojito" ,
+                    "price" : 850.00
+                  },
+                {"name": "Mojito 7 Años" ,
+                    "price" : 1100.00
+                  },
+                {"name": "Mojito Loco" ,
+                    "price" : 1800.00
+                  },
+                {"name": "Mojito Two Run" ,
+                    "price" : 1300.00
+                  },
+                {"name": "Caipirinha" ,
+                    "price" : 950.00
+                  },
+                {"name": "Caipirinha de Fruta" ,
+                    "price" : 1200.00
+                  },
+                {"name": "Caipirísima" ,
+                    "price" : 850.00
+                  },
+                {"name": "Caipiroska de Fruta" ,
+                    "price" : 1200.00
+                  },
+                {"name": "Caipiroska" ,
+                    "price" : 950.00
+                  },
+                {"name": "Caipiroska Absolut" ,
+                    "price" : 1300.00
+                  },
+                {"name": "Cubanito" ,
+                    "price" : 1500.00
+                  },
+                {"name": "Bloddy Mary" ,
+                    "price" : 1750.00
+                  },
+                {"name": "Piña Colada" ,
+                    "price" : 1200.00
+                  },
+                {"name": "Bloddy Mary Absolut" ,
+                    "price" : 2000.00
+                  },
+                {"name": "Daiquiri" ,
+                    "price" : 900.00
+                  },
+                {"name": "Daiquiri de Sabor" ,
+                    "price" : 1100.00
+                  },
+                {"name": "Margarita" ,
+                    "price" : 1000.00
+                  },
+                {"name": "Margarita del Diablo" ,
+                    "price" : 1500.00
+                  },
+                {"name": "Blue Margarita" ,
+                    "price" : 1300.00
+                  },
+                {"name": "Margarita Reposado" ,
+                    "price" : 1300.00
+                  },
+                {"name": "Sangría" ,
+                    "price" : 1100.00
+                  },
+                {"name": "Sangría Tropical" ,
+                    "price" : 1100.00
+                  },
+                {"name": "Sangría Asturiana" ,
+                    "price" : 2000.00
+                  },
+                {"name": "Sangría Catalana" ,
+                    "price" : 1200.00
+                  },
+                {"name": "Tinto de Verano" ,
+                    "price" : 1200.00
+                  },
+                {"name": "Calimocho" ,
+                    "price" : 1200.00
+                  },
+                {"name": "Gin Tonic" ,
+                    "price" : 1100.00
+                  },
+                {"name": "Gin Tocin Beefeater" ,
+                    "price" : 1300
+                  },
+                {"name": "Gin Tonic MG" ,
+                    "price" : 1500.00
+                  },
+                {"name": "Gin Tonic Tankeray" ,
+                    "price" : 2000.00
+                  },
+                {"name": "Gin Buck" ,
+                    "price" : 2200.00
+                  },
+                {"name": "Ginger Queen" ,
+                    "price" : 2000.00
+                  },
+                {"name": "Vodka Tonic" ,
+                    "price" : 1100.00
+                  },
+                {"name": "Vodka Tonic Absolut" ,
+                    "price" : 1300.00
+                  },
+                {"name": "Aperol Spritz" ,
+                    "price" : 3000.00
+                  },
+                {"name": "Negroni" ,
+                    "price" : 2000.00
+                  },
+                {"name": "Blue Lagon" ,
+                    "price" : 1500.00
+                  },
+                {"name": "Blue Lagon Absolut" ,
+                    "price" : 2000.00
+                  },
+                {"name": "Martini" ,
+                    "price" : 1500.00
+                  },
+                {"name": "Vodkatini" ,
+                    "price" : 1500.00
+                  },
+                {"name": "Long Island" ,
+                    "price" : 3000.00
+                  },
+                {"name": "Orgasmo" ,
+                    "price" : 2000.00
+                  },
+                {"name": "Sex on the Beach" ,
+                    "price" : 1200.00
+                  },
+                {"name": "Screw Driver" ,
+                    "price" : 900.00
+                  },
+                {"name": "Highball Muelle70" ,
+                    "price" : 1300.00
+                  },
+                {"name": "Tequila Sunrise" ,
+                    "price" : 1300.00
+                  },
+                {"name": "Tequila Stammer" ,
+                    "price" : 1800.00
+                  },
+                {"name": "Servicio de Chelada" ,
+                    "price" : 300.00
+                  },
+                {"name": "Servicio de Michelada" ,
+                    "price" : 350.00
+                  }
+                      ],
+                      "shots": [
+                        {"name": "Ballantine's" ,
+                          "price" : 850.00
+                        },
+                      {"name": "Clam Campbell" ,
+                          "price" : 950.00
+                        },
+                      {"name": "Jameson" ,
+                          "price" : 1500.00
+                        },
+                      {"name": "Red Label" ,
+                          "price" : 1050.00
+                        },
+                      {"name": "Black Label" ,
+                          "price" : 2000.00
+                        },
+                      {"name": "Black and White" ,
+                          "price" : 1000.00
+                        },
+                      {"name": "HC Especial" ,
+                          "price" : 700.00
+                        },
+                      {"name": "HC 7 Años" ,
+                          "price" : 750.00
+                        },
+                      {"name": "Seleccion de Maestros" ,
+                          "price" : 1500.00
+                        },
+                      {"name": "Pacto Navío" ,
+                          "price" : 1750.00
+                        },
+                      {"name": "Santiago 8años" ,
+                          "price" : 1000.00
+                        },
+                      {"name": "Santiago 11años" ,
+                          "price" : 2000.00
+                        },
+                      {"name": "Santiago 12años" ,
+                          "price" : 2300.00
+                        },
+                      {"name": "Cubtzo. de Cristal 10u" ,
+                          "price" : 5000.00
+                        },
+                      {"name": "Cubtzo. de Cristal E. 10u" ,
+                          "price" : 6000.00
+                        },
+                      {"name": "Cubtzo. de Zubr 10u" ,
+                          "price" : 3600.00
+                        },
+                      {"name": "Cubtzo. de Corona 8u" ,
+                          "price" : 6400.00
+                        },
+                      {"name": "Cubtzo. Burge M. 10u" ,
+                          "price" : 3500.00
+                        },
+                      {"name": "Cubtzo Sol 8u" ,
+                          "price" : 6400.00
+                        },
+                      {"name": "Olmeca Blanco" ,
+                          "price" : 750.00
+                        },
+                      {"name": "Olmeca Reposado" ,
+                          "price" : 850.00
+                        },
+                      {"name": "Baylis" ,
+                          "price" : 1500.00
+                        },
+                      {"name": "Jagermeister" ,
+                          "price" : 1500.00
+                        },
+                      {"name": "Ruavieja" ,
+                          "price" : 1300.00
+                        },
+                      {"name": "Sambuca" ,
+                          "price" : 900.00
+                        },
+                      {"name": "Airisbel" ,
+                          "price" : 1200.00
+                        }
+                      ],
+                      "beers": [
+                        {"name": "Cerveza Cristal" ,
+                    "price" : 500.00
+                  },
+                {"name": "Cerveza Subr" ,
+                    "price" : 360.00
+                  },
+                {"name": "Cerveza 3 Caballos" ,
+                    "price" : 225.00
+                  },
+                {"name": "Cerveza Corona" ,
+                    "price" : 800.00
+                  }
+                      ],
+                      "wine_glass": [
+                        {"name": "Copa de Vino Tinto" ,
+                    "price" : 950.00
+                  },
+                {"name": "Copa de Vino Rose" ,
+                    "price" : 900.00
+                  },
+                {"name": "Copa de Vino Blanco" ,
+                    "price" : 900.00
+                  }
+                      ],
+                      "bottles": [
+                        {"name": "Botella de Vino Tinto" ,
+                    "price" : 6000.00
+                  },
+                {"name": "Botella de Vino Rose" ,
+                    "price" : 6000.00
+                  },
+                {"name": "Botella de Vino Blanco" ,
+                    "price" : 6000.00
+                  }
+                      ]
+                    }
+                  ],
+                  "water": [
+                    {"name": "Agua Natural Gaseosa" ,
+                    "price" : 300.00
+                  },
+                {"name": "Agua Gaseosa Nacional" ,
+                    "price" : 350.00
+                  },
+                {"name": "Agua Tónica Nacional" ,
+                    "price" : 400.00
+                  },
+                {"name": "Agua Natural Importada" ,
+                    "price" : 400.00
+                  },
+                {"name": "Agua Gaseosa Importada" ,
+                    "price" : 500.00
+                  }
+                  ],
+                  "natual_juices": [
+                    {"name": "Jugos Naturales" ,
+                    "price" : 500.00
+                  },
+                {"name": "Limonada Muelle 70" ,
+                    "price" : 500.00
+                  },
+                {"name": "Limonada Frescura" ,
+                    "price" : 550.00
+                  },
+                {"name": "Batidos de Fruta" ,
+                    "price" : 750.00
+                  }
+                  ],
+                  "soft_drinks": [
+                    {"name": "Refrescos Importados" ,
+                    "price" : 500.00 
+                  },
+                {"name": "Energizantes" ,
+                    "price" : 500.00
+                  }
+                  ],
+                  "coffees": [
+                    {"name": "Café Expreso" ,
+                    "price" : 250.00
+                  },
+                {"name": "Café Cortado" ,
+                    "price" : 350.00
+                  },
+                {"name": "Café Americano" ,
+                    "price" : 360.00
+                  },
+                {"name": "Frapuccino" ,
+                    "price" : 500.00
+                  }
+                  ]
+                }
+              ]
             }
-        },
-        "Guarniciones" : {
-            "Arroz Blanco" : {
-                "Price" : 350.00
-            },
-            "Arroz Moro" : {
-                "Price" : 400.00
-            },
-            "Tostones Natural" : {
-                "Price" : 500.00
-            },
-            "Ensalada Estación" : {
-                "Price" : 800.00
-            },
-            "Vegetales Salteados" : {
-                "Price" : 900.00
-            },
-            "Plátano Frito" : {
-                "Price" : 500.00
-            }
-        },
-        "Plato Fuerte" : {
-            "Pastas" : {
-                "Spaguettis Nápoles" : {
-                    "Price" : 2300.00
-                },
-                "Spaguettis al Pesto" : {
-                    "Price" : 2500.00
-                },
-                "Spaguettis Frutti di Mare" : {
-                    "Price" : 3800.00
-                }
-            },
-            "Platos Principales" : {
-                "Fajitas de Pollo" : {
-                    "Price" : 2200.00
-                },
-                "Fajitas de cerdo" : {
-                    "Price" : 2500.00
-                },
-                "Pollo Grille" : {
-                    "Price" : 2300.00
-                },
-                "Golden blue" : {
-                    "Price" : 3500.00
-                },
-                "Bistec de Cerdo" : {
-                    "Price" : 3200.00
-                },
-                "Masas de Cerdo" : {
-                    "Price" : 3500.00
-                },
-                "Pescado al plato" : {
-                    "Price" : 4500.00
-                },
-                "Filete de Pescado" : {
-                    "Price" : 3500.00
-                },
-                "John Bill" : {
-                    "Price" : 4500.00
-                },
-                "Camarón al gusto" : {
-                    "Price" : 3800.00
-                },
-                "Langosta al Gusto" : {
-                    "Price" : 4000.00 
-                },
-                "Pulpo al Gusto" : {
-                    "Price" : 6000.00
-                },
-                "Mar y Tierra" : {
-                    "Price" : 6000.00
-                },
-                "Mariscada" : {
-                    "Price" : 6000.00
-                }
-            }
-        },
-        "Postres" : {
-            "Postre del Día" : {
-                "Price" : 800.00
-            },
-            "Helado Montado" : {
-                "Price" : 600.00
-            }
-        },
-        "Bebidas" : {
-            "Cócteles" : {
-                "Cuba Libre" : {
-                    "Price" : 850.00
-                },
-                "Cubata" : {
-                    "Price" : 1100.00
-                },
-                "Ron Collins" : {
-                    "Price" : 800.00
-                },
-                "Canchanchara" : {
-                    "Price" : 950.00
-                },
-                "Mojito" : {
-                    "Price" : 850.00
-                },
-                "Mojito 7 Años" : {
-                    "Price" : 1100.00
-                },
-                "Mojito Loco" : {
-                    "Price" : 1800.00
-                },
-                "Mojito Two Run" : {
-                    "Price" : 1300.00
-                },
-                "Caipirinha" : {
-                    "Price" : 950.00
-                },
-                "Caipirinha de Fruta" : {
-                    "Price" : 1200.00
-                },
-                "Caipirísima" : {
-                    "Price" : 850.00
-                },
-                "Caipiroska de Fruta" : {
-                    "Price" : 1200.00
-                },
-                "Caipiroska" : {
-                    "Price" : 950.00
-                },
-                "Caipiroska Absolut" : {
-                    "Price" : 1300.00
-                },
-                "Cubanito" : {
-                    "Price" : 1500.00
-                },
-                "Bloddy Mary" : {
-                    "Price" : 1750.00
-                },
-                "Piña Colada" : {
-                    "Price" : 1200.00
-                },
-                "Bloddy Mary Absolut" : {
-                    "Price" : 2000.00
-                },
-                "Daiquiri" : {
-                    "Price" : 900.00
-                },
-                "Daiquiri de Sabor" : {
-                    "Price" : 1100.00
-                },
-                "Margarita" : {
-                    "Price" : 1000.00
-                },
-                "Margarita del Diablo" : {
-                    "Price" : 1500.00
-                },
-                "Blue Margarita" : {
-                    "Price" : 1300.00
-                },
-                "Margarita Reposado" : {
-                    "Price" : 1300.00
-                },
-                "Sangría" : {
-                    "Price" : 1100.00
-                },
-                "Sangría Tropical" : {
-                    "Price" : 1100.00
-                },
-                "Sangría Asturiana" : {
-                    "Price" : 2000.00
-                },
-                "Sangría Catalana" : {
-                    "Price" : 1200.00
-                },
-                "Tinto de Verano" : {
-                    "Price" : 1200.00
-                },
-                "Calimocho" : {
-                    "Price" : 1200.00
-                },
-                "Gin Tonic" : {
-                    "Price" : 1100.00
-                },
-                "Gin Tocin Beefeater" : {
-                    "Price" : 1300
-                },
-                "Gin Tonic MG" : {
-                    "Price" : 1500.00
-                },
-                "Gin Tonic Tankeray" : {
-                    "Price" : 2000.00
-                },
-                "Gin Buck" : {
-                    "Price" : 2200.00
-                },
-                "Ginger Queen" : {
-                    "Price" : 2000.00
-                },
-                "Vodka Tonic" : {
-                    "Price" : 1100.00
-                },
-                "Vodka Tonic Absolut" : {
-                    "Price" : 1300.00
-                },
-                "Aperol Spritz" : {
-                    "Price" : 3000.00
-                },
-                "Negroni" : {
-                    "Price" : 2000.00
-                },
-                "Blue Lagon" : {
-                    "Price" : 1500.00
-                },
-                "Blue Lagon Absolut" : {
-                    "Price" : 2000.00
-                },
-                "Martini" : {
-                    "Price" : 1500.00
-                },
-                "Vodkatini" : {
-                    "Price" : 1500.00
-                },
-                "Long Island" : {
-                    "Price" : 3000.00
-                },
-                "Orgasmo" : {
-                    "Price" : 2000.00
-                },
-                "Sex on the Beach" : {
-                    "Price" : 1200.00
-                },
-                "Screw Driver" : {
-                    "Price" : 900.00
-                },
-                "Highball Muelle70" : {
-                    "Price" : 1300.00
-                },
-                "Tequila Sunrise" : {
-                    "Price" : 1300.00
-                },
-                "Tequila Stammer" : {
-                    "Price" : 1800.00
-                },
-                "Servicio de Chelada" : {
-                    "Price" : 300.00
-                },
-                "Servicio de Michelada" : {
-                    "Price" : 350.00
-                }
-            },
-            "Whisky's" : {
-                "Ballantine's" : {
-                    "Price" : 850.00
-                },
-                "Clam Campbell" : {
-                    "Price" : 950.00
-                },
-                "Jameson" : {
-                    "Price" : 1500.00
-                },
-                "Red Label" : {
-                    "Price" : 1050.00
-                },
-                "Black Label" : {
-                    "Price" : 2000.00
-                },
-                "Black and White" : {
-                    "Price" : 1000.00
-                }
-            },
-            "Rones" : {
-                "HC Especial" : {
-                    "Price" : 700.00
-                },
-                "HC 7 Años" : {
-                    "Price" : 750.00
-                },
-                "Seleccion de Maestros" : {
-                    "Price" : 1500.00
-                },
-                "Pacto Navío" : {
-                    "Price" : 1750.00
-                },
-                "Santiago 8años" : {
-                    "Price" : 1000.00
-                },
-                "Santiago 11años" : {
-                    "Price" : 2000.00
-                },
-                "Santiago 12años" : {
-                    "Price" : 2300.00
-                }
-            },
-            "Cubetazos" : {
-                "Cubtzo. de Cristal 10u" : {
-                    "Price" : 5000.00
-                },
-                "Cubtzo. de Cristal E. 10u" : {
-                    "Price" : 6000.00
-                },
-                "Cubtzo. de Zubr 10u" : {
-                    "Price" : 3600.00
-                },
-                "Cubtzo. de Corona 8u" : {
-                    "Price" : 6400.00
-                },
-                "Cubtzo. Burge M. 10u" : {
-                    "Price" : 3500.00
-                },
-                "Cubtzo Sol 8u" : {
-                    "Price" : 6400.00
-                }
-            },
-            "Tequilas" : {
-                "Olmeca Blanco" : {
-                    "Price" : 750.00
-                },
-                "Olmeca Reposado" : {
-                    "Price" : 850.00
-                }
-            },
-            "Cremas y Licores" :{
-                "Baylis" : {
-                    "Price" : 1500.00
-                },
-                "Jagermeister" : {
-                    "Price" : 1500.00
-                },
-                "Ruavieja" : {
-                    "Price" : 1300.00
-                },
-                "Sambuca" : {
-                    "Price" : 900.00
-                },
-                "Airisbel" : {
-                    "Price" : 1200.00
-                }
-            },
-            "Bebidas normales" : {
-                "Agua Natural Gaseosa" : {
-                    "Price" : 300.00
-                },
-                "Agua Gaseosa Nacional" : {
-                    "Price" : 350.00
-                },
-                "Agua Tónica Nacional" : {
-                    "Price" : 400.00
-                },
-                "Agua Natural Importada" : {
-                    "Price" : 400.00
-                },
-                "Agua Gaseosa Importada" : {
-                    "Price" : 500.00
-                },
-                "Refrescos Importados" : {
-                    "Price" : 500.00 
-                },
-                "Energizantes" : {
-                    "Price" : 500.00
-                },
-                "Jugos Naturales" : {
-                    "Price" : 500.00
-                },
-                "Limonada Muelle 70" : {
-                    "Price" : 500.00
-                },
-                "Limonada Frescura" : {
-                    "Price" : 550.00
-                },
-                "Batidos de Fruta" : {
-                    "Price" : 750.00
-                },
-                "Batidos de Helado" : {
-                    "Price" : 850.00
-                },
-                "Copa de Vino Tinto" : {
-                    "Price" : 950.00
-                },
-                "Copa de Vino Rose" : {
-                    "Price" : 900.00
-                },
-                "Copa de Vino Blanco" : {
-                    "Price" : 900.00
-                },
-                "Botella de Vino Tinto" : {
-                    "Price" : 6000.00
-                },
-                "Botella de Vino Rose" : {
-                    "Price" : 6000.00
-                },
-                "Botella de Vino Blanco" : {
-                    "Price" : 6000.00
-                },
-                "Cerveza Cristal" : {
-                    "Price" : 500.00
-                },
-                "Cerveza Subr" : {
-                    "Price" : 360.00
-                },
-                "Cerveza 3 Caballos" : {
-                    "Price" : 225.00
-                },
-                "Cerveza Corona" : {
-                    "Price" : 800.00
-                }
-            },
-            "Café" : {
-               "Café Expreso" : {
-                    "Price" : 250.00
-                },
-                "Café Cortado" : {
-                    "Price" : 350.00
-                },
-                "Café Americano" : {
-                    "Price" : 360.00
-                },
-                "Frapuccino" : {
-                    "Price" : 500.00
-                }
-            }
-        }
+        }    
     }
 }

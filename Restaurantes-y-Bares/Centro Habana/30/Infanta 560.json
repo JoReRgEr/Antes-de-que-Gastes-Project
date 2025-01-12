@@ -1,0 +1,162 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Infanta 560",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.135420733511385, 
+        "longitude": -82.37831753600521
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": { 
+            "open": "0800",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "0800",
+            "close": "2200"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "media",
+    "cuisine": ["italiana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu_details": {
+        "kind_of_food": ["italiana"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+                "starters": [
+                    {
+                        "courses": [
+                            {
+                                "name": "picadera (300g)",
+                                "price": 550,
+                                "main_ingredients": ["variados"]
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "pizza napolitana",
+                                "price": 200,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "pizza hawaiana",
+                                "price": 300,
+                                "main_ingredients": ["harina", "jamon", "fruta"]
+                            },
+                            {
+                                "name": "pizza queso gouda",
+                                "price": 320,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "pizza familiar napolitana",
+                                "price": 380,
+                                "main_ingredients": ["harina", "queso"]
+                            },
+                            {
+                                "name": "pizza familiar hawaiana",
+                                "price": 700,
+                                "main_ingredients": ["harina", "fruta", "jamon"]
+                            },
+                            {
+                                "name": "pizza familiar queso gouda",
+                                "price": 700,
+                                "main_ingredients": ["harina", "queso"]
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "spaghetti",
+                                "price": 300 ,
+                                "main_ingredients": ["pasta", "queso"]
+                            },
+                            {
+                                "name": "spaghetti queso gouda",
+                                "price": 420,
+                                "main_ingredients": ["pasta", "queso"]
+                            }
+                        ]
+                    }
+                ],
+                "additions": [
+                    {
+                        "name": "jamon",
+                        "price": 80
+                    },
+                    {
+                        "name": "piña",
+                        "price": 80
+                    },
+                    {
+                        "name": "pimiento",
+                        "price": 80
+                    },
+                    {
+                        "name": "queso",
+                        "price": 80
+                    },
+                    {
+                        "name": "queso gouda",
+                        "price": 100
+                    },
+                    {
+                        "name": "cebolla",
+                        "price": 80
+                    }
+                ]
+            }
+        }    
+    }
+}

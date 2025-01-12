@@ -1,6 +1,6 @@
 {
   "type_of_establishment": "restaurante",
-  "name": "Casa del Maíz",
+  "place_name": "Casa del Maíz",
   "property_type": "estatal",
   "address": {
       "establishment_phone_number": "+5252003758",
@@ -161,7 +161,7 @@
                           {
                               "course_name": "arroz frito",
                               "price": 1200.00,
-                              "main_ingredients": ["cereal"]
+                              "main_ingredients": ["grano"]
                           }
                       ]
                   }

@@ -17,66 +17,150 @@
     "Parking":"True",
     "Wifi":"False",
     "Smoking area":"True",
-    "Menu card":{
-        "Starters":[
-            {"Plate":"Entremes de jamon y queso",
-            "Price":400},
-            {"Plate":"Eperlan de pescado",
-            "Price":550},
-            {"Plate":"Anillas de calamar",
-            "Price":550},
-            {"Plate":"Alitas de pollo",
-            "Price":450},
-            {"Plate":"Nuggets de pollo",
-            "Price":250},
-            {"Plate":"Picadera especial",
-            "Price":600}
-        ],
-        "Main course":[
-            {"Plate":"Pollo grille",
-            "Price":700},
-            {"Plate":"Fajitas de res",
-            "Price":950},
-            {"Plate":"Steak de res",
-            "Price":950},
-            {"Plate":"Fajitas de cerdo",
-            "Price":800},
-            {"Plate":"Masas de cerdo",
-            "Price":900},
-            {"Plate":"Filete de pescado",
-            "Price":900},
-            {"Plate":"Pescado del Chef",
-            "Price":1100},
-            {"Plate":"Gambas al grill",
-            "Price":1200}
-        ],
-        "Siders":"Null",
-        "Drinks":[
-            {"Type":"Cerveza dispensada",
-            "Price":190},
-            {"Type":"Cerveza importada",
-            "Price":220},
-            {"Type":"Cerveza nacional",
-            "Price":215},
-            {"Type":"Maltas",
-            "Price":210},
-            {"Type":"Maltina Perla Negra",
-            "Price":180},
-            {"Type":"Jugo natural en caja",
-            "Price":300},
-            {"Type":"Refrescos nacionales",
-            "Price":280},
-            {"Type":"Vino tinto (copa)",
-            "Price":200},
-            {"Type":"Ron Habana Club Anejo Blanco (shot)",
-            "Price":80},
-            {"Type":"Ron Habana Club profundo (shot)",
-            "Price":160},
-            {"Type":"Ron Habana Club Selección de Maestro (shot)",
-            "Price":350},
-            {"Type":"Ron Cubay carta blanca (shot)",
-            "Price":100}
-        ],
-        "Desserts":"Null"
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name":"Entremes de jamon y queso",
+                      "price":400
+                    },
+                    {
+                      "name":"Eperlan de pescado",
+                      "price":550
+                    },
+                    {
+                      "name":"Anillas de calamar",
+                      "price":550
+                    },
+                    {
+                      "name":"Alitas de pollo",
+                      "price":450
+                    },
+                    {
+                      "name":"Nuggets de pollo",
+                      "price":250
+                    },
+                    {
+                      "name":"Picadera especial",
+                      "price":600
+                    }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name":"Pollo grille",
+                      "price":700
+                    },
+                    {
+                      "name":"Fajitas de res",
+                      "price":950
+                    },
+                    {
+                      "name":"Steak de res",
+                      "price":950
+                    },
+                    {
+                      "name":"Fajitas de cerdo",
+                      "price":800
+                    },
+                    {
+                      "name":"Masas de cerdo",
+                      "price":900
+                    },
+                    {
+                      "name":"Filete de pescado",
+                      "price":900
+                    },
+                    {
+                      "name":"Pescado del Chef",
+                      "price":1100
+                    },
+                    {
+                      "name":"Gambas al grill",
+                      "price":1200
+                    }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "shots": [
+                        {
+                          "name":"Ron Habana Club Anejo Blanco (shot)",
+                          "price":80
+                        },
+                        {
+                          "name":"Ron Habana Club profundo (shot)",
+                          "price":160
+                        },
+                        {
+                          "name":"Ron Habana Club Selección de Maestro (shot)",
+                          "price":350
+                        },
+                        {
+                          "name":"Ron Cubay carta blanca (shot)",
+                          "price":100
+                        }
+                      ],
+                      "beers": [
+                        {
+                          "name":"Cerveza dispensada",
+                          "rice":190
+                        },
+                        {
+                          "name":"Cerveza importada",
+                          "rice":220
+                        },
+                        {
+                          "name":"Cerveza nacional",
+                          "rice":215
+                        }
+                      ]
+                    }
+                  ],
+                  "water": [
+                    {
+                      "name": "Agua Nacional", 
+                      "price": 250
+                    },
+                    {
+                      "name": "Agua Tonica", 
+                      "price": 250
+                    }
+                  ],
+                  "natual_juices": [
+                    {
+                      "name":"Jugo natural en caja",
+                      "price":300
+                    }
+                  ],
+                  "soft_drinks": [
+                    {
+                      "name":"Maltas",
+                      "price":210
+                    },
+                    {
+                      "name":"Maltina Perla Negra",
+                      "price":180
+                    },
+                    {
+                      "name":"Refrescos nacionales",
+                      "price":280
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
     }
 }

@@ -17,33 +17,70 @@
     "Parking":"False",
     "Wifi":"False",
     "Smoking area":"True",
-    "Menu card":{
-        "Starters":[
-         {"Plate":"Crema de queso",
-         "Price":313},
-         {"Plate":"Crema Aurora",
-         "Price":315},
-         {"Plate":"Crema Virginia",
-         "Price":329}
-        ],
-        "Main course":[
-         {"Plate":"Spaghettis napolitanos",
-         "Price":410},
-         {"Plate":"Spaghettis de jamon",
-         "Price":570},
-         {"Plate":"Lazagna de jamon",
-         "Price":550},
-         {"Plate":"Pizza napolitana",
-         "Price":390},
-         {"Plate":"Pizza de jamon",
-         "Price":540},
-         {"Plate":"Pizza de chorizo",
-         "Price":588},
-         {"Plate":"Pizza de bacon",
-         "Price":735}
-        ],
-        "Siders":"Null",
-        "Drinks":"Null",
-        "Desserts":"Null"
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "italiana"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name":"Crema de queso",
+                      "price":313
+                    },
+                    {
+                      "name":"Crema Aurora",
+                      "price":315
+                    },
+                    {
+                      "name":"Crema Virginia",
+                      "price":329
+                    }
+                  ]
+                }
+              ],
+              "pizzas": [
+                {
+                  "courses": [
+                    {
+                      "name":"Pizza napolitana",
+                      "price":390
+                    },
+                    {
+                      "name":"Pizza de jamon",
+                      "price":540
+                    },
+                    {
+                      "name":"Pizza de chorizo",
+                      "price":588
+                    },
+                    {
+                      "name":"Pizza de bacon",
+                      "price":735
+                    }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {
+                      "name":"Spaghettis napolitanos",
+                      "price":410
+                    },
+                    {
+                      "name":"Spaghettis de jamon",
+                      "price":570
+                    },
+                    {
+                      "name":"Lazagna de jamon",
+                      "price":550
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
     }
 }

@@ -17,56 +17,118 @@
     "Parking":"True",
     "Wifi":"False",
     "Smoking area":"True",
-    "Menu card":{
-        "Starters":"Null",
-        "Main course":[
-         {"Plate":"Hamburguesa de cerdo",
-         "Price":500},
-         {"Plate":"Hamburguesa de pollo",
-         "Price":500},
-         {"Plate":"Hamburguesa de res",
-         "Price":700},
-         {"Plate":"Hamburguesa doble",
-         "Price":900},
-         {"Plate":"Bocadito de jamon y queso",
-         "Price":450}
-        ],
-        "Additionals":[
-            {"Addition":"Queso",
-            "Price":120},
-            {"Addition":"Lechuga",
-            "Price":100},
-            {"Addition":"Jamon",
-            "Price":100},
-            {"Addition":"Chorizo",
-            "Price":80},
-            {"Addition":"Bacon",
-            "Price":150},
-            {"Addition":"Huevo",
-            "Price":150},
-            {"Addition":"Cebolla",
-            "Price":150},
-            {"Addition":"Pepinillo",
-            "Price":30},
-            {"Addition":"Tomate",
-            "Price":100}
-        ],
-        "Siders":"Null",
-        "Drinks":[
-        {"Type":"Cerveza",
-        "Price":350},
-        {"Type":"Limonada frappe",
-        "Price":500},
-        {"Type":"Batido de helado",
-        "Price":700},
-        {"Type":"Malteada",
-        "Price":500},
-        {"Type":"Potes de helado",
-        "Price":1000}
-        ],
-        "Desserts":[
-        {"Plate":"Copa de helado",
-        "Price":300}
-        ]
+    
+    "menu_details": {
+        "kind_of_food": ["panes"],
+        "menu_card": {
+            "menu_sections": {
+              "breads": [
+                {
+                  "courses": [
+                    {
+                      "name":"Hamburguesa de cerdo",
+                      "price":500
+                    },
+                    {
+                      "name":"Hamburguesa de pollo",
+                      "price":500
+                    },
+                    {
+                      "name":"Hamburguesa de res",
+                      "price":700
+                    },
+                    {
+                      "name":"Hamburguesa doble",
+                      "price":900
+                    },
+                    {
+                      "name":"Bocadito de jamon y queso",
+                      "price":450
+                    }
+                  ]
+                }
+              ],
+              "additions": [
+                {
+                  "name":"Queso",
+                  "price":120
+                },
+                {
+                  "name":"Lechuga",
+                  "price":100
+                },
+                {
+                  "name":"Jamon",
+                  "price":100
+                },
+                {
+                  "name":"Chorizo",
+                  "price":80
+                },
+                {
+                  "name":"Bacon",
+                  "price":150
+                },
+                {
+                  "name":"Huevo",
+                  "price":150
+                },
+                {
+                  "name":"Cebolla",
+                  "price":150
+                },
+                {
+                  "name":"Pepinillo",
+                  "price":30
+                },
+                {
+                  "name":"Tomate",
+                  "price":100
+                }
+              ],
+              "desserts": [
+                {
+                  "courses": [
+                    {
+                      "name":"Potes de helado",
+                      "price":1000
+                    },
+                    {
+                      "name":"Copa de helado",
+                      "price":300
+                    },
+                    {
+                      "name":"Batido de helado",
+                      "price":700
+                    }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "beers": [
+                        {
+                          "name":"Cerveza",
+                          "price":350
+                        }
+                      ]
+                    }
+                  ],
+                  "soft_drinks": [
+                    {
+                      "name":"Limonada frappe",
+                      "price":500
+                    },
+                    {
+                      "name":"Malteada",
+                      "price":500
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
     }
 }

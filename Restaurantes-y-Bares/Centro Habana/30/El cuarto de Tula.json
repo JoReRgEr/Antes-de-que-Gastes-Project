@@ -1,0 +1,881 @@
+{
+    "municipality": "ch",
+    "name": "El cuarto de Tula",
+    "address": "San Lazaro entre San Fransico y Espada",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "tripadvisor": 4.5
+    },
+    "owner": "Particular",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Internacional",
+    "hours": {
+        "monday": "0800_2300",
+        "tuesday": "0800_2300",
+        "wednesday": "0800_2300",
+        "thursday": "0800_2300",
+        "friday": "0800_2300",
+        "saturday": "0800_2300",
+        "sunday": "0800_2300"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup",
+        "mlc",
+        "usd",
+        "bitcoin"
+    ],
+    "menu_details": {
+        "kind_of_food": ["variada", "italiana", "criolla"],
+        "healthy_food_options": false,
+        "menu_card": {
+            "menu_sections": {
+                "breakfasts": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Desayuno Completo - Full Breakfast",
+                                "price": 1400.00,
+                                "main_ingredients": ["variados"]
+                            },
+                            {
+                                "name": "Desayuno Ligero - Light Breakfast",
+                                "price": 1100.00,
+                                "main_ingredients": ["variados"]
+                            }
+                        ]
+                    }
+                ],
+                "starters": [
+                    { 
+                        "courses": [
+                            {
+                                "name": "Croquetas de espinaca",
+                                "price": 505.00,
+                                "main_ingredients": ["harina", "vegetales"]
+                            },
+                            {
+                                "name": "Croquetas de jamón serrano",
+                                "price": 690.00,
+                                "main_ingredients": ["harina", "jamon"]
+                            },
+                            {
+                                "name": "Croquetas de pescado",
+                                "price": 600.00,
+                                "main_ingredients": ["harina", "pescado"]
+                            },
+                            {
+                                "name": "Frituras de malanga",
+                                "price": 500.00,
+                                "main_ingredients": ["vianda"]
+                            },
+                            {
+                                "name": "Adobo de Pescado",
+                                "price": 2700.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Adobo de Pollo",
+                                "price": 1350.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "name": "Tabla de Jamón Serrano (2pax)",
+                                "price": 3000.00,
+                                "main_ingredients": ["jamon"]
+                            },
+                            {
+                                "name": "Berenjena a la crema con queso parmesano",
+                                "price": 1400.00,
+                                "main_ingredients": ["vegetales", "queso"]
+                            },
+                            {
+                                "name": "Ceviche de pescado al estilo mediterráneo",
+                                "price": 2400.00,
+                                "main_ingredients": ["pescado", "variados"]
+                            },
+                            {
+                                "name": "Tartar de Res",
+                                "price": 4500.00,
+                                "main_ingredients": ["res"]
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Arroz negro (Pulpo y Camarones)",
+                                "price": 5800.00,
+                                "main_ingredients": ["grano", "marisco"]
+                            },
+                            {
+                                "name": "Rissotto de pollo y vegetales",
+                                "price": 3400.00,
+                                "main_ingredients": ["grano", "pollo"]
+                            },
+                            {
+                                "name": "Rissotto de Camarones con champiñón y naranja",
+                                "price": 3800.00,
+                                "main_ingredients": ["grano", "marisco"]
+                            },
+                            {
+                                "name": "Rissotto de hongos Porcini",
+                                "price": 4200.00,
+                                "main_ingredients": ["grano", "hongos"]
+                            },
+                            {
+                                "name": "Ropa vieja con plátano frito",
+                                "price": 3700.00,
+                                "main_ingredients": ["res", "fruta"]
+                            },
+                            {
+                                "name": "Picadillo a la Cubana",
+                                "price": 3300.00,
+                                "main_ingredients": ["vegetales", "res"]
+                            },
+                            {
+                                "name": "Paella Marinera (2 pax)",
+                                "price": 7700.00,
+                                "main_ingredients": ["grano", "pescado", "marisco"]
+                            },
+                            {
+                                "name": "Paella Mar y Tierra (2 pax)",
+                                "price": 7700.00,
+                                "main_ingredients": ["grano", "cerdo", "pescado"]
+                            },
+                            {
+                                "name": "Pollo Grillé",
+                                "price": 1600.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "name": "Pollo en crema de coco y curry",
+                                "price": 2800.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "name": "Fajas de pollo con bacon, hongos y frutos secos",
+                                "price": 2400.00,
+                                "main_ingredients": ["pollo"]
+                            },
+                            {
+                                "name": "Cerdo Asado a la abuela",
+                                "price": 2900.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "name": "Pescado Grillé",
+                                "price": 3000.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Pescado con toque orgánico",
+                                "price": 3600.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Pescado con aroma del trópico",
+                                "price": 3500.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Mechado de Salomillo de cerdo",
+                                "price": 3500.00,
+                                "main_ingredients": ["cerdo"]
+                            },
+                            {
+                                "name": "Solomillo de res al orégano en salsa de champiñón y queso azul",
+                                "price": 6500.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "name": "Bistec de res en Salsa Chimichurri y Vegetales Salteados",
+                                "price": 8000.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "name": "Fajas de res al sésamo",
+                                "price": 7000.00,
+                                "main_ingredients": ["res"]
+                            },
+                            {
+                                "name": "Cordero a las cinco pimientas",
+                                "price": 5000.00,
+                                "main_ingredients": ["cordero"]
+                            },
+                            {
+                                "name": "Camarón al ajo y ron cubano",
+                                "price": 3200.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "name": "Camarón con crema de jengibre y sésamo",
+                                "price": 3500.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "name": "Pescador",
+                                "price": 6000.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Tacos de Punta de Res",
+                                "price": 7200.00,
+                                "main_ingredients": ["harina", "res"]
+                            },
+                            {
+                                "name": "Tacos de Cerdo",
+                                "price": 3300.00,
+                                "main_ingredients": ["harina", "cerdo"]
+                            },
+                            {
+                                "name": "Tacos Ropa Vieja",
+                                "price": 4250.00,
+                                "main_ingredients": ["harina", "res"]
+                            },
+                            {
+                                "name": "Calamar a la Romana",
+                                "price": 2300.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "name": "Ensalada de Aguacate con Camarones",
+                                "price": 2400.00,
+                                "main_ingredients": ["vegetales", "marisco"]
+                            },
+                            {
+                                "name": "Carpaccio de tomate con Serrano",
+                                "price": 2150.00,
+                                "main_ingredients": ["jamon", "vegetales"]
+                            },
+                            {
+                                "name": "Filete de Pescado con salsa de alcaparras y limón",
+                                "price": 3600.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Filete de pescado en salsa de perejil, almejas y vino blanco",
+                                "price": 3600.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Filete de Pescado con arroz negros",
+                                "price": 4300.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Filete de pescado en salsa de kahlua y coco",
+                                "price": 5500.00,
+                                "main_ingredients": ["pescado"]
+                            },
+                            {
+                                "name": "Caldereta de Mariscos",
+                                "price": 5400.00,
+                                "main_ingredients": ["marisco"]
+                            },
+                            {
+                                "name": "Langosta Tropical",
+                                "price": 4500.00,
+                                "main_ingredients": ["marisco"]
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Al Pesto",
+                                "price": 1700.00,
+                                "main_ingredients": ["pasta", "queso", "vegetales"]
+                            },
+                            {
+                                "name": "Carbonara",
+                                "price": 2800.00,
+                                "main_ingredients": ["pasta", "queso", "cerdo", "huevo"]
+                            },
+                            {
+                                "name": "Bolognesa",
+                                "price": 3000.00,
+                                "main_ingredients": ["pasta", "queso", "res"]
+                            },
+                            {
+                                "name": "Amatriciana",
+                                "price": 2100.00,
+                                "main_ingredients": ["pasta", "queso"]
+                            },
+                            {
+                                "name": "Puttanesca",
+                                "price": 3000.00,
+                                "main_ingredients": ["pasta", "queso"]
+                            },
+                            {
+                                "name": "Pasta Fungi",
+                                "price": 4200.00,
+                                "main_ingredients": ["pasta", "hongos"]
+                            }
+                        ]
+                    }
+                ],
+                "rations": [
+                    {
+                        "name": "Frijoles negros",
+                        "price": 500.00
+                    },
+                    {
+                        "name": "Arroz blanco",
+                        "price": 200.00
+                    },
+                    {
+                        "name": "Arroz negro",
+                        "price": 1100.00
+                    },
+                    {
+                        "name": "Plátano maduro frito",
+                        "price": 325.00
+                    },
+                    {
+                        "name": "Plátano Tostones",
+                        "price": 325.00
+                    },
+                    {
+                        "name": "Ensalada de vegetales",
+                        "price": 500.00
+                    },
+                    {
+                        "name": "Vegetales salteados",
+                        "price": 700.00
+                    }
+                ],
+                "desserts": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Cheesecake",
+                                "price": 2400.00
+                            },
+                            {
+                                "name": "Helado de frutas",
+                                "price": 650.00
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "shots": [
+                                    {
+                                        "name": "Tequila Don Julio blanco",
+                                        "price": 2400
+                                    },
+                                    {
+                                        "name": "Tequila Don Julio reposado",
+                                        "price": 4500
+                                    },
+                                    {
+                                        "name": "Tequila Olmeca blanco",
+                                        "price": 850
+                                    },
+                                    {
+                                        "name": "Tequila Olmeca reposado",
+                                        "price": 900
+                                    },
+                                    {
+                                        "name": "Aguardiente",
+                                        "price": 290
+                                    },
+                                    {
+                                        "name": "Havana Club 3 años",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "Havana Club ritual",
+                                        "price": 520
+                                    },
+                                    {
+                                        "name": "Havana Club 7 años",
+                                        "price": 540
+                                    },
+                                    {
+                                        "name": "Havana Club especial",
+                                        "price": 480
+                                    },
+                                    {
+                                        "name": "Havana Club reserva",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Havana Club Selección de maestros",
+                                        "price": 900
+                                    },
+                                    {
+                                        "name": "Santiago Añejo",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Santiago 8",
+                                        "price": 850
+                                    },
+                                    {
+                                        "name": "Santiago 11",
+                                        "price": 1780
+                                    },
+                                    {
+                                        "name": "Santiago 12",
+                                        "price": 1980
+                                    },
+                                    {
+                                        "name": "Brandy",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "Hennessy",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "Oporto",
+                                        "price": 310
+                                    },
+                                    {
+                                        "name": "Elixir Legendario",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Amaretto",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Baileys",
+                                        "price": 950
+                                    },
+                                    {
+                                        "name": "Frangelico",
+                                        "price": 1700
+                                    },
+                                    {
+                                        "name": "Kalhua",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Malibu",
+                                        "price": 310
+                                    },
+                                    {
+                                        "name": "Campari",
+                                        "price": 310
+                                    },
+                                    {
+                                        "name": "Moscatel",
+                                        "price": 200
+                                    },
+                                    {
+                                        "name": "Sambuca",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Anís del mono",
+                                        "price": 285
+                                    },
+                                    {
+                                        "name": "Gin Beefeater",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Gin Tanqueray",
+                                        "price": 1170
+                                    },
+                                    {
+                                        "name": "Gin Fifty Pounds",
+                                        "price": 1300
+                                    },
+                                    {
+                                        "name": "Gin Hendrick's",
+                                        "price": 1900
+                                    },
+                                    {
+                                        "name": "Vodka",
+                                        "price": 160
+                                    },
+                                    {
+                                        "name": "Vodka Stolichnaya",
+                                        "price": 310
+                                    },
+                                    {
+                                        "name": "Vodka Absolut",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "Vodka Absolut Citron",
+                                        "price": 845
+                                    },
+                                    {
+                                        "name": "Vodka Grey Goose",
+                                        "price": 1900
+                                    },
+                                    {
+                                        "name": "Vodka Titos",
+                                        "price": 1100
+                                    },
+                                    {
+                                        "name": "Vermut Rosso",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Vermut Blanco",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Vermut Extra Dry",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Whisky Clan Campbell",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "Whisky Ballantines",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Whisky The Glenlivet",
+                                        "price": 900
+                                    },
+                                    {
+                                        "name": "Whisky Chivas 12",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "Whisky Chivas 18",
+                                        "price": 4500
+                                    },
+                                    {
+                                        "name": "Whisky Jack Daniels",
+                                        "price": 2000
+                                    },
+                                    {
+                                        "name": "Whisky Jameson",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "Whisky J&B",
+                                        "price": 850
+                                    },
+                                    {
+                                        "name": "Whisky Jw red",
+                                        "price": 1000
+                                    },
+                                    {
+                                        "name": "Whisky Jim Beam",
+                                        "price": 1000
+                                    },
+                                    {
+                                        "name": "Whisky Jw black",
+                                        "price": 1370
+                                    },
+                                    {
+                                        "name": "Whisky Jw double black",
+                                        "price": 3000
+                                    }
+                                ],
+                                "cocktails": [
+                                    {
+                                        "name": "Martini seco",
+                                        "price": 1200
+                                    },
+                                    {
+                                        "name": "Mojito",
+                                        "price": 900
+                                    },
+                                    {
+                                        "name": "Piña colada",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "Margarita",
+                                        "price": 1000
+                                    },
+                                    {
+                                        "name": "Daiquiri",
+                                        "price": 850
+                                    },
+                                    {
+                                        "name": "Whiskey Sour",
+                                        "price": 1100
+                                    },
+                                    {
+                                        "name": "Michelada con Cerveza Nacional",
+                                        "price": 1150.00
+                                    },
+                                    {
+                                        "name": "Michelada con Cerveza Importada",
+                                        "price": 1280.00
+                                    },
+                                    {
+                                        "name": "Chelada con Cerveza Nacional",
+                                        "price": 900.00
+                                    },
+                                    {
+                                        "name": "Chelada con Cerveza Importada",
+                                        "price": 1080.00
+                                    },
+                                    {
+                                        "name": "Mojito de frutas",
+                                        "price": 900.00
+                                    },
+                                    {
+                                        "name": "Mojito se chorrea",
+                                        "price": 970.00
+                                    },
+                                    {
+                                        "name": "Cuba Libre",
+                                        "price": 650.00
+                                    },
+                                    {
+                                        "name": "Cubanito",
+                                        "price": 1055.00
+                                    },
+                                    {
+                                        "name": "Daiquirí",
+                                        "price": 920.00
+                                    },
+                                    {
+                                        "name": "Daiquirí de frutas",
+                                        "price": 1045.00
+                                    },
+                                    {
+                                        "name": "Daiquirí de fresa",
+                                        "price": 1260.00
+                                    },
+                                    {
+                                        "name": "Cachanchara",
+                                        "price": 455.00
+                                    },
+                                    {
+                                        "name": "Caipirinha",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Caipiríssima",
+                                        "price": 650.00
+                                    },
+                                    {
+                                        "name": "Caipiroska",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Cubata",
+                                        "price": 750.00
+                                    },
+                                    {
+                                        "name": "Piña Colada",
+                                        "price": 1400.00
+                                    },
+                                    {
+                                        "name": "Sangría",
+                                        "price": 1450.00
+                                    },
+                                    {
+                                        "name": "Screwdriver",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Gin Beefeater Tonic",
+                                        "price": 1200.00
+                                    },
+                                    {
+                                        "name": "Gin Tanqueray Tonic",
+                                        "price": 1800.00
+                                    },
+                                    {
+                                        "name": "Gin Bombay Tonic",
+                                        "price": 1750.00
+                                    },
+                                    {
+                                        "name": "Gin Fifty Pounds Tonic",
+                                        "price": 2200.00
+                                    },
+                                    {
+                                        "name": "Gin Hendrick's Tonic",
+                                        "price": 2600.00
+                                    },
+                                    {
+                                        "name": "Gin Mojito",
+                                        "price": 1100.00
+                                    },
+                                    {
+                                        "name": "B52",
+                                        "price": 1000.00
+                                    },
+                                    {
+                                        "name": "Mary Pickford",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Old-Fashioned",
+                                        "price": 880.00
+                                    },
+                                    {
+                                        "name": "Sex on the Beach",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Tequila Sunrise",
+                                        "price": 830.00
+                                    },
+                                    {
+                                        "name": "Tom Collins",
+                                        "price": 580.00
+                                    },
+                                    {
+                                        "name": "Ron Collins",
+                                        "price": 680.00
+                                    },
+                                    {
+                                        "name": "Vodka Tonic",
+                                        "price": 1000.00
+                                    },
+                                    {
+                                        "name": "Alexander",
+                                        "price": 450.00
+                                    },
+                                    {
+                                        "name": "Orgasmo",
+                                        "price": 2800.00
+                                    },
+                                    {
+                                        "name": "Negroni",
+                                        "price": 1300.00
+                                    },
+                                    {
+                                        "name": "Martini Blanco",
+                                        "price": 750.00
+                                    },
+                                    {
+                                        "name": "Martini Dry",
+                                        "price": 800.00
+                                    },
+                                    {
+                                        "name": "Martini Rosa",
+                                        "price": 800.00
+                                    },
+                                    {
+                                        "name": "Bloody Mary",
+                                        "price": 980.00
+                                    },
+                                    {
+                                        "name": "Long Island",
+                                        "price":1100
+                                    }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "Cerveza Nacional",
+                                        "price": 600.00
+                                    },
+                                    {
+                                        "name": "Cerveza Importada",
+                                        "price": 800.00
+                                    },
+                                    {
+                                        "name":"El cubetazo (5 cervezas bien frías)",
+                                        "price": 2750.00
+                                    },
+                                    {
+                                        "name":"El tulazo",
+                                        "price": 1000.00
+                                    }
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua natural nacional",
+                                "price": 300
+                            },
+                            {
+                                "name": "Agua natural importada",
+                                "price": 42
+                            },
+                            {
+                                "name": "Agua gasificada importada",
+                                "price": 500
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Refrescos",
+                                "price": 450
+                            },
+                            {
+                                "name": "Coca-Cola",
+                                "price": 650
+                            },
+                            {
+                                "name": "Malta",
+                                "price": 580
+                            },
+                            {
+                                "name": "Energética", 
+                                "price": 700
+                            }
+                        ],
+                        "natual_juices": [
+                            {
+                                "name": "Jugos naturales",
+                                "price": 450
+                            },
+                            {
+                                "name": "Batido de frutas",
+                                "price": 750
+                            },
+                            {
+                                "name": "Limonada natural o frapé",
+                                "price": 380
+                            },
+                            {
+                                "name": "Limonada frescura",
+                                "price": 500
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "Café",
+                                "price": 200
+                            },
+                            {
+                                "name": "Café con leche",
+                                "price": 310
+                            },
+                            {
+                                "name": "Capuchino",
+                                "price": 310
+                            },
+                            {
+                                "name": "Café Bombón",
+                                "price": 450
+                            },
+                            {
+                                "name": "Té",
+                                "price": 200
+                            }
+                        ]
+                    }
+                ]
+            }
+        }    
+    }
+}

@@ -1,0 +1,560 @@
+{
+  "establishment": {
+    "classification": {
+      "type": ["Restaurante Cubano"]
+    },
+    "name": "Esto No Es Un Cafe",
+    "description": "Un espacio multifuncional que relaciona la cocina artística con las artes visuales. Ofrece una cocina de autor que combina recetas de la cocina internacional con el sabor de la tradición culinaria cubana.",
+    "contact_info": {
+      "phone": {
+        "number": "78013109",
+        "type": ["landline"]
+      },
+      "email": "estonoesuncafe@gmail.com",
+      "website": "https://estonoesuncafe.wordpress.com"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "tuesday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "00:00"
+      }
+    },
+    "address": "Calle Ignacio #58-A entre O´Reilly y Empedrado, Callejón del Chorro, Plaza de la Catedral, Habana Vieja",
+    "coordinates": {
+      "latitude": 23.140497,
+      "longitude": -82.351910
+    },
+    "social_media": {
+      "instagram": "https://www.instagram.com/estonoesuncafe",
+      "facebook": "https://www.facebook.com/estonoesuncafe"
+    },
+    "accepted_payment_methods": ["Pagos digitales", "Solo efectivo"],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "10% por servicios prestados",
+      "description": "Se adiciona el 10% a su cuenta por servicios prestados.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": true,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": ["Restaurante"],
+      "local_options": ["Comidas", "Cenas"],
+      "services": ["Sanitario", "Servicio de mesa"],
+      "ambience": ["Agradable", "Informal"],
+      "usual_customers": ["Ideal para ir con niños", "Recomendable para ir en grupo"],
+      "planning": ["Reservas"],
+      "children": true,
+      "pets": null,
+      "parking": null
+    },
+    "dietary_options": ["Opciones vegetarianas", "Opciones veganas", "Opciones sin gluten"],
+    "meals": ["Comidas", "Cenas"],
+    "advantages": ["Reservas", "Capacidad", "Acceso para discapacitados", "Sirve alcohol", "Bar completo", "Vino y cerveza"],
+    "highlights": ["Asientos al aire libre", "Aperitivos", "Buenos cócteles", "Agradable", "Informal"]
+  },
+  "menu_details": {
+      "kind_of_food": ["variada", "criolla", "americana"],
+      "healthy_food_options": false,
+      "menu_card": {
+          "menu_sections": {
+              "starters": [
+                  { 
+                      "courses": [
+                        {
+                          "name": "Croquetas de la casa / Homemade rissole",
+                          "price": 1050,
+                          "main_ingredients": ["pollo", "harina", "huevo"]
+                        },
+                        {
+                          "name": "Tostones rellenos / Stuffed tostones",
+                          "price": 1050,
+                          "main_ingredients": ["fruta", "cerdo", "queso"]
+                        },
+                        {
+                          "name": "Ratatouille / Vegetable Ratatouille",
+                          "price": 1200,
+                          "main_ingredients": ["vegetales"]
+                        },
+                        {
+                          "name": "Cuarteto de camarones / Shrimp quartet",
+                          "price": 2100,
+                          "main_ingredients": ["marisco"]
+                        },
+                        {
+                          "name": "Pimientos rellenos con farsa de atún / Peppers with tuna paste",
+                          "price": 1350,
+                          "main_ingredients": ["vegetales", "pescado"]
+                        },
+                        {
+                          "name": "Bruschettas de berenjena, tomate y mozzarella / Bruschettas with eggplant, tomatoes, and mozzarella",
+                          "price": 1200,
+                          "main_ingredients": ["harina", "vegetales", "queso"]
+                        },
+                        {
+                          "name": "Tempura de vegetales / Vegetables tempura",
+                          "price": 1350,
+                          "main_ingredients": ["vegetales", "harina", "huevo"]
+                        }
+                      ]
+                  }
+              ],
+              "main_courses": [
+                  {
+                      "courses": [
+                        {
+                          "name": "La Fuente de Duchamp / Duchamp's Fontain",
+                          "price": 2400,
+                          "main_ingredients": ["cerdo", "vianda"]
+                        },
+                        {
+                          "name": "Pollo Pollock / Pollock's Chicken",
+                          "price": 2550,
+                          "main_ingredients": ["pollo"]
+                        },
+                        {
+                          "name": "Tercer Mundo de Lam / Lam's Third World",
+                          "price": 3150,
+                          "main_ingredients": ["res", "vegetales", "fruta"]
+                        },
+                        {
+                          "name": "El Pez de Christo / Christo's Fish",
+                          "price": 3300,
+                          "main_ingredients": ["pescado", "vegetales"]
+                        },
+                        {
+                          "name": "Azul Klein / Klein's Blue",
+                          "price": 3900,
+                          "main_ingredients": ["cordero", "queso"]
+                        },
+                        {
+                          "name": "La Cacerola de Broodthaers / Broodthaers's Casserole",
+                          "price": 5400,
+                          "main_ingredients": ["mariscos"]
+                        }
+                      ]
+                  }
+              ],
+              "rations": [
+                {
+                  "name": "Arroz blanco / White rice",
+                  "price": 450
+                },
+                {
+                  "name": "Frijoles negros / Black beans",
+                  "price": 750
+                },
+                {
+                  "name": "Yuca con mojo / Yucca with traditional sauce",
+                  "price": 600
+                },
+                {
+                  "name": "Vegetales salteados / Sauteed vegetables",
+                  "price": 600
+                },
+                {
+                  "name": "Chicharritas de plátano / Banana chips",
+                  "price": 600
+                }
+              ],
+              "desserts": [
+                  {
+                      "courses": [
+                        {
+                          "name": "Postre de la Casa / Dessert of the house (Pie de chocolate / Chocolate pie, Pie de limón / Lemon pie, Tarta de queso / Cheesecake)",
+                          "price": 1200,
+                          "main_ingredients": ["leche", "queso"]
+                        },
+                        {
+                          "name": "Brownie",
+                          "price": 1500,
+                          "main_ingredients": ["harina", "huevo"]
+                        },
+                        {
+                          "name": "Copa de helado / Glass of ice cream",
+                          "price": 1350,
+                          "main_ingredients": ["helado"]
+                        },
+                        {
+                          "name": "Crepe de frutas / Fruits crêpe",
+                          "price": 1200,
+                          "main_ingredients": ["harina", "fruta"]
+                        },
+                        {
+                          "name": "Crepe de chocolate / Chocolate crêpe",
+                          "price": 1050,
+                          "main_ingredients": ["harina", "leche"]
+                        },
+                        {
+                          "name": "Crepe de limón / Lemon crêpe",
+                          "price": 600,
+                          "main_ingredients": ["harina", "leche"]
+                        },
+                        {
+                          "name": "Crepe Franz / Franz crêpe",
+                          "price": 1350,
+                          "main_ingredients": ["harina"]
+                        }
+                      ]
+                  }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "cocktails": [
+                        {
+                          "name": "Mojito clásico",
+                          "price": 1050
+                        },
+                        {
+                          "name": "Mojito frapé",
+                          "price": 1200
+                        },
+                        {
+                          "name": "Mojito de frutas",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Cuba libre",
+                          "price": 1050
+                        },
+                        {
+                          "name": "Daiquiri de limón",
+                          "price": 1050
+                        },
+                        {
+                          "name": "Daiquiri de plátano",
+                          "price": 1200
+                        },
+                        {
+                          "name": "Daiquiri de fresa",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Daiquiri de mango",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Piña colada",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Habana especial",
+                          "price": 900
+                        },
+                        {
+                          "name": "Cubanito",
+                          "price": 1200
+                        },
+                        {
+                          "name": "Cubata",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Presidente",
+                          "price": 1050
+                        },
+                        {
+                          "name": "Mary Pickford",
+                          "price": 900
+                        },
+                        {
+                          "name": "Esto no es un café",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Michelada",
+                          "price": 1050
+                        },
+                        {
+                          "name": "Gin Tonic",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Vodka Tonic",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Caipiriña",
+                          "price": 1200
+                        },
+                        {
+                          "name": "Screwdriver",
+                          "price": 1200
+                        },
+                        {
+                          "name": "Caipiroska",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Bloody Mary",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Manhattan",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Margarita",
+                          "price": 1200
+                        },
+                        {
+                          "name": "Margarita de frutas",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Dry Martini cocktail",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Americano",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Black Russian",
+                          "price": 1200
+                        },
+                        {
+                          "name": "White Russian",
+                          "price": 1350
+                        },
+                        {
+                          "name": "Sex on the Beach",
+                          "price": 1500
+                        },
+                        {
+                          "name": "Long Iceland Iced Tea",
+                          "price": 1500
+                        },
+                        {
+                          "name": "Negroni",
+                          "price": 1500
+                        },
+                        {
+                          "name": "Sangría",
+                          "price": 1200
+                        }
+                      ],
+                      "wine_glass": [
+                        {
+                          "name": "Copa de vino de la casa / Glass of house wine",
+                          "price": 1350
+                        }
+                      ],
+                      "beers": [
+                        {
+                          "name": "Cervezas / Beers",
+                          "price": 750
+                        }
+                      ],
+                      "shots": [
+                        {
+                          "name": "Havana Club Ritual",
+                          "price": 750
+                        },
+                        {
+                          "name": "Havana Club Añejo 7 años",
+                          "price": 1200
+                        },
+                        {
+                          "name": "Havana Club Selección de Maestros",
+                          "price": 2400
+                        },
+                        {
+                          "name": "Havana Club Pacto Navío",
+                          "price": 3000
+                        },
+                        {
+                          "name": "Havana Club Añejo 15 años",
+                          "price": 8400
+                        },
+                        {
+                          "name": "Ron Santiago de Cuba 11 Años",
+                          "price": 1950
+                        },
+                        {
+                          "name": "Ron Santiago de Cuba 20 Años",
+                          "price": 6000
+                        }
+                      ]
+                    }
+                  ],
+                  "water": [
+                    {
+                      "name": "Agua mineral 500 ml / Mineral water",
+                      "price": 450
+                    },
+                    {
+                      "name": "Agua mineral 1.5lt / Mineral water",
+                      "price": 900
+                    }
+                  ],
+                  "natual_juices": [
+                    {
+                      "name": "San Francisco",
+                      "price": 750
+                    },
+                    {
+                      "name": "Shirley Temple",
+                      "price": 750
+                    },
+                    {
+                      "name": "Piña colada virgen",
+                      "price": 1050
+                    },
+                    {
+                      "name": "Batidos / Milk shake",
+                      "price": 750
+                    },
+                    {
+                      "name": "Limonada frapé / Frozen lemonade",
+                      "price": 600
+                    },
+                    {
+                      "name": "Limonada natural / Natural lemonade",
+                      "price": 450
+                    }
+                  ],
+                  "soft_drinks": [
+                    {
+                      "name": "Refrescos / Soft drinks",
+                      "price": 540
+                    }
+                  ],
+                  "coffees": [
+                    {
+                      "name": "Café expreso / Espresso coffee",
+                      "price": 300
+                    },
+                    {
+                      "name": "Doble expreso / Double espresso",
+                      "price": 600
+                    },
+                    {
+                      "name": "Descafeinado / Decaffeinated",
+                      "price": 480
+                    },
+                    {
+                      "name": "Café americano / American coffee",
+                      "price": 450
+                    },
+                    {
+                      "name": "Café cortado / Espresso coffee with a dash of milk",
+                      "price": 450
+                    },
+                    {
+                      "name": "Capuchino / Cappuccino",
+                      "price": 600
+                    },
+                    {
+                      "name": "Café con leche / White coffee",
+                      "price": 600
+                    },
+                    {
+                      "name": "Café con hielo / Iced coffee",
+                      "price": 450
+                    },
+                    {
+                      "name": "Café americano con leche / American coffee with milk",
+                      "price": 750
+                    },
+                    {
+                      "name": "Café bombón / Bondon coffee",
+                      "price": 900
+                    },
+                    {
+                      "name": "Hangover Fix",
+                      "price": 450
+                    },
+                    {
+                      "name": "Café Carajillo",
+                      "price": 750
+                    },
+                    {
+                      "name": "Café brasileño / Brazilian coffee",
+                      "price": 1050
+                    },
+                    {
+                      "name": "Café español / Spanish coffee",
+                      "price": 1050
+                    },
+                    {
+                      "name": "Café irlandés / Irish coffee",
+                      "price": 1050
+                    },
+                    {
+                      "name": "Café francés / French coffee",
+                      "price": 1050
+                    },
+                    {
+                      "name": "Frapurhino / Frappuccino",
+                      "price": 1050
+                    },
+                    {
+                      "name": "Chocolate frío / Cold chocolate",
+                      "price": 1050
+                    },
+                    {
+                      "name": "Chocolate caliente / Hot chocolate",
+                      "price": 1050
+                    },
+                    {
+                      "name": "Batido de helado / Milk shake",
+                      "price": 1200
+                    },
+                    {
+                      "name": "Té negro / Black tea",
+                      "price": 450
+                    },
+                    {
+                      "name": "Té rojo / Red tea",
+                      "price": 540
+                    },
+                    {
+                      "name": "Té verde / Green tea",
+                      "price": 540
+                    },
+                    {
+                      "name": "Té de hierbas naturales / Natural herbal tea",
+                      "price": 300
+                    },
+                    {
+                      "name": "Infusión de Hierba buena o albahaca / Mint or basil infusion",
+                      "price": 300
+                    }
+                  ]
+                }
+              ]
+          }
+      }    
+  }
+}
+
+   

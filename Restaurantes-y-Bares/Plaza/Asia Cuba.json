@@ -1,0 +1,300 @@
+{
+    "type": "Bar-Restaurante",
+    "name": "Asia Cuba", 
+    "location": {
+        "address": " Calle 6 ##562 entre 23 y 25, Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana"
+    },
+    "sector": "privado",
+    
+    "qualification": 5,
+    
+    "specialized_food": ["Comida asiática"],
+
+    "payment method": ["Efectivo", "Transferencia"],
+    
+    "phone": 50956929,
+    
+    "capacity": 40,
+    
+    "reservation":true ,
+
+    "parking": true,
+
+    "delivery": false,
+
+    "wifi": true,
+
+    "electric generator": true,
+    
+    "hours": {
+        "monday": "7:30am - 11:00pm ",  
+        "tuesday": "7:00am - 3:30pm ",
+        "wednesday": null,
+        "thursday": "7:30am - 11:00pm ",
+        "friday": "7:30am - 11:00pm ",
+        "saturday": "7:30am - 11:00pm ",
+        "sunday": " 7:30am - 11:00pm"
+    },
+    
+    "menu_details": {
+        "kind_of_food": ["italiana", "criolla", "asiatica"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name": "Caribe Zen Roll",
+                      "price": 1840
+                  },
+                  {
+                      "name": "Tartar Sakura Tango Saigon",
+                      "price": 2500
+                  },
+                  {
+                      "name": "Satay de Sumatra",
+                      "price": 1550
+                  },
+                  {
+                      "name": "Croquetas Sonaderas de pollo/ropa vieja",
+                      "price": 1800
+                  },
+                  {
+                      "name": "Mano del Dragón",
+                      "price": 2080
+                  },
+                  {
+                      "name": "Rey Mono",
+                      "price": 2080
+                  }, 
+                  {
+                      "name": "Dragón del mar",
+                      "price": 2400
+                  }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name": "Bonito Tai Red",
+                      "price": 3840
+                  },
+                  {
+                      "name": "Maki Saiko Ebi Hana",
+                      "price": 2080
+                  },
+                  {
+                      "name": "Brasa Patagonia",
+                      "price": 6560
+                  },
+                  {
+                      "name": "Langosta Coco Verde",
+                      "price": 5760
+                  },
+                  {
+                      "name": "Uramaki Umi no Haikiri",
+                      "price": 1950
+                  },
+                  {
+                      "name": "Nigiri Ika no Yume",
+                      "price": 2400
+                  },
+                  {
+                      "name": "Brocheta Dak Galbi",
+                      "price": 3840
+                  },
+                  {
+                      "name": "Brocheta Gochu Vermounth Harmony",
+                      "price": 4480
+                  },
+                  {
+                      "name": "Char Siu Delhi",
+                      "price": 4160
+                  },
+                  {
+                      "name": "Ssamn Kimuchi Tropical",
+                      "price": 3200
+                  }
+                  ]
+                }
+              ],
+              "desserts": [
+                {
+                  "courses": [
+                    {
+                      "name": "Sensei borracho",
+                      "price": 1920
+                  },
+                  {
+                      "name": "Maestro Shifu",
+                      "price": 2080
+                  },
+                  {
+                      "name": "Mei Mei",
+                      "price": 1800
+                  },
+                  {
+                      "name": "Maestro Shinobi",
+                      "price": 1760
+                  }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "cocktails": [
+                        {"name": "Caipiriña" ,
+                        "price" : 500.00
+                    },
+                    {"name": "Caipirisima" ,
+                        "price" : 500.00
+                    },
+                    {"name": "Caipiroska" ,
+                        "price" : 500.00
+                    },
+                    {"name": "Mojito" ,
+                        "price" : 700.00
+                    },
+                    {"name": "Piña Colada" ,
+                        "price" : 550.00
+                    },
+                    {"name": "Ron Collins" ,
+                        "price" : 500.00
+                    },
+                    {"name": "Tom Collins" ,
+                        "price" : 780.00
+                    },
+                    {"name": "Martini" ,
+                        "price" : 1000.00
+                    },
+                    {"name": "Goin Tonic" ,
+                        "price" : 780.00
+                    },
+                    {"name": "Margarita" ,
+                        "price" : 550.00
+                    },
+                    {"name": "Tequila Sunrise" ,
+                        "price" : 550.00
+                    },
+                    {"name": "Cuba Libre" ,
+                        "price" : 700.00
+                    },
+                    {"name": "Cubata" ,
+                        "price" : 800.00
+                    },
+                    {"name": "Cubata Santiago 8" ,
+                        "price" : 900.00
+                    },
+                    {"name": "Cubanito" ,
+                        "price" : 600.00
+                    },
+                    {"name": "Daiquirí" ,
+                        "price" : 550.00
+                    },
+                    {"name": "Bloody Mary" ,
+                        "price" : 960.00
+                    },
+                    {"name": "Sangría Salsa Mora" ,
+                        "price" : 600.00
+                    }
+                      ],
+                      "shots": [
+                        {
+                          "name": "Crema Bailys",
+                          "price": 950
+                      },
+                      {
+                          "name": "Frangelico",
+                          "price": 1000
+                      },
+                      {
+                          "name": "Limoncello",
+                          "price": 600
+                      },
+                      {
+                          "name": "Sirope de kiwi",
+                          "price": 600
+                      },
+                      {
+                          "name": "Sirope de Manzana",
+                          "price": 125
+                      },
+                      {
+                          "name": "Campari",
+                          "price": 850
+                      },
+                      {
+                          "name": "Licor de Café",
+                          "price": 740
+                      },
+                      {
+                          "name": "Whiskeys Jack Daniels",
+                          "price": 1500
+                      },
+                      {
+                          "name": "Whiskeys Jim Bean",
+                          "price": 1200
+                      },
+                      {
+                          "name": "Whiskeys Jhonny Walker Red Label",
+                          "price": 1200
+                      },
+                      {
+                          "name": "Whiskeys Jamenson",
+                          "price": 850
+                      },
+                      {
+                          "name": "Whiskys Jhonny Walker Black Label",
+                          "price": 2000
+                      },
+                      {
+                          "name": "Ron Havana Club Pacto Navío",
+                          "price": 2000
+                      },
+                      {
+                          "name": "Ron Havana Club 3 anos",
+                          "price": 480
+                      },
+                      {
+                          "name": "Ron Havana Club 7 anos",
+                          "price": 900
+                      },
+                      {
+                          "name": "Ron Santiago 8 anos",
+                          "price": 950
+                      },
+                      {
+                          "name": "Ron Santiago 11 anos",
+                          "price": 1250
+                      },
+                      {
+                          "name": "Ron Santiago 12 anos",
+                          "price": 1650
+                      },
+                      {
+                          "name": "Eminente 3 anos",
+                          "price": 3000
+                      },
+                      {
+                          "name": "Ron Black tears Roble Superior",
+                          "price": 650
+                      },
+                      {
+                          "name": "Ron selección de Maestros",
+                          "price": 3300
+                      }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
+    } 
+} 

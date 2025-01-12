@@ -1,0 +1,329 @@
+{
+    "ID": 701, 
+    "locality": {
+        "mun": "Guanabacoa",
+        "locator": {
+            "phones": {
+                "mobile": "52411618",
+                "landline": "77974262"
+            },
+            "plus_code": "4MCR+RR9, Cruz Verde, La Habana"
+        }
+    },
+    "name": "Polo",
+    "type_cuisine": ["pizzas","criolla","pastas"],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": ["Facebook","WhatsApp","Instagram"],
+    "payment_options": ["Transfermóvil","Efectivo"],
+    "service_details": ["A la carta"],
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "italiana", "criolla"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name": "Toston Relleno de jamón y queso",
+                      "price": 450.00
+                  },
+                  
+                  {
+                      "name": "Toston Relleno de atún y queso",
+                      "price": 600.00
+                  },
+                  
+                  {
+                      "name": "Fajitas de pechuga",
+                      "price": 850.00
+                  },
+                  
+                  {
+                      "name": "Ensaladas frías de jamón",
+                      "price": 500.00
+                  },
+                  
+                  {
+                      "name": "Ensalada fría de atún",
+                      "price": 650.00
+                  },
+                  {
+                      "name": "Eperlano de Pescado",
+                      "price": 1100.00
+                  },
+              
+                  {
+                      "name": "Croquetas de la Casa",
+                      "price": 450.00
+                  },
+                  {
+                      "name": "Frituras Malanga",
+                      "price": 450.00
+                  },
+                  {
+                      "name": "Coctel camarones",
+                      "price": 1300.00
+                  },
+                  {
+                      "name": "Papas Fritas",
+                      "price": 550.00
+                  }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name": "Arroz blanco",
+                      "price": 120.00
+                  },
+              
+                  {
+                      "name": "Arroz moro y cristiano",
+                      "price": 180.00
+                  },
+              
+                  {
+                      "name": "Arroz pilaf",
+                      "price": 200.00
+                  },
+              
+                  {
+                      "name": "Arroz salteado con vegetales",
+                      "price": 250.00
+                  },
+              
+                  {
+                      "name": "Bistec de cerdo grille encebollado",
+                      "price": 1900.00
+                  },
+              
+                  {
+                      "name": "Uruguallo de cerdo",
+                      "price": 2400.00
+                  },
+              
+                  {
+                      "name": "Bistec princesa",
+                      "price": 2500.00
+                  },
+              
+                  {
+                      "name": "Pechuga grille",
+                      "price": 1850.00
+                  },
+              
+                  {
+                      "name": "Pechuga gratinada",
+                      "price": 2200.00
+                  },
+              
+                  {
+                      "name": "Cordon bleu de pechuga",
+                      "price": 2500.00
+                  },
+              
+                  {
+                      "name": "Bistec de res encebollado",
+                      "price": 2000.00
+                  },
+              
+                  {
+                      "name": "Uruguallo de res",
+                      "price": 2500.00
+                  },
+              
+                  {
+                      "name": "Ropa vieja de res",
+                      "price": 2300.00
+                  },
+                  {
+                      "name": "Filete de pescado grille",
+                      "price": 2200.00
+                  },
+                  {
+                      "name": "Filete Montero",
+                      "price": 2800.00
+                  },
+                  {
+                      "name": "Filete Canciller",
+                      "price": 2900.00
+                  },
+                  {
+                      "name": "Filete gratinado",
+                      "price": 2600.00
+                  },
+                  {
+                      "name": "Camaron enchilado",
+                      "price": 2700.00
+                  },
+                  {
+                      "name": "Camaron al ajillo",
+                      "price": 2600.00
+                  },
+                  {
+                      "name": "Camaron empanizado",
+                      "price": 2700.00
+                  },
+                  {
+                      "name": "Arroz Frito con camarones",
+                      "price": 1500.00
+                  },
+                  {
+                      "name": "Filete Mediterraneo",
+                      "price": 3500.00
+                  },
+                  {
+                      "name": "Lomo Ahumado",
+                      "price": 2400.00
+                  },
+                  {
+                      "name": "Mar y Tierra",
+                      "price": 4500.00
+                  },
+                  {
+                      "name": "Masa de Vida",
+                      "price": 4100.00
+                  }
+                  ]
+                }
+              ],
+              "pizzas": [
+                {
+                  "courses": [
+                    {
+                      "name": "Pizza Napolitana",
+                      "price": 900.00
+                  },
+                  {
+                      "name": "Pizza Hawaiana",
+                      "price": 1300.00
+                  }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {
+                      "name": "Spaguetti Napolitano",
+                      "price": 850.00
+                  },
+                  {
+                      "name": "Spaguetti Carbonara",
+                      "price": 1400.00
+                  }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "beers": [
+                        {
+                          "name": "Cerveza Nacional",
+                          "price": 350.00
+                      },
+                      {
+                          "name": "Cerveza importada",
+                          "price": 250.00
+                      }
+                      ]
+                    }
+                  ],
+                  "water": [
+                    {
+                      "name": "Agua Natural 500ml",
+                      "price": 200.00
+                    }
+                  ],
+                  "soft_drinks": [
+                    {
+                      "name": "Energizante",
+                      "price": 300.00
+                  },
+                  {
+                      "name": "Refresco nacional",
+                      "price": 250.00
+                  },
+                  {
+                      "name": "Refrescos importados",
+                      "price": 280.00
+                  },
+                  {
+                      "name": "Malta Nacional",
+                      "price": 250.00
+                  },
+                  {
+                      "name": "Malta Importada",
+                      "price": 280.00
+                  }
+                  ],
+                  "natual_juices": [
+                    {
+                      "name": "Jugo de caja",
+                      "price": 200.00
+                  },
+                  {
+                      "name": "Jugo de Lata",
+                      "price": 280.00
+                  }
+                  ],
+                  "coffees": [
+                    {
+                      "name": "Jugo de caja",
+                      "price": 200.00
+                  },
+                  {
+                      "name": "Jugo de Lata",
+                      "price": 280.00
+                  },
+                  {
+                      "name": "Cafe expreso",
+                      "price": 250.00
+                  }
+                  ]
+                }
+              ]
+            }
+        }    
+    }
+}
