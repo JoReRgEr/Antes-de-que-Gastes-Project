@@ -1,0 +1,318 @@
+{
+  "ID": 1401,
+  "locality": {
+    "mun": "Regla",
+    "locator": {
+      "phones": 
+      {
+        "mobile": 58222469,
+        "landline": 77976432
+      },
+      "plus_code": "4MFJ+M6J, La Habana"
+    }
+  },
+  "name": "Restaurante El Pavo",
+  "type_cuisine": ["criolla", "internacional"],
+  "schedule": {
+    "monday": {
+      "opening": "12:00",
+      "closing": "23:00"
+    },
+    "tuesday": {
+      "opening": "12:00",
+      "closing": "23:00"
+    },
+    "wednesday": {
+      "opening": "12:00",
+      "closing": "23:00"
+    },
+    "thursday": {
+      "opening": "12:00",
+      "closing": "23:00"
+    },
+    "friday": {
+      "opening": "12:00",
+      "closing": "23:00"
+    },
+    "saturday": {
+      "opening": "12:00",
+      "closing": "23:00"
+    },
+    "sunday": {
+      "opening": "12:00",
+      "closing": "23:00"
+    }
+  },
+  "quality": {
+    "qualification_google": 4.3,
+    "qualification_tripadvisor": 4.5,
+    "qualification_facebook": 3.9
+  },
+  "reservation_options": true,
+  "social_networks": ["Facebook","WhatsApp","Instagram"],
+  "payment_options":["Transfermovil", "Efectivo"],
+  "service_details":["A la carta", "A domicilio"],
+  
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla", "italiana"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                        "": "Ensalada Fría de Jamón",
+                        "price": 450.00
+                    },
+                    {
+                        "": "Ensalada Fría de Atún",
+                        "price": 500.00
+                
+                    },
+                    {
+                        "": "Croquetas",
+                        "price": 200.00
+                    },
+                    {
+                        "": "Fajitas",
+                        "price": 500.00
+                    },
+                    {
+                        "": "Tostón relleno de Jamón",
+                        "price": 450.00
+                    },
+                    {
+                        "": "Tostón relleno de Atún",
+                        "price": 450.00
+                    },
+                    {
+                        "": "Costillas",
+                        "price": 800.00
+                    },
+                    {
+                        "": "Cóctel de Camarón",
+                        "price": 700.00
+                    },
+                    {
+                        "": "Garbanzo Frito",
+                        "price": 400.00
+                    },
+                    {
+                        "": "Eperlan",
+                        "price": 600.00
+                    },
+                    {
+                        "": "Entremés",
+                        "price": 800.00
+                    }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                        "": "Pollo Grille",
+                        "price": 1100.00
+                      },
+                      {
+                        "": "Masa de Cerdo",
+                        "price": 1600.00
+                      },
+                      {
+                        "": "Cerdo a la Milanesa",
+                        "price": 1400.00
+                      },
+                      {
+                        "": "Bistec de Cerdo",
+                        "price": 1300.00
+                      },
+                      {
+                        "": "Bistec de Res",
+                        "price": 1300.00
+                      },
+                      {
+                        "": "Ropa Vieja",
+                        "price": 1600.00
+                      },
+                      {
+                        "": "Camarones Enchilados",
+                        "price": 1300.00
+                      },
+                      {
+                        "": "Camarones al Ajillo",
+                        "price": 1300.00
+                      },
+                      {
+                        "": "Camarones Grille",
+                        "price": 1200.00
+                      },
+                      {
+                        "": "Camarones Rebosados",
+                        "price": 1300.00
+                      },
+                      {
+                        "": "Enchilado de Langosta",
+                        "price": 1400.00
+                      },
+                      {
+                        "": "Langosta Grille",
+                        "price": 1300.00
+                      },
+                      {
+                        "": "Pescado Grille",
+                        "price": 1400.00
+                      },
+                      {
+                        "": "Marinada al Pavo",
+                        "price": 2500.00
+                    }
+                  ]
+                }
+              ],
+              "pizzas": [
+                {
+                    "courses": [
+                        {
+                            "": "Pizza Napolitana",
+                            "price": 600.00
+                          },
+                          {
+                            "": "Pizza de Vegetales",
+                            "price": 650.00
+                          },
+                          {
+                            "": "Pizza de Jamón",
+                            "price": 800.00
+                          },
+                          {
+                            "": "Pizza de Chorizo",
+                            "price": 800.00
+                          },
+                          {
+                            "": "Pizza Hawaiana",
+                            "price": 850.00
+                          },
+                          {
+                            "": "Pizza de Carne",
+                            "price": 800.00
+                          },
+                          {
+                            "": "Pizza de Camarones",
+                            "price": 1000.00
+                          },
+                          {
+                            "": "Pizza Especial 'El Pavo' ",
+                            "price": 1500.00
+                          }
+                    ]
+                }
+              ],
+              "pastas": [
+                {
+                    "courses": [
+                        {
+                            "": "Espaguetis Napolitano",
+                            "price": 600.00
+                          },
+                          {
+                            "": "Espaguetis con Jamón",
+                            "price": 800.00
+                          },
+                          {
+                            "": "Espaguetis Boloñesa",
+                            "price": 800.00
+                          },
+                          {
+                            "": "Espaguetis con Camarones",
+                            "price": 1000.00
+                          },
+                          {
+                            "": "Espaguetis con Atún",
+                            "price": 950.00
+                          },
+                          {
+                            "": "Espaguetis con Bacon",
+                            "price": 800.00
+                          },
+                          {
+                            "": "Lasagna de Jamón",
+                            "price": 800.00
+                          },
+                          {
+                            "": "Lasagna de Carne",
+                            "price": 900.00
+                          }
+                    ]
+                }
+              ],
+              "desserts": [
+                {
+                    "courses": [
+                        {
+                            "": "Flan de Leche",
+                            "price": 180.00
+                          }
+                    ]
+                }
+              ],
+              "liquids": [
+                {
+                    "alcoholic_beverages": [
+                        {
+                            "beers": [
+                                {
+                                    "": "Cerveza Nacional",
+                                    "price": 250.00
+                                },
+                                {
+                                    "": "Cerveza Nacional",
+                                    "price": 200.00
+                                },
+                                {
+                                    "": "Cerveza Corona",
+                                    "price": 300.00
+                                }
+                            ]
+                        }
+                    ],
+                    "water": [
+                        {
+                            "": "Agua Natural",
+                            "price": 180.00
+                        },
+                        {
+                            "": "Agua Gaseada",
+                            "price": 180.00
+                        }
+                    ],
+                    "natual_juices": [
+                        {
+                            "": "Jugo(Cajita)",
+                            "price": 180.00
+                        }
+                    ],
+                    "soft_drinks": [
+                        {
+                            "": "Refresco Nacional",
+                            "price": 225.00
+                        },
+                        {
+                            "": "Refresco Importado",
+                            "price": 260.00
+                        },
+                        {
+                            "": "Malta Importada",
+                            "price": 225.00
+                        },
+                        {
+                            "": "Malta HyperMalt",
+                            "price": 260.00
+                        }
+                    ]
+                }
+              ]
+            }
+        }    
+    }
+}

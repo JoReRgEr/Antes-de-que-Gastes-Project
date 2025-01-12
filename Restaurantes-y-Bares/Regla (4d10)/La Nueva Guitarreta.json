@@ -1,0 +1,84 @@
+{
+    "ID": 1402,
+    "locality": {
+        "mun": "Regla",
+        "locator": {
+            "phones": {
+                "mobile": 56901253,
+                "landline": null
+            },
+            "plus_code": " 4MFC+QW5, Loredo, La Habana, Cuba"
+        }
+    },
+    "name": "La Nueva Guitarreta",
+    "type_cuisine": ["internacional","cocteleria"],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": ["Facebook","Instagram","WhatsApp"],
+    "payment_options": ["Efectivo","Transfermovil"],
+    "service_details": ["A la carta","Entretenimiento"],
+    "menu": {
+        "breakfasts": [null],
+        "starters": [
+            
+        ],
+        "main_courses": [
+            
+        ],
+        "pizzas": [
+            
+        ],
+        "pasta": [
+            
+        ],
+        "desserts": [null]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            
+            
+            
+            
+           
+        ],
+        "non-alcoholic": [
+            
+            
+            
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "general_info": {
+        "name":"Bar Colina",
+        "township": "San Miguel del Padrón",
+        "adress":"esquina b y calzada de guines reparto merceditas",
+        "local":"bar",
+        "open":"1100",
+        "close":"1100",
+        "days_of_week":["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+        "sector":"privado",
+        "capability":200,
+        "social_network":["Instagram"],
+        "years": 6
+
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":true,
+        "delivery":false
+    },
+    "food": {
+        
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla", "italiana"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {"name":"entremes de jamón y queso",
+                "price": 400
+            },
+                {"name": "croquetas",
+                "price": 550
+            },
+                {"name": "frituras de malanga",
+                "price": 400
+            },
+                {"name": "tostones",
+                "price": 600
+            },
+                {"name": "tostones rellenos",
+                "price": 300
+            }
+                  ]
+                }
+              ],
+              "pizzas": [
+                {
+                    "courses": [
+                        {"name":"pizza napolitana grande",
+"price": 650
+},
+                      {"name":  "pizza napolitana",
+                "price": 220
+            }
+                    ]
+                }
+              ],
+              "pastas": [
+                {
+                    "courses": [
+                        {"name":"espaguetti napolitano",
+                "price":550
+            }
+                    ]
+                }
+              ],
+              "additions": [
+                {"name":"queso",
+                "price":200
+            },
+                {"name": "chorizo",
+                "price": 300
+            },
+                {"name": "jamón",
+                "price": 300
+            },
+                {"name": "piña",
+                "price": 150
+            }
+              ]
+            }
+        }    
+    },
+        "popular_food":["tapas"],
+        "popular_drink":["cerveza"],
+        "food_especialization":["italiana"],
+        "house_especiality":[]
+    },
+    "social": {
+        "kids_seat":true,
+        "blackout_alternatives":true,
+        "entertainment":[],
+        "peak_hour":["comida"],
+        "tourism":true,
+        "pets":false,
+        "bathroom":true,
+        "heated":true
+    }
+}

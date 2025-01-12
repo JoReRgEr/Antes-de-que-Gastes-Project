@@ -1,0 +1,184 @@
+{
+    "ID": 1404,
+    "locality": {
+        "mun": "Regla",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "plus_code": "4MH8+57M entre Martí y Maceo, Pereira, La Habana"
+        }
+    },
+    "name": "2KFE",
+    "type_cuisine": ["Cafe","Internacional","Criolla"],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [null],
+    "payment_options": ["Efectivo","Transfermovil"],
+    "service_details": ["A la carta"],
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla", "mexicana"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                        "name": "Croquetas",
+                        "price": 300.00
+                    },
+                    {
+                        "name": "Viandas fritas",
+                        "price": 100.00
+                    },
+                    {
+                        "name": "Brusquetas",
+                        "price": 250.00
+                    },
+                    {
+                        "name": "Entremes surtido",
+                        "price": 800.00
+                    },
+                    {
+                        "name": "Mini Gordon Bleu",
+                        "price": 800.00
+                    },
+                    {
+                        "name": "Plato combinado",
+                        "price": 1200.00
+                    }
+                  ]
+                }
+              ],
+              "tacos": [
+                {
+                  "courses": [
+                    {
+                        "name": "Tacos Carnitas",
+                        "price": 850.00
+                    },
+                    {
+                        "name": "Tacos Res",
+                        "price": 900.00
+                    },
+                    {
+                        "name": "Tacos Pollo",
+                        "price": 600.00
+                    },
+                    {
+                        "name": "Tacos Vegetariano",
+                        "price": 400.00
+                    },
+                    {
+                        "name": "Tacos Vegetales salteados en mantequilla y limón",
+                        "price": 0.00
+                    },
+                    {
+                        "name": "Tacos Jamón y Queso",
+                        "price": 650.00
+                    }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "coffees": [
+                    {
+                        "name": "Espresso",
+                        "price": 100.00
+                    },
+                    {
+                        "name": "Americano",
+                        "price": 100.00
+                    },
+                    {
+                        "name": "Cortadito",
+                        "price": 150.00
+                    },
+                    {
+                        "name": "Con Leche",
+                        "price": 200.00
+                    },
+                    {
+                        "name": "Espresso Macchiato",
+                        "price": 180.00
+                    },
+                    {
+                        "name": "Caramel Macchiato",
+                        "price": 250.00
+                    },
+                    {
+                        "name": "Cappuccino",
+                        "price": 220.00
+                    },
+                    {
+                        "name": "Frappuccino",
+                        "price": 500.00
+                    },
+                    {
+                        "name": "Irlandés",
+                        "price": 250.00
+                    },
+                    {
+                        "name": "Caribeño",
+                        "price": 180.00
+                    },
+                    {
+                        "name": "Alma mía",
+                        "price": 180.00
+                    },
+                    {
+                        "name": "Minty Coffee",
+                        "price": 250.00
+                    },
+                    {
+                        "name": "2KF",
+                        "price": 250.00
+                    },
+                    {
+                        "name": "Lujo",
+                        "price": 600.00
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
+    }
+}
