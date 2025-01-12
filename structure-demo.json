@@ -1,57 +1,57 @@
 {
     "type_of_establishment": "restaurante",
-    "place_name": "Comida Criolla Ocho Vías",
-    "property_type": "estatal",
+    "place_name": "Fiesta Criolla",
+    "property_type": "particular",
     "address": {
         "establishment_phone_number": null,
         "email": null,
         "city": "La Habana",
         "district": "Arroyo Naranjo",
-        "location": "Avenida 1er Anillo 3km despues de San Agustin",
-        "coordinates": "23.052020134627092, -82.33220978650654"
+        "location": "Calle 100 #1003 (después del puente de calabazar)",
+        "coordinates": "23.045798685030046, -82.37124679490715"
     },
     "schedules": {
         "monday": {
-            "open": "11:00",
-            "closed": "23:00"
+            "open": "12:00",
+            "closed": "00:00"
         },
         "tuesday": {
-            "open": "11:00",
-            "closed": "23:00"
+            "open": "12:00",
+            "closed": "00:00"
         },
         "wednesday": {
-            "open": "11:00",
-            "closed": "23:00"
+            "open": "12:00",
+            "closed": "00:00"
         },
         "thursday": {
-            "open": "11:00",
-            "closed": "23:00"
+            "open": "12:00",
+            "closed": "00:00"
         },
         "friday": {
-            "open": "11:00",
-            "closed": "23:00"
+            "open": "12:00",
+            "closed": "00:00"
         },
         "saturday": {
-            "open": "11:00",
-            "closed": "23:00"
+            "open": "12:00",
+            "closed": "00:00"
         },
         "sunday": {
-            "open": "11:00",
-            "closed": "23:00"
+            "open": "12:00",
+            "closed": "00:00"
         }
     },
     "location_details": {
         "rating": {
             "google": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                    "stars": 4.2,
+                    "number_of_reviews": 11,
+                    "recurring_themes": [ ["ambiente", "familia"]
                 ]
             },
             "tripadvisor": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                    "stars": 4.5,
+                    "number_of_reviews": 37,
+                    "recurring_themes": [ ["servicio", "familia"]
                 ]
             },
             "facebook": {
@@ -62,12 +62,12 @@
             }
         },
         "establishment_capacity": "grande",
-        "decoration": "rural",
+        "decoration": "de epoca",
         "festive_decorations": false,
-        "home_uniform": "casual",
+        "home_uniform": "formal",
         "collaboration_for_events": false,
         "type_of_concurrent_clients": ["familias"],
-        "energy_backup": true
+        "energy_backup": false
     },
     "services": {
         "social_networks": {
@@ -76,25 +76,25 @@
                     "url": null
                 }
             ],
-            "facebook": [ true,
-                {
-                    "url": "https://www.facebook.com/groups/470098482168254/"
-                }
-            ],
-            "instagram": [ false,
+            "facebook": [ false,
                 {
                     "url": null
                 }
             ],
-            "whatsapp": "+5359107933"
+            "instagram": [ true,
+                {
+                    "url": "https://www.instagram.com/explore/locations/2262149627338453/dona-almira/"
+                }
+            ],
+            "whatsapp": "+53 5 2713373"
         },
         "child_care": false,
         "disable_support": false,
         "wifi": false,
-        "parking":  true,
-        "delivery": true,
+        "parking":  false,
+        "delivery": false,
         "reserves": true,
-        "rent_from_the_client": true,
+        "rent_from_the_client": false,
         "vip_zone": false,
         "catering": false,
         "interactive_activities": false,
@@ -117,176 +117,4 @@
         },
         "10% charge": false
     },
-    "menu_details": {
-        "kind_of_food": ["panes", "criollas", "variada"],
-        "menu_card": {
-            "menu_sections": {
-                "starters": [
-                    {
-                        "courses": [
-                            {"name": "Croquetas Magic's",
-                            "price": 400.00
-                          },
-                            {"name": "Fritura de Malanga",
-                            "price": 400.00
-                          },
-                            {"name": "Tacos de Pollo",
-                            "price": 700.00
-                          },
-                            {"name": "Tacos de Cerdo",
-                            "price": 800.00
-                          },
-                            {"name": "Fajas de Pollo",
-                            "price": 600.00
-                          },
-                            {"name": "Bolitas de Queso",
-                            "price": 500.00
-                          },
-                            {"name": "Papas Fritas",
-                            "price": 500.00
-                          }
-                        ]
-                    }
-                ],
-              "breads": [
-                {
-                  "courses": [
-                    {"name": "Hamburguesas de Cerdo",
-      "price": 430.00
-    },
-      {"name": "Hamburguesas de Pollo",
-      "price": 430.00
-    },
-      {"name": "Hamburguesas Doble",
-      "price": 1000.00
-    },
-      {"name": "Hamburguesas Super Magic's",
-      "price": 1500.00
-    }
-                  ]
-                }
-              ],
-              "desserts": [
-                {
-                    "courses": [
-                        {"name": "Bola de helado",
-      "price": 70.00
-    },
-      {"name": "Jimaguas",
-      "price": 195.00
-    },
-      {"name": "Ensalada de helado",
-      "price": 350.00
-    },
-      {"name": "Batido de helado",
-      "price": 395.00
-    },
-      {"name": "Tres gracias",
-      "price": 245.00
-    }
-                    ]
-                }
-              ],
-              "liquids": [
-                {
-                    "alcoholic_beverages": [
-                        {
-                            "beers": [
-                                {"name": "Cervezas Importadas",
-      "price": 220.00
-    },
-      {"name": "Cervezaas Nacionales",
-      "price": 300.00
-    }
-                            ],
-                            "wine_glass": [
-                                {"name": "Copa Vino Tinto",
-      "price": 600.00
-    },
-      {"name": "Copa Vino Blanco",
-      "price": 550.00
-    }
-                            ],
-                            "shots": [
-                                {"name": "Havana Club Añejo Reserva",
-      "price": 400.00
-    },
-      {"name": "Havana Club Añejo 3 Años",
-      "price": 350.00
-    },
-      {"name": "Ginebra",
-      "price": 300.00
-    },
-      {"name": "Vodka",
-      "price": 300.00
-    }
-                            ],
-                            "cocktails": [
-                                {"name": "Agrego de Michelada",
-      "price": 250.00
-    },
-      {"name": "Piña Colada sin Alcohol",
-      "price": 500.00
-    },
-      {"name": "Piña Colada con Alcohol",
-      "price": 575.00
-    },
-      {"name": "Cuba Libre",
-      "price": 500.00
-    },
-      {"name": "Mojito",
-      "price": 500.00
-    },
-      {"name": "Botella Label 5",
-      "price": 3500.00
-    },
-      {"name": "JW Red Label",
-      "price": 600.00
-    },
-      {"name": "Ballantine's",
-      "price": 550.00
-    },
-      {"name": "Howells",
-      "price": 300.00
-    },
-      {"name": "Gran Marchell",
-      "price": 300.00
-    },
-      {"name": "Pacto Navio",
-      "price": 700.00
-    }
-                            ]
-                        }
-                    ],
-                    "water": [
-                        {"name": "Agua Mineral Embotellada",
-      "price": 300.00
-    }
-                    ],
-                    "natual_juices": [
-                        {"name": "Limonada Frappe",
-      "price": 250.00
-    }
-                    ],
-                    "soft_drinks": [
-                        {"name": "Malta",
-      "price": 300.00
-    },
-      {"name": "Pepsi",
-      "price": 300.00
-    },
-      {"name": "Refresco de Lata",
-      "price": 210.00
-    }
-                    ],
-                    "coffees": [
-                        {"name": "Café",
-      "price": 100.00
-    }
-                    ]
-                }
-              ]
-            }
-        }    
-    }
 }

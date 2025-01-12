@@ -1,38 +1,122 @@
 {
-    "name": "Doña Almira",
-    "address": "Calle Finlay No.979 % Avenida de Los Pinos y Fernandez de Castro, Arroyo Naranjo",
-    "schedule": {
-      "monday": {"open": null, "close": null},
-      "tuesday": {"open": null, "close": null},
-      "wednesday": {"open": null, "close": null},
-      "thursday": {"open": "12:00", "close": "23:00"},
-      "friday": {"open": "12:00", "close": "23:00"},
-      "saturday": {"open": "12:00", "close": "23:00"},
-      "sunday": {"open": "12:00", "close": "23:00"}
+    "type_of_establishment": "restaurante",
+    "place_name": "Doña Almira",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "76472432",
+        "email": null,
+        "city": "La Habana",
+        "district": "Arroyo Naranjo",
+        "location": "Calle Finlay No.979 % Avenida de Los Pinos y Fernandez de Castro",
+        "coordinates": "23.064168205269176, -82.3756751462734"
     },
-    "contacts" : {
-      "phone_number": "76472432",
-      "mobile" : "52928671",
-      "website": null,
-      "instagram": null,
-      "facebook": null
+    "schedules": {
+        "monday": {
+            "open": null,
+            "closed": null
+        },
+        "tuesday": {
+            "open": null,
+            "closed": null
+        },
+        "wednesday": {
+            "open": null,
+            "closed": null
+        },
+        "thursday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "closed": "23:00"
+        }
     },
-    "type_establishment": "Restaurante",
-    "specialty": ["cubana"],
-    "parking": false,
-    "reservations": true,
-    "payment_methods": {
-      "cash_national": true,
-      "digital_transfer_national": true,
-      "usd_cash": true,
-      "usd_transfer": true,
-      "mlc": true
+    "location_details": {
+        "rating": {
+            "google": {
+                    "stars": 4.6,
+                    "number_of_reviews": 56,
+                    "recurring_themes": [ ["ambiente", "familia"]
+                ]
+            },
+            "tripadvisor": {
+                    "stars": 4.5,
+                    "number_of_reviews": 37,
+                    "recurring_themes": [ ["servicio", "familia"]
+                ]
+            },
+            "facebook": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            }
+        },
+        "establishment_capacity": "grande",
+        "decoration": "de epoca",
+        "festive_decorations": false,
+        "home_uniform": "formal",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": ["familias"],
+        "energy_backup": false
     },
-    "delivery_areas": [
-      null
-    ],
-    "power_generator": false,
-    
+    "services": {
+        "social_networks": {
+            "web_page": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [ true,
+                {
+                    "url": "https://www.instagram.com/explore/locations/2262149627338453/dona-almira/"
+                }
+            ],
+            "whatsapp": "52928671"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "wifi": false,
+        "parking":  false,
+        "delivery": false,
+        "reserves": true,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "catering": false,
+        "interactive_activities": false,
+        "sanitary": true,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer":
+            {
+                "transfermovil": true,
+                "visa": true,
+                "mastercard": true
+            },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": ["variada", "criolla"],
         "menu_card": {
@@ -176,6 +260,5 @@
               ]
             }
         }    
-    },
-    "service_charge_percentage": 0 
+    }
   }

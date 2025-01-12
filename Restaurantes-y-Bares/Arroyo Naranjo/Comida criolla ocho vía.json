@@ -1,38 +1,122 @@
 {
-    "name": "Comida Criolla Ocho Vías",
-    "address": "Avenida 1er Anillo 3km despues de San Agustin, Arroyo Naranjo",
-    "schedule": {
-      "monday": {"open": "11:00", "close": "23:00"},
-      "tuesday": {"open": "11:00", "close": "23:00"},
-      "wednesday": {"open": "11:00", "close": "23:00"},
-      "thursday": {"open": "11:00", "close": "23:00"},
-      "friday": {"open": "11:00", "close": "23:00"},
-      "saturday": {"open": "11:00", "close": "23:00"},
-      "sunday": {"open": "11:00", "close": "23:00"}
+    "type_of_establishment": "restaurante",
+    "place_name": "Comida Criolla Ocho Vías",
+    "property_type": "estatal",
+    "address": {
+        "establishment_phone_number": null,
+        "email": null,
+        "city": "La Habana",
+        "district": "Arroyo Naranjo",
+        "location": "Avenida 1er Anillo 3km despues de San Agustin",
+        "coordinates": "23.052020134627092, -82.33220978650654"
     },
-    "contacts" : {
-      "phone_number": "+5359107933",
-      "mobile" : "",
-      "website": null,
-      "instagram": null,
-      "facebook": null
+    "schedules": {
+        "monday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "closed": "23:00"
+        }
     },
-    "type_establishment": "restaurante",
-    "specialty": ["cubana"],
-    "parking": true,
-    "reservations": true,
-    "payment_methods": {
-      "cash_national": true,
-      "digital_transfer_national": true,
-      "usd_cash": true,
-      "usd_transfer": true,
-      "mlc": true
+    "location_details": {
+        "rating": {
+            "google": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            },
+            "tripadvisor": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            },
+            "facebook": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            }
+        },
+        "establishment_capacity": "grande",
+        "decoration": "rural",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": ["familias"],
+        "energy_backup": true
     },
-    "delivery_areas": [
-        null 
-    ],
-    "power_generator": true ,
-    
+    "services": {
+        "social_networks": {
+            "web_page": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [ true,
+                {
+                    "url": "https://www.facebook.com/groups/470098482168254/"
+                }
+            ],
+            "instagram": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": "+5359107933"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "wifi": false,
+        "parking":  true,
+        "delivery": true,
+        "reserves": true,
+        "rent_from_the_client": true,
+        "vip_zone": false,
+        "catering": false,
+        "interactive_activities": false,
+        "sanitary": true,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer":
+            {
+                "transfermovil": true,
+                "visa": true,
+                "mastercard": true
+            },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": ["variada", "criolla"],
         "menu_card": {
