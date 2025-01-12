@@ -11,7 +11,6 @@
       "coordinates": "23.053002335576295, -82.32702190717127" 
   },
   "schedules": {
-      "Reduced_working_hours_on_public_holidays": null,
       "monday": {
           "open": "10:00",
           "closed": "20:00"
@@ -46,31 +45,21 @@
           "google": {
                   "stars": null,
                   "number_of_reviews": null,
-                  "recurring_themes": [ [null],
-                  {
-                      "for_better_or_worse": null
-                  }
+                  "recurring_themes": [ [null]
               ]
           },
           "tripadvisor": {
                   "stars": null,
                   "number_of_reviews": null,
-                  "recurring_themes": [ [null],
-                  {
-                      "for_better_or_worse": null
-                  }
+                  "recurring_themes": [ [null]
               ]
           },
           "facebook": {
                   "stars": 4.0,
                   "number_of_reviews": 7,
-                  "recurring_themes": [ ["tamales"],
-                  {
-                      "for_better_or_worse": "buenas"
-                  }
+                  "recurring_themes": [ ["tamales"]
               ]
-          },
-          "regularity": true
+          }
       },
       "establishment_capacity": "grande",
       "decoration": "contemporanea",
@@ -78,15 +67,7 @@
       "dress_code": "formal",
       "collaboration_for_events": null,
       "type_of_concurrent_clients": ["familias"],
-      "digital_menus": [ false,
-          {
-              "page_or_application_used": null
-          }
-      ],
-      "robotic": false,
-      "concurrent_music": "variada",
-      "energy_backup": true,
-      "other_services": null
+      "energy_backup": true
   },
   "services": {
       "social_networks": {
@@ -101,11 +82,7 @@
                   "url": "https://www.instagram.com/explore/locations/1727121417357588/la-casa-del-maiz/?hl=am-et"
               }
           ],
-          "whatsapp": null,
-          "X": false,
-          "telegram": false,
-          "Cuban_websites": false,
-          "Threads": false
+          "whatsapp": null
       },
       "child_care": true,
       "disable_support": true,

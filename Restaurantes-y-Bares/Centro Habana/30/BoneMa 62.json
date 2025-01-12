@@ -11,7 +11,6 @@
         "coordinates": "23.13730023968695, -82.35971156518033"
     },
     "schedules": {
-        "Reduced_working_hours_on_public_holidays": true,
         "monday": {
             "open": "09:00",
             "closed": "00:00"
@@ -46,31 +45,21 @@
             "google": {
                     "stars": 4.4,
                     "number_of_reviews": 59,
-                    "recurring_themes": [ ["comida", "precios"],
-                    {
-                        "for_better_or_worse": "buenas"
-                    }
+                    "recurring_themes": [ ["comida", "precios"]
                 ]
             },
             "tripadvisor": {
                     "stars": null,
                     "number_of_reviews": null,
-                    "recurring_themes": [ [null],
-                    {
-                        "for_better_or_worse": null
-                    }
+                    "recurring_themes": [ [null]
                 ]
             },
             "facebook": {
                     "stars": 4.0,
                     "number_of_reviews": 29,
-                    "recurring_themes": [ ["servicio", "comida"],
-                    {
-                        "for_better_or_worse": "variadas"
-                    }
+                    "recurring_themes": [ ["servicio", "comida"]
                 ]
-            },
-            "regularity": false
+            }
         },
         "establishment_capacity": "medio",
         "decoration": "moderno",
@@ -78,15 +67,7 @@
         "dress_code": "casual",
         "collaboration_for_events": false,
         "type_of_concurrent_clients": ["grupos"],
-        "digital_menus": [ false,
-            {
-                "page_or_application_used": null
-            }
-        ],
-        "robotic": false,
-        "concurrent_music": "variada",
-        "energy_backup": false,
-        "other_services": false
+        "energy_backup": false
     },
     "services": {
         "social_networks": {
@@ -105,15 +86,7 @@
                     "url": "https://www.instagram.com/bonema_62/?hl=es"
                 }
             ],
-            "whatsapp": false,
-            "X": false,
-            "telegram": false,
-            "Cuban_websites": [ false,
-                {
-                    "url": null
-                }
-            ],
-            "Threads": false
+            "whatsapp": false
         },
         "child_care": false,
         "disable_support": false,

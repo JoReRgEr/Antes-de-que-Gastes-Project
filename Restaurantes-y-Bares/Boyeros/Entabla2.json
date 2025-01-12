@@ -11,7 +11,6 @@
         "coordinates": "23.00371134098729, -82.39587464808271"
     },
     "schedules": {
-        "Reduced_working_hours_on_public_holidays": true,
         "monday": {
             "open": "10:00",
             "closed": "22:00"
@@ -46,31 +45,22 @@
             "google": {
                     "stars": 4.0,
                     "number_of_reviews": 9,
-                    "recurring_themes": [ ["cerdo"],
-                    {
-                        "for_better_or_worse": "buenas"
-                    }
+                    "recurring_themes": [ ["cerdo"]
                 ]
             },
             "tripadvisor": {
                     "stars": 5.0,
                     "number_of_reviews": 2,
-                    "recurring_themes": [ ["calidad"],
-                    {
-                        "for_better_or_worse": "buenas"
-                    }
+                    "recurring_themes": [ ["calidad"]
                 ]
             },
             "facebook": {
                     "stars": null,
                     "number_of_reviews": null,
-                    "recurring_themes": [ [null],
-                    {
-                        "for_better_or_worse": null
-                    }
+                    "recurring_themes": [ [null]
                 ]
-            },
-            "regularity": true
+            }
+
         },
         "establishment_capacity": "grande",
         "decoration": "rural",
@@ -78,15 +68,7 @@
         "dress_code": "informal",
         "collaboration_for_events": true,
         "type_of_concurrent_clients": ["familias"],
-        "digital_menus": [ false,
-            {
-                "page_or_application_used": null
-            }
-        ],
-        "robotic": false,
-        "concurrent_music": "regueton",
-        "energy_backup": null,
-        "other_services": null
+        "energy_backup": null
     },
     "services": {
         "social_networks": {
@@ -101,11 +83,7 @@
                     "url": "https://www.instagram.com/entablados.habana/"
                 }
             ],
-            "whatsapp": "+53 5 1744817",
-            "X": false,
-            "telegram": false,
-            "Cuban_websites": false,
-            "Threads": false
+            "whatsapp": "+53 5 1744817"
         },
         "child_care": false,
         "disable_support": false,

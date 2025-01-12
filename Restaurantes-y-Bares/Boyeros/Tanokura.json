@@ -11,7 +11,6 @@
         "coordinates": "22.971383805574256, -82.38492268780422"
     },
     "schedules": {
-        "Reduced_working_hours_on_public_holidays": true,
         "monday": {
             "open": "12:00",
             "closed": "00:00"
@@ -46,31 +45,21 @@
             "google": {
                     "stars": 4.1,
                     "number_of_reviews": 18,
-                    "recurring_themes": [ ["variados"],
-                    {
-                        "for_better_or_worse": "buenas"
-                    }
+                    "recurring_themes": [ ["variados"]
                 ]
             },
             "tripadvisor": {
                     "stars": null,
                     "number_of_reviews": null,
-                    "recurring_themes": [ [null],
-                    {
-                        "for_better_or_worse": null
-                    }
+                    "recurring_themes": [ [null]
                 ]
             },
             "facebook": {
                     "stars": 3.0,
                     "number_of_reviews": 6,
-                    "recurring_themes": [ ["variados"],
-                    {
-                        "for_better_or_worse": "buenas"
-                    }
+                    "recurring_themes": [ ["variados"]
                 ]
-            },
-            "regularity": true
+            }
         },
         "establishment_capacity": "grande",
         "decoration": "caribeña",
@@ -78,15 +67,7 @@
         "dress_code": "formal",
         "collaboration_for_events": false,
         "type_of_concurrent_clients": ["familias"],
-        "digital_menus": [ false,
-            {
-                "page_or_application_used": null
-            }
-        ],
-        "robotic": false,
-        "concurrent_music": "variada",
-        "energy_backup": true,
-        "other_services": null
+        "energy_backup": true
     },
     "services": {
         "social_networks": {
@@ -101,15 +82,7 @@
                     "url": "https://www.instagram.com/restaurant_tanokura/"
                 }
             ],
-            "whatsapp": "+53 52921541",
-            "X": false,
-            "telegram": false,
-            "Cuban_websites": [ true,
-                {
-                    "url": "https://www.alamesacuba.com/en/la-habana/restaurant/tanokura/"
-                }
-            ],
-            "Threads": false
+            "whatsapp": "+53 52921541"
         },
         "child_care": false,
         "disable_support": false,

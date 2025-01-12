@@ -11,7 +11,6 @@
         "coordinates": "23.075317641382675, -82.35883888058378"
     },
     "schedules": {
-        "Reduced_working_hours_on_public_holidays": null,
         "monday": {
             "open": "10:00",
             "closed": "23:00"
@@ -46,31 +45,21 @@
             "google": {
                     "stars": 5.0,
                     "number_of_reviews": 3,
-                    "recurring_themes": [ ["servicio"],
-                    {
-                        "for_better_or_worse": "buenas"
-                    }
+                    "recurring_themes": [ ["servicio"]
                 ]
             },
             "tripadvisor": {
                     "stars": null,
                     "number_of_reviews": null,
-                    "recurring_themes": [ [null],
-                    {
-                        "for_better_or_worse": null
-                    }
+                    "recurring_themes": [ [null]
                 ]
             },
             "facebook": {
                     "stars": null,
                     "number_of_reviews": null,
-                    "recurring_themes": [ [null],
-                    {
-                        "for_better_or_worse": null
-                    }
+                    "recurring_themes": [ [null]
                 ]
-            },
-            "regularity": true
+            }
         },
         "establishment_capacity": "chico",
         "decoration": "sport",
@@ -78,15 +67,7 @@
         "dress_code": "informal",
         "collaboration_for_events": false,
         "type_of_concurrent_clients": ["amistades"],
-        "digital_menus": [ false,
-            {
-                "page_or_application_used": null
-            }
-        ],
-        "robotic": false,
-        "concurrent_music": "variada",
-        "energy_backup": false,
-        "other_services": null
+        "energy_backup": false
     },
     "services": {
         "social_networks": {
@@ -101,11 +82,7 @@
                     "url": "https://www.instagram.com/donburguercuba/?hl=es"
                 }
             ],
-            "whatsapp": false,
-            "X": false,
-            "telegram": false,
-            "Cuban_websites": false,
-            "Threads": false
+            "whatsapp": false
         },
         "child_care": false,
         "disable_support": false,

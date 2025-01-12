@@ -11,7 +11,6 @@
         "coordinates": "23.136484050512784, -82.36292479045765"
     },
     "schedules": {
-        "Reduced_working_hours_on_public_holidays": null,
         "monday": {
             "open": "11:00",
             "closed": "23:00"
@@ -46,31 +45,21 @@
             "google": {
                     "stars": 3.4,
                     "number_of_reviews": 9,
-                    "recurring_themes": [ ["comida", "precios"],
-                    {
-                        "for_better_or_worse": "variadas"
-                    }
+                    "recurring_themes": [ ["comida", "precios"]
                 ]
             },
             "tripadvisor": {
                     "stars": null,
                     "number_of_reviews": null,
-                    "recurring_themes": [ [null],
-                    {
-                        "for_better_or_worse": null
-                    }
+                    "recurring_themes": [ [null]
                 ]
             },
             "facebook": {
                     "stars": null,
                     "number_of_reviews": null,
-                    "recurring_themes": [ [null],
-                    {
-                        "for_better_or_worse": null
-                    }
+                    "recurring_themes": [ [null]
                 ]
-            },
-            "regularity": false
+            }
         },
         "establishment_capacity": "medio",
         "decoration": "contemporaneo",
@@ -78,15 +67,7 @@
         "dress_code": "casual",
         "collaboration_for_events": false,
         "type_of_concurrent_clients": ["grupos"],
-        "digital_menus": [ false,
-            {
-                "page_or_application_used": null
-            }
-        ],
-        "robotic": false,
-        "concurrent_music": "variada",
-        "energy_backup": false,
-        "other_services": false
+        "energy_backup": false
     },
     "services": {
         "social_networks": {
@@ -105,15 +86,7 @@
                     "url": null
                 }
             ],
-            "whatsapp": false,
-            "X": false,
-            "telegram": false,
-            "Cuban_websites": [ false,
-                {
-                    "url": null
-                }
-            ],
-            "Threads": false
+            "whatsapp": false
         },
         "child_care": false,
         "disable_support": false,
