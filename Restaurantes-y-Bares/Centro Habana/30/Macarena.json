@@ -64,7 +64,7 @@
         "establishment_capacity": "chico",
         "decoration": "contemporanea",
         "festive_decorations": true,
-        "dress_code": "casual",
+        "home_uniform": "casual",
         "collaboration_for_events": true,
         "type_of_concurrent_clients": ["amistades"],
         "energy_backup": false

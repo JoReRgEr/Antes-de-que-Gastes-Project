@@ -64,7 +64,7 @@
         "establishment_capacity": "grande",
         "decoration": "rural",
         "festive_decorations": null,
-        "dress_code": "casual",
+        "home_uniform": "casual",
         "collaboration_for_events": null,
         "type_of_concurrent_clients": ["familias"],
         "energy_backup": null

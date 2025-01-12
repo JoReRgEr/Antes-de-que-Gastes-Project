@@ -64,7 +64,7 @@
         "establishment_capacity": "media",
         "decoration": "sport",
         "festive_decorations": true,
-        "dress_code": "informal",
+        "home_uniform": "informal",
         "collaboration_for_events": true,
         "type_of_concurrent_clients": ["familias"], 
         "energy_backup": null

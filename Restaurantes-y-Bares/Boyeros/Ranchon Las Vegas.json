@@ -64,7 +64,7 @@
         "establishment_capacity": "grande",
         "decoration": "caribeña",
         "festive_decorations": false,
-        "dress_code": "casual",
+        "home_uniform": "casual",
         "collaboration_for_events": false,
         "type_of_concurrent_clients": ["familias"],
         "energy_backup": false
