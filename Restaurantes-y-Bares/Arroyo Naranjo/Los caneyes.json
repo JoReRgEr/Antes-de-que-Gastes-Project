@@ -1,38 +1,122 @@
 {
-  "name": "Los caneyes",
-  "address": "Calle Martí y Gutierrez, Reparto Electrico, Arroyo Naranjo",
-  "schedule": {
-    "monday": {"open": "12:00", "close": "23:00"},
-    "tuesday": {"open": "12:00", "close": "23:00"},
-    "wednesday":{"open": "12:00", "close": "23:00"},
-    "thursday": {"open": "12:00", "close": "23:00"},
-    "friday": {"open": "12:00", "close": "23:00"},
-    "saturday": {"open": "12:00", "close": "23:00"},
-    "sunday": {"open": "12:00", "close": "23:00"}
-	},
-	"contacts" : {
-		"phone_number": null,
-    "mobile" : null,
-    "website": null,
-    "instagram": null,
-    "facebook": null
-	},
-  "type_establishment": "Restaurante",
-  "specialty": ["cubana"],
-  "parking": true,
-  "reservations": false,
-  "payment_methods": {
-    "cash_national": true,
-    "digital_transfer_national": true,
-    "usd_cash": false,
-    "usd_transfer": false,
-    "mlc": false
-	},
-  "delivery_areas": [
-		null
-	],
-  "power_generator": true ,
-	
+  "type_of_establishment": "restaurante",
+    "place_name": "Los Caneyes",
+    "property_type": "estatal",
+    "address": {
+        "establishment_phone_number": null,
+        "email": null,
+        "city": "La Habana",
+        "district": "Arroyo Naranjo",
+        "location": "Calle Martí y Gutierrez, Reparto Electrico",
+        "coordinates": "23.04780196038426, -82.3327761370799"
+    },
+    "schedules": {
+        "monday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "sunday": {
+           "open": "12:00",
+            "closed": "23:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            },
+            "tripadvisor": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            },
+            "facebook": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": ["grupos"],
+        "energy_backup": true
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": false
+        },
+        "child_care": false,
+        "disable_support": false,
+        "wifi": false,
+        "parking":  false,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "catering": false,
+        "interactive_activities": false,
+        "sanitary": true,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer":
+            {
+                "transfermovil": true,
+                "visa": false,
+                "mastercard": false
+            },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": ["italiana", "criollas", "variada"],
         "menu_card": {
@@ -252,6 +336,5 @@
               ]
             }
         }    
-    },
-	"service_charge_percentage": 0
+    }
 }

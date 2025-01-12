@@ -1,38 +1,121 @@
 {
-  "name": "Fiesta Criolla",
-  "address": ", Arroyo Naranjo",
-  "schedule": {
-    "monday": {"open": "12:00", "close": "24:00"},
-    "tuesday": {"open": "12:00", "close": "24:00"},
-    "wednesday": {"open": "12:00", "close": "24:00"},
-    "thursday": {"open": "12:00", "close": "24:00"},
-    "friday": {"open": "12:00", "close": "24:00"},
-    "saturday": {"open": "12:00", "close": "24:00"},
-    "sunday": {"open": "12:00", "close": "24:00"}
-  },
-  "contacts":{
-    "phone_number": null,
-    "mobile": "52413555",
-    "website": null,
-    "instagram": null,
-    "facebook": null
-  },
-  "type_establishment": "Restaurante",
-  "specialty": ["cubana"],
-  "parking": true,
-  "reservations": false,
-  "payment_methods": {
-    "cash_national": true,
-    "digital_transfer_national": false,
-    "usd_cash": false,
-    "usd_transfer": false,
-    "mlc": false
-  },
-  "delivery_areas": [
-    null
-  ],
-  "power_generator": true,
-  
+ "type_of_establishment": "restaurante",
+    "place_name": "Fiesta Criolla",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "email": null,
+        "city": "La Habana",
+        "district": "Arroyo Naranjo",
+        "location": "Calle 100 #1003 (después del puente de calabazar)",
+        "coordinates": "23.045798685030046, -82.37124679490715"
+    },
+    "schedules": {
+        "monday": {
+            "open": "12:00",
+            "closed": "00:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "closed": "00:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "closed": "00:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "closed": "00:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "closed": "00:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "closed": "00:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "closed": "00:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                    "stars": 4.2,
+                    "number_of_reviews": 11,
+                    "recurring_themes": [ [null]
+                ]
+            },
+            "tripadvisor": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            },
+            "facebook": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            }
+        },
+        "establishment_capacity": "grande",
+        "decoration": "rural",
+        "festive_decorations": false,
+        "home_uniform": "informal",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": ["grupos"],
+        "energy_backup": true
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [ true,
+                {
+                    "url": "https://www.facebook.com/RestaurantFiestaCriolla?locale=es_LA"
+                }
+            ],
+            "instagram": [ true,
+                {
+                    "url": "https://www.instagram.com/fiestacriollaconcordia/"
+                }
+            ],
+            "whatsapp": "+53 5 2713373"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "wifi": false,
+        "parking":  true,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "catering": false,
+        "interactive_activities": false,
+        "sanitary": true,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer":
+            {
+                "transfermovil": true,
+                "visa": false,
+                "mastercard": false
+            },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false,
     "menu_details": {
         "kind_of_food": ["variada", "criolla"],
         "menu_card": {
@@ -177,6 +260,6 @@
               ]
             }
         }    
-    },
-  "service_charge_percentage": 0
+    }
+}
 }

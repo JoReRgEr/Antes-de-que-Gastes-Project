@@ -1,51 +1,122 @@
 {
-    "name": "Pizzeria Los Atrevidos",
-    "address": "Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra, Arroyo Naranjo",
-    "schedule": {
-      "monday": {"open": "10:00", "close": "21:00"},
-      "tuesday": {"open": "10:00", "close": "21:00"},
-      "wednesday": {"open": "10:00", "close": "21:00"},
-      "thursday": {"open": "10:00", "close": "21:00"},
-      "friday": {"open": "10:00", "close": "21:00"},
-      "saturday": {"open": "10:00", "close": "21:00"},
-      "sunday": {"open": "10:00", "close": "21:00"}
+    "type_of_establishment": "restaurante",
+    "place_name": "Pizzeria Los Atrevidos",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "+53 7 6470313",
+        "email": "losatrevidos39@gmail.com",
+        "city": "La Habana",
+        "district": "Arroyo Naranjo",
+        "location": "Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra",
+        "coordinates": "23.062462438569415, -82.36384519148983"
     },
-    "contacts" : {
-      "phone_number": "76470313",
-      "mobile" : "52966948",
-      "website": "https://atrevidospizzeria.com/",
-      "instagram": null,
-      "facebook": "https://www.facebook.com/pizzerialosatrevidos"
+    "schedules": {
+        "monday": {
+            "open": "10:00",
+            "closed": "21:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "closed": "21:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "closed": "21:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "closed": "21:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "closed": "21:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "closed": "21:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "closed": "21:00"
+        }
     },
-    "type_establishment": "Cafeteria",
-    "specialty": ["Italiana"],
-    "parking": true,
-    "reservations": false,
-    "payment_methods": {
-      "cash_national": true,
-      "digital_transfer_national": true,
-      "usd_cash": true,
-      "usd_transfer": true,
-      "mlc": true
+    "location_details": {
+        "rating": {
+            "google": {
+                    "stars": 4.4,
+                    "number_of_reviews": 42,
+                    "recurring_themes": [ ["servicio"]
+                ]
+            },
+            "tripadvisor": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            },
+            "facebook": {
+                    "stars": 4.5,
+                    "number_of_reviews": 49,
+                    "recurring_themes": [ ["servicio"]
+                ]
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "moderna",
+        "festive_decorations": true,
+        "home_uniform": "informal",
+        "collaboration_for_events": true,
+        "type_of_concurrent_clients": ["grupos"],
+        "energy_backup": true
     },
-    "delivery_areas": [
-      "Arroyo Naranjo",
-      "Boyeros",
-      "Cerro",
-      "Cotorro",
-      "Diez de Octubre",
-      "Guanabacoa",
-      "Habana del este",
-      "Habana Vieja",
-      "La Lisa",
-      "Marianao",
-      "Playa",
-      "Plaza de la Revolucion",
-      "Regla",
-      "San Miguel del Padron"
-    ],
-    "power_generator": true ,
-    
+    "services": {
+        "social_networks": {
+            "web_page": [ true,
+                {
+                    "url": "https://atrevidospizzeria.com/"
+                }
+            ],
+            "facebook": [ true,
+                {
+                    "url": "https://www.facebook.com/@pizzerialosatrevidos/"
+                }
+            ],
+            "instagram": [ true,
+                {
+                    "url": "https://www.instagram.com/explore/locations/100657257954425/pizzeria-los-atrevidos/"
+                }
+            ],
+            "whatsapp": "52966948"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "wifi": false,
+        "parking":  true,
+        "delivery": true,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": true,
+        "catering": false,
+        "interactive_activities": true,
+        "sanitary": true,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer":
+            {
+                "transfermovil": true,
+                "visa": true,
+                "mastercard": true
+            },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": ["italiana"],
         "menu_card": {
@@ -151,6 +222,5 @@
               ]
             }
         }    
-    },
-        "service_charge_percentage": 0
+    }
   }

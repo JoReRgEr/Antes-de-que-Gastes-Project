@@ -1,38 +1,122 @@
 {
-  "name": "Magic's Cream & Burguer",
-  "address": "Calzada de 10 de Octubre, % Santa Amalia y Arnao, Arroyo Naranjo",
-  "schedule": {
-    "monday": {"open": "11:00", "close": "22:00"},
-    "tuesday": {"open": "11:00", "close": "22:00"},
-    "wednesday": {"open": "11:00", "close": "22:00"},
-    "thursday": {"open": "11:00", "close": "22:00"},
-    "friday": {"open": "11:00", "close": "22:00"},
-    "saturday": {"open": "11:00", "close": "22:00"},
-    "sunday": {"open": "11:00", "close": "22:00"}
-  },
-  "contacts" : {
-    "phone_number": null,
-    "mobile" : null,
-    "website": null,
-    "instagram": null,
-    "facebook": null
-  },
-  "type_establishment": "Cafeteria",
-  "specialty": ["comida rapida"],
-  "parking": false,
-  "reservations": false,
-  "payment_methods": {
-    "cash_national": true,
-    "digital_transfer_national": true,
-    "usd_cash": false,
-    "usd_transfer": false,
-    "mlc": false
-  },
-  "delivery_areas": [
-    null
-  ],
-  "power_generator": false ,
-  
+  "type_of_establishment": "restaurante",
+    "place_name": "Magics Cream & Burguer",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "email": null,
+        "city": "La Habana",
+        "district": "Arroyo Naranjo",
+        "location": "Calzada de 10 de Octubre, % Santa Amalia y Arnao",
+        "coordinates": "23.07926611306241, -82.36208287429075"
+    },
+    "schedules": {
+        "monday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "sunday": {
+           "open": "11:00",
+            "closed": "22:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            },
+            "tripadvisor": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            },
+            "facebook": {
+                    "stars": null,
+                    "number_of_reviews": null,
+                    "recurring_themes": [ [null]
+                ]
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "informal",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": ["grupos"],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [ false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": false
+        },
+        "child_care": false,
+        "disable_support": false,
+        "wifi": false,
+        "parking":  false,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "catering": false,
+        "interactive_activities": false,
+        "sanitary": true,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer":
+            {
+                "transfermovil": true,
+                "visa": false,
+                "mastercard": false
+            },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": ["panes", "criollas", "variada"],
         "menu_card": {
@@ -204,6 +288,5 @@
               ]
             }
         }    
-    },
-  "service_charge_percentage": 0
+    }
 }
