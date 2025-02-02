@@ -1,0 +1,119 @@
+{
+    "general_info": {
+        "name":"Buena Vibra",
+        "township": "San Miguel del Padrón",
+        "adress":null,
+        "local":"cafeteria",
+        "open":"1200",
+        "close":"2200",
+        "days_of_week":["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+        "sector":"privado",
+        "capability":20,
+        "social_network":[],
+        "years": 3
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":true,
+        "tips_included":false,
+        "delivery":false 
+    },
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla", "italiana"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name": ["croquetas"],
+               "price": 400
+              },
+              {
+                "name": ["fritura de malanga"],
+                "price": 400
+              },
+              {
+                "name": ["vianda frita"],
+                "price": 300
+              },
+              {
+                "name": ["tostones tradicionales"],
+                "price": 300
+              },
+              {
+                "name": ["tostones rellenos"],
+                "price": 500
+              }
+                  ]
+                }
+              ],
+              "breads": [
+                {
+                  "courses": [
+                    {
+                      "name": ["hamburguesa de pollo"],
+                      "price": 300
+                    }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                    "courses": [
+                      {
+                        "name": ["bistec de pollo"],
+                        "price": 850
+                      },
+                      {
+                        "name": ["bistec de pollo empanado"],
+                        "price": 900
+                      },
+                      {
+                        "name": ["hígado de cerdo"],
+                        "price": 800
+                      },
+                      {
+                        "name": ["lomo ahumado"],
+                        "price": 900
+                      },
+                      {
+                        "name": ["bistec de cerdo"],
+                        "price": 900
+                      },
+                      {
+                        "name": ["pechuga de pollo"],
+                        "price": 900
+                      }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {
+                      "name": ["espaguetti con queso"],
+                      "price": 400
+                    },
+                    {
+                      "name": ["espaguetti de jamón"],
+                      "price": 550
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
+    },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":false,
+        "entertainment":[],
+        "peak_hour":["comida"],
+        "tourism":false,
+        "pets":false,
+        "bathroom":true,
+        "heated":false
+    }
+}

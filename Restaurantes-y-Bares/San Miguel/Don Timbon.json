@@ -1,0 +1,102 @@
+{
+    "general_info": {
+        "name":"Don Timbon",
+        "township": "San Miguel del Padrón",
+        "adress":null,
+        "local":"cafeteria",
+        "open":"0900",
+        "close":"2200",
+        "days_of_week":["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
+        "sector":"privado",
+        "capability":12,
+        "social_network":[],
+        "years": 6
+
+        
+    },
+    "economy": {
+        "payment_methods":["efectivo","transferencia"],
+        "online_reservation":false,
+        "tips_included":false,
+        "delivery":false 
+    },
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla", "italiana"],
+        "menu_card": {
+            "menu_sections": {
+              "breads": [
+                {
+                  "courses": [
+                    {
+                      "name":["hamburguesa sencilla"],
+                "price":350
+              },
+              {
+                "name":["pan con bistec"],
+                "price":550
+              }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                    "courses": [
+                      {
+                        "name":["arroz salteado"],
+                "price":500
+              }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+                    {
+                      "name":["lasaña"],
+                "price":550
+              },
+              {
+                "name":["espaguetti"],
+          "price":300
+        }
+                  ]
+                }
+              ],
+              "pizzas": [
+                {
+                  "courses": [
+                    {
+                      "name":["pizza napolitana"],
+                "price":160
+              }
+                  ]
+                }
+              ],
+              "rations": [
+                    {
+                      "name":["jamón"],
+                "price":80
+              },
+              {
+                "name":["chorizo"],
+          "price":100
+        },
+        {
+          "name":["atún"],
+    "price":100
+  }
+                  ]
+            }
+        }    
+    },
+    "social": {
+        "kids_seat":false,
+        "blackout_alternatives":false,
+        "entertainment":[],
+        "peak_hour":["almuerzo"],
+        "tourism":false,
+        "pets":true,
+        "bathroom":true,
+        "heated":false
+    }
+}

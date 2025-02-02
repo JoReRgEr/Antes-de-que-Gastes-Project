@@ -23,8 +23,7 @@
     "food": {
         "menu": {
             "appetizers":{
-                "appetizers_list":["croquetas de queso","frituras de malanga","tostones rellenos","eperlan","dedos de pollo","coctel de camaron","camaron rebozado","crema de queso","crema aurora","crema virginia","crema de camaron","surtido KY13"],
-                "appetizers_price":[600,600,700,1300,1000,1300,1200,850,550,800,900,4000]
+                
             },
             "garnishes":{
                 "garnishes_list":["arroz blanco","arroz moro","vianda frita","ensalada mixta"],
