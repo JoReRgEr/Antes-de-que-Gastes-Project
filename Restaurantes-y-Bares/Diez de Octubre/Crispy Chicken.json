@@ -37,49 +37,76 @@
     "Parking":true,
     "Wifi":false,
     "Smoking area":true,
-    "Menu card":{
-        "Starters":[
-            {"Plate":"Mini Hot Dog",
-            "Price":300},
-            {"Plate":"Flamenquin",
-            "Price":1000},
-            {"Plate":"San Jacobo",
-            "Price":1000},
-            {"Plate":"Tostones rellenos",
-            "Price":800},
-            {"Plate":"Entremes de jamon y queso",
-            "Price":1200},
-            {"Plate":"Picadera de la casa",
-            "Price":2500},
-            {"Plate":"Chips de boniato",
-            "Price":500}
-        ],
-        "Main course":[
-            {"Plate":"Pollo frito",
-            "Price":1300},
-            {"Plate":"Pollo chiflado",
-            "Price":1600},
-            {"Plate":"Pollo chiflado sin hueso",
-            "Price":1800},
-            {"Plate":"Pollo relleno de jamon y queso",
-            "Price":2000},
-            {"Plate":"Nuggets de pollo",
-            "Price":1000},
-            {"Plate":"Sandwich de pollo",
-            "Price":900}
-        ],
-        "Additionals":null,
-        "Siders":null,
-        "Drinks":[
-            {"Type":"Batido de helado",
-            "Price":1000},
-            {"Type":"Malteada",
-            "Price":900},
-            {"Type":"Jugo natural",
-            "Price":400},
-            {"Type":"Vaca Negra",
-            "Price":800}
-        ],
-        "Desserts":null
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name":"Mini Hot Dog",
+                  "price":300
+                  },
+                  {
+                      "name":"Flamenquin",
+                  "price":1000
+                  },
+                  {
+                      "name":"San Jacobo",
+                  "price":1000
+                  },
+                  {
+                      "name":"Tostones rellenos",
+                  "price":800
+                  },
+                  {
+                      "name":"Entremes de jamon y queso",
+                  "price":1200
+                  },
+                  {
+                      "name":"Picadera de la casa",
+                  "price":2500
+                  },
+                  {
+                      "name":"Chips de boniato",
+                  "price":500
+                  }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                    "courses": [
+                      {
+                        "name":"Pollo frito",
+                    "price":1300
+                    },
+                    {
+                        "name":"Pollo chiflado",
+                    "price":1600
+                    },
+                    {
+                        "name":"Pollo chiflado sin hueso",
+                    "price":1800
+                    },
+                    {
+                        "name":"Pollo relleno de jamon y queso",
+                    "price":2000
+                    },
+                    {
+                        "name":"Nuggets de pollo",
+                    "price":1000
+                    },
+                    {
+                        "name":"Sandwich de pollo",
+                    "price":900
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
     }
 }
