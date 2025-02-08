@@ -61,48 +61,48 @@
                 {
                   "courses": [
                     {
-                        "": "Ensalada Fría de Jamón",
+                        "name": "Ensalada Fría de Jamón",
                         "price": 450.00
                     },
                     {
-                        "": "Ensalada Fría de Atún",
+                        "name": "Ensalada Fría de Atún",
                         "price": 500.00
                 
                     },
                     {
-                        "": "Croquetas",
+                        "name": "Croquetas",
                         "price": 200.00
                     },
                     {
-                        "": "Fajitas",
+                        "name": "Fajitas",
                         "price": 500.00
                     },
                     {
-                        "": "Tostón relleno de Jamón",
+                        "name": "Tostón relleno de Jamón",
                         "price": 450.00
                     },
                     {
-                        "": "Tostón relleno de Atún",
+                        "name": "Tostón relleno de Atún",
                         "price": 450.00
                     },
                     {
-                        "": "Costillas",
+                        "name": "Costillas",
                         "price": 800.00
                     },
                     {
-                        "": "Cóctel de Camarón",
+                        "name": "Cóctel de Camarón",
                         "price": 700.00
                     },
                     {
-                        "": "Garbanzo Frito",
+                        "name": "Garbanzo Frito",
                         "price": 400.00
                     },
                     {
-                        "": "Eperlan",
+                        "name": "Eperlan",
                         "price": 600.00
                     },
                     {
-                        "": "Entremés",
+                        "name": "Entremés",
                         "price": 800.00
                     }
                   ]
@@ -112,59 +112,59 @@
                 {
                   "courses": [
                     {
-                        "": "Pollo Grille",
+                        "name": "Pollo Grille",
                         "price": 1100.00
                       },
                       {
-                        "": "Masa de Cerdo",
+                        "name": "Masa de Cerdo",
                         "price": 1600.00
                       },
                       {
-                        "": "Cerdo a la Milanesa",
+                        "name": "Cerdo a la Milanesa",
                         "price": 1400.00
                       },
                       {
-                        "": "Bistec de Cerdo",
+                        "name": "Bistec de Cerdo",
                         "price": 1300.00
                       },
                       {
-                        "": "Bistec de Res",
+                        "name": "Bistec de Res",
                         "price": 1300.00
                       },
                       {
-                        "": "Ropa Vieja",
+                        "name": "Ropa Vieja",
                         "price": 1600.00
                       },
                       {
-                        "": "Camarones Enchilados",
+                        "name": "Camarones Enchilados",
                         "price": 1300.00
                       },
                       {
-                        "": "Camarones al Ajillo",
+                        "name": "Camarones al Ajillo",
                         "price": 1300.00
                       },
                       {
-                        "": "Camarones Grille",
+                        "name": "Camarones Grille",
                         "price": 1200.00
                       },
                       {
-                        "": "Camarones Rebosados",
+                        "name": "Camarones Rebosados",
                         "price": 1300.00
                       },
                       {
-                        "": "Enchilado de Langosta",
+                        "name": "Enchilado de Langosta",
                         "price": 1400.00
                       },
                       {
-                        "": "Langosta Grille",
+                        "name": "Langosta Grille",
                         "price": 1300.00
                       },
                       {
-                        "": "Pescado Grille",
+                        "name": "Pescado Grille",
                         "price": 1400.00
                       },
                       {
-                        "": "Marinada al Pavo",
+                        "name": "Marinada al Pavo",
                         "price": 2500.00
                     }
                   ]
@@ -174,35 +174,35 @@
                 {
                     "courses": [
                         {
-                            "": "Pizza Napolitana",
+                            "name": "Pizza Napolitana",
                             "price": 600.00
                           },
                           {
-                            "": "Pizza de Vegetales",
+                            "name": "Pizza de Vegetales",
                             "price": 650.00
                           },
                           {
-                            "": "Pizza de Jamón",
+                            "name": "Pizza de Jamón",
                             "price": 800.00
                           },
                           {
-                            "": "Pizza de Chorizo",
+                            "name": "Pizza de Chorizo",
                             "price": 800.00
                           },
                           {
-                            "": "Pizza Hawaiana",
+                            "name": "Pizza Hawaiana",
                             "price": 850.00
                           },
                           {
-                            "": "Pizza de Carne",
+                            "name": "Pizza de Carne",
                             "price": 800.00
                           },
                           {
-                            "": "Pizza de Camarones",
+                            "name": "Pizza de Camarones",
                             "price": 1000.00
                           },
                           {
-                            "": "Pizza Especial 'El Pavo' ",
+                            "name": "Pizza Especial 'El Pavo' ",
                             "price": 1500.00
                           }
                     ]
@@ -212,35 +212,35 @@
                 {
                     "courses": [
                         {
-                            "": "Espaguetis Napolitano",
+                            "name": "Espaguetis Napolitano",
                             "price": 600.00
                           },
                           {
-                            "": "Espaguetis con Jamón",
+                            "name": "Espaguetis con Jamón",
                             "price": 800.00
                           },
                           {
-                            "": "Espaguetis Boloñesa",
+                            "name": "Espaguetis Boloñesa",
                             "price": 800.00
                           },
                           {
-                            "": "Espaguetis con Camarones",
+                            "name": "Espaguetis con Camarones",
                             "price": 1000.00
                           },
                           {
-                            "": "Espaguetis con Atún",
+                            "name": "Espaguetis con Atún",
                             "price": 950.00
                           },
                           {
-                            "": "Espaguetis con Bacon",
+                            "name": "Espaguetis con Bacon",
                             "price": 800.00
                           },
                           {
-                            "": "Lasagna de Jamón",
+                            "name": "Lasagna de Jamón",
                             "price": 800.00
                           },
                           {
-                            "": "Lasagna de Carne",
+                            "name": "Lasagna de Carne",
                             "price": 900.00
                           }
                     ]
@@ -250,7 +250,7 @@
                 {
                     "courses": [
                         {
-                            "": "Flan de Leche",
+                            "name": "Flan de Leche",
                             "price": 180.00
                           }
                     ]
@@ -262,15 +262,15 @@
                         {
                             "beers": [
                                 {
-                                    "": "Cerveza Nacional",
+                                    "name": "Cerveza Nacional",
                                     "price": 250.00
                                 },
                                 {
-                                    "": "Cerveza Nacional",
+                                    "name": "Cerveza Nacional",
                                     "price": 200.00
                                 },
                                 {
-                                    "": "Cerveza Corona",
+                                    "name": "Cerveza Corona",
                                     "price": 300.00
                                 }
                             ]
@@ -278,35 +278,35 @@
                     ],
                     "water": [
                         {
-                            "": "Agua Natural",
+                            "name": "Agua Natural",
                             "price": 180.00
                         },
                         {
-                            "": "Agua Gaseada",
+                            "name": "Agua Gaseada",
                             "price": 180.00
                         }
                     ],
                     "natual_juices": [
                         {
-                            "": "Jugo(Cajita)",
+                            "name": "Jugo(Cajita)",
                             "price": 180.00
                         }
                     ],
                     "soft_drinks": [
                         {
-                            "": "Refresco Nacional",
+                            "name": "Refresco Nacional",
                             "price": 225.00
                         },
                         {
-                            "": "Refresco Importado",
+                            "name": "Refresco Importado",
                             "price": 260.00
                         },
                         {
-                            "": "Malta Importada",
+                            "name": "Malta Importada",
                             "price": 225.00
                         },
                         {
-                            "": "Malta HyperMalt",
+                            "name": "Malta HyperMalt",
                             "price": 260.00
                         }
                     ]
