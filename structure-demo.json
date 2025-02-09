@@ -118,82 +118,40 @@
         "10% charge": true
     },
     "menu_details": {
-        "kind_of_food": ["variada", "criolla", "italiana"],
+        "kind_of_food": ["variada", "criolla"],
         "menu_card": {
             "menu_sections": {
               "starters": [
                 {
                   "courses": [
                     {
-                      "name": "Coctel de Camarones en lecho de vegetales", 
-                    "price": 1650 
-                    },
+                      "name": ["Ensalada Fria"],
+                    "price": 400
+                  },
                     {
-                      "name": "Carpaccio", 
-                    "price": 3000 
-                    },
+                      "name": ["Coctel de Camarones"],
+                    "price": 950
+                  },
                     {
-                      "name": "Tabla de Jamón Serrano y Queso", 
-                    "price": 3125 
-                    },
+                      "name": ["Fritura de Malanga"],
+                    "price": 470
+                  },
                     {
-                      "name": "Croquetas de la casa", 
-                    "price": 825 
-                    },
+                      "name": ["Toston con mojo"],
+                    "price": 470
+                  },
                     {
-                      "name": "Brusquetas", 
-                    "price": 875 
-                    },
+                      "name": ["Chicharritas"],
+                    "price": 380
+                  },
                     {
-                      "name": "Napoleón de Berenjenas", 
-                    "price": 750 
-                    },
+                      "name": ["Papa frita"],
+                    "price": 370
+                  },
                     {
-                      "name": "Seviche de Pescado en vinagreta de cachucha y culantro", 
-                    "price": 2000 
-                    },
-                    {
-                      "name": "Eperlàn", 
-                    "price": 1125 
-                    },
-                    {
-                      "name": "Tamales criollos", 
-                    "price": 350 
-                    },
-                    {
-                      "name": "Cesta de Pan", 
-                    "price": 875 
-                    },
-                    {
-                      "name": "Ensalada Caprese", 
-                    "price": 1125
-                     }
-                  ]
-                }
-              ],
-              "breads": [
-                {
-                  "courses": [
-                    {
-                      "name": "Sandwich de Queso", 
-                    "price": 1450 
-                    },
-                    {
-                      "name": "Sandwich de Jamón y Queso", 
-                    "price": 1750 
-                    },
-                    {
-                      "name": "Sandwich Cubano", 
-                    "price": 2075 
-                    },
-                    {
-                      "name": "Sandwich de Atún", 
-                    "price": 1500 
-                    },
-                    {
-                      "name": "Sandwich de Pechuga de Pollo", 
-                    "price": 2000 
-                    }
+                      "name": ["Toston Relleno"],
+                    "price": 700
+                  }
                   ]
                 }
               ],
@@ -201,147 +159,145 @@
                 {
                   "courses": [
                     {
-                      "name": "Ensalada Catalana", 
-                    "price": 1500 
-                    },
+                      "name": ["Masa frita de Cerdo"],
+                    "price": 2030
+                  },
                     {
-                      "name": "Ensalada Silvestre", 
-                    "price": 1625 
-                    },
+                      "name": ["Fricase de cerdo"],
+                    "price": 2030
+                  },
                     {
-                      "name": "Paella del mar", 
-                    "price": 2500 
-                    },
+                      "name": ["Bistec de Cerdo Grille"],
+                    "price": 1400
+                  },
                     {
-                      "name": "Paella de la Tierra", 
-                    "price": 2125 
-                    },
+                      "name": ["Bistec de Cerdo Uruguayo"],
+                    "price": 2050
+                  },
                     {
-                      "name": "Paella Mar y Tierra", 
-                    "price": 2675 
-                    },
+                      "name": ["Bistec de Cerdo Empanado"],
+                    "price": 1600
+                  },
                     {
-                      "name": "Risotto al Pesto", 
-                    "price": 1625 
-                    },
+                      "name": ["Bistec de Cerdo al graten"],
+                    "price": 1600
+                  },
                     {
-                      "name": "Risotto de Mariscos", 
-                    "price": 2750
-                     },
+                      "name": ["Bistec de Cerdo a la reina"],
+                    "price": 1700
+                  },
                     {
-                      "name": "Pechuga de pollo a la Parmesana", 
-                    "price": 2750 
-                    },
+                      "name": ["Vaca Frita"],
+                    "price": 2820
+                  },
                     {
-                      "name": "Pechuga de pollo embardada", 
-                    "price": 3000 
-                    },
+                      "name": ["Ropa Vieja"],
+                    "price": 2850
+                  },
                     {
-                      "name": "Vaca Frita", 
-                    "price": 2125 
-                    },
+                      "name": ["Pechuga"],
+                    "price": 1440
+                  },
                     {
-                      "name": "Ropa Vieja", 
-                    "price": 2125 
-                    },
+                      "name": ["Pechuga grille"],
+                    "price": 1530
+                  },
                     {
-                      "name": "Solomillo de Res en Salsa Demiglas", 
-                    "price": 3750 
-                    },
+                      "name": ["Pechuga empanada"],
+                    "price": 1520
+                  },
                     {
-                      "name": "Cerdo Asado", 
-                    "price": 2375 
-                    },
+                      "name": ["Pechuga al graten"],
+                    "price": 1580
+                  },
                     {
-                      "name": "Tacos de Pollo en Salsa Barbecue", 
-                    "price": 1500 
-                    },
+                      "name": ["Pechuga a la reina"],
+                    "price": 1780
+                  },
                     {
-                      "name": "Montadito de Tamal", 
-                    "price": 1125 
-                    },
+                      "name": ["Gordon Blue"],
+                    "price": 1600
+                  },
                     {
-                      "name": "Camarones enchilados", 
-                    "price": 2800 
-                    },
+                      "name": ["Filete de Pescado Grille"],
+                    "price": 1800
+                  },
                     {
-                      "name": "Camarones al ajillo", 
-                    "price": 2950 
-                    },
+                      "name": ["Filete de Pescado Empanado"],
+                    "price": 1800
+                  },
                     {
-                      "name": "Filete de pescado grille", 
-                    "price": 2500 
-                    },
+                      "name": ["Filete de pescado al graten"],
+                    "price": 2000
+                  },
                     {
-                      "name": "Filete de Pescado en Salsa Verde", 
-                    "price": 2750 
-                    },
+                      "name": ["Canciller"],
+                    "price": 2450
+                  },
                     {
-                      "name": "Filete de Pescado John-Bill", 
-                    "price": 3125 
-                    },
+                      "name": ["Filete Don Martin"],
+                    "price": 2000
+                  },
                     {
-                      "name": "Grillada del Mar", 
-                    "price": 5250
-                     }
+                      "name": ["Camaron Enchilado"],
+                    "price": 2000
+                  },
+                    {
+                      "name": ["Camaron al ajillo"],
+                    "price": 2100
+                  },
+                    {
+                      "name": ["Camaron Rebosado"],
+                    "price": 3600
+                  },
+                    {
+                      "name": ["Langosta al ajillo"],
+                    "price": 3650
+                  },
+                    {
+                      "name": ["Langosta Enchilado"],
+                    "price": 1810
+                  },
+                    {
+                      "name": ["Chilindron de Cordero"],
+                    "price": 900
+                  },
+                    {
+                      "name": ["Pan con Hamburguesa"],
+                    "price": 1280
+                  }
                   ]
                 }
               ],
-              "rations": [
+              "liquids": [
                 {
-                  "name": "Arroz", 
-                "price": 250 
-                },
-                {
-                  "name": "Arroz moro", 
-                "price": 375 
-                },
-                {
-                  "name": "Vegetales Salteados en aceite de Oliva", 
-                "price": 575 
-                },
-                {
-                  "name": "Ensalada de vegetales frescos", 
-                "price": 625
-                 }
-              ],
-              "pastas": [
-                {
-                  "courses": [
+                  "soft_drinks": [
                     {
-                      "name": "Carbonara", 
-                    "price": 2050 
-                    },
+                      "name": ["Refresco de Lata"],
+                    "price": 220
+                  },
+{
+  "name": ["Malta Caribia"],
+"price": 230
+},
+{
+  "name": ["Refresco Manzanita"],
+"price": 290
+},
+{
+  "name": ["Seven-up"],
+"price": 240
+},
+{
+  "name": ["Pinita"],
+"price": 225
+}
+                  ],
+                  "water": [
                     {
-                      "name": "Tomate y Albahaca", 
-                    "price": 1200 
-                    },
-                    {
-                      "name": "Frutti di Mare", 
-                    "price": 3000 
-                    },
-                    {
-                      "name": "Al Pesto", 
-                    "price": 1500 
-                    },
-                    {
-                      "name": "Amatriciana", 
-                    "price": 1875 
-                    }
-                  ]
-                }
-              ],
-              "desserts": [
-                {
-                  "courses": [
-                    {
-                      "name": "Copa de Helado", 
-                    "price": 925 
-                    },
-                    {
-                      "name": "Tarta Fría de Chocolate", 
-                    "price": 875
-                     }
+                      "name": "Agua", 
+                    "price": 180
+                  }
                   ]
                 }
               ]

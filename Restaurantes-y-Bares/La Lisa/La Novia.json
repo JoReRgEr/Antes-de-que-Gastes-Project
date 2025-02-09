@@ -1,45 +1,325 @@
 {    "name" : "La Novia",
     "location" : "lisa",
     "specialty" : ["Caribbean"],
-    "menu" : {
-        "entree" :
-        { 
-        "item" : ["Croquetas de la Casa", "Frituras de Malanga", "Bolitas de yuca y queso", "Fajitas de cerdo", "Fajitas de pollo", "Picadera Mixta", "Chips de Vianda", "Milanesa de Pollo", "Sandwich de Jamon", "Sandwich de Jamon y Queso", "Sandwich Cubano con cerdo asado", "Ensaladita de aceitunas, queso y peperoni"],
-        "price" : [600, 400, 350, 1000, 1000, 2200, 200, 1200, 580, 730, 1300, 1100],
-        "further_info" : [["croquettes"], ["malanga"], ["yuca", "cheese"], ["fajitas", "pork"], ["fajitas", "chicken"], [null], ["malanga", "sweetpotato"], ["milanesa", "chicken"], ["sandwich", "ham"], ["sandwich", "ham", "cheese"], ["sandwich", "pork"], ["olives", "peperoni"]       ]
-        },
-        "main_dish" : 
-        { 
-        "items" : ["Tacos de cerdo", "Tacos de pollo", "Tacos de jamon y queso", "Tacos marineros", "Tacos de ropa vieja", "Masas fritas de cerdo", "Pollo frito", "Pollo asado", ["Pizza Napolitana", ["Vegetales", "Jamon", "Queso", "Cebolla", "Cerdo asado", "Chorizo", "Pina glaseada", "Pimiento", "Huevos", "Peperoni", "Masa de Cangrejo"]], ["Pizza de Peperoni", ["Vegetales", "Jamon", "Queso", "Cebolla", "Cerdo asado", "Chorizo", "Pina glaseada", "Pimiento", "Huevos", "Peperoni", "Masa de Cangrejo"]], ["Espaguetis Napolitanos", ["Vegetales", "Jamon", "Queso", "Cebolla", "Cerdo asado", "Chorizo", "Pina glaseada", "Pimiento", "Huevos", "Peperoni", "Masa de Cangrejo"]], "Bistec de Cerdo", "Bistec de Pechuga", "Chuleta de Cerdo", "Ropa Vieja", "Brochetas de Cerdo", "Completa de enchilado de Cangrejo", "Cerdo asado"],
-        "price" : [1100, 1100, 1100, 1100, 1300, 1700, 1300, 1300, [280, [180, 250, 300, 120, 400, 200, 150, 150, 120, 300]], [400, [180, 250, 300, 120, 400, 200, 150, 150, 120, 300]], [700, [180, 250, 300, 120, 400, 200, 150, 150, 120, 300]], 1200, 1600, 1600, 1900, 1800, 1500, 1500],
-        "further_info" : [["taco", "pork"], ["taco", "chicken"], ["taco", "ham", "cheese"], ["taco", "fish"], ["taco", "ropavieja"], ["pork"], ["chicken"], ["pizza", [["vegetables"], ["ham"], ["cheese"], ["onion"], ["pork"], ["chorizo"], ["pineapple"], ["pepper"], ["egg"], ["peperoni"], ["crab"]]], ["pizza", "peperoni", [["vegetables"], ["ham"], ["cheese"], ["onion"], ["pork"], ["chorizo"], ["pineapple"], ["pepper"], ["egg"], ["peperoni"], ["crab"]]], ["spaguetti", [["vegetables"], ["ham"], ["cheese"], ["onion"], ["pork"], ["chorizo"], ["pineapple"], ["pepper"], ["egg"], ["peperoni"], ["crab"]]], ["steak", "pork"], ["steak", "chicken", "breast"], ["pork"], ["ropavieja"], ["pork"], ["crab"], ["pork"]]
-        }, 
-        "Side_dish" :
-        { 
-        "items" : ["Tostones criollos", "Tostones Rellenos", "Racion de Arroz Moro", "Racion de Ensalada"],
-        "prices" : [300, 850, 300, 300],
-        "further_info" : [["tostones"], ["tostones", "ropavieja"], ["rice", "congri"], ["salad", "vegetables"]]
-        },  
-        "desert" :
-        { 
-        "items" : ["Copa de Helado", "Flan"],
-        "prices" : [550, 270],
-        "further_info" : [["icecream"], ["flan"]]
-        },
-        
-      "alcoholic" : 
-         { 
-          "items" : ["Jarra de Cerveza dispensada", "cerveza importada", "cerveza nacional", "Michelada mexicana", "Michelada", "Sangria", "Cuba Libre", "Caipiroska", "Caipirinha", "Pina Colada"],
-          "prices" : [300, 250, 290, 250, 230, 550, 250, 300, 300, 550], 
-          "further_info" : [["beer"], ["beer"], ["beer"], ["michelada"], ["michelada"], ["sangria", "wine"], ["rhum", "cola"], ["caipirinha", "vodka"], ["caipirinha"], ["pinacolada"]]
-          },
-      "non_alcoholic" :
-          { 
-          "items" : ["Agua", "Limonada Frappe", "Limonada Natural", "Jugos Naturales", "Batido de Frutas", "Batido de Helado", "Malta importada", "Refresco importado", "Energizante", "Cafe expresso", "Cafe frapuccino", "Pina Colada"],
-          "prices" : [150, 340, 340, 160, 350, 700, 290, 260, 260, 100, 450, 550],
-          "further_info" : [["water"], ["lemonade"], ["lemonade"], ["juice", "fruit"], ["milkshake", "fruit"], ["milkshake", "icecream"], ["malt"], ["soda"], ["energydrink"], ["cofee", "hotcofee", "expresso"], ["cofee", "frapuccino"], ["pinacolada"]]  
-          }
-      
-     }
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla", "italiana", "mexicana"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name": ["Croquetas de la Casa"],
+                    "price": 600
+                  },
+{
+  "name": ["Frituras de Malanga"],
+"price": 400
+},
+{
+  "name": ["Bolitas de yuca y queso"],
+"price": 350
+},
+{
+  "name": ["Fajitas de cerdo"],
+"price": 1000
+},
+{
+  "name": ["Fajitas de pollo"],
+"price": 1000
+},
+{
+  "name": ["Picadera Mixta"],
+"price": 2200
+},
+{
+  "name": ["Chips de Vianda"],
+"price": 200
+},
+{
+  "name": ["Milanesa de Pollo"],
+"price": 1200
+},
+{
+  "name": ["Sandwich de Jamon"],
+"price": 580
+},
+{
+  "name": ["Sandwich de Jamon y Queso"],
+"price": 730
+},
+{
+  "name": ["Sandwich Cubano con cerdo asado"],
+"price": 1300
+},
+{
+  "name": ["Ensaladita de aceitunas, queso y peperoni"],
+"price": 1100
+}
+                  ]
+                }
+              ],
+              "tacos": [
+                {
+                  "courses": [
+                    {
+                      "name": ["Tacos de cerdo"],
+                    "price": 1100
+                  },
+{
+  "name": ["Tacos de pollo"],
+"price": 1100
+},
+{
+  "name": ["Tacos de jamon y queso"],
+"price": 1100
+},
+{
+  "name": ["Tacos marineros"],
+"price": 1100
+},
+{
+  "name": ["Tacos de ropa vieja"],
+"price": 1300
+}
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name": ["Masas fritas de cerdo"],
+                    "price": 1700
+                  },
+{
+  "name": ["Pollo frito"],
+"price": 1300
+},
+{
+  "name": ["Pollo asado"],
+"price": 1300
+},
+{
+  "name": ["Bistec de Cerdo"],
+"price": 1900
+},
+{
+  "name": ["Bistec de Pechuga"],
+"price": 1800
+},
+{
+  "name": ["Chuleta de Cerdo"],
+"price": 1500
+},
+{
+  "name": ["Ropa Vieja"],
+"price": 1500
+}
+                  ]
+                }
+              ],
+              "rations": [
+                {
+                  "name": ["Tostones criollos"],
+                "price": 300
+              },
+{
+  "name": ["Tostones Rellenos"],
+"price": 850
+},
+{
+  "name": ["Racion de Arroz Moro"],
+"price": 300
+},
+{
+  "name": ["Racion de Ensalada"],
+"price": 300
+}
+              ],
+              "pizzas": [
+                {
+                  "courses": [
+                    {
+                      "name": ["Pizza Napolitana"],
+                    "price": 280
+                  }
+                  ]
+                }
+              ],
+              "pastas": [
+                {
+                  "courses": [
+{
+  "name": ["Espaguetis Napolitanos"],
+"price": 250
+}
+                  ]
+                }
+              ],
+              "additions": [
+                {
+                  "name": ["Vegetales"],
+                "price": 180
+              },
+{
+  "name": ["Jamon"],
+"price": 250
+},
+{
+  "name": ["Queso"],
+"price": 300
+},
+{
+  "name": ["Cebolla"],
+"price": 120
+},
+{
+  "name": ["Cerdo asado"],
+"price": 400
+},
+{
+  "name": ["Chorizo"],
+"price": 200
+},
+{
+  "name": ["Pina glaseada"],
+"price": 150
+},
+{
+  "name": ["Pimiento"],
+"price": 150
+},
+{
+  "name": ["Huevos"],
+"price": 120
+},
+{
+  "name": ["Peperoni"],
+"price": 300
+},
+{
+  "name": ["Masa de Cangrejo"],
+"price": 400
+},
+{
+  "name": ["Pizza de Peperoni"],
+"price": 180
+},
+{
+  "name": ["Vegetales"],
+"price": 250
+},
+{
+  "name": ["Jamon"],
+"price": 300
+},
+{
+  "name": ["Queso"],
+"price": 120
+},
+{
+  "name": ["Cebolla"],
+"price": 400
+},
+{
+  "name": ["Cerdo asado"],
+"price": 200
+},
+{
+  "name": ["Chorizo"],
+"price": 150
+},
+{
+  "name": ["Pina glaseada"],
+"price": 150
+},
+{
+  "name": ["Pimiento"],
+"price": 120
+},
+{
+  "name": ["Huevos"],
+"price": 300
+},
+{
+  "name": ["Peperoni"],
+"price": 700
+},
+{
+  "name": ["Masa de Cangrejo"],
+"price": 180
+}
+              ],
+              "desserts": [
+                {
+                  "courses": [
+                    {
+                      "name": ["Copa de Helado"],
+                    "price": 550
+                  },
+{
+  "name": ["Flan"],
+"price": 270
+}
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "alcoholic_beverages": [
+                    {
+                      "cocktails": [
+                        {
+                          "name": ["Michelada mexicana"],
+                        "price": 250
+                      },
+{
+  "name": ["Michelada"],
+"price": 230
+},
+{
+  "name": ["Sangria"],
+"price": 550
+},
+{
+  "name": ["Cuba Libre"],
+"price": 250
+},
+{
+  "name": ["Caipiroska"],
+"price": 300
+},
+{
+  "name": ["Caipirinha"],
+"price": 300
+},
+{
+  "name": ["Pina Colada"],
+"price": 550
+}
+                      ],
+                      "beers": [
+                        {
+                          "name": ["Jarra de Cerveza dispensada"],
+                        "price": 300
+                      },
+{
+  "name": ["cerveza importada"],
+"price": 250
+},
+{
+  "name": ["cerveza nacional"],
+"price": 290
+}
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+        }    
+    }
     }    
 

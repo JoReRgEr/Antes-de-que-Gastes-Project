@@ -1,44 +1,193 @@
 {    "name" : "Ranchon Don Mrtin",
     "location" : "lisa",
     "specialty" : ["Cuban"],
-    "menu" : {
-        "entree" :
-        { 
-        "item" : ["Ensalada Fria", "Coctel de Camarones", "Fritura de Malanga", "Toston con mojo", "Chicharritas", "Papa frita", "Toston Relleno"],
-        "price" : [400, 950, 470, 470, 380, 370, 700, 470],
-        "further_info" : [["ensalada"], ["shrimp"], ["malanga"], ["tostones", "banana"], ["banana"], ["potato"], ["tostones", "banana", "ropavieja"]]
-        },
-        "main_dish" : 
-        { 
-        "items" : ["Masa frita de Cerdo", "Fricase de cerdo", "Bistec de Cerdo Grille", "Bistec de Cerdo Uruguayo", "Bistec de Cerdo Empanado", "Bistec de Cerdo al graten", "Bistec de Cerdo a la reina", "Vaca Frita", "Ropa Vieja", "Pechuga", "Pechuga grille", "Pechuga empanada", "Pechuga al graten", "Pechuga a la reina", "Gordon Blue", "Filete de Pescado Grille", "Filete de Pescado Empanado", "Filete de pescado al graten", "Canciller", "Filete Don Martin", "Camaron Enchilado", "Camaron al ajillo", "Camaron Rebosado", "Langosta al ajillo", "Langosta Enchilado", "Chilindron de Cordero", "Pan con Hamburguesa", "Pan con Hamburguesa, Jamon y Queso", ["Espaguetis", ["Jamon", "Queso Gouda", "agrego de camarones", "pina"]],["Pizza", ["Jamon", "Queso Gouda", "agrego de camarones", "pina"]] ],
-        "price" : [2030, 2030, 1400, 2050, 1600, 1600, 1700, 2820, 2850, 1440, 1530, 1520, 1580, 1780, 1600, 1800, 1800, 2000, 2450, 2000, 2000, 2100, 3600, 3650, 1810, 900, 1280, [840, [250, 300, 800]], [860, [250, 300, 800]]],
-        "further_info" : [[]]
-        },
-        "Side_dish" :
-        { 
-        "items" : ["Arroz Moro", "Arroz Blanco"],
-        "prices" : [180, 100],
-        "further_info" : [["rice", "congri"], ["rice"]]
-        },  
-        "desert" :
-        { 
-        "items" : ["Flan"],
-        "prices" : ["350"],
-        "further_info" : [["flan"]]
-        },
-        
-      "alcoholic" : 
-         { 
-          "items" : [],
-          "prices" : [],
-          "further_info" : [[]]
-          },
-      "non_alcoholic" :
-          { 
-          "items" : ["Refresco de Lata", "Malta Caribia", "Refresco Manzanita", "Seven-up", "Pinita", "Agua", "Energizante", "Jugo de Caja", "Batido de Helado"],
-          "prices" : [220, 230, 290, 240, 225, 180, 245, 175, 450],
-          "further_info" : [["soda"], ["malt"], ["soda", "apple"], ["soda", "7up"], ["soda", "pineapple"], ["water"], ["energydrink"], ["juice", "artifitial"], ["milkshake", "icecream"]]  
-          }
-     }
+    
+    "menu_details": {
+        "kind_of_food": ["variada", "criolla"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "name": ["Ensalada Fria"],
+                    "price": 400
+                  },
+                    {
+                      "name": ["Coctel de Camarones"],
+                    "price": 950
+                  },
+                    {
+                      "name": ["Fritura de Malanga"],
+                    "price": 470
+                  },
+                    {
+                      "name": ["Toston con mojo"],
+                    "price": 470
+                  },
+                    {
+                      "name": ["Chicharritas"],
+                    "price": 380
+                  },
+                    {
+                      "name": ["Papa frita"],
+                    "price": 370
+                  },
+                    {
+                      "name": ["Toston Relleno"],
+                    "price": 700
+                  }
+                  ]
+                }
+              ],
+              "main_courses": [
+                {
+                  "courses": [
+                    {
+                      "name": ["Masa frita de Cerdo"],
+                    "price": 2030
+                  },
+                    {
+                      "name": ["Fricase de cerdo"],
+                    "price": 2030
+                  },
+                    {
+                      "name": ["Bistec de Cerdo Grille"],
+                    "price": 1400
+                  },
+                    {
+                      "name": ["Bistec de Cerdo Uruguayo"],
+                    "price": 2050
+                  },
+                    {
+                      "name": ["Bistec de Cerdo Empanado"],
+                    "price": 1600
+                  },
+                    {
+                      "name": ["Bistec de Cerdo al graten"],
+                    "price": 1600
+                  },
+                    {
+                      "name": ["Bistec de Cerdo a la reina"],
+                    "price": 1700
+                  },
+                    {
+                      "name": ["Vaca Frita"],
+                    "price": 2820
+                  },
+                    {
+                      "name": ["Ropa Vieja"],
+                    "price": 2850
+                  },
+                    {
+                      "name": ["Pechuga"],
+                    "price": 1440
+                  },
+                    {
+                      "name": ["Pechuga grille"],
+                    "price": 1530
+                  },
+                    {
+                      "name": ["Pechuga empanada"],
+                    "price": 1520
+                  },
+                    {
+                      "name": ["Pechuga al graten"],
+                    "price": 1580
+                  },
+                    {
+                      "name": ["Pechuga a la reina"],
+                    "price": 1780
+                  },
+                    {
+                      "name": ["Gordon Blue"],
+                    "price": 1600
+                  },
+                    {
+                      "name": ["Filete de Pescado Grille"],
+                    "price": 1800
+                  },
+                    {
+                      "name": ["Filete de Pescado Empanado"],
+                    "price": 1800
+                  },
+                    {
+                      "name": ["Filete de pescado al graten"],
+                    "price": 2000
+                  },
+                    {
+                      "name": ["Canciller"],
+                    "price": 2450
+                  },
+                    {
+                      "name": ["Filete Don Martin"],
+                    "price": 2000
+                  },
+                    {
+                      "name": ["Camaron Enchilado"],
+                    "price": 2000
+                  },
+                    {
+                      "name": ["Camaron al ajillo"],
+                    "price": 2100
+                  },
+                    {
+                      "name": ["Camaron Rebosado"],
+                    "price": 3600
+                  },
+                    {
+                      "name": ["Langosta al ajillo"],
+                    "price": 3650
+                  },
+                    {
+                      "name": ["Langosta Enchilado"],
+                    "price": 1810
+                  },
+                    {
+                      "name": ["Chilindron de Cordero"],
+                    "price": 900
+                  },
+                    {
+                      "name": ["Pan con Hamburguesa"],
+                    "price": 1280
+                  }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "soft_drinks": [
+                    {
+                      "name": ["Refresco de Lata"],
+                    "price": 220
+                  },
+{
+  "name": ["Malta Caribia"],
+"price": 230
+},
+{
+  "name": ["Refresco Manzanita"],
+"price": 290
+},
+{
+  "name": ["Seven-up"],
+"price": 240
+},
+{
+  "name": ["Pinita"],
+"price": 225
+}
+                  ],
+                  "water": [
+                    {
+                      "name": "Agua", 
+                    "price": 180
+                  }
+                  ]
+                }
+              ]
+            }
+        }    
+    }
     }    
 
