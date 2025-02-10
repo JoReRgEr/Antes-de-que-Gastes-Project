@@ -1,120 +1,43 @@
 {
-  "type_of_establishment": "restaurante",
-  "place_name": "VenaVento",
-  "property_type": "particular",
-  "address": {
-    "establishment_phone_number": null,
-    "email": null,
-    "city": "La Habana",
-    "district": "Boyeros",
-    "location": "Calle 10, esq. Vento",
-    "coordinates": "23.052005719313897, -82.3825931103242"
-  },
-  "schedules": {
-    "monday": {
-      "open": "12:00",
-      "closed": "24:00"
-    },
-    "tuesday": {
-      "open": "12:00",
-      "closed": "24:00"
-    },
-    "wednesday": {
-      "open": "12:00",
-      "closed": "24:00"
-    },
-    "thursday": {
-      "open": "12:00",
-      "closed": "24:00"
-    },
-    "friday": {
-      "open": "12:00",
-      "closed": "24:00"
-    },
-    "saturday": {
-      "open": "12:00",
-      "closed": "24:00"
-    },
-    "sunday": {
-      "open": "12:00",
-      "closed": "24:00"
-    }
-  },
-  "location_details": {
-    "rating": {
-      "google": {
-        "stars": null,
-        "number_of_reviews": null
-      },
-      "tripadvisor": {
-        "stars": null,
-        "number_of_reviews": null
-      },
-      "facebook": {
-        "stars": null,
-        "number_of_reviews": null
-      }
-    },
-    "establishment_capacity": "medio",
-    "decoration": "moderno",
-    "festive_decorations": false,
-    "home_uniform": "casual",
-    "collaboration_for_events": false,
-    "type_of_concurrent_clients": [
-      "grupos"
+    "Place":"Divino",
+    "Location":[
+        {"Address":"#50, Calle Raquel entre Esperanza y Lindero, Mantilla",
+        "Municipality":"Arroyo Naranjo",
+        "Coordinates":null}
     ],
-    "energy_backup": true
-  },
-  "services": {
-    "social_networks": {
-      "web_page": [
-        false,
-        {
-          "url": null
-        }
-      ],
-      "facebook": [
-        true,
-        {
-          "url": "https://www.facebook.com/venaventohav/?locale=es_LA"
-        }
-      ],
-      "instagram": [
-        true,
-        {
-          "url": "https://www.instagram.com/terraza_venavento_oficial/"
-        }
-      ],
-      "whatsapp": "52743762"
-    },
-    "child_care": false,
-    "disable_support": false,
-    "wifi": false,
-    "parking": true,
-    "delivery": false,
-    "reserves": true,
-    "rent_from_the_client": false,
-    "vip_zone": false,
-    "catering": false,
-    "interactive_activities": false,
-    "sanitary": true,
-    "pet_friendly": false
-  },
-  "pay_meth": {
-    "cash": true,
-    "transfer": {
-      "transfermovil": true,
-      "visa": true,
-      "mastercard": true
-    },
-    "currency": {
-      "cup": true,
-      "usd": true,
-      "euro": true,
-      "mlc": true
-    },
-    "10% charge": true
-  },
+    "Classification":"Restaurante",
+    "Specialization":"Cocina mixta",
+    "Property":"Privado",
+    "Schedule":[
+        {"Opening":"12h00",
+        "Closing":"22h00",
+        "Days":["Viernes","Sabado","Domingo"]}
+    ],
+    "Ratings":[
+        {"Tripadvisor":4.5,
+        "Google Maps":4.4}
+    ],
+    "Reservations":true,
+    "Delivery":[
+        {"Service existence":false,
+        "Delivery area":null}
+    ],
+    "Phone number":"55627175 / 63733055 / 76437734",
+    "Accounts or website":[
+        {"Facebook":"DiVino"},
+        {"Instagram":"@restaurantedivino_official"},
+        {"Website":"www.cubarestaurantedivino.com"},
+        {"Email":"cubarestaurantedivino@gmail.com"}
+    ],
+    "Payment":[
+        {"Method":["Efectivo"],
+        "Accepted currencies":["CUP","USD","EUR"]}
+    ],
+    "Capacity":100,
+    "Parking":true,
+    "Wifi":false,
+    "Smoking area":true,
+    
   "menu_details": {
     "kind_of_food": [
       "criolla"
