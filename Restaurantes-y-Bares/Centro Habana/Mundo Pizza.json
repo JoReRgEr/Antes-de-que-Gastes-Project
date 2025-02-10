@@ -3,7 +3,7 @@
     "place_name": "Mundo Pizza",
     "district": "Centro Habana",
     "coordinates": {
-        "latitude": 23.13771148492377, 
+        "latitude": 23.13771148492377,
         "longitude": -82.36400171839173
     },
     "contact": {
@@ -63,27 +63,37 @@
         "transfer": true
     },
     "menu_details": {
-        "kind_of_food": ["italiana", "criolla"],
-        "healthy_food_options": false,
+        "kind_of_food": [
+            "italiana",
+            "criolla"
+        ],
         "menu_card": {
             "menu_sections": {
                 "starters": [
                     {
                         "courses": [
-                            { 
-                                "name": "croquetas caseras", 
+                            {
+                                "name": "croquetas caseras",
                                 "price": 590,
-                                "main_ingredients": ["harina", "variados"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
-                            { 
-                                "name": "tostones criollos", 
+                            {
+                                "name": "tostones criollos",
                                 "price": 540,
-                                "main_ingredients": ["fruta"] 
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             },
-                            { 
-                                "name": "focaccia", 
+                            {
+                                "name": "focaccia",
                                 "price": 560,
-                                "main_ingredients": ["harina", "variados"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -91,40 +101,65 @@
                 "pizzas": [
                     {
                         "courses": [
-                            { 
-                                "name": "pizza metro criolla", 
+                            {
+                                "name": "pizza metro criolla",
                                 "price": 2800,
-                                "main_ingredients": ["harina", "queso", "cerdo"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "cerdo"
+                                ]
                             },
-                            {     
-                                "name": "pizza metro casa", 
+                            {
+                                "name": "pizza metro casa",
                                 "price": 3700,
-                                "main_ingredients": ["harina", "queso"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "pizza metro gouda", 
+                            {
+                                "name": "pizza metro gouda",
                                 "price": 5100,
-                                "main_ingredients": ["harina", "queso"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "pizza metro elección", 
+                            {
+                                "name": "pizza metro elección",
                                 "price": 5150,
-                                "main_ingredients": ["harina", "queso", "variados"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "variados"
+                                ]
                             },
-                            { 
-                                "name": "pizza 1/2 metro mix", 
+                            {
+                                "name": "pizza 1/2 metro mix",
                                 "price": 2500,
-                                "main_ingredients": ["harina", "queso", "variados"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "variados"
+                                ]
                             },
-                            { 
-                                "name": "pizza 1/2 metro elección", 
+                            {
+                                "name": "pizza 1/2 metro elección",
                                 "price": 2700,
-                                "main_ingredients": ["harina", "queso", "variados"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "variados"
+                                ]
                             },
-                            { 
-                                "name": "pizza rossa", 
+                            {
+                                "name": "pizza rossa",
                                 "price": 590,
-                                "main_ingredients": ["harina", "queso"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             }
                         ]
                     }
@@ -135,22 +170,36 @@
                             {
                                 "name": "spaghetti",
                                 "price": 950,
-                                "main_ingredients": ["pasta", "queso"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "lasaña",
                                 "price": 1250,
-                                "main_ingredients": ["pasta", "queso"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "spaghetti al pesto",
                                 "price": 1050,
-                                "main_ingredients": ["pasta", "queso", "vegetales"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "spaghetti del dia",
                                 "price": 1600,
-                                "main_ingredients": ["pasta", "queso", "vegetales"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             }
                         ]
                     }
@@ -158,20 +207,26 @@
                 "desserts": [
                     {
                         "courses": [
-                            { 
-                                "name": "postre del dia", 
+                            {
+                                "name": "postre del dia",
                                 "price": 650,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
-                            { 
-                                "name": "pizza a chocolate", 
+                            {
+                                "name": "pizza a chocolate",
                                 "price": 815,
-                                "main_ingredients": ["harina"] 
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
-                            { 
-                                "name": "helado 3 gracias", 
+                            {
+                                "name": "helado 3 gracias",
                                 "price": 500,
-                                "main_ingredients": ["helado"] 
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             }
                         ]
                     }
@@ -181,36 +236,36 @@
                         "alcoholic_beverages": [
                             {
                                 "beers": [
-                                    { 
-                                        "name": "cerveza", 
-                                        "price": 300 
+                                    {
+                                        "name": "cerveza",
+                                        "price": 300
                                     }
                                 ]
                             }
                         ],
                         "soft_drinks": [
-                            { 
-                                "name": "refresco", 
-                                "price": 250 
+                            {
+                                "name": "refresco",
+                                "price": 250
                             },
-                            { 
-                                "name": "energizante", 
-                                "price": 390 
+                            {
+                                "name": "energizante",
+                                "price": 390
                             },
-                            { 
-                                "name": "malta", 
-                                "price": 300 
+                            {
+                                "name": "malta",
+                                "price": 300
                             }
                         ],
                         "natual_juices": [
-                            { 
-                                "name": "jugo cajita", 
-                                "price": 250 
+                            {
+                                "name": "jugo cajita",
+                                "price": 250
                             }
                         ]
                     }
                 ]
             }
-        }    
+        }
     }
 }

@@ -43,42 +43,54 @@
     "location_details": {
         "rating": {
             "google": {
-                    "stars": 4.0,
-                    "number_of_reviews": 9,
-                    "recurring_themes": [ ["cerdo"]
+                "stars": 4.0,
+                "number_of_reviews": 9,
+                "recurring_themes": [
+                    [
+                        "cerdo"
+                    ]
                 ]
             },
             "tripadvisor": {
-                    "stars": 5.0,
-                    "number_of_reviews": 2,
-                    "recurring_themes": [ ["calidad"]
+                "stars": 5.0,
+                "number_of_reviews": 2,
+                "recurring_themes": [
+                    [
+                        "calidad"
+                    ]
                 ]
             },
             "facebook": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             }
-
         },
         "establishment_capacity": "grande",
         "decoration": "rural",
         "festive_decorations": false,
         "home_uniform": "informal",
         "collaboration_for_events": true,
-        "type_of_concurrent_clients": ["familias"],
+        "type_of_concurrent_clients": [
+            "familias"
+        ],
         "energy_backup": null
     },
     "services": {
         "social_networks": {
             "web_page": false,
-            "facebook": [ true,
+            "facebook": [
+                true,
                 {
                     "url": "https://www.facebook.com/people/Entablados-Habana/61558469293972/?_rdr"
                 }
             ],
-            "instagram": [ true,
+            "instagram": [
+                true,
                 {
                     "url": "https://www.instagram.com/entablados.habana/"
                 }
@@ -88,7 +100,7 @@
         "child_care": false,
         "disable_support": false,
         "wifi": false,
-        "parking":  true,
+        "parking": true,
         "delivery": false,
         "reserves": true,
         "rent_from_the_client": null,
@@ -100,12 +112,11 @@
     },
     "pay_meth": {
         "cash": true,
-        "transfer":
-            {
-                "transfermovil": true,
-                "visa": true,
-                "mastercard": true
-            },
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
         "currency": {
             "cup": true,
             "usd": true,
@@ -116,8 +127,9 @@
         "10% charge": false
     },
     "menu_details": {
-        "kind_of_food": ["criolla"],
-        "healthy_food_options": false,
+        "kind_of_food": [
+            "criolla"
+        ],
         "menu_card": {
             "menu_sections": {
                 "starters": [
@@ -126,67 +138,97 @@
                             {
                                 "course_name": "Caldo de mariscos",
                                 "price": 1200.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Eperlan",
                                 "price": 1500.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Tacos de cerdo",
                                 "price": 1150.00,
-                                "main_ingredients": ["cerdo", "harina"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "Tacos de langosta",
                                 "price": 950.00,
-                                "main_ingredients": ["harina", "marisco"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Frituras de malanga",
                                 "price": 350.00,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "course_name": "Crujientes de pollo",
                                 "price": 800.00,
-                                "main_ingredients": ["harina", "pollo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Coctel de camarón",
                                 "price": 1150.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Ceviche de pescado",
                                 "price": 1150.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Coctel de langosta",
                                 "price": 1050.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Pan con lechón",
                                 "price": 1100.00,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Huevo hervido",
                                 "price": 300.00,
-                                "main_ingredients": ["huevo"]
+                                "main_ingredients": [
+                                    "huevo"
+                                ]
                             },
                             {
                                 "course_name": "Huevos fritos",
                                 "price": 380.00,
-                                "main_ingredients": ["huevo"]
+                                "main_ingredients": [
+                                    "huevo"
+                                ]
                             },
                             {
                                 "course_name": "Revoltillo natural",
                                 "price": 380.00,
-                                "main_ingredients": ["huevo"]
+                                "main_ingredients": [
+                                    "huevo"
+                                ]
                             }
                         ]
                     }
@@ -197,97 +239,135 @@
                             {
                                 "course_name": "Langosta grille",
                                 "price": 1950.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Langosta al ajillo",
                                 "price": 1950.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Langosta enchilada",
                                 "price": 2250.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Camarón enchilado",
                                 "price": 2300.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Camarón grille",
                                 "price": 2150.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Costilla Frita",
                                 "price": 2600.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Camarón al ajillo",
                                 "price": 2150.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Fricase de Cerdo",
                                 "price": 2250.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Costilla en salsa BBQ",
                                 "price": 2680.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Bistec gratinado",
                                 "price": 2150.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Bistec de cerdo",
                                 "price": 1850.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Chuleta de cerdo",
                                 "price": 1950.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Masa frita",
                                 "price": 2150.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Chuletón de cerdo",
                                 "price": 2500.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Super Chuletón Entabla2",
                                 "price": 3200.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Filete de pescado al Vino",
                                 "price": 2000.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Filete de pescado Mediterráneo",
                                 "price": 2050.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Filete don Pedro",
                                 "price": 2900.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Lonja de cerdo",
                                 "price": 2150.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             }
                         ]
                     }
@@ -316,12 +396,17 @@
                             {
                                 "course_name": "Copa de Helado",
                                 "price": 500,
-                                "main_ingredients": ["helado"]
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             },
                             {
                                 "course_name": "Suero de Helado",
                                 "price": 850,
-                                "main_ingredients": ["helado", "leche"]
+                                "main_ingredients": [
+                                    "helado",
+                                    "leche"
+                                ]
                             }
                         ]
                     }
@@ -499,6 +584,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

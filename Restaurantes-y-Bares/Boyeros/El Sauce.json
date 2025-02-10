@@ -43,21 +43,30 @@
     "location_details": {
         "rating": {
             "google": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "tripadvisor": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "facebook": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             }
         },
@@ -66,18 +75,22 @@
         "festive_decorations": null,
         "home_uniform": null,
         "collaboration_for_events": null,
-        "type_of_concurrent_clients": [null],
+        "type_of_concurrent_clients": [
+            null
+        ],
         "energy_backup": null
     },
     "services": {
         "social_networks": {
             "web_page": false,
-            "facebook": [ false,
+            "facebook": [
+                false,
                 {
                     "url": null
                 }
             ],
-            "instagram": [ false,
+            "instagram": [
+                false,
                 {
                     "url": null
                 }
@@ -87,7 +100,7 @@
         "child_care": false,
         "disable_support": false,
         "wifi": false,
-        "parking":  false,
+        "parking": false,
         "delivery": true,
         "reserves": true,
         "rent_from_the_client": null,
@@ -99,12 +112,11 @@
     },
     "pay_meth": {
         "cash": true,
-        "transfer":
-            {
-                "transfermovil": false,
-                "visa": false,
-                "mastercard": false
-            },
+        "transfer": {
+            "transfermovil": false,
+            "visa": false,
+            "mastercard": false
+        },
         "currency": {
             "cup": true,
             "usd": false,
@@ -115,8 +127,9 @@
         "10% charge": false
     },
     "menu_details": {
-        "kind_of_food": ["chatarra"],
-        "healthy_food_options": false,
+        "kind_of_food": [
+            "chatarra"
+        ],
         "menu_card": {
             "menu_sections": {
                 "starters": [
@@ -125,47 +138,72 @@
                             {
                                 "course_name": "Hamburguesa Simple",
                                 "price": 400.00,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "Hamburguesa con Jamon",
                                 "price": 500.00,
-                                "main_ingredients": ["harina", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "course_name": "Hamburguesa con Queso",
                                 "price": 550.00,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Hamburguesa con Bacon",
                                 "price": 550.00,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Hamburguesa con Jamon y Queso",
                                 "price": 600.00,
-                                "main_ingredients": ["harina", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Hamburguesa Sauce",
                                 "price": 850.00,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Bocadito de Jamon",
                                 "price": 200.00,
-                                "main_ingredients": ["jamon"]
+                                "main_ingredients": [
+                                    "jamon"
+                                ]
                             },
                             {
                                 "course_name": "Bocadito de Queso",
                                 "price": 250.00,
-                                "main_ingredients": ["queso"]
+                                "main_ingredients": [
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Bocadito de Jamon y Queso",
                                 "price": 300.00,
-                                "main_ingredients": ["jamon", "queso"]
+                                "main_ingredients": [
+                                    "jamon",
+                                    "queso"
+                                ]
                             }
                         ]
                     }
@@ -176,52 +214,82 @@
                             {
                                 "course_name": "Pizza Napole",
                                 "price": 500.00,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Jamon",
                                 "price": 700.00,
-                                "main_ingredients": ["harina", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Chorizo",
                                 "price": 700.00,
-                                "main_ingredients": ["harina", "chorizo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "chorizo"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Cebolla",
                                 "price": 600.00,
-                                "main_ingredients": ["harina", "vegetales"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Pimiento",
                                 "price": 600.00,
-                                "main_ingredients": ["harina", "vegetales"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "course_name": "Pizza Hawaiana",
                                 "price": 750.00,
-                                "main_ingredients": ["harina", "jamon", "fruta"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Bacon",
                                 "price": 750.00,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Atun",
                                 "price": 800.00,
-                                "main_ingredients": ["harina", "pescado"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Aceitunas",
                                 "price": 700.00,
-                                "main_ingredients": ["harina", "fruta"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "course_name": "Pizza Sauce",
                                 "price": 900.00,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -232,12 +300,19 @@
                             {
                                 "course_name": "Lasagna de Jamon",
                                 "price": 900.00,
-                                "main_ingredients": ["harina", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Canelon",
                                 "price": 700.00,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             }
                         ]
                     }
@@ -253,7 +328,7 @@
                                     }
                                 ]
                             }
-                        ], 
+                        ],
                         "soft_drinks": [
                             {
                                 "name": "Refresco",
@@ -277,6 +352,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

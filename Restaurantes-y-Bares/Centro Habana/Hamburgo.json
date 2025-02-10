@@ -3,7 +3,7 @@
     "name": "Hamburgo",
     "district": "Centro Habana",
     "coordinates": {
-        "latitude": 23.131235737365408, 
+        "latitude": 23.131235737365408,
         "longitude": -82.37630082066377
     },
     "contact": {
@@ -46,7 +46,9 @@
     },
     "rating": null,
     "intake_capacity": "media",
-    "cuisine": ["americana"],
+    "cuisine": [
+        "americana"
+    ],
     "services": {
         "plant": false,
         "child_care": true,
@@ -63,8 +65,9 @@
         "transfer": true
     },
     "menu_details": {
-        "kind_of_food": ["panes"],
-        "healthy_food_options": false,
+        "kind_of_food": [
+            "panes"
+        ],
         "menu_card": {
             "menu_sections": {
                 "breads": [
@@ -73,22 +76,34 @@
                             {
                                 "name": "hamburguesa de cerdo",
                                 "price": 275,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "hamburguesa de res",
                                 "price": 275,
-                                "main_ingredients": ["harina", "res"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "hamburguesa vegetal con aderezos",
                                 "price": 300,
-                                "main_ingredients": ["harina", "vegetales"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "super hamburguesa",
                                 "price": 550,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -124,6 +139,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

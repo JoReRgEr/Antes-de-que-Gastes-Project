@@ -136,7 +136,6 @@
         "kind_of_food": [
             "criolla"
         ],
-        "healthy_food_options": true,
         "menu_card": {
             "menu_sections": {
                 "snacks": [

@@ -3,7 +3,7 @@
     "name": "Mimosa",
     "district": "Centro Habana",
     "coordinates": {
-        "latitude": 23.134370150762123, 
+        "latitude": 23.134370150762123,
         "longitude": -82.3682591198702
     },
     "contact": {
@@ -15,7 +15,7 @@
         "instagram": "@restaurantemimosa"
     },
     "schedule": {
-        "monday": { 
+        "monday": {
             "open": "1200",
             "close": "2300"
         },
@@ -46,7 +46,9 @@
     },
     "rating": 4.4,
     "intake_capacity": "alta",
-    "cuisine": ["italiana"],
+    "cuisine": [
+        "italiana"
+    ],
     "services": {
         "plant": false,
         "child_care": true,
@@ -63,132 +65,212 @@
         "transfer": true
     },
     "menu_details": {
-        "kind_of_food": ["italiana"],
-        "healthy_food_options": false,
+        "kind_of_food": [
+            "italiana"
+        ],
         "menu_card": {
             "menu_sections": {
                 "starters": [
                     {
                         "courses": [
-                            { 
-                                "name": "croquetas de jamón", 
+                            {
+                                "name": "croquetas de jamón",
                                 "price": 1280,
-                                "main_ingredients": ["harina", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon"
+                                ]
                             },
-                            { 
-                                "name": "focaccia al orégano", 
+                            {
+                                "name": "focaccia al orégano",
                                 "price": 994,
-                                "main_ingredients": ["harina", "vegetales"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "brusqueta tradicional", 
+                            {
+                                "name": "brusqueta tradicional",
                                 "price": 1337,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
-                            { 
-                                "name": "galletas caseras con pate de jamón", 
+                            {
+                                "name": "galletas caseras con pate de jamón",
                                 "price": 1337,
-                                "main_ingredients": ["harina", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon"
+                                ]
                             },
-                            { 
-                                "name": "ensalada caprese", 
+                            {
+                                "name": "ensalada caprese",
                                 "price": 1881,
-                                "main_ingredients": ["vegetales"]
+                                "main_ingredients": [
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "menestra de verduras", 
+                            {
+                                "name": "menestra de verduras",
                                 "price": 1881,
-                                "main_ingredients": ["vegetales"]
+                                "main_ingredients": [
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "coctel de camarones", 
+                            {
+                                "name": "coctel de camarones",
                                 "price": 2082,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "variedad de quesos c/frutos secos", 
+                            {
+                                "name": "variedad de quesos c/frutos secos",
                                 "price": 2164,
-                                "main_ingredients": ["queso"]
+                                "main_ingredients": [
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "entremes de jamón serrano", 
+                            {
+                                "name": "entremes de jamón serrano",
                                 "price": 3057,
-                                "main_ingredients": ["jamon"]
+                                "main_ingredients": [
+                                    "jamon"
+                                ]
                             },
-                            { 
-                                "name": "ensalada de frutos secas", 
+                            {
+                                "name": "ensalada de frutos secas",
                                 "price": 1463,
-                                "main_ingredients": ["fruta"]
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             },
-                            { 
-                                "name": "bastones de queso frito sobre salsa pommodoro", 
+                            {
+                                "name": "bastones de queso frito sobre salsa pommodoro",
                                 "price": 2168,
-                                "main_ingredients": ["queso", "harina"]
+                                "main_ingredients": [
+                                    "queso",
+                                    "harina"
+                                ]
                             },
-                            { 
-                                "name": "antipasto mimosa", 
+                            {
+                                "name": "antipasto mimosa",
                                 "price": 2361,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
-                            { 
-                                "name": "papas fritas al aroma de ajo", 
+                            {
+                                "name": "papas fritas al aroma de ajo",
                                 "price": 1096,
-                                "main_ingredients": ["viandas"]
+                                "main_ingredients": [
+                                    "viandas"
+                                ]
                             },
-                            { 
-                                "name": "ensalada fría italiana", 
+                            {
+                                "name": "ensalada fría italiana",
                                 "price": 659,
-                                "main_ingredients": ["pasta", "variados"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "variados"
+                                ]
                             },
-                            { 
-                                "name": "crema de queso", 
+                            {
+                                "name": "crema de queso",
                                 "price": 1197,
-                                "main_ingredients": ["harina", "leche", "queso"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche",
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "crema virginia", 
+                            {
+                                "name": "crema virginia",
                                 "price": 1197,
-                                "main_ingredients": ["harina", "leche", "queso", "vegetales"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "crema aurora", 
+                            {
+                                "name": "crema aurora",
                                 "price": 1197,
-                                "main_ingredients": ["harina", "leche", "queso", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
-                            { 
-                                "name": "crema de hongos", 
+                            {
+                                "name": "crema de hongos",
                                 "price": 1850,
-                                "main_ingredients": ["harina", "leche", "queso", "hongos"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche",
+                                    "queso",
+                                    "hongos"
+                                ]
                             },
-                            { 
-                                "name": "crema crema de queso azul", 
+                            {
+                                "name": "crema crema de queso azul",
                                 "price": 2107,
-                                "main_ingredients": ["harina", "leche", "queso"]  
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche",
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "crema de vegetales",  
+                            {
+                                "name": "crema de vegetales",
                                 "price": 1136,
-                                "main_ingredients": ["harina", "leche", "queso", "vegetales"]  
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "crema de camarón",  
+                            {
+                                "name": "crema de camarón",
                                 "price": 1785,
-                                "main_ingredients": ["harina", "leche", "queso", "marisco"]  
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche",
+                                    "queso",
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "crema de mariscos",  
+                            {
+                                "name": "crema de mariscos",
                                 "price": 2083,
-                                "main_ingredients": ["harina", "leche", "queso", "marisco"]  
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche",
+                                    "queso",
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "fondue de queso",  
+                            {
+                                "name": "fondue de queso",
                                 "price": 2191,
-                                "main_ingredients": ["harina", "leche", "queso"]  
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche",
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "sopa de pollo y apio",  
+                            {
+                                "name": "sopa de pollo y apio",
                                 "price": 1220,
-                                "main_ingredients": ["vegetales", "pollo"]  
+                                "main_ingredients": [
+                                    "vegetales",
+                                    "pollo"
+                                ]
                             }
                         ]
                     }
@@ -196,75 +278,112 @@
                 "main_courses": [
                     {
                         "courses": [
-                            { 
-                                "name": "risotto mar y tierra", 
-                                "price": 3326, 
-                                "main_ingredients": ["grano ", "cerdo", "pescado"] 
+                            {
+                                "name": "risotto mar y tierra",
+                                "price": 3326,
+                                "main_ingredients": [
+                                    "grano ",
+                                    "cerdo",
+                                    "pescado"
+                                ]
                             },
-                            { 
-                                "name": "risotto di mare", 
-                                "price": 3326, 
-                                "main_ingredients": ["grano ", "pescado", "marisco"] 
+                            {
+                                "name": "risotto di mare",
+                                "price": 3326,
+                                "main_ingredients": [
+                                    "grano ",
+                                    "pescado",
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "risotto al trio de carne", 
-                                "price": 2846, 
-                                "main_ingredients": ["grano ", "cerdo", "res"] 
+                            {
+                                "name": "risotto al trio de carne",
+                                "price": 2846,
+                                "main_ingredients": [
+                                    "grano ",
+                                    "cerdo",
+                                    "res"
+                                ]
                             },
-                            { 
-                                "name": "risotto de vegetales", 
-                                "price": 2370, 
-                                "main_ingredients": ["grano ", "vegetales"] 
+                            {
+                                "name": "risotto de vegetales",
+                                "price": 2370,
+                                "main_ingredients": [
+                                    "grano ",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "risotto nero di mare", 
-                                "price": 3326, 
-                                "main_ingredients": ["grano ", "pescado", "marisco"]
+                            {
+                                "name": "risotto nero di mare",
+                                "price": 3326,
+                                "main_ingredients": [
+                                    "grano ",
+                                    "pescado",
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "capricho mimosa", 
-                                "price": 2080, 
-                                "main_ingredients": ["variados"] 
+                            {
+                                "name": "capricho mimosa",
+                                "price": 2080,
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
-                            { 
-                                "name": "camarones al viecco rone", 
-                                "price": 2985, 
-                                "main_ingredients": ["marisco"] 
+                            {
+                                "name": "camarones al viecco rone",
+                                "price": 2985,
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "camarones al aroma de porcini y tartufo", 
-                                "price": 2985, 
-                                "main_ingredients": ["marisco"] 
+                            {
+                                "name": "camarones al aroma de porcini y tartufo",
+                                "price": 2985,
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "lomitos de pescado al horno en crema", 
-                                "price": 2787, 
-                                "main_ingredients": ["pescado"] 
+                            {
+                                "name": "lomitos de pescado al horno en crema",
+                                "price": 2787,
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
-                            { 
-                                "name": "pescado al oliva y pommodoro", 
-                                "price": 2787, 
-                                "main_ingredients": ["pescado"] 
+                            {
+                                "name": "pescado al oliva y pommodoro",
+                                "price": 2787,
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
-                            { 
-                                "name": "pescado grille en salsa pamesana", 
-                                "price": 2787, 
-                                "main_ingredients": ["pescado"] 
+                            {
+                                "name": "pescado grille en salsa pamesana",
+                                "price": 2787,
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
-                            { 
-                                "name": "filetes de res a la amatrcciana", 
-                                "price": 2142, 
-                                "main_ingredients": ["res"] 
+                            {
+                                "name": "filetes de res a la amatrcciana",
+                                "price": 2142,
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
-                            { 
-                                "name": "conejo a las finas hierbas en papillote", 
-                                "price": 2417, 
-                                "main_ingredients": ["conejo"] 
+                            {
+                                "name": "conejo a las finas hierbas en papillote",
+                                "price": 2417,
+                                "main_ingredients": [
+                                    "conejo"
+                                ]
                             },
-                            { 
-                                "name": "escalope de cerdo grille", 
-                                "price": 2987, 
-                                "main_ingredients": ["pescado"] 
+                            {
+                                "name": "escalope de cerdo grille",
+                                "price": 2987,
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             }
                         ]
                     }
@@ -272,135 +391,239 @@
                 "pizzas": [
                     {
                         "courses": [
-                            { 
-                                "name": "pizza napolitana", 
+                            {
+                                "name": "pizza napolitana",
                                 "price": 999,
-                                "main_ingredients": ["harina", "queso"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "pizza margarita", 
+                            {
+                                "name": "pizza margarita",
                                 "price": 1513,
-                                "main_ingredients": ["harina", "queso", "vegetales"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "pizza de jamon", 
+                            {
+                                "name": "pizza de jamon",
                                 "price": 1566,
-                                "main_ingredients": ["harina", "queso", "jamon"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
-                            { 
-                                "name": "pizza hawaiana", 
+                            {
+                                "name": "pizza hawaiana",
                                 "price": 1549,
-                                "main_ingredients": ["harina", "queso", "jamon", "fruta"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon",
+                                    "fruta"
+                                ]
                             },
-                            { 
-                                "name": "pizza de bacon", 
+                            {
+                                "name": "pizza de bacon",
                                 "price": 1976,
-                                "main_ingredients": ["harina", "queso", "cerdo"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "cerdo"
+                                ]
                             },
-                            { 
-                                "name": "pizza de chorizo, jamon y salame", 
+                            {
+                                "name": "pizza de chorizo, jamon y salame",
                                 "price": 2240,
-                                "main_ingredients": ["harina", "queso", "jamon", "embutido"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon",
+                                    "embutido"
+                                ]
                             },
-                            { 
-                                "name": "pizza de camarones", 
+                            {
+                                "name": "pizza de camarones",
                                 "price": 2465,
-                                "main_ingredients": ["harina", "queso", "marisco"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "pizza de pimientos", 
+                            {
+                                "name": "pizza de pimientos",
                                 "price": 2023,
-                                "main_ingredients": ["harina", "queso", "vegetales"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "pizza de cebolla", 
+                            {
+                                "name": "pizza de cebolla",
                                 "price": 1620,
-                                "main_ingredients": ["harina", "queso", "vegetales"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "pizza de filete de res", 
+                            {
+                                "name": "pizza de filete de res",
                                 "price": 2875,
-                                "main_ingredients": ["harina", "queso", "res"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "res"
+                                ]
                             },
-                            { 
-                                "name": "pizza de champiñones", 
+                            {
+                                "name": "pizza de champiñones",
                                 "price": 2062,
-                                "main_ingredients": ["harina", "queso", "hongos"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "hongos"
+                                ]
                             },
-                            { 
-                                "name": "pizza de vegetales", 
+                            {
+                                "name": "pizza de vegetales",
                                 "price": 2013,
-                                "main_ingredients": ["harina", "queso", "vegetales"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "pizza de atun", 
+                            {
+                                "name": "pizza de atun",
                                 "price": 2472,
-                                "main_ingredients": ["harina", "queso", "pescado"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "pescado"
+                                ]
                             },
-                            { 
-                                "name": "pizza de bacon y camarones", 
+                            {
+                                "name": "pizza de bacon y camarones",
                                 "price": 2179,
-                                "main_ingredients": ["harina", "queso", "cerdo", "marisco"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "cerdo",
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "pizza al pesto", 
+                            {
+                                "name": "pizza al pesto",
                                 "price": 1910,
-                                "main_ingredients": ["harina", "queso", "vegetales"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "pizza de jamon y camarones", 
+                            {
+                                "name": "pizza de jamon y camarones",
                                 "price": 2376,
-                                "main_ingredients": ["harina", "queso", "jamon", "marisco"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon",
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "pizza marinera", 
+                            {
+                                "name": "pizza marinera",
                                 "price": 2812,
-                                "main_ingredients": ["harina", "queso", "pescado", "marisco"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "pescado",
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "pizza de aceitunas verdes deshuesadas", 
+                            {
+                                "name": "pizza de aceitunas verdes deshuesadas",
                                 "price": 2179,
-                                "main_ingredients": ["harina", "queso", "fruta"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "fruta"
+                                ]
                             },
-                            { 
-                                "name": "pizza mimosa", 
+                            {
+                                "name": "pizza mimosa",
                                 "price": 2560,
-                                "main_ingredients": ["harina", "queso", "variados"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "variados"
+                                ]
                             },
-                            { 
-                                "name": "pizza a caballo", 
+                            {
+                                "name": "pizza a caballo",
                                 "price": 2238,
-                                "main_ingredients": ["harina", "queso", "caballo"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "caballo"
+                                ]
                             },
-                            { 
-                                "name": "pizza gran jumbo", 
+                            {
+                                "name": "pizza gran jumbo",
                                 "price": 3344,
-                                "main_ingredients": ["harina", "queso", "variados"]
-                            },
-                            {  
-                                "name":"pizza 4 quesos",
-                                "price":2693,
-                                "main_ingredients": ["harina", "queso"]
-                            },
-                            {
-                                "name":"pizza strombolis quesos, ahumados",
-                                "price":2860,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "variados"
+                                ]
                             },
                             {
-                                "name":"pizza calzone",
-                                "price":2575,
-                                "main_ingredients": ["harina", "queso"]
+                                "name": "pizza 4 quesos",
+                                "price": 2693,
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
-                                "name":"pizza a la toscana",
-                                "price":2677,
-                                "main_ingredients": ["harina", "queso"]
+                                "name": "pizza strombolis quesos, ahumados",
+                                "price": 2860,
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
-                                "name":"pizza 4 jamones",
-                                "price":2910,
-                                "main_ingredients": ["harina", "queso", "jamon"]
+                                "name": "pizza calzone",
+                                "price": 2575,
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
+                            },
+                            {
+                                "name": "pizza a la toscana",
+                                "price": 2677,
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
+                            },
+                            {
+                                "name": "pizza 4 jamones",
+                                "price": 2910,
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon"
+                                ]
                             }
                         ]
                     }
@@ -408,250 +631,389 @@
                 "pastas": [
                     {
                         "courses": [
-                            { 
-                                "name": "ravioli relleno con jamon", 
+                            {
+                                "name": "ravioli relleno con jamon",
                                 "price": 1906,
-                                "main_ingredients": ["pasta", "jamon"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "jamon"
+                                ]
                             },
-                            { 
-                                "name": "ravioli relleno c/mouse de camaron", 
+                            {
+                                "name": "ravioli relleno c/mouse de camaron",
                                 "price": 2084,
-                                "main_ingredients": ["pasta", "marisco"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "ñoquis al queso azul", 
+                            {
+                                "name": "ñoquis al queso azul",
                                 "price": 2001,
-                                "main_ingredients": ["pasta", "queso"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "ñoquis al pomodoro y queso parmesano", 
+                            {
+                                "name": "ñoquis al pomodoro y queso parmesano",
                                 "price": 2032,
-                                "main_ingredients": ["pasta", "queso"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "fetuccini alfredo", 
+                            {
+                                "name": "fetuccini alfredo",
                                 "price": 1895,
-                                "main_ingredients": ["pasta", "queso"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "lenguini de mare", 
+                            {
+                                "name": "lenguini de mare",
                                 "price": 2209,
-                                "main_ingredients": ["pasta", "queso", "marisco"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "lasagna a la bolognesa", 
+                            {
+                                "name": "lasagna a la bolognesa",
                                 "price": 2150,
-                                "main_ingredients": ["pasta", "queso", "res"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "res"
+                                ]
                             },
-                            { 
-                                "name": "lasagna rellena con jamon", 
+                            {
+                                "name": "lasagna rellena con jamon",
                                 "price": 2150,
-                                "main_ingredients": ["pasta", "queso", "jamon"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
-                            { 
-                                "name": "canelones rellenos con camarones", 
+                            {
+                                "name": "canelones rellenos con camarones",
                                 "price": 2346,
-                                "main_ingredients": ["pasta", "queso", "marisco"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "marisco"
+                                ]
                             },
-                            { 
-                                "name": "canelones de jamon", 
+                            {
+                                "name": "canelones de jamon",
                                 "price": 2091,
-                                "main_ingredients": ["pasta", "queso", "jamon"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
-                            { 
-                                "name": "canelones rellenos mixtos", 
+                            {
+                                "name": "canelones rellenos mixtos",
                                 "price": 2345,
-                                "main_ingredients": ["pasta", "queso", "variados"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "variados"
+                                ]
                             },
-                            { 
-                                "name": "plamontese", 
+                            {
+                                "name": "plamontese",
                                 "price": 2846,
-                                "main_ingredients": ["pasta"]
+                                "main_ingredients": [
+                                    "pasta"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa mar y tierra", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa mar y tierra",
                                 "price": 3013,
-                                "main_ingredients": ["pasta", "queso", "marisco", "pescado", "cerdo"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "marisco",
+                                    "pescado",
+                                    "cerdo"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa al pesto", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa al pesto",
                                 "price": 1638,
-                                "main_ingredients": ["pasta", "queso", "vegetales"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa al pommodoro", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa al pommodoro",
                                 "price": 1513,
-                                "main_ingredients": ["pasta", "queso", "vegetales"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa a la carbonara", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa a la carbonara",
                                 "price": 2171,
-                                "main_ingredients": ["pasta", "queso", "cerdo", "huevo"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "cerdo",
+                                    "huevo"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa arrabiata", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa arrabiata",
                                 "price": 1477,
-                                "main_ingredients": ["pasta", "queso", "vegetales"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa a la marinera", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa a la marinera",
                                 "price": 2987,
-                                "main_ingredients": ["pasta", "queso", "marisco", "pescado"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "marisco",
+                                    "pescado"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa al burro", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa al burro",
                                 "price": 1638,
-                                "main_ingredients": ["pasta", "queso", "cerdo", "res"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "cerdo",
+                                    "res"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa a la bolognesa", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa a la bolognesa",
                                 "price": 2128,
-                                "main_ingredients": ["pasta", "queso", "res"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "res"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa napolitana", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa napolitana",
                                 "price": 999,
-                                "main_ingredients": ["pasta", "queso"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa alfredo", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa alfredo",
                                 "price": 1836,
-                                "main_ingredients": ["pasta", "queso"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa panna", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa panna",
                                 "price": 2091,
-                                "main_ingredients": ["pasta", "queso"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa con filete de res a su gusto", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa con filete de res a su gusto",
                                 "price": 2168,
-                                "main_ingredients": ["pasta", "queso", "res"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "res"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa al aglio", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa al aglio",
                                 "price": 1425,
-                                "main_ingredients": ["pasta", "queso", "vegetales"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones con salsa al jamon", 
+                            {
+                                "name": "spaghetti/fusili/macarrones con salsa al jamon",
                                 "price": 1836,
-                                "main_ingredients": ["pasta", "queso", "jamon"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
-                            { 
-                                "name": "spaghetti/fusili/macarrones nero di mare", 
+                            {
+                                "name": "spaghetti/fusili/macarrones nero di mare",
                                 "price": 3328,
-                                "main_ingredients": ["pasta", "queso", "marisco", "pescado"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "marisco",
+                                    "pescado"
+                                ]
                             },
-                            { 
-                                "name": "macarrones mimosa 4 quesos c/pechuga", 
+                            {
+                                "name": "macarrones mimosa 4 quesos c/pechuga",
                                 "price": 2617,
-                                "main_ingredients": ["pasta", "queso", "pollo"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "pollo"
+                                ]
                             },
-                            { 
-                                "name": "rigatoni a las 3 carne", 
+                            {
+                                "name": "rigatoni a las 3 carne",
                                 "price": 2179,
-                                "main_ingredients": ["pasta", "queso", "res", "cerdo", "pollo"] 
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "res",
+                                    "cerdo",
+                                    "pollo"
+                                ]
                             }
                         ]
                     }
                 ],
                 "additions": [
-                    { 
-                        "name": "queso parmesano", 
-                        "price": 489 
+                    {
+                        "name": "queso parmesano",
+                        "price": 489
                     },
-                    { 
-                        "name": "queso gouda", 
-                        "price": 489 
+                    {
+                        "name": "queso gouda",
+                        "price": 489
                     },
-                    { 
-                        "name": "embutidos", 
-                        "price": 345 
+                    {
+                        "name": "embutidos",
+                        "price": 345
                     },
-                    { 
-                        "name": "aceitunas", 
-                        "price": 438 
+                    {
+                        "name": "aceitunas",
+                        "price": 438
                     },
-                    { 
-                        "name": "champiñones", 
-                        "price": 591 
+                    {
+                        "name": "champiñones",
+                        "price": 591
                     },
-                    { 
-                        "name": "cebolla", 
-                        "price": 269 
+                    {
+                        "name": "cebolla",
+                        "price": 269
                     },
-                    { 
-                        "name": "pimientos", 
-                        "price": 269 
+                    {
+                        "name": "pimientos",
+                        "price": 269
                     },
-                    { 
-                        "name": "mariscos", 
-                        "price": 628 
+                    {
+                        "name": "mariscos",
+                        "price": 628
                     },
-                    { 
-                        "name": "atún", 
-                        "price": 642 
+                    {
+                        "name": "atún",
+                        "price": 642
                     },
-                    { 
-                        "name": "bacon", 
-                        "price": 408 
+                    {
+                        "name": "bacon",
+                        "price": 408
                     },
-                    { 
-                        "name": "arroz pilaf", 
-                        "price": 162 
+                    {
+                        "name": "arroz pilaf",
+                        "price": 162
                     },
-                    { 
-                        "name": "arroz blanco", 
-                        "price": 162 
+                    {
+                        "name": "arroz blanco",
+                        "price": 162
                     },
-                    { 
-                        "name": "arroz moro", 
-                        "price": 162 
+                    {
+                        "name": "arroz moro",
+                        "price": 162
                     }
                 ],
                 "desserts": [
                     {
                         "courses": [
-                            { 
-                                "name": "flan de caramelo", 
+                            {
+                                "name": "flan de caramelo",
                                 "price": 540,
-                                "main_ingredients": ["leche", "huevo"] 
+                                "main_ingredients": [
+                                    "leche",
+                                    "huevo"
+                                ]
                             },
-                            { 
-                                "name": "ensalada de helado mimosa", 
+                            {
+                                "name": "ensalada de helado mimosa",
                                 "price": 734,
-                                "main_ingredients": ["helado"] 
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             },
-                            { 
-                                "name": "cheese cake", 
+                            {
+                                "name": "cheese cake",
                                 "price": 761,
-                                "main_ingredients": ["leche", "queso", "harina"] 
+                                "main_ingredients": [
+                                    "leche",
+                                    "queso",
+                                    "harina"
+                                ]
                             },
-                            { 
-                                "name": "copa de helado tradicional", 
+                            {
+                                "name": "copa de helado tradicional",
                                 "price": 550,
-                                "main_ingredients": ["helado"] 
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             },
-                            { 
-                                "name": "copa lolita", 
+                            {
+                                "name": "copa lolita",
                                 "price": 709,
-                                "main_ingredients": ["helado", "leche", "huevo"] 
+                                "main_ingredients": [
+                                    "helado",
+                                    "leche",
+                                    "huevo"
+                                ]
                             },
-                            { 
-                                "name": "torta helada", 
+                            {
+                                "name": "torta helada",
                                 "price": 667,
-                                "main_ingredients": ["harina", "leche", "helado"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche",
+                                    "helado"
+                                ]
                             },
-                            { 
-                                "name": "suero de helado", 
+                            {
+                                "name": "suero de helado",
                                 "price": 779,
-                                "main_ingredients": ["helado", "leche"] 
+                                "main_ingredients": [
+                                    "helado",
+                                    "leche"
+                                ]
                             },
-                            { 
-                                "name": "torta bombón", 
+                            {
+                                "name": "torta bombón",
                                 "price": 1083,
-                                "main_ingredients": ["harina", "leche"] 
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche"
+                                ]
                             }
                         ]
                     }
@@ -663,119 +1025,119 @@
                                 "cocktails": [
                                     {
                                         "name": "cuba libre",
-                                        "price ":531
+                                        "price ": 531
                                     },
-                                    { 
-                                        "name": "mojito", 
-                                        "price": 531 
+                                    {
+                                        "name": "mojito",
+                                        "price": 531
                                     },
-                                    { 
-                                        "name": "ron collins", 
-                                        "price": 531 
+                                    {
+                                        "name": "ron collins",
+                                        "price": 531
                                     },
-                                    { 
-                                        "name": "daiquiri", 
-                                        "price": 531 
+                                    {
+                                        "name": "daiquiri",
+                                        "price": 531
                                     },
-                                    { 
-                                        "name": "havana special", 
-                                        "price": 531 
+                                    {
+                                        "name": "havana special",
+                                        "price": 531
                                     },
-                                    { 
-                                        "name": "cubata", 
-                                        "price": 531 
+                                    {
+                                        "name": "cubata",
+                                        "price": 531
                                     },
-                                    { 
-                                        "name": "cubanito", 
-                                        "price": 531 
+                                    {
+                                        "name": "cubanito",
+                                        "price": 531
                                     },
-                                    { 
-                                        "name": "mulata", 
-                                        "price": 531 
+                                    {
+                                        "name": "mulata",
+                                        "price": 531
                                     },
-                                    { 
-                                        "name": "mimosa", 
-                                        "price": 739 
+                                    {
+                                        "name": "mimosa",
+                                        "price": 739
                                     },
-                                    { 
-                                        "name": "bloody mar", 
-                                        "price": 739 
+                                    {
+                                        "name": "bloody mar",
+                                        "price": 739
                                     },
-                                    { 
-                                        "name": "piña colada", 
-                                        "price": 739 
+                                    {
+                                        "name": "piña colada",
+                                        "price": 739
                                     },
-                                    { 
-                                        "name": "margarita", 
-                                        "price": 739 
+                                    {
+                                        "name": "margarita",
+                                        "price": 739
                                     },
-                                    { 
-                                        "name": "martini", 
-                                        "price": 739 
+                                    {
+                                        "name": "martini",
+                                        "price": 739
                                     },
-                                    { 
-                                        "name": "screwdriver", 
-                                        "price": 739 
+                                    {
+                                        "name": "screwdriver",
+                                        "price": 739
                                     },
-                                    { 
-                                        "name": "caipirinha", 
-                                        "price": 739 
+                                    {
+                                        "name": "caipirinha",
+                                        "price": 739
                                     },
-                                    { 
-                                        "name": "tom collins", 
-                                        "price": 739 
+                                    {
+                                        "name": "tom collins",
+                                        "price": 739
                                     },
-                                    { 
-                                        "name": "gin tonic", 
-                                        "price": 739 
+                                    {
+                                        "name": "gin tonic",
+                                        "price": 739
                                     },
-                                    { 
-                                        "name": "sangria", 
-                                        "price": 739 
+                                    {
+                                        "name": "sangria",
+                                        "price": 739
                                     },
-                                    { 
-                                        "name": "sangria tropical", 
-                                        "price": 739 
+                                    {
+                                        "name": "sangria tropical",
+                                        "price": 739
                                     }
                                 ],
                                 "beers": [
-                                    { 
-                                        "name": "cerveza nacional", 
-                                        "price": 350 
+                                    {
+                                        "name": "cerveza nacional",
+                                        "price": 350
                                     },
-                                    { 
-                                        "name": "cerveza importada", 
-                                        "price": 320 
+                                    {
+                                        "name": "cerveza importada",
+                                        "price": 320
                                     },
-                                    { 
-                                        "name": "copa de cerveza", 
-                                        "price": 300 
+                                    {
+                                        "name": "copa de cerveza",
+                                        "price": 300
                                     },
-                                    { 
-                                        "name": "jarra de cerveza", 
-                                        "price": 626 
+                                    {
+                                        "name": "jarra de cerveza",
+                                        "price": 626
                                     }
                                 ],
                                 "shots": [
                                     {
-                                        "name":"habana club añejo blanco",
-                                        "price" :235
+                                        "name": "habana club añejo blanco",
+                                        "price": 235
                                     },
                                     {
-                                        "name":"habana club 3 años",
-                                        "price" :235
+                                        "name": "habana club 3 años",
+                                        "price": 235
                                     },
                                     {
-                                        "name":"habana club añejo especial",
-                                        "price" :256
+                                        "name": "habana club añejo especial",
+                                        "price": 256
                                     },
                                     {
-                                        "name":"habana club reserva",
-                                        "price" :531
+                                        "name": "habana club reserva",
+                                        "price": 531
                                     },
                                     {
-                                        "name":"habana club añejo 7 años",
-                                        "price" :489
+                                        "name": "habana club añejo 7 años",
+                                        "price": 489
                                     },
                                     {
                                         "name": "habana club selección de maestro",
@@ -819,204 +1181,204 @@
                                     },
                                     {
                                         "name": "cmapari",
-                                        "price":165
+                                        "price": 165
                                     },
                                     {
                                         "name": "licores cubanos",
-                                        "price":165
-                                    }, 
+                                        "price": 165
+                                    },
                                     {
                                         "name": "chivas regal",
-                                        "price":1485
+                                        "price": 1485
                                     },
                                     {
                                         "name": "jhonnie walker black level",
-                                        "price":534
+                                        "price": 534
                                     },
                                     {
                                         "name": "jhonnie walker red level",
-                                        "price":444
+                                        "price": 444
                                     },
                                     {
-                                        "name":  "jhonnie walker blue level j&b",
-                                        "price":630
+                                        "name": "jhonnie walker blue level j&b",
+                                        "price": 630
                                     },
                                     {
                                         "name": "havana special",
-                                        "price ":531
+                                        "price ": 531
                                     },
                                     {
                                         "name": "clan campbell",
-                                        "price ":418
+                                        "price ": 418
                                     },
                                     {
                                         "name": "wisky single malt",
-                                        "price ":1106
+                                        "price ": 1106
                                     },
                                     {
                                         "name": "jameson",
-                                        "price ":895
+                                        "price ": 895
                                     },
                                     {
                                         "name": "jack daniels ballantines",
-                                        "price ":740
+                                        "price ": 740
                                     },
-                                    { 
-                                        "name": "vermouth rojo", 
-                                        "price": 283 
+                                    {
+                                        "name": "vermouth rojo",
+                                        "price": 283
                                     },
-                                    { 
-                                        "name": "vermouth rosado dulce", 
-                                        "price": 283 
+                                    {
+                                        "name": "vermouth rosado dulce",
+                                        "price": 283
                                     },
-                                    { 
-                                        "name": "vermouth seco", 
-                                        "price": 285 
+                                    {
+                                        "name": "vermouth seco",
+                                        "price": 285
                                     },
-                                    { 
-                                        "name": "brandy", 
-                                        "price": 316 
+                                    {
+                                        "name": "brandy",
+                                        "price": 316
                                     },
-                                    { 
-                                        "name": "ginebra", 
-                                        "price": 687 
+                                    {
+                                        "name": "ginebra",
+                                        "price": 687
                                     },
-                                    { 
-                                        "name": "ginebra beefeater", 
-                                        "price": 716 
+                                    {
+                                        "name": "ginebra beefeater",
+                                        "price": 716
                                     },
-                                    { 
-                                        "name": "tequila reposado", 
-                                        "price": 532 
+                                    {
+                                        "name": "tequila reposado",
+                                        "price": 532
                                     },
-                                    { 
-                                        "name": "tequila blanco", 
-                                        "price": 454 
+                                    {
+                                        "name": "tequila blanco",
+                                        "price": 454
                                     },
-                                    { 
-                                        "name": "brandy torres 5", 
-                                        "price": 484 
+                                    {
+                                        "name": "brandy torres 5",
+                                        "price": 484
                                     },
-                                    { 
-                                        "name": "brandy torres 10", 
-                                        "price": 468 
+                                    {
+                                        "name": "brandy torres 10",
+                                        "price": 468
                                     }
                                 ],
                                 "wine_glass": [
-                                    { 
-                                        "name": "copa de vino del dia tinto", 
-                                        "price": 786 
+                                    {
+                                        "name": "copa de vino del dia tinto",
+                                        "price": 786
                                     },
-                                    { 
-                                        "name": "copa de vino del dia blanco", 
-                                        "price": 786 
+                                    {
+                                        "name": "copa de vino del dia blanco",
+                                        "price": 786
                                     },
-                                    { 
-                                        "name": "copa de vino del dia rosado", 
-                                        "price": 786 
+                                    {
+                                        "name": "copa de vino del dia rosado",
+                                        "price": 786
                                     }
                                 ]
                             }
                         ],
                         "water": [
-                            { 
-                                "name": "agua nacional", 
-                                "price": 190 
+                            {
+                                "name": "agua nacional",
+                                "price": 190
                             },
-                            { 
-                                "name": "agua importada", 
-                                "price": 250 
+                            {
+                                "name": "agua importada",
+                                "price": 250
                             }
                         ],
                         "soft_drinks": [
-                            { 
-                                "name": "refresco nacional", 
-                                "price": 270 
+                            {
+                                "name": "refresco nacional",
+                                "price": 270
                             },
-                            { 
-                                "name": "refresco importado", 
-                                "price": 320 
+                            {
+                                "name": "refresco importado",
+                                "price": 320
                             },
-                            { 
-                                "name": "malta", 
-                                "price": 335 
+                            {
+                                "name": "malta",
+                                "price": 335
                             },
-                            { 
-                                "name": "kermato", 
-                                "price": 491 
+                            {
+                                "name": "kermato",
+                                "price": 491
                             },
-                            { 
-                                "name": "malteada", 
-                                "price": 693 
+                            {
+                                "name": "malteada",
+                                "price": 693
                             },
-                            { 
-                                "name": "red bull", 
-                                "price": 740 
+                            {
+                                "name": "red bull",
+                                "price": 740
                             },
-                            { 
-                                "name": "cola dietética", 
-                                "price": 398 
+                            {
+                                "name": "cola dietética",
+                                "price": 398
                             }
                         ],
                         "natual_juices": [
-                            { 
-                                "name": "jugos naturales", 
-                                "price": 366 
+                            {
+                                "name": "jugos naturales",
+                                "price": 366
                             },
-                            { 
-                                "name": "jugos importados", 
-                                "price": 320 
+                            {
+                                "name": "jugos importados",
+                                "price": 320
                             },
-                            { 
-                                "name": "limonada frappe", 
-                                "price": 531 
+                            {
+                                "name": "limonada frappe",
+                                "price": 531
                             },
-                            { 
-                                "name": "limonada clarete", 
-                                "price": 801 
+                            {
+                                "name": "limonada clarete",
+                                "price": 801
                             }
                         ],
                         "coffees": [
-                            { 
-                                "name": "té negro", 
-                                "price": 165 
-                            },
-                            { 
-                                "name": "té frío", 
-                                "price": 165 
-                            },
-                            { 
-                                "name": "café expreso", 
-                                "price": 120 
-                            },
-                            { 
-                                "name": "café americano", 
-                                "price": 190 
-                            },
-                            { 
-                                "name": "café cortado", 
-                                "price": 199 
-                            },
-                            { 
-                                "name": "café con leche", 
-                                "price": 199  
-                            },
-                            {  
-                                "name":"café carajillo",
-                                "price" :199
+                            {
+                                "name": "té negro",
+                                "price": 165
                             },
                             {
-                                "name":"café rocio de gallo",
-                                "price" :199
+                                "name": "té frío",
+                                "price": 165
                             },
                             {
-                                "name":"café capuccino",
-                                "price" :199
+                                "name": "café expreso",
+                                "price": 120
+                            },
+                            {
+                                "name": "café americano",
+                                "price": 190
+                            },
+                            {
+                                "name": "café cortado",
+                                "price": 199
+                            },
+                            {
+                                "name": "café con leche",
+                                "price": 199
+                            },
+                            {
+                                "name": "café carajillo",
+                                "price": 199
+                            },
+                            {
+                                "name": "café rocio de gallo",
+                                "price": 199
+                            },
+                            {
+                                "name": "café capuccino",
+                                "price": 199
                             }
                         ]
                     }
                 ]
             }
-        }    
+        }
     }
-}               
+}

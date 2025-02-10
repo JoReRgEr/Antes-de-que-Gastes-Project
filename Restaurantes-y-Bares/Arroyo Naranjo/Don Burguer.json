@@ -43,21 +43,30 @@
     "location_details": {
         "rating": {
             "google": {
-                    "stars": 5.0,
-                    "number_of_reviews": 3,
-                    "recurring_themes": [ ["servicio"]
+                "stars": 5.0,
+                "number_of_reviews": 3,
+                "recurring_themes": [
+                    [
+                        "servicio"
+                    ]
                 ]
             },
             "tripadvisor": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "facebook": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             }
         },
@@ -66,18 +75,22 @@
         "festive_decorations": true,
         "home_uniform": "informal",
         "collaboration_for_events": false,
-        "type_of_concurrent_clients": ["amistades"],
+        "type_of_concurrent_clients": [
+            "amistades"
+        ],
         "energy_backup": false
     },
     "services": {
         "social_networks": {
             "web_page": false,
-            "facebook": [ true,
+            "facebook": [
+                true,
                 {
                     "url": "https://www.facebook.com/donburguerjj/"
                 }
             ],
-            "instagram": [ true,
+            "instagram": [
+                true,
                 {
                     "url": "https://www.instagram.com/donburguercuba/?hl=es"
                 }
@@ -87,7 +100,7 @@
         "child_care": false,
         "disable_support": false,
         "wifi": false,
-        "parking":  false,
+        "parking": false,
         "delivery": false,
         "reserves": false,
         "rent_from_the_client": false,
@@ -99,12 +112,11 @@
     },
     "pay_meth": {
         "cash": true,
-        "transfer":
-            {
-                "transfermovil": true,
-                "visa": false,
-                "mastercard": false
-            },
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
         "currency": {
             "cup": true,
             "usd": false,
@@ -115,8 +127,9 @@
         "10% charge": false
     },
     "menu_details": {
-        "kind_of_food": ["panes"],
-        "healthy_food_options": false,
+        "kind_of_food": [
+            "panes"
+        ],
         "menu_card": {
             "menu_sections": {
                 "starters": [
@@ -125,78 +138,115 @@
                             {
                                 "course_name": "ENSALADA FRÍA",
                                 "price": 580.00,
-                                "main_ingredients": ["pasta"]
+                                "main_ingredients": [
+                                    "pasta"
+                                ]
                             },
                             {
                                 "course_name": "ACEITUNAS",
                                 "price": 420.00,
-                                "main_ingredients": ["aceituna"]
+                                "main_ingredients": [
+                                    "aceituna"
+                                ]
                             },
                             {
                                 "course_name": "BOLITAS DE QUESO",
                                 "price": 640.00,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "FRITURAS DE MALANGA",
                                 "price": 510.00,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "course_name": "CROQUETAS",
                                 "price": 640.00,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "PAPITAS",
                                 "price": 640.00,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "course_name": "FAJITAS DE POLLO",
                                 "price": 940.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "ENTREMES SURTIDO",
                                 "price": 1720.00,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "BRUSQUETAS",
                                 "price": 780.00,
-                                "main_ingredients": ["panes", "variados"]
+                                "main_ingredients": [
+                                    "panes",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "BURRITOS DE JAMON Y QUESO",
                                 "price": 1260.00,
-                                "main_ingredients": ["harina", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "queso"
+                                ]
                             }
                         ]
                     }
                 ],
-                "tacos":[
+                "tacos": [
                     {
                         "courses": [
                             {
                                 "course_name": "TACOS DE VEGETALES",
                                 "price": 620.00,
-                                "main_ingredients": ["harina", "vegetales"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "course_name": "TACOS DE CERDO",
                                 "price": 1120.00,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "TACOS DE POLLO",
                                 "price": 1120.00,
-                                "main_ingredients": ["harina", "pollo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "TACOS DE RES",
                                 "price": 1280.00,
-                                "main_ingredients": ["harina", "res"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "res"
+                                ]
                             }
                         ]
                     }
@@ -207,37 +257,52 @@
                             {
                                 "course_name": "3 GRACIAS",
                                 "price": 740.00,
-                                "main_ingredients": ["helado"]
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             },
                             {
                                 "course_name": "ENSALADA",
                                 "price": 1080.00,
-                                "main_ingredients": ["helado"]
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             },
                             {
                                 "course_name": "CASQUITOS DE GUAYABA",
                                 "price": 560.00,
-                                "main_ingredients": ["fruta"]
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             },
                             {
                                 "course_name": "FLAN",
                                 "price": 560.00,
-                                "main_ingredients": ["huevo", "leche"]
+                                "main_ingredients": [
+                                    "huevo",
+                                    "leche"
+                                ]
                             },
                             {
                                 "course_name": "DULCE DE COCO",
                                 "price": 460.00,
-                                "main_ingredients": ["fruta"]
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             },
                             {
                                 "course_name": "TORREJAS",
                                 "price": 680.00,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "DULCE DE FRUTA BOMBA",
                                 "price": 460.00,
-                                "main_ingredients": ["fruta"]
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             }
                         ]
                     }
@@ -248,67 +313,111 @@
                             {
                                 "course_name": "HAMBURGUESA (CERDO)",
                                 "price": 740.00,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "HAMBURGUESA (POLLO)",
                                 "price": 740.00,
-                                "main_ingredients": ["harina", "pollo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "HAMBURGUESA (RES)",
                                 "price": 860.00,
-                                "main_ingredients": ["harina", "res"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "DOBLE HAMBURGUESA (CERDO)",
                                 "price": 1040.00,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "DOBLE HAMBURGUESA (POLLO)",
                                 "price": 1040.00,
-                                "main_ingredients": ["harina", "pollo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "DOBLE HAMBURGUESA (RES)",
                                 "price": 1480.00,
-                                "main_ingredients": ["harina", "res"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "DOBLE HAMBURGUESA DE CERDO(BISTEC DE CERDO Y 3 AGREGOS / JAMON VICKING, QUESO Y CHORIZO)",
                                 "price": 2680.00,
-                                "main_ingredients": ["harina", "jamon", "queso", "chorizo", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "queso",
+                                    "chorizo",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "PAN CON BISTEC DE CERDO",
                                 "price": 840.00,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "PAN CON BISTEC DE POLLO",
                                 "price": 810.00,
-                                "main_ingredients": ["harina", "pollo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "PAN CON LECHÓN",
                                 "price": 890.00,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "BOCADITO DE ATÚN",
                                 "price": 840.00,
-                                "main_ingredients": ["harina", "pescado"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "SANDWICH DE JAMÓN QUESO Y CHORIZO",
                                 "price": 890.00,
-                                "main_ingredients": ["harina", "jamon", "queso", "chorizo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "queso",
+                                    "chorizo"
+                                ]
                             },
                             {
                                 "course_name": "SANDWICH CUBANO",
                                 "price": 1290.00,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             }
                         ]
                     }
@@ -398,6 +507,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

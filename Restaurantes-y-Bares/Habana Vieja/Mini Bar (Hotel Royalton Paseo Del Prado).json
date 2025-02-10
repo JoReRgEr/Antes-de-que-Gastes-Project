@@ -1,7 +1,9 @@
 {
   "establishment": {
     "classification": {
-      "type": ["Hotel"]
+      "type": [
+        "Hotel"
+      ]
     },
     "name": "Mini Bar (Hotel Royalton Paseo Del Prado)",
     "description": "Mini bar del Hotel Royalton Paseo Del Prado ubicado en Prado y Malecón, Habana Vieja.",
@@ -52,7 +54,9 @@
       "instagram": null,
       "whatsapp": null
     },
-    "accepted_payment_methods": ["Crédito"],
+    "accepted_payment_methods": [
+      "Crédito"
+    ],
     "delivery_available": false,
     "service_fee": {
       "name": "10% por servicios prestados",
@@ -64,11 +68,17 @@
       "outdoor_seating": false,
       "dine_in": false,
       "takeaway": false,
-      "offers": ["Mini Bar"],
+      "offers": [
+        "Mini Bar"
+      ],
       "local_options": [],
       "services": [],
-      "ambience": ["Casual"],
-      "usual_customers": ["Huéspedes del hotel"],
+      "ambience": [
+        "Casual"
+      ],
+      "usual_customers": [
+        "Huéspedes del hotel"
+      ],
       "planning": [],
       "children": null,
       "pets": null,
@@ -76,66 +86,71 @@
     },
     "dietary_options": [],
     "meals": [],
-    "advantages": ["Sirve alcohol", "Agua y refrescos"],
-    "highlights": ["Mini Bar en habitación"]
+    "advantages": [
+      "Sirve alcohol",
+      "Agua y refrescos"
+    ],
+    "highlights": [
+      "Mini Bar en habitación"
+    ]
   },
   "menu_details": {
-      "kind_of_food": ["bebidas"],
-      "healthy_food_options": false,
-      "menu_card": {
-          "menu_sections": {
-            "liquids": [
+    "kind_of_food": [
+      "bebidas"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "liquids": [
+          {
+            "alcoholic_beverages": [
               {
-                "alcoholic_beverages": [
+                "beers": [
                   {
-                    "beers": [
-                      {
-                        "name": "Cerveza nacional / National beer",
-                        "price": 600
-                      },
-                      {
-                        "name": "Cerveza importada / Imported beer",
-                        "price": 750
-                      }
-                    ],
-                    "shots": [
-                      {
-                        "name": "Ron en miniatura (45ml) / Miniature rum (45ml)",
-                        "price": 850
-                      }
-                    ]
-                  }
-                ],
-                "natual_juices": [
-                  {
-                    "name": "Jugo de frutas / Fruit juice",
-                    "price": 360
-                  }
-                ],
-                "soft_drinks": [
-                  {
-                    "name": "Refresco / Soda",
-                    "price": 390
-                  }
-                ],
-                "water": [
-                  {
-                    "name": "Agua tónica / Tonic water",
-                    "price": 450
-                  },
-                  {
-                    "name": "Agua natural / Natural water",
+                    "name": "Cerveza nacional / National beer",
                     "price": 600
                   },
                   {
-                    "name": "Agua gaseada / Sparkling water",
-                    "price": 600
+                    "name": "Cerveza importada / Imported beer",
+                    "price": 750
+                  }
+                ],
+                "shots": [
+                  {
+                    "name": "Ron en miniatura (45ml) / Miniature rum (45ml)",
+                    "price": 850
                   }
                 ]
               }
+            ],
+            "natual_juices": [
+              {
+                "name": "Jugo de frutas / Fruit juice",
+                "price": 360
+              }
+            ],
+            "soft_drinks": [
+              {
+                "name": "Refresco / Soda",
+                "price": 390
+              }
+            ],
+            "water": [
+              {
+                "name": "Agua tónica / Tonic water",
+                "price": 450
+              },
+              {
+                "name": "Agua natural / Natural water",
+                "price": 600
+              },
+              {
+                "name": "Agua gaseada / Sparkling water",
+                "price": 600
+              }
             ]
           }
-      }    
+        ]
+      }
+    }
   }
-  }
-  
+}

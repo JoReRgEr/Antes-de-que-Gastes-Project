@@ -3,7 +3,7 @@
     "name": "Fin de Siglo",
     "district": "Centro Habana",
     "coordinates": {
-        "latitude": 23.136227081972006, 
+        "latitude": 23.136227081972006,
         "longitude": -82.36206873376179
     },
     "contact": {
@@ -46,7 +46,11 @@
     },
     "rating": 5.0,
     "intake_capacity": "media",
-    "cuisine": ["cocteleria", "cubana", "italiana"],
+    "cuisine": [
+        "cocteleria",
+        "cubana",
+        "italiana"
+    ],
     "services": {
         "plant": false,
         "child_care": false,
@@ -63,8 +67,9 @@
         "transfer": true
     },
     "menu_details": {
-        "kind_of_food": ["italiana"],
-        "healthy_food_options": false,
+        "kind_of_food": [
+            "italiana"
+        ],
         "menu_card": {
             "menu_sections": {
                 "snacks": [
@@ -73,22 +78,33 @@
                             {
                                 "name": "croquetas de la casa",
                                 "price": 700,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "pollo salteado con vegetales",
                                 "price": 800,
-                                "main_ingredients": ["pollo", "vegetales"]
+                                "main_ingredients": [
+                                    "pollo",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "tabla de jamon y queso",
                                 "price": 1200,
-                                "main_ingredients": ["jamon", "queso"]
+                                "main_ingredients": [
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "picadera Fin de siglo",
                                 "price": 2500,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -99,42 +115,74 @@
                             {
                                 "name": "pizza de queso blanco",
                                 "price": 800,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "pizza de queso blanco con jamon",
                                 "price": 950,
-                                "main_ingredients": ["harina", "queso", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "pizza de queso blanco con chorizo",
                                 "price": 950,
-                                "main_ingredients": ["harina", "queso", "embutido"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "embutido"
+                                ]
                             },
                             {
                                 "name": "pizza de queso blanco hawaiana",
                                 "price": 1500,
-                                "main_ingredients": ["harina", "queso", "jamon", "fruta"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "pizza de queso gouda",
                                 "price": 1200,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "pizza de queso gouda con jamon",
                                 "price": 1400,
-                                "main_ingredients": ["harina", "queso", "jamon"]
-                            },  
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon"
+                                ]
+                            },
                             {
                                 "name": "pizza de queso gouda con chorizo",
                                 "price": 1400,
-                                "main_ingredients": ["harina", "queso", "embutido"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "embutido"
+                                ]
                             },
                             {
                                 "name": "pizza de queso gouda hawaiana",
                                 "price": 1800,
-                                "main_ingredients": ["harina", "queso", "fruta", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "fruta",
+                                    "jamon"
+                                ]
                             }
                         ]
                     }
@@ -145,37 +193,63 @@
                             {
                                 "name": "spaghetti de queso blanco",
                                 "price": 900,
-                                "main_ingredients": ["pasta", "queso"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "spaghetti de queso blanco con jamon",
                                 "price": 1000,
-                                "main_ingredients": ["pasta", "queso", "jamon"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "spaghetti de queso blanco con chorizo",
                                 "price": 1000,
-                                "main_ingredients": ["pasta", "queso", "embutido"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "embutido"
+                                ]
                             },
                             {
                                 "name": "spaghetti de queso blanco con pollo",
                                 "price": 850,
-                                "main_ingredients": ["pasta", "queso", "pollo"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "spaghetti de queso gouda",
                                 "price": 1200,
-                                "main_ingredients": ["pasta", "queso"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "spaghetti de queso gouda con jamon",
                                 "price": 1400,
-                                "main_ingredients": ["pasta", "queso", "jamon"]
-                            },  
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "jamon"
+                                ]
+                            },
                             {
                                 "name": "spaghetti de queso gouda con chorizo",
                                 "price": 1400,
-                                "main_ingredients": ["pasta", "queso", "embutido"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "embutido"
+                                ]
                             }
                         ]
                     }
@@ -212,8 +286,8 @@
                             {
                                 "beers": [
                                     {
-                                        "name" : "cerveza dispensada",
-                                        "price" : 400
+                                        "name": "cerveza dispensada",
+                                        "price": 400
                                     }
                                 ],
                                 "cocktails": [
@@ -340,13 +414,13 @@
                         ],
                         "natural_juices": [
                             {
-                                "name" : "refresco",
-                                "price" : 300
+                                "name": "refresco",
+                                "price": 300
                             }
                         ]
                     }
                 ]
             }
-        }    
+        }
     }
 }
