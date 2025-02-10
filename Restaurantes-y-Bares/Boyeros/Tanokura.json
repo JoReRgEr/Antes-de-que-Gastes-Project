@@ -43,21 +43,30 @@
     "location_details": {
         "rating": {
             "google": {
-                    "stars": 4.1,
-                    "number_of_reviews": 18,
-                    "recurring_themes": [ ["variados"]
+                "stars": 4.1,
+                "number_of_reviews": 18,
+                "recurring_themes": [
+                    [
+                        "variados"
+                    ]
                 ]
             },
             "tripadvisor": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "facebook": {
-                    "stars": 3.0,
-                    "number_of_reviews": 6,
-                    "recurring_themes": [ ["variados"]
+                "stars": 3.0,
+                "number_of_reviews": 6,
+                "recurring_themes": [
+                    [
+                        "variados"
+                    ]
                 ]
             }
         },
@@ -66,18 +75,22 @@
         "festive_decorations": false,
         "home_uniform": "formal",
         "collaboration_for_events": false,
-        "type_of_concurrent_clients": ["familias"],
+        "type_of_concurrent_clients": [
+            "familias"
+        ],
         "energy_backup": true
     },
     "services": {
         "social_networks": {
             "web_page": false,
-            "facebook": [ true,
+            "facebook": [
+                true,
                 {
                     "url": "https://www.facebook.com/restaurante.tanokura/?locale=es_LA"
                 }
             ],
-            "instagram": [ true,
+            "instagram": [
+                true,
                 {
                     "url": "https://www.instagram.com/restaurant_tanokura/"
                 }
@@ -87,7 +100,7 @@
         "child_care": false,
         "disable_support": false,
         "wifi": false,
-        "parking":  true,
+        "parking": true,
         "delivery": false,
         "reserves": true,
         "rent_from_the_client": false,
@@ -99,12 +112,11 @@
     },
     "pay_meth": {
         "cash": true,
-        "transfer":
-            {
-                "transfermovil": true,
-                "visa": true,
-                "mastercard": true
-            },
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
         "currency": {
             "cup": true,
             "usd": true,
@@ -115,7 +127,11 @@
         "10% charge": false
     },
     "menu_details": {
-        "kind_of_food": ["variada"],
+        "kind_of_food": [
+            "criolla",
+            "italiana",
+            "europea"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -125,132 +141,204 @@
                             {
                                 "course_name": "Maripositas Chinas",
                                 "price": 520,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "Frituras de Malanga",
                                 "price": 520,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "course_name": "Tostones Rellenos de Jamon y Queso",
                                 "price": 750,
-                                "main_ingredients": ["fruta", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Tostones Rellenos de Chorizo y Queso",
                                 "price": 770,
-                                "main_ingredients": ["fruta", "queso", "chorizo"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "queso",
+                                    "chorizo"
+                                ]
                             },
                             {
                                 "course_name": "Tostones Rellenos de Ropa Vieja",
                                 "price": 770,
-                                "main_ingredients": ["fruta", "res"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Tostones Rellenos de Atun",
                                 "price": 770,
-                                "main_ingredients": ["fruta", "pescado"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Tostones Rellenos de Cangrejo",
                                 "price": 770,
-                                "main_ingredients": ["fruta", "marisco"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Croquetas de Bechamel de Pollo",
                                 "price": 920,
-                                "main_ingredients": ["harina", "pollo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Croquetas de Bechamel de Pescado",
                                 "price": 920,
-                                "main_ingredients": ["harina", "pescado"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Delicias Tanokura",
                                 "price": 2000,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Garbanzos Fritos",
                                 "price": 1220,
-                                "main_ingredients": ["grano"]
+                                "main_ingredients": [
+                                    "grano"
+                                ]
                             },
                             {
                                 "course_name": "Eperlan",
                                 "price": 1020,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Fajitas de Cerdo",
                                 "price": 920,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Fajitas de Pollo",
                                 "price": 920,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Coctel de Camaron",
                                 "price": 1020,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Coctel de Langosta",
                                 "price": 1020,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Ensalada Fria de Pollo",
                                 "price": 720,
-                                "main_ingredients": ["pasta", "pollo"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Ensalada Fria de Jamon",
                                 "price": 770,
-                                "main_ingredients": ["pasta", "jamon"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "course_name": "Ensalada Fria de Atun",
                                 "price": 770,
-                                "main_ingredients": ["pasta", "pescado"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Enchilado de Cangrejo con Pan",
                                 "price": 820,
-                                "main_ingredients": ["harina", "marisco"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Crema de Queso",
                                 "price": 410,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Crema Aurora",
                                 "price": 360,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Crema Virginia",
                                 "price": 520,
-                                "main_ingredients": ["harina", "queso", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "course_name": "Crema de Malanga",
                                 "price": 720,
-                                "main_ingredients": ["harina", "vianda"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "vianda"
+                                ]
                             },
                             {
                                 "course_name": "Crema Reina",
                                 "price": 720,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Crema de Mariscos",
                                 "price": 720,
-                                "main_ingredients": ["harina", "marisco"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "marisco"
+                                ]
                             }
                         ]
                     }
@@ -261,432 +349,627 @@
                             {
                                 "course_name": "Arroz Frito",
                                 "price": 1130.00,
-                                "main_ingredients": ["grano"]
+                                "main_ingredients": [
+                                    "grano"
+                                ]
                             },
                             {
                                 "course_name": "Arroz Frito con Camaron",
                                 "price": 1630.00,
-                                "main_ingredients": ["arroz", "marisco"]
+                                "main_ingredients": [
+                                    "arroz",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Arroz Campesino",
                                 "price": 1630.00,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Paella Tanokura",
                                 "price": 2530.00,
-                                "main_ingredients": ["arroz", "marisco"]
+                                "main_ingredients": [
+                                    "arroz",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Rollo de Pechuga con Jamon, Bacon y Queso",
                                 "price": 2500.00,
-                                "main_ingredients": ["pollo", "jamon", "cerdo", "queso"]
+                                "main_ingredients": [
+                                    "pollo",
+                                    "jamon",
+                                    "cerdo",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Churrasco",
                                 "price": 2930.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Pescado Entero Frito",
                                 "price": 2400.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Pechuga Parisien",
                                 "price": 2250.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Pechuga Cardenal",
                                 "price": 2250.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Empanado de Cerdo y Pollo",
                                 "price": 2330.00,
-                                "main_ingredients": ["cerdo", "pollo", "harina"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "pollo",
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "Empanado de Cerdo y Res",
                                 "price": 2430.00,
-                                "main_ingredients": ["cerdo", "res", "harina"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "res",
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "Empanado de Pollo y Res",
                                 "price": 2330.00,
-                                "main_ingredients": ["pollo", "res"]
+                                "main_ingredients": [
+                                    "pollo",
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Bistec Uruguayo Don Gilberto",
                                 "price": 3030.00,
-                                "main_ingredients": ["res", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "res",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Grillada del Corral",
                                 "price": 2730.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Grillada Mar y Tierra",
                                 "price": 3930.00,
-                                "main_ingredients": ["cerdo", "pescado"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Grillada del Mar",
                                 "price": 3830.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Grillada Mediterranea",
                                 "price": 3030.00,
-                                "main_ingredients": ["res", "vegetales"]
+                                "main_ingredients": [
+                                    "res",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "course_name": "Pollo Grille",
                                 "price": 1380.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Pollo Frito a la Criolla",
                                 "price": 1480.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Suprema de Pollo Grille",
                                 "price": 1330.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Suprema de Pollo Gratinada",
                                 "price": 1530.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Bistec de Pollo Empanado",
                                 "price": 1530.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Cordom Bleu",
                                 "price": 1930.00,
-                                "main_ingredients": ["pollo", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "pollo",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Bistec de Pollo Grille Tanokura",
                                 "price": 1730.00,
-                                "main_ingredients": ["pollo", "variados"]
+                                "main_ingredients": [
+                                    "pollo",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Bistec de Cerdo Grille",
                                 "price": 1430.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Escalope de Cerdo",
                                 "price": 1630.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Masas Fritas de Cerdo",
                                 "price": 1730.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Fricase de Cerdo",
                                 "price": 1730.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Bistec de Cerdo Grille Tanokura",
                                 "price": 1930.00,
-                                "main_ingredients": ["cerdo", "variados"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Bistec Uruguayo de Cerdo",
                                 "price": 2180.00,
-                                "main_ingredients": ["cerdo", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Bistec Uruguayo de Cerdo Tanokura",
                                 "price": 2430.00,
-                                "main_ingredients": ["cerdo", "jamon", "queso", "variados"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "jamon",
+                                    "queso",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Lomo Ahumado de Cerdo sin Hueso",
                                 "price": 1850.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Chuletas de Cerdo",
                                 "price": 2100.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Lomo Ahumado de Cerdo con Hueso",
                                 "price": 1880.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Costillas de Cerdo Natural",
                                 "price": 2900.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Costillas de Cerdo Ahumadas",
                                 "price": 1830.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Estofado de Cordero",
                                 "price": 2500.00,
-                                "main_ingredients": ["cordero"]
+                                "main_ingredients": [
+                                    "cordero"
+                                ]
                             },
                             {
                                 "course_name": "Chilindrón de Cordero",
                                 "price": 2500.00,
-                                "main_ingredients": ["cordero"]
+                                "main_ingredients": [
+                                    "cordero"
+                                ]
                             },
                             {
                                 "course_name": "Ropa Vieja de Cordero",
                                 "price": 2500.00,
-                                "main_ingredients": ["cordero"]
+                                "main_ingredients": [
+                                    "cordero"
+                                ]
                             },
                             {
                                 "course_name": "Estofado de Conejo",
                                 "price": 2000.00,
-                                "main_ingredients": ["conejo"]
+                                "main_ingredients": [
+                                    "conejo"
+                                ]
                             },
                             {
                                 "course_name": "Fricase de Conejo",
                                 "price": 2500.00,
-                                "main_ingredients": ["cordero"]
+                                "main_ingredients": [
+                                    "cordero"
+                                ]
                             },
                             {
                                 "course_name": "Ropa Vieja de Res",
                                 "price": 1630.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Vaca Frita",
                                 "price": 1630.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Filete Migñon",
                                 "price": 3530.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Filete a la Deutch",
                                 "price": 3030.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Solomillo de Res Encebollado",
                                 "price": 3230.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Uruguayo Solomillo Res",
                                 "price": 4030.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Uruguayo Solomillo Res TNK",
                                 "price": 4330.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Bistec Grille de Res",
                                 "price": 1500.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Bistec Uruguayo de Res",
                                 "price": 2330.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Uruguayo de Res TNK",
                                 "price": 2330.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Bistec Grille de Res TNK",
                                 "price": 2030.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Bistec de Riñonada",
                                 "price": 1830.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Bistec Uruguayo de Riñonada de Res",
                                 "price": 2130.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Bistec Uruguayo de Riñonada de Res TNK",
                                 "price": 2330.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Bistec Grille de Riñonada de Res TNK",
                                 "price": 2030.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Brochetas de Cerdo",
                                 "price": 1760.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Brochetas de Langosta",
                                 "price": 2060.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Chuletas de Cerdo a la Brasa",
                                 "price": 2100.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Costilla Natural a la Brasa",
                                 "price": 2900.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Costilla Ahumada a la Brasa",
                                 "price": 1860.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Mixto de Chorizo Parrillero",
                                 "price": 1430.00,
-                                "main_ingredients": ["embutido"]
+                                "main_ingredients": [
+                                    "embutido"
+                                ]
                             },
                             {
                                 "course_name": "Lomo Ahumado sin Hueso a la Brasa",
                                 "price": 1930.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Bistec de Cerdo a la Brasa",
                                 "price": 1460.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Suprema de Pollo a la Brasa",
                                 "price": 1460.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Pollo Grille a la Brasa",
                                 "price": 1400.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Langosta Mariposa a la Brasa",
                                 "price": 2060.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Filete de Pescado Grille",
                                 "price": 1980.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Filete de Pescado Empanado",
                                 "price": 2380.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Filete de Pescado a la Muselina",
                                 "price": 2430.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Filete de Pescado Grille Gratinado",
                                 "price": 2230.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Filete de Pescado Don Pedro",
                                 "price": 2930.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Filete Canciller",
                                 "price": 2780.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Filete de Pescado Joinville",
                                 "price": 3030.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Filete de Pescado Relleno",
                                 "price": 2780.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Camarones Grille",
                                 "price": 2030.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Camarones al Ajillo",
                                 "price": 2030.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Enchilado de Camarones",
                                 "price": 2030.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Camarones Orly",
                                 "price": 2330.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Camarones Empanados",
                                 "price": 2330.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Camaron Marnay",
                                 "price": 2330.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Langosta Grille",
                                 "price": 2030.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Langosta Enchilada",
                                 "price": 2030.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Langosta Termidor",
                                 "price": 2030.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Langosta Varadero",
                                 "price": 2030.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Langosta Marnay",
                                 "price": 2030.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             }
                         ]
                     }
@@ -697,22 +980,36 @@
                             {
                                 "course_name": "Spaguetis Alfredo",
                                 "price": 2400.00,
-                                "main_ingredients": ["pasta", "harina", "leche"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "harina",
+                                    "leche"
+                                ]
                             },
                             {
                                 "course_name": "Spaguetis Carbonara",
-                                "price": 2600.00, 
-                                "main_ingredients": ["pasta", "cerdo", "huevo"]
+                                "price": 2600.00,
+                                "main_ingredients": [
+                                    "pasta",
+                                    "cerdo",
+                                    "huevo"
+                                ]
                             },
                             {
                                 "course_name": "Spaguetis Napolitanos con Queso",
-                                "price": 930.00, 
-                                "main_ingredients": ["pasta", "queso"]
+                                "price": 930.00,
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Lasaña Tanokura",
-                                "price": 1230.00, 
-                                "main_ingredients": ["pasta", "variados"]
+                                "price": 1230.00,
+                                "main_ingredients": [
+                                    "pasta",
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -723,17 +1020,28 @@
                             {
                                 "course_name": "Pizza de Queso",
                                 "price": 1430.00,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Pizza Tanokura",
                                 "price": 2680.00,
-                                "main_ingredients": ["harina", "queso", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Peperoni",
                                 "price": 1830.00,
-                                "main_ingredients": ["harina", "queso", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "cerdo"
+                                ]
                             }
                         ]
                     }
@@ -798,37 +1106,57 @@
                             {
                                 "course_name": "Sundae de Helado",
                                 "price": 360.00,
-                                "main_ingredients": ["helado"]
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             },
                             {
                                 "course_name": "Cuña de Capuchino",
                                 "price": 780.00,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "Cake a la Moda",
                                 "price": 780.00,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Cuña de Tres Leches",
                                 "price": 680.00,
-                                "main_ingredients": ["harina", "leche"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche"
+                                ]
                             },
                             {
                                 "course_name": "Suero de Helado",
                                 "price": 680.00,
-                                "main_ingredients": ["helado", "leche"]
+                                "main_ingredients": [
+                                    "helado",
+                                    "leche"
+                                ]
                             },
                             {
                                 "course_name": "Flan",
                                 "price": 400.00,
-                                "main_ingredients": ["huevo", "leche"]
+                                "main_ingredients": [
+                                    "huevo",
+                                    "leche"
+                                ]
                             },
                             {
                                 "course_name": "Copa Lolita",
                                 "price": 600.00,
-                                "main_ingredients": ["helado", "huevo", "leche"]
+                                "main_ingredients": [
+                                    "helado",
+                                    "huevo",
+                                    "leche"
+                                ]
                             }
                         ]
                     }
@@ -1070,6 +1398,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

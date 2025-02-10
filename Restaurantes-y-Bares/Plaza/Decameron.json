@@ -1,35 +1,32 @@
 {
     "type": "Bar-Restaurante-Cafeteria",
-    "name": "Decamerón", 
+    "name": "Decamerón",
     "location": {
         "address": "Calle Línea entre Paseo y 2, Vedado",
         "municipe": "Plaza de la Revolucion",
         "province": "La Habana"
     },
     "sector": "privado",
-    
     "qualification": 4.5,
-    
-    "specialized_food": ["Comida caribeña", "cubana", "saludable", "fusion"],
-
-    "payment method": ["Efectivo", "Transferencia"],
-    
+    "specialized_food": [
+        "Comida caribeña",
+        "cubana",
+        "saludable",
+        "fusion"
+    ],
+    "payment method": [
+        "Efectivo",
+        "Transferencia"
+    ],
     "phone": 78322444,
-    
     "capacity": 50,
-    
-    "reservation":true,
-
+    "reservation": true,
     "parking": true,
-
     "delivery": false,
-
     "wifi": true,
-
     "electric generator": false,
-    
     "hours": {
-        "monday": "11:30am - 11:00pm",  
+        "monday": "11:30am - 11:00pm",
         "tuesday": "11:30am - 11:00pm",
         "wednesday": "11:30am - 11:00pm",
         "thursday": "11:30am - 11:00pm",
@@ -38,503 +35,505 @@
         "sunday": "11:30am - 11:00pm"
     },
     "menu_details": {
-        "kind_of_food": ["variada", "criolla", "italiana"],
+        "kind_of_food": [
+            "criolla",
+            "italiana"
+        ],
         "menu_card": {
             "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
+                "starters": [
                     {
-                        "name": "Pan de la casa y dip con aroma de pesto",
-                        "price": 750
-                    },
-                    {
-                        "name": "Frituras de malanga con Chutney de papaya picantica",
-                        "price": 1350
-                    },
-                    {
-                        "name": "Croquetas caseras con mayonesa ligera de pepino y limón",
-                        "price": 1500
-                    },
-                    {
-                        "name": "Empanadillas de yuca rellenas de cangrejo y melado de caña",
-                        "price": 1650
-                    },
-                    {
-                        "name": "Tacos de maiz o trigo con carnitas de cerdo confitadas, mojo estilizado, frijoles refritos, lechuga y cebolla caramelizada",
-                        "price": 1650
-                    },
-                    {
-                        "name": "Berenjena asada con pisto manchego y queso al gratén",
-                        "price": 2100
-                    }, {
-                        "name": "Pulpo salteado a la plancha con aceíte de pimentón ahumado, escabeche de malanga y verduritas",
-                        "price": 2550
-                    },
-                    {
-                        "name": "Seviche de pescado del día",
-                        "price": 2400
-                    },
-                    {
-                        "name": "Crema de calabaza con costrones de pan y queso",
-                        "price": 1350
-                    },
-                    {
-                        "name": "Sopa-crema de pollo a la casera",
-                        "price": 1500
+                        "courses": [
+                            {
+                                "name": "Pan de la casa y dip con aroma de pesto",
+                                "price": 750
+                            },
+                            {
+                                "name": "Frituras de malanga con Chutney de papaya picantica",
+                                "price": 1350
+                            },
+                            {
+                                "name": "Croquetas caseras con mayonesa ligera de pepino y limón",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Empanadillas de yuca rellenas de cangrejo y melado de caña",
+                                "price": 1650
+                            },
+                            {
+                                "name": "Tacos de maiz o trigo con carnitas de cerdo confitadas, mojo estilizado, frijoles refritos, lechuga y cebolla caramelizada",
+                                "price": 1650
+                            },
+                            {
+                                "name": "Berenjena asada con pisto manchego y queso al gratén",
+                                "price": 2100
+                            },
+                            {
+                                "name": "Pulpo salteado a la plancha con aceíte de pimentón ahumado, escabeche de malanga y verduritas",
+                                "price": 2550
+                            },
+                            {
+                                "name": "Seviche de pescado del día",
+                                "price": 2400
+                            },
+                            {
+                                "name": "Crema de calabaza con costrones de pan y queso",
+                                "price": 1350
+                            },
+                            {
+                                "name": "Sopa-crema de pollo a la casera",
+                                "price": 1500
+                            }
+                        ]
                     }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
+                ],
+                "main_courses": [
                     {
-                        "name": "Caprichosa",
-                        "price": 2100
-                    },
-                    {
-                        "name": "Decamerón",
-                        "price": 2100
-                    },
-                    {
-                        "name": "Arroz caldoso con pollo, cerdo y butifarra",
-                        "price": 3600
-                    },
-                    {
-                        "name": "Arroz negro con pulpo, camarones, almejas y emulsión alioli",
-                        "price": 4500
-                    },
-                    {
-                        "name": "Caldereta del mar con salsa picosa y azafrán",
-                        "price": 7500
-                    },
-                    {
-                        "name": "Filete de pescado del día a lo principeno",
-                        "price": 4200
-                    },
-                    {
-                        "name": "Langosta a la Habanera",
-                        "price": 6000
-                    },
-                    {
-                        "name": "Camarones a ala crema de coco y jengibre",
-                        "price": 4800
-                    },
-                    {
-                        "name": "Solomillo de res con salsa española, queso azul y champinones",
-                        "price": 6900
-                    },
-                    {
-                        "name": "Wok de lonjas de filete, salteado de verduras y salsa teriyaki",
-                        "price": 5400
-                    },
-                    {
-                        "name": "Ropa vieja a lo cubano con macho maduro frito",
-                        "price": 3900
-                    },
-                    {
-                        "name": "Chuletón de cerdo sobre espejo de malanga, emulsión de tamarindo y brochetas de verduras a ala plancha",
-                        "price": 4500
-                    },
-                    {
-                        "name": "Masas de cerdo confitadas sobre mofongo de yuca y chicharrones",
-                        "price": 3600
-                    },
-                    {
-                        "name": "Pollo en aderezo Satay, champinones, frutos secos y vegetales",
-                        "price": 3300
-                    },
-                    {
-                        "name": "Confite de cordero en su esencia de vino y finas hierbas",
-                        "price": 4200
-                    },
-                    {
-                        "name": "Ensalada griega",
-                        "price": 2100
-                    },
-                    {
-                        "name": "Carpaccio de res",
-                        "price": 2400
-                    },
-                    {
-                        "name": "Pinchos de camarón y pollo con pilaf de uvas pasas",
-                        "price": 4500
-                    },
-                    {
-                        "name": "Entrecot de res (anojo) triple A",
-                        "price": 9000
-                    },
-                    {
-                        "name": "Tagliatelle fresco al fruto de mar",
-                        "price": 4500
-                    },
-                    {
-                        "name": "Canoa de la pasión",
-                        "price": 2850
+                        "courses": [
+                            {
+                                "name": "Caprichosa",
+                                "price": 2100
+                            },
+                            {
+                                "name": "Decamerón",
+                                "price": 2100
+                            },
+                            {
+                                "name": "Arroz caldoso con pollo, cerdo y butifarra",
+                                "price": 3600
+                            },
+                            {
+                                "name": "Arroz negro con pulpo, camarones, almejas y emulsión alioli",
+                                "price": 4500
+                            },
+                            {
+                                "name": "Caldereta del mar con salsa picosa y azafrán",
+                                "price": 7500
+                            },
+                            {
+                                "name": "Filete de pescado del día a lo principeno",
+                                "price": 4200
+                            },
+                            {
+                                "name": "Langosta a la Habanera",
+                                "price": 6000
+                            },
+                            {
+                                "name": "Camarones a ala crema de coco y jengibre",
+                                "price": 4800
+                            },
+                            {
+                                "name": "Solomillo de res con salsa española, queso azul y champinones",
+                                "price": 6900
+                            },
+                            {
+                                "name": "Wok de lonjas de filete, salteado de verduras y salsa teriyaki",
+                                "price": 5400
+                            },
+                            {
+                                "name": "Ropa vieja a lo cubano con macho maduro frito",
+                                "price": 3900
+                            },
+                            {
+                                "name": "Chuletón de cerdo sobre espejo de malanga, emulsión de tamarindo y brochetas de verduras a ala plancha",
+                                "price": 4500
+                            },
+                            {
+                                "name": "Masas de cerdo confitadas sobre mofongo de yuca y chicharrones",
+                                "price": 3600
+                            },
+                            {
+                                "name": "Pollo en aderezo Satay, champinones, frutos secos y vegetales",
+                                "price": 3300
+                            },
+                            {
+                                "name": "Confite de cordero en su esencia de vino y finas hierbas",
+                                "price": 4200
+                            },
+                            {
+                                "name": "Ensalada griega",
+                                "price": 2100
+                            },
+                            {
+                                "name": "Carpaccio de res",
+                                "price": 2400
+                            },
+                            {
+                                "name": "Pinchos de camarón y pollo con pilaf de uvas pasas",
+                                "price": 4500
+                            },
+                            {
+                                "name": "Entrecot de res (anojo) triple A",
+                                "price": 9000
+                            },
+                            {
+                                "name": "Tagliatelle fresco al fruto de mar",
+                                "price": 4500
+                            },
+                            {
+                                "name": "Canoa de la pasión",
+                                "price": 2850
+                            }
+                        ]
                     }
-                  ]
-                }
-              ],
-              "rations": [
-                {
-                    "name": "Arroz blanco",
-                    "price": 600
-                },
-                {
-                    "name": "Frijoles negros dormidos",
-                    "price": 600
-                },
-                {
-                    "name": "Vegetales salteados",
-                    "price": 600
-                },
-                {
-                    "name": "Tostones de plátano",
-                    "price": 600
-                },
-                {
-                    "name": "Boniato frito",
-                    "price": 600
-                },
-                {
-                    "name": "Puré de malanga",
-                    "price": 600
-                },
-                {
-                    "name": "Plátano maduro frito",
-                    "price": 600
-                },
-                {
-                    "name": "Ensalada Buena Salud",
-                    "price": 1500
-                }
-              ],
-              "desserts": [
-                {
-                  "courses": [
+                ],
+                "rations": [
                     {
-                        "name": "Tartas variadas del día",
-                        "price": 1400
-                    },
-                    {
-                        "name": "Pie de limón",
-                        "price": 1400
-                    },
-                    {
-                        "name": "Helados",
-                        "price": 1400
-                    },
-                    {
-                        "name": "Flan de caramelo",
-                        "price": 1120
-                    }
-                  ]
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                    {
-                      "cocktails": [
-                        {
-                            "name": "Mojito",
-                            "price": 1500
-                        },
-                        {
-                            "name": "Mojito 7 ",
-                            "price": 2100
-                        },
-                        {
-                            "name": "Cuba libre ",
-                            "price":1350
-                        },
-                        {
-                            "name": "Daiquirí",
-                            "price": 1500
-                        },
-                        {
-                            "name": "Daikirí de frutas",
-                            "price": 1800
-                        },
-                        {
-                            "name": "Coctel Decamerón",
-                            "price": 1800
-                        },
-                        {
-                            "name": "Cubata",
-                            "price": 1350
-                        },
-                        {
-                            "name": "Ron Collins",
-                            "price": 1500
-                        },
-                        {
-                            "name": "Pina colada",
-                            "price": 1950
-                        },
-                        {
-                            "name": "Cubanito",
-                            "price": 1950
-                        },
-                        {
-                            "name": "Havana Special",
-                            "price":1500 
-                        },
-                        {
-                            "name": "Bloody Mary",
-                            "price": 1950
-                        },
-                        {
-                            "name": "Mary Pickford",
-                            "price": 1500
-                        },
-                        {
-                            "name": "Sangría de vino tinto",
-                            "price": 1950
-                        },
-                        {
-                            "name": "Sangría de vino blanco",
-                            "price": 1950
-                        },
-                        {
-                            "name": "Jarra de sangría",
-                            "price": 3000
-                        },
-                        {
-                            "name": "Tinto de verano",
-                            "price": 1800
-                        },
-                        {
-                            "name": "Michelada",
-                            "price": 1500
-                        },
-                        {
-                            "name": "Chelada",
-                            "price": 1500
-                        },
-                        {
-                            "name": "Manhattan",
-                            "price": 3000
-                        },
-                        {
-                            "name": "Caipirina",
-                            "price": 2400
-                        },
-                        {
-                            "name": "Caipiroska",
-                            "price": 2400
-                        },
-                        {
-                            "name": "Martini",
-                            "price": 2400
-                        },
-                        {
-                            "name": "Tom collins",
-                            "price": 1500
-                        },
-                        {
-                            "name": "Gin-tónic",
-                            "price": 2400
-                        },
-                        {
-                            "name": "Vodka Tonic",
-                            "price":2400 
-                        },
-                        {
-                            "name": "Moscow Mule",
-                            "price":2400 
-                        },
-                        {
-                            "name": "Limonada",
-                            "price": 1200
-                        },
-                        {
-                            "name": "Limonada frappé",
-                            "price": 1350
-                            
-                        },
-                        {
-                            "name": "Limonada verde frescura",
-                            "price": 1500
-                        }
-                      ],
-                      "beers": [
-                        {
-                            "name": "Cervezas",
-                            "price": 750
-                        },
-                        {
-                            "name": "Cervezas Heineken",
-                            "price": 1050
-                        }
-                      ],
-                      "wine_glass": [
-                        {
-                            "name": "Copa de vino tinto/blanco",
-                            "price": 1350
-                        }
-                      ],
-                      "shots": [
-                        {
-                            "name": "Black Russian",
-                            "price": 2100
-                        },
-                        {
-                            "name": "Screwdriver",
-                            "price": 1800
-                        },
-                        {
-                            "name": "Canchánchara",
-                            "price": 1800
-                        },
-                        {
-                            "name": "Concha 7",
-                            "price": 1800
-                        },
-                        {
-                            "name": "Orgasmo",
-                            "price": 2550
-                        },
-                        {
-                            "name": "Aperol Spritz",
-                            "price": 2550
-                            
-                        },
-                        {
-                            "name": "Aperol Negroni",
-                            "price": 2550
-                        },
-                        {
-                            "name": "Negroni",
-                            "price": 2550
-                        },
-                        {
-                            "name": "Aperol collins",
-                            "price": 2550
-                        },
-                        {
-                            "name": "Mimosa",
-                            "price": 2550
-                        },
-                        {
-                            "name": "Margarita",
-                            "price": 2550
-                        },
-                        {
-                            "name": "Presidente seco",
-                            "price": 1800
-                        },
-                        {
-                            "name": "Presidente dulce",
-                            "price": 1800
-                        },
-                        {
-                            "name": "San Francisco",
-                            "price": 1200
-                        }
-                      ]
-                    }
-                  ],
-                  "water": [
-                    {
-                        "name": "Agua natural nacional",
-                        "price": 450
-                    },
-                    {
-                        "name": "Agua natural nacional grande",
-                        "price": 750
-                    },
-                    {
-                        "name": "Agua con gas nacional",
-                        "price": 750
-                    }
-                  ],
-                  "soft_drinks": [
-                    {
-                        "name": "Refrescos",
+                        "name": "Arroz blanco",
                         "price": 600
                     },
                     {
-                        "name": "Refrescos importados",
-                        "price": 750 
+                        "name": "Frijoles negros dormidos",
+                        "price": 600
                     },
                     {
-                        "name": "Bebidas energéticas",
-                        "price": 900
+                        "name": "Vegetales salteados",
+                        "price": 600
+                    },
+                    {
+                        "name": "Tostones de plátano",
+                        "price": 600
+                    },
+                    {
+                        "name": "Boniato frito",
+                        "price": 600
+                    },
+                    {
+                        "name": "Puré de malanga",
+                        "price": 600
+                    },
+                    {
+                        "name": "Plátano maduro frito",
+                        "price": 600
+                    },
+                    {
+                        "name": "Ensalada Buena Salud",
+                        "price": 1500
                     }
-                  ],
-                  "natual_juices": [
+                ],
+                "desserts": [
                     {
-                        "name": "Jugos naturales",
-                        "price": 750
+                        "courses": [
+                            {
+                                "name": "Tartas variadas del día",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Pie de limón",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Helados",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Flan de caramelo",
+                                "price": 1120
+                            }
+                        ]
                     }
-                  ],
-                  "coffees": [
+                ],
+                "liquids": [
                     {
-                        "name": "expresso",
-                        "price": 560
-                    },
-                    {
-                        "name": "americano",
-                        "price": 560
-                    },
-                    {
-                        "name": "Café descafeinado",
-                        "price": 560
-                    },
-                    {
-                        "name": "Café con hielo",
-                        "price": 560
-                    },
-                    {
-                        "name": "cortado",
-                        "price": 560
-                    },
-                    {
-                        "name": "Café con leche",
-                        "price": 700
-                    },
-                    {
-                        "name": "Café bombón",
-                        "price": 700
-                    },
-                    {
-                        "name": "carajillo",
-                        "price": 700
-                    },
-                    {
-                        "name": "Frapuccino",
-                        "price": 840
-                    },
-                    {
-                        "name": "Café Capuccino",
-                        "price": 700
-                    },
-                    {
-                        "name": "Irish coffee",
-                        "price": 1260
-                    },
-                    {
-                        "name": "Té caliente",
-                        "price":420 
-                    },
-                    {
-                        "name": "Té frío",
-                        "price": 420
-                    },
-                    {
-                        "name": "Manzanilla",
-                        "price": 420
-                    },
-                    {
-                        "name": "Menta",
-                        "price":420 
+                        "alcoholic_beverages": [
+                            {
+                                "cocktails": [
+                                    {
+                                        "name": "Mojito",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "Mojito 7 ",
+                                        "price": 2100
+                                    },
+                                    {
+                                        "name": "Cuba libre ",
+                                        "price": 1350
+                                    },
+                                    {
+                                        "name": "Daiquirí",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "Daikirí de frutas",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "Coctel Decamerón",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "Cubata",
+                                        "price": 1350
+                                    },
+                                    {
+                                        "name": "Ron Collins",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "Pina colada",
+                                        "price": 1950
+                                    },
+                                    {
+                                        "name": "Cubanito",
+                                        "price": 1950
+                                    },
+                                    {
+                                        "name": "Havana Special",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "Bloody Mary",
+                                        "price": 1950
+                                    },
+                                    {
+                                        "name": "Mary Pickford",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "Sangría de vino tinto",
+                                        "price": 1950
+                                    },
+                                    {
+                                        "name": "Sangría de vino blanco",
+                                        "price": 1950
+                                    },
+                                    {
+                                        "name": "Jarra de sangría",
+                                        "price": 3000
+                                    },
+                                    {
+                                        "name": "Tinto de verano",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "Michelada",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "Chelada",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "Manhattan",
+                                        "price": 3000
+                                    },
+                                    {
+                                        "name": "Caipirina",
+                                        "price": 2400
+                                    },
+                                    {
+                                        "name": "Caipiroska",
+                                        "price": 2400
+                                    },
+                                    {
+                                        "name": "Martini",
+                                        "price": 2400
+                                    },
+                                    {
+                                        "name": "Tom collins",
+                                        "price": 1500
+                                    },
+                                    {
+                                        "name": "Gin-tónic",
+                                        "price": 2400
+                                    },
+                                    {
+                                        "name": "Vodka Tonic",
+                                        "price": 2400
+                                    },
+                                    {
+                                        "name": "Moscow Mule",
+                                        "price": 2400
+                                    },
+                                    {
+                                        "name": "Limonada",
+                                        "price": 1200
+                                    },
+                                    {
+                                        "name": "Limonada frappé",
+                                        "price": 1350
+                                    },
+                                    {
+                                        "name": "Limonada verde frescura",
+                                        "price": 1500
+                                    }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "Cervezas",
+                                        "price": 750
+                                    },
+                                    {
+                                        "name": "Cervezas Heineken",
+                                        "price": 1050
+                                    }
+                                ],
+                                "wine_glass": [
+                                    {
+                                        "name": "Copa de vino tinto/blanco",
+                                        "price": 1350
+                                    }
+                                ],
+                                "shots": [
+                                    {
+                                        "name": "Black Russian",
+                                        "price": 2100
+                                    },
+                                    {
+                                        "name": "Screwdriver",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "Canchánchara",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "Concha 7",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "Orgasmo",
+                                        "price": 2550
+                                    },
+                                    {
+                                        "name": "Aperol Spritz",
+                                        "price": 2550
+                                    },
+                                    {
+                                        "name": "Aperol Negroni",
+                                        "price": 2550
+                                    },
+                                    {
+                                        "name": "Negroni",
+                                        "price": 2550
+                                    },
+                                    {
+                                        "name": "Aperol collins",
+                                        "price": 2550
+                                    },
+                                    {
+                                        "name": "Mimosa",
+                                        "price": 2550
+                                    },
+                                    {
+                                        "name": "Margarita",
+                                        "price": 2550
+                                    },
+                                    {
+                                        "name": "Presidente seco",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "Presidente dulce",
+                                        "price": 1800
+                                    },
+                                    {
+                                        "name": "San Francisco",
+                                        "price": 1200
+                                    }
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua natural nacional",
+                                "price": 450
+                            },
+                            {
+                                "name": "Agua natural nacional grande",
+                                "price": 750
+                            },
+                            {
+                                "name": "Agua con gas nacional",
+                                "price": 750
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Refrescos",
+                                "price": 600
+                            },
+                            {
+                                "name": "Refrescos importados",
+                                "price": 750
+                            },
+                            {
+                                "name": "Bebidas energéticas",
+                                "price": 900
+                            }
+                        ],
+                        "natual_juices": [
+                            {
+                                "name": "Jugos naturales",
+                                "price": 750
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "expresso",
+                                "price": 560
+                            },
+                            {
+                                "name": "americano",
+                                "price": 560
+                            },
+                            {
+                                "name": "Café descafeinado",
+                                "price": 560
+                            },
+                            {
+                                "name": "Café con hielo",
+                                "price": 560
+                            },
+                            {
+                                "name": "cortado",
+                                "price": 560
+                            },
+                            {
+                                "name": "Café con leche",
+                                "price": 700
+                            },
+                            {
+                                "name": "Café bombón",
+                                "price": 700
+                            },
+                            {
+                                "name": "carajillo",
+                                "price": 700
+                            },
+                            {
+                                "name": "Frapuccino",
+                                "price": 840
+                            },
+                            {
+                                "name": "Café Capuccino",
+                                "price": 700
+                            },
+                            {
+                                "name": "Irish coffee",
+                                "price": 1260
+                            },
+                            {
+                                "name": "Té caliente",
+                                "price": 420
+                            },
+                            {
+                                "name": "Té frío",
+                                "price": 420
+                            },
+                            {
+                                "name": "Manzanilla",
+                                "price": 420
+                            },
+                            {
+                                "name": "Menta",
+                                "price": 420
+                            }
+                        ]
                     }
-                  ]
-                }
-              ]
+                ]
             }
-        }    
-    } 
-} 
+        }
+    }
+}

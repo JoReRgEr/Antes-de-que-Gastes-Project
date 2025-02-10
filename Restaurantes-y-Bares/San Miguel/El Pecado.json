@@ -1,154 +1,156 @@
 {
-    "General info":{
-        "name":"El Pecado",
-        "Phone number":"76795921",
-        "Type":"Bar-Restaurante",
-        "Specialty":"Comida Mixta",
-        "Website":null,
-        "Schedule":"Lunes-Domingo 11am-11pm",
-        "Payment methods":"Efectivo-Transferecia",
-        "Capacity":"media",
-        "Location": {
-            "Provincia":"La Habana",
-            "Municipio":"San Miguel del Padron",
-            "Direccion":"calle Matos #152 % Fernanda y Central, La Fernanda"
-        },
-        "Facilities":{
-            "Parking":null,
-            "Wifi":null,
-            "Delivery":"12m-9pm",
-            "Reservation":"52828577"
-        },
-        "menu_details": {
-            "kind_of_food": ["variada", "criolla"],
-            "menu_card": {
-                "menu_sections": {
-                  "starters": [
-                    {
-                      "courses": [
-                        {
-                          "name": "Aceitunas",
-                            "price":350
-                        },
-                        {
-                          "name": "Entremes de jamon y queso",
-                            "price":300
-                        },
-                        {
-                          "name": "Bolitas de queso",
-                            "price":350
-                        },
-                        {
-                          "name": "Papitas fritas",
-                            "price":350
-                        },
-                        {
-                          "name": "Croquetas",
-                            "price":340
-                        },
-                        {
-                          "name": "Fajitas de pollo",
-                            "price":500
-                        },
-                        {
-                          "name": "Eperelan de pescado",
-                            "price":600
-                        },
-                        {
-                          "name": "Coctel de camaron",
-                            "price":570
-                        },
-                        {
-                          "name": "Tostones de jamon y queso",
-                            "price":380
-                        },
-                        {
-                          "name": "Tostones de atun",
-                            "price":450
-                        },
-                        {
-                          "name": "Picadera Pecado",
-                            "price":1200
-                        }
-                      ]
-                    }
-                  ],
-                  "main_courses": [
-                    {
-                        "courses": [
-                          {
-                            "name": "Cerdo grille",
-                            "price":650
-                        },
-                        {
-                          "name": "Masas ritas",
-                            "price":750
-                        },
-                        {
-                          "name": "Solomillo de cerdo",
-                            "price":720
-                        },
-                        {
-                          "name": "Costillas en salsa BBQ",
-                            "price":600
-                        },
-                        {
-                          "name": "Bistec Uruguayo de cerdo",
-                            "price":850
-                        },
-                        {
-                          "name": "Pechuga grille",
-                            "price":650
-                        },
-                        {
-                          "name": "Pechuga princesa",
-                            "price":800
-                        },
-                        {
-                          "name": "Pechuga Gordon blue",
-                            "price":850
-                        },
-                        {
-                          "name": "Filete de pescado",
-                            "price":730
-                        },
-                        {
-                          "name": "Pescado canciller",
-                            "price":950
-                        },
-                        {
-                          "name": "Pescado Jhonbill",
-                            "price":1200
-                        },
-                        {
-                          "name": "Pescado empanado",
-                            "price":780
-                        },
-                        {
-                          "name": "Ropa vieja",
-                            "price":650
-                        },
-                        {
-                          "name": "Vaca frita",
-                            "price":720
-                        },
-                        {
-                          "name": "Filete de res encebollado",
-                            "price":750
-                        },
-                        {
-                          "name": "Uruguayo de res",
-                            "price":730
-                        },
-                        {
-                          "name": "Camarones",
-                            "price":750
-                        }
-                      ]
-                    }
-                  ]
+  "General info": {
+    "name": "El Pecado",
+    "Phone number": "76795921",
+    "Type": "Bar-Restaurante",
+    "Specialty": "Comida Mixta",
+    "Website": null,
+    "Schedule": "Lunes-Domingo 11am-11pm",
+    "Payment methods": "Efectivo-Transferecia",
+    "Capacity": "media",
+    "Location": {
+      "Provincia": "La Habana",
+      "Municipio": "San Miguel del Padron",
+      "Direccion": "calle Matos #152 % Fernanda y Central, La Fernanda"
+    },
+    "Facilities": {
+      "Parking": null,
+      "Wifi": null,
+      "Delivery": "12m-9pm",
+      "Reservation": "52828577"
+    },
+    "menu_details": {
+      "kind_of_food": [
+        "criolla"
+      ],
+      "menu_card": {
+        "menu_sections": {
+          "starters": [
+            {
+              "courses": [
+                {
+                  "name": "Aceitunas",
+                  "price": 350
+                },
+                {
+                  "name": "Entremes de jamon y queso",
+                  "price": 300
+                },
+                {
+                  "name": "Bolitas de queso",
+                  "price": 350
+                },
+                {
+                  "name": "Papitas fritas",
+                  "price": 350
+                },
+                {
+                  "name": "Croquetas",
+                  "price": 340
+                },
+                {
+                  "name": "Fajitas de pollo",
+                  "price": 500
+                },
+                {
+                  "name": "Eperelan de pescado",
+                  "price": 600
+                },
+                {
+                  "name": "Coctel de camaron",
+                  "price": 570
+                },
+                {
+                  "name": "Tostones de jamon y queso",
+                  "price": 380
+                },
+                {
+                  "name": "Tostones de atun",
+                  "price": 450
+                },
+                {
+                  "name": "Picadera Pecado",
+                  "price": 1200
                 }
-            }    
+              ]
+            }
+          ],
+          "main_courses": [
+            {
+              "courses": [
+                {
+                  "name": "Cerdo grille",
+                  "price": 650
+                },
+                {
+                  "name": "Masas ritas",
+                  "price": 750
+                },
+                {
+                  "name": "Solomillo de cerdo",
+                  "price": 720
+                },
+                {
+                  "name": "Costillas en salsa BBQ",
+                  "price": 600
+                },
+                {
+                  "name": "Bistec Uruguayo de cerdo",
+                  "price": 850
+                },
+                {
+                  "name": "Pechuga grille",
+                  "price": 650
+                },
+                {
+                  "name": "Pechuga princesa",
+                  "price": 800
+                },
+                {
+                  "name": "Pechuga Gordon blue",
+                  "price": 850
+                },
+                {
+                  "name": "Filete de pescado",
+                  "price": 730
+                },
+                {
+                  "name": "Pescado canciller",
+                  "price": 950
+                },
+                {
+                  "name": "Pescado Jhonbill",
+                  "price": 1200
+                },
+                {
+                  "name": "Pescado empanado",
+                  "price": 780
+                },
+                {
+                  "name": "Ropa vieja",
+                  "price": 650
+                },
+                {
+                  "name": "Vaca frita",
+                  "price": 720
+                },
+                {
+                  "name": "Filete de res encebollado",
+                  "price": 750
+                },
+                {
+                  "name": "Uruguayo de res",
+                  "price": 730
+                },
+                {
+                  "name": "Camarones",
+                  "price": 750
+                }
+              ]
+            }
+          ]
         }
+      }
     }
+  }
 }

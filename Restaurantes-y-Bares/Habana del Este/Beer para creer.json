@@ -1,194 +1,197 @@
 {
-    "Place":"Beer para creer",
-    "Address":"Centro comercial Falcon, Alamar",
-    "Municipality":"Habana del Este",
-    "Classification":"Bar-Cafeteria",
-    "Specialization":"Comida mixta",
-    "Property":"Privado",
-    "Schedule":"10h00 - 21h00 (Todos los dias)",
-    "Ratings":"Null",
-    "Reservations":"False",
-    "Delivery":"False",
-    "Delivery area":"False",
-    "Phone":"Null",
-    "Accounts or website":"Null",
-    "Payment method":"Tarjeta o efectivo (MN o moneda extranjera)",
-    "Capacity":15,
-    "Parking":"True",
-    "Wifi":"False",
-    "Smoking area":"True",
-    
-    "menu_details": {
-        "kind_of_food": ["variada", "italiana", "americana", "criolla"],
-        "menu_card": {
-            "menu_sections": {
-              "breads": [
-                {
-                  "courses": [
-                    {
-                      "name":"Hamurguesa simple",
-                      "price":450
-                    },
-                    {
-                      "name":"Hamburguesa especial",
-                      "price":550
-                    },
-                    {
-                      "name":"Sandwich pinareno",
-                      "price":900
-                    },
-                    {
-                      "name":"Croquetas del Chef",
-                      "price":650
-                    },
-                    {
-                      "name":"Pan con lechon",
-                      "price":350
-                    },
-                    {
-                      "name":"Sandwish cubano con lechon",
-                      "price":950
-                    }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Fajitas de pollo",
-                      "price": 850
-                    },
-                    {
-                      "name": "Spaghettis napolitanos",
-                      "price": 520
-                    },
-                    {
-                      "name": "Arroz frito",
-                      "price": 800
-                    },
-                    {
-                      "name": "Masas de cerdo fritas",
-                      "price": 1350
-                    },
-                    {
-                      "name": "Ropa vieja de cerdo",
-                      "price": 1400
-                    },
-                    {
-                      "name": "Fricase de cerdo",
-                      "price": 1400
-                    },
-                    {
-                      "name": "Bistec de cerdo grille",
-                      "price": 850
-                    },
-                    {
-                      "name": "Bistec de cerdo Princesa",
-                      "price": 1100
-                    },
-                    {
-                      "name": "Milanesa de cerdo",
-                      "price": 1100
-                    },
-                    {
-                      "name": "Envoltino de cerdo",
-                      "price": 1250
-                    },
-                    {
-                      "name": "Lomo ahumado",
-                      "price": 1000
-                    },
-                    {
-                      "name": "Lonjas de cerdo asadas al carbon",
-                      "price": 1300
-                    },
-                    {
-                      "name": "Uruguayo de cerdo",
-                      "price": 1150
-                    },
-                    {
-                      "name": "Escalope de cerdo",
-                      "price": 950
-                    },
-                    {
-                      "name": "Gordon Blue de cerdo",
-                      "price": 1250
-                    },
-                    {
-                      "name": "Bistec de pollo grille",
-                      "price": 850
-                    },
-                    {
-                      "name": "Bistec de pollo gratinado",
-                      "price": 1200
-                    },
-                    {
-                      "name": "Fricase de pollo",
-                      "price": 1400
-                    },
-                    {
-                      "name": "Arroz a la chorrera",
-                      "price": 1400
-                    },
-                    {
-                      "name": "Pollo chiflado",
-                      "price": 850
-                    }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Pizza de queso blanco",
-                      "price": 160
-                    },
-                    {
-                      "name": "Pizza de queso gouda",
-                      "price": 250
-                    }
-                  ]
-                }
-              ],
-              "additions": [
-                {
-                  "name": "Jamon",
-                  "price": 100
-                },
-                {
-                  "name": "Queso blanco",
-                  "price": 80
-                },
-                {
-                  "name": "Cebolla",
-                  "price": 120
-                },
-                {
-                  "name": "Chorizo",
-                  "price": 100
-                }
-              ],
-              "rations": [
-                {
-                  "name":"Arroz blanco",
-                  "price":250
-                },
-                {
-                  "name":"Arroz moro",
-                  "price":180
-                },
-                {
-                  "name":"Vianda frita",
-                  "price":100
-                },
-                {
-                  "name":"Ensalada de vegetales",
-                  "price":80
-                }
-              ]
-            }
-        }    
+  "Place": "Beer para creer",
+  "Address": "Centro comercial Falcon, Alamar",
+  "Municipality": "Habana del Este",
+  "Classification": "Bar-Cafeteria",
+  "Specialization": "Comida mixta",
+  "Property": "Privado",
+  "Schedule": "10h00 - 21h00 (Todos los dias)",
+  "Ratings": "Null",
+  "Reservations": "False",
+  "Delivery": "False",
+  "Delivery area": "False",
+  "Phone": "Null",
+  "Accounts or website": "Null",
+  "Payment method": "Tarjeta o efectivo (MN o moneda extranjera)",
+  "Capacity": 15,
+  "Parking": "True",
+  "Wifi": "False",
+  "Smoking area": "True",
+  "menu_details": {
+    "kind_of_food": [
+      "italiana",
+      "americana",
+      "criolla"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "breads": [
+          {
+            "courses": [
+              {
+                "name": "Hamurguesa simple",
+                "price": 450
+              },
+              {
+                "name": "Hamburguesa especial",
+                "price": 550
+              },
+              {
+                "name": "Sandwich pinareno",
+                "price": 900
+              },
+              {
+                "name": "Croquetas del Chef",
+                "price": 650
+              },
+              {
+                "name": "Pan con lechon",
+                "price": 350
+              },
+              {
+                "name": "Sandwish cubano con lechon",
+                "price": 950
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Fajitas de pollo",
+                "price": 850
+              },
+              {
+                "name": "Spaghettis napolitanos",
+                "price": 520
+              },
+              {
+                "name": "Arroz frito",
+                "price": 800
+              },
+              {
+                "name": "Masas de cerdo fritas",
+                "price": 1350
+              },
+              {
+                "name": "Ropa vieja de cerdo",
+                "price": 1400
+              },
+              {
+                "name": "Fricase de cerdo",
+                "price": 1400
+              },
+              {
+                "name": "Bistec de cerdo grille",
+                "price": 850
+              },
+              {
+                "name": "Bistec de cerdo Princesa",
+                "price": 1100
+              },
+              {
+                "name": "Milanesa de cerdo",
+                "price": 1100
+              },
+              {
+                "name": "Envoltino de cerdo",
+                "price": 1250
+              },
+              {
+                "name": "Lomo ahumado",
+                "price": 1000
+              },
+              {
+                "name": "Lonjas de cerdo asadas al carbon",
+                "price": 1300
+              },
+              {
+                "name": "Uruguayo de cerdo",
+                "price": 1150
+              },
+              {
+                "name": "Escalope de cerdo",
+                "price": 950
+              },
+              {
+                "name": "Gordon Blue de cerdo",
+                "price": 1250
+              },
+              {
+                "name": "Bistec de pollo grille",
+                "price": 850
+              },
+              {
+                "name": "Bistec de pollo gratinado",
+                "price": 1200
+              },
+              {
+                "name": "Fricase de pollo",
+                "price": 1400
+              },
+              {
+                "name": "Arroz a la chorrera",
+                "price": 1400
+              },
+              {
+                "name": "Pollo chiflado",
+                "price": 850
+              }
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": "Pizza de queso blanco",
+                "price": 160
+              },
+              {
+                "name": "Pizza de queso gouda",
+                "price": 250
+              }
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "name": "Jamon",
+            "price": 100
+          },
+          {
+            "name": "Queso blanco",
+            "price": 80
+          },
+          {
+            "name": "Cebolla",
+            "price": 120
+          },
+          {
+            "name": "Chorizo",
+            "price": 100
+          }
+        ],
+        "rations": [
+          {
+            "name": "Arroz blanco",
+            "price": 250
+          },
+          {
+            "name": "Arroz moro",
+            "price": 180
+          },
+          {
+            "name": "Vianda frita",
+            "price": 100
+          },
+          {
+            "name": "Ensalada de vegetales",
+            "price": 80
+          }
+        ]
+      }
     }
+  }
 }

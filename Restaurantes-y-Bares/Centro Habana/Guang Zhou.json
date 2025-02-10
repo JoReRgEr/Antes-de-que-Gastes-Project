@@ -37,7 +37,11 @@
         "usd"
     ],
     "menu_details": {
-        "kind_of_food": ["variada", "italiana", "criolla"],
+        "kind_of_food": [
+            "asiatica",
+            "italiana",
+            "criolla"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -47,62 +51,89 @@
                             {
                                 "name": "Pollo a la plancha",
                                 "price": 1800,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "Cerdo a la plancha",
                                 "price": 2000,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Res a la plancha",
                                 "price": 2100,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "Pescado a la plancha",
                                 "price": 2100,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Pollo Grille",
                                 "price": 1500,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "Pescado Grille",
                                 "price": 1500,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Marisco a la plancha",
                                 "price": 3100,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "De la Tierra",
                                 "price": 4200,
-                                "main_ingredients": ["cerdo", "res"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "Del Mar",
                                 "price": 5500,
-                                "main_ingredients": ["pescado", "marisco"]
+                                "main_ingredients": [
+                                    "pescado",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Mar y Tierra",
                                 "price": 5900,
-                                "main_ingredients": ["cerdo", "pescado"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Cazuela de Mariscos",
                                 "price": 5575,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Cerdo Grille",
                                 "price": 1650,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             }
                         ]
                     }
@@ -113,12 +144,18 @@
                             {
                                 "name": "Pizza Napolitana con queso blanco",
                                 "price": 1150.00,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Pizza Napolitana con queso Gouda",
                                 "price": 1250.00,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             }
                         ]
                     }
@@ -129,7 +166,10 @@
                             {
                                 "name": "Espaguetis Napolitanos",
                                 "price": 1080.00,
-                                "main_ingredients": ["pasta", "queso"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             }
                         ]
                     }
@@ -222,16 +262,16 @@
                         "price": 1900
                     },
                     {
-                        "name": "Chop Suey de vegetales" ,
+                        "name": "Chop Suey de vegetales",
                         "price": 800.00
                     },
                     {
                         "name": "Viandas fritas del día",
-                        "price":  300
+                        "price": 300
                     },
                     {
                         "name": "Yuca con mojo",
-                        "price":2500.00
+                        "price": 2500.00
                     },
                     {
                         "name": "Ensalada mixta",
@@ -423,6 +463,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

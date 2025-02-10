@@ -35,7 +35,10 @@
         "usd"
     ],
     "menu_details": {
-        "kind_of_food": ["variada", "asiatica"],
+        "kind_of_food": [
+            "criolla",
+            "asiatica"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -43,69 +46,105 @@
                     {
                         "courses": [
                             {
-                                "name":"Jiaozi Ravioles",
+                                "name": "Jiaozi Ravioles",
                                 "price": 1350,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
-                                "name":"Bao",
+                                "name": "Bao",
                                 "price": 700,
-                                "main_ingredients": ["harina", "vegetales", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "vegetales",
+                                    "variados"
+                                ]
                             },
                             {
-                                "name":"Mia Especial Tallarines",
+                                "name": "Mia Especial Tallarines",
                                 "price": 1100,
-                                "main_ingredients": ["pasta", "vegetales", "variados"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "vegetales",
+                                    "variados"
+                                ]
                             },
                             {
-                                "name":"Arroz Frito Especial",
+                                "name": "Arroz Frito Especial",
                                 "price": 1100,
-                                "main_ingredients": ["grano", "variados"]
+                                "main_ingredients": [
+                                    "grano",
+                                    "variados"
+                                ]
                             },
                             {
-                                "name":"Siumi",
+                                "name": "Siumi",
                                 "price": 1200,
-                                "main_ingredients": ["vegetales", "variados"]
+                                "main_ingredients": [
+                                    "vegetales",
+                                    "variados"
+                                ]
                             },
                             {
-                                "name":"Chunkun Rollitos de Primavera",
+                                "name": "Chunkun Rollitos de Primavera",
                                 "price": 1050,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
-                                "name":"Sopa China ",
+                                "name": "Sopa China ",
                                 "price": 990,
-                                "main_ingredients": ["pasta", "vegetales", "variados"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "vegetales",
+                                    "variados"
+                                ]
                             },
                             {
-                                "name":"Lomo Ahumado",
+                                "name": "Lomo Ahumado",
                                 "price": 2000,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
-                                "name":"Mariscos",
+                                "name": "Mariscos",
                                 "price": 2500,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
-                                "name":"Mar y Tierra",
+                                "name": "Mar y Tierra",
                                 "price": 3850,
-                                "main_ingredients": ["cerdo", "pescado"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "pescado"
+                                ]
                             },
                             {
-                                "name":"Camarones",
+                                "name": "Camarones",
                                 "price": 3600,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
-                                "name":"Pescado",
+                                "name": "Pescado",
                                 "price": 1650,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
-                                "name":"Fajitas de Pechuga", 
+                                "name": "Fajitas de Pechuga",
                                 "price": 2200,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             }
                         ]
                     }
@@ -165,6 +204,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

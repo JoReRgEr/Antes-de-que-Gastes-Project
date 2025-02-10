@@ -1,200 +1,223 @@
 {
-    "name": "El Cocal",
-    "address": "Dirección completa del restaurante",
-    "schedule": {
-      "monday": {"open": "12:00", "close": "24:00"},
-      "tuesday": {"open": null, "close": null},
-      "wednesday": {"open": null, "close": null},
-      "thursday": {"open": "12:00", "close": "24:00"},
-      "friday": {"open": "12:00", "close": "24:00"},
-      "saturday": {"open": "12:00", "close": "24:00"},
-      "sunday": {"open": "12:00", "close": "24:00"}
+  "name": "El Cocal",
+  "address": "Dirección completa del restaurante",
+  "schedule": {
+    "monday": {
+      "open": "12:00",
+      "close": "24:00"
     },
-    "phone_number": "76822199",
-    "website": {
-      "website": null,
-      "instagram": null,
-      "facebook": null
+    "tuesday": {
+      "open": null,
+      "close": null
     },
-    "classification": "Categoría del restaurante (ej: Casual, Lujo, Familiar)",
-    "type_establishment": "restaurante",
-    "specialty": "cubana",
-    "parking": true,
-    "reservations": false,
-    "payment_methods": {
-      "cash_national": true,
-      "digital_transfer_national": true,
-      "usd_cash": true,
-      "usd_transfer": true,
-      "mlc": true
+    "wednesday": {
+      "open": null,
+      "close": null
     },
-    "free_wifi": false,
-    "delivery_areas": [
-      null
+    "thursday": {
+      "open": "12:00",
+      "close": "24:00"
+    },
+    "friday": {
+      "open": "12:00",
+      "close": "24:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "close": "24:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "close": "24:00"
+    }
+  },
+  "phone_number": "76822199",
+  "website": {
+    "website": null,
+    "instagram": null,
+    "facebook": null
+  },
+  "classification": "Categoría del restaurante (ej: Casual, Lujo, Familiar)",
+  "type_establishment": "restaurante",
+  "specialty": "cubana",
+  "parking": true,
+  "reservations": false,
+  "payment_methods": {
+    "cash_national": true,
+    "digital_transfer_national": true,
+    "usd_cash": true,
+    "usd_transfer": true,
+    "mlc": true
+  },
+  "free_wifi": false,
+  "delivery_areas": [
+    null
+  ],
+  "power_generator": "Sí",
+  "capacity": "mucha",
+  "menu_details": {
+    "kind_of_food": [
+      "criolla",
+      "italiana"
     ],
-    "power_generator": "Sí" ,
-    "capacity": "mucha",
-    
-    "menu_details": {
-        "kind_of_food": ["variada", "italiana"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name": "Croquetas", 
-                      "price": 600.00
-                    },
-                    {
-                      "name": "Bolitas de queso", 
-                      "price": 650.00
-                    },
-                    {
-                      "name": "Ensalada de Atun", 
-                      "price": 1000.00
-                    },
-                    {
-                      "name": "Toston de queso", 
-                      "price": 600.00
-                    },
-                    {
-                      "name": "Toston de jamon y queso", 
-                      "price": 600.00
-                    },
-                    {
-                      "name": "Toston de Atun", 
-                      "price": 1000.00
-                    },
-                    {
-                      "name": "Crema de queso", 
-                      "price": 550.00
-                    },
-                    {
-                      "name": "Crema Aurora", 
-                      "price": 600.00
-                    },
-                    {
-                      "name": "Crema Virginia", 
-                      "price": 650.00
-                    },
-                    {
-                      "name": "Crema Mixta", 
-                      "price": 700.00
-                    },
-                    {
-                      "name": "Coctel Camaron", 
-                      "price": 1500.00
-                    },
-                    {
-                      "name": "Empellas", 
-                      "price": 550.00
-                    }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Eperlan Pechuga", 
-                      "price": 1600.00
-                    },
-                    {
-                      "name": "Eperlan Pescado", 
-                      "price": 2000.00
-                    }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Pizza de Queso", 
-                      "price": 1200.00
-                    },
-                    {
-                      "name": "Pizza de Jamon", 
-                      "price": 1400.00
-                    },
-                    {
-                      "name": "Pizza Hawaiiana", 
-                      "price": 1500.00
-                    }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name":"lasaña",
-                      "price": 800
-                    },
-                    {
-                      "name":"lasaña de queso gouda",
-                      "price": 1200
-                    },
-                    {
-                      "name":"espaguetti con queso gouda",
-                      "price": 900
-                    },
-                    {
-                      "name":"espaguetti",
-                      "price": 600
-                    }
-                  ]
-                }
-              ],
-              "additions": [
-                {
-                  "name": "queso", 
-                  "price": 500
-                },
-                {
-                  "name": "jamon", 
-                  "price": 300
-                },
-                {
-                  "name": "piña", 
-                  "price": 150
-                },
-                {
-                  "name": "camaron", 
-                  "price": 1500
-                },
-                {
-                  "name": "atun", 
-                  "price": 1000
-                },
-                {
-                  "name": "cebolla", 
-                  "price": 20
-                }
-              ],
-              "rations": [
-                {
-                  "name": "yuca", 
-                  "price": 400.00
-                },
-                {
-                  "name": "Toston", 
-                  "price": 400.00
-                }
-              ],
-              "desserts": [
-                {
-                  "courses": [
-                    {
-                      "name": "Flan", 
-                      "price": 500.00
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
-    },
-    "service_charge_percentage": 10
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "Croquetas",
+                "price": 600.00
+              },
+              {
+                "name": "Bolitas de queso",
+                "price": 650.00
+              },
+              {
+                "name": "Ensalada de Atun",
+                "price": 1000.00
+              },
+              {
+                "name": "Toston de queso",
+                "price": 600.00
+              },
+              {
+                "name": "Toston de jamon y queso",
+                "price": 600.00
+              },
+              {
+                "name": "Toston de Atun",
+                "price": 1000.00
+              },
+              {
+                "name": "Crema de queso",
+                "price": 550.00
+              },
+              {
+                "name": "Crema Aurora",
+                "price": 600.00
+              },
+              {
+                "name": "Crema Virginia",
+                "price": 650.00
+              },
+              {
+                "name": "Crema Mixta",
+                "price": 700.00
+              },
+              {
+                "name": "Coctel Camaron",
+                "price": 1500.00
+              },
+              {
+                "name": "Empellas",
+                "price": 550.00
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Eperlan Pechuga",
+                "price": 1600.00
+              },
+              {
+                "name": "Eperlan Pescado",
+                "price": 2000.00
+              }
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": "Pizza de Queso",
+                "price": 1200.00
+              },
+              {
+                "name": "Pizza de Jamon",
+                "price": 1400.00
+              },
+              {
+                "name": "Pizza Hawaiiana",
+                "price": 1500.00
+              }
+            ]
+          }
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": "lasaña",
+                "price": 800
+              },
+              {
+                "name": "lasaña de queso gouda",
+                "price": 1200
+              },
+              {
+                "name": "espaguetti con queso gouda",
+                "price": 900
+              },
+              {
+                "name": "espaguetti",
+                "price": 600
+              }
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "name": "queso",
+            "price": 500
+          },
+          {
+            "name": "jamon",
+            "price": 300
+          },
+          {
+            "name": "piña",
+            "price": 150
+          },
+          {
+            "name": "camaron",
+            "price": 1500
+          },
+          {
+            "name": "atun",
+            "price": 1000
+          },
+          {
+            "name": "cebolla",
+            "price": 20
+          }
+        ],
+        "rations": [
+          {
+            "name": "yuca",
+            "price": 400.00
+          },
+          {
+            "name": "Toston",
+            "price": 400.00
+          }
+        ],
+        "desserts": [
+          {
+            "courses": [
+              {
+                "name": "Flan",
+                "price": 500.00
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "service_charge_percentage": 10
 }

@@ -1,35 +1,29 @@
 {
     "type": "Bar-Restaurante-Cafeteria",
-    "name": "Distrito 25", 
+    "name": "Distrito 25",
     "location": {
         "address": "Calle 25 entre M y N, Vedado",
         "municipe": "Plaza de la Revolucion",
         "province": "La Habana"
     },
     "sector": "privado",
-    
     "qualification": 3.5,
-    
-    "specialized_food": ["Comida mexicana"],
-
-    "payment method": ["Efectivo", "Transferencia"],
-    
+    "specialized_food": [
+        "Comida mexicana"
+    ],
+    "payment method": [
+        "Efectivo",
+        "Transferencia"
+    ],
     "phone": 52831416,
-    
     "capacity": 50,
-    
-    "reservation": true ,
-
+    "reservation": true,
     "parking": true,
-
     "delivery": false,
-
     "wifi": false,
-
     "electric generator": false,
-    
     "hours": {
-        "monday": "11:00 am - 10:00 pm",  
+        "monday": "11:00 am - 10:00 pm",
         "tuesday": "11:00 am - 10:00 pm",
         "wednesday": "11:00 am - 10:00 pm",
         "thursday": "11:00 am - 10:00 pm",
@@ -38,418 +32,424 @@
         "sunday": "11:00 am - 10:00 pm"
     },
     "menu_details": {
-        "kind_of_food": ["variada", "criolla", "italiana", "mexicana"],
+        "kind_of_food": [
+            "criolla",
+            "italiana",
+            "mexicana"
+        ],
         "menu_card": {
             "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
+                "starters": [
                     {
-                        "name": "Nachos",
-                        "price": 400
-                    },
-                    {
-                        "name": "Nachos Ranchero",
-                        "price": 650
-                    },
-                    {
-                        "name": "Chilaquile pollo",
-                        "price": 650
-                    },
-                    {
-                        "name": "Tostón de jamón y queso",
-                        "price": 550
-                    },
-                    {
-                        "name": "Tostón Tomasa",
-                        "price": 700
-                    },
-                    {
-                        "name": "Tostón camarón",
-                        "price": 800
-                    },
-                    {
-                        "name": "Tostón cangrejo",
-                        "price": 900
-                    },
-                    {
-                        "name": "Ceviche pescado",
-                        "price": 850
-                    },
-                    {
-                        "name": "Crudo camarón",
-                        "price": 900
-                    },
-                    {
-                        "name": "Coctel camarón",
-                        "price": 1000
-                    }, {
-                        "name": "Coctel langosta",
-                        "price": 1500
-                    },
-                    {
-                        "name": "Tabla especial",
-                        "price": 3000
-                    }, {
-                        "name": "Croquetas (5u)",
-                        "price": 600
-                    },
-                    {
-                        "name": "Croquetas (10u)",
-                        "price": 1000 
-                    },
-                    {
-                        "name": "Ostiones",
-                        "price": 500
+                        "courses": [
+                            {
+                                "name": "Nachos",
+                                "price": 400
+                            },
+                            {
+                                "name": "Nachos Ranchero",
+                                "price": 650
+                            },
+                            {
+                                "name": "Chilaquile pollo",
+                                "price": 650
+                            },
+                            {
+                                "name": "Tostón de jamón y queso",
+                                "price": 550
+                            },
+                            {
+                                "name": "Tostón Tomasa",
+                                "price": 700
+                            },
+                            {
+                                "name": "Tostón camarón",
+                                "price": 800
+                            },
+                            {
+                                "name": "Tostón cangrejo",
+                                "price": 900
+                            },
+                            {
+                                "name": "Ceviche pescado",
+                                "price": 850
+                            },
+                            {
+                                "name": "Crudo camarón",
+                                "price": 900
+                            },
+                            {
+                                "name": "Coctel camarón",
+                                "price": 1000
+                            },
+                            {
+                                "name": "Coctel langosta",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Tabla especial",
+                                "price": 3000
+                            },
+                            {
+                                "name": "Croquetas (5u)",
+                                "price": 600
+                            },
+                            {
+                                "name": "Croquetas (10u)",
+                                "price": 1000
+                            },
+                            {
+                                "name": "Ostiones",
+                                "price": 500
+                            }
+                        ]
                     }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
+                ],
+                "main_courses": [
                     {
-                        "name": "Lomo mechado",
-                        "price": 1700
-                    },
-                    {
-                        "name": "Pollo en crema al cajú",
-                        "price": 1800
-                    },
-                    {
-                        "name": "Pollo grillé",
-                        "price": 1500
-                    },
-                    {
-                        "name": "Mar y tierra",
-                        "price": 4000
-                    },
-                    {
-                        "name": "Langosta",
-                        "price": 2000
-                    },
-                    {
-                        "name": "Arroz meloso",
-                        "price": 1800
-                    },
-                    {
-                        "name": "Langostino",
-                        "price": 2000
-                    },
-                    {
-                        "name": "Camarón al gusto",
-                        "price": 1600
-                    },
-                    {
-                        "name": "Filete de pescado",
-                        "price": 1800
-                    },
-                    {
-                        "name": "Pulpo al gusto",
-                        "price": 2000
-                    },
-                    {
-                        "name": "Caldereta de mariscos",
-                        "price": 3500
-                    }, {
-                        "name": "Cerdo en crema de queso al cajún",
-                        "price": 2500
-                    },
-                    {
-                        "name": "Burrito de cerdo",
-                        "price": 900
-                    },
-                    {
-                        "name": "Burrito Tomasa",
-                        "price": 1000
-                    },
-                    {
-                        "name": "Burrito Cangrejo",
-                        "price": 1100
-                    },
-                    {
-                        "name": "Burrito Langosta",
-                        "price": 1500
-                    },
-                    {
-                        "name": "Burrito Camarón",
-                        "price": 1200
-                    },
-                    {
-                        "name": "Súper Burrito",
-                        "price": 2000
+                        "courses": [
+                            {
+                                "name": "Lomo mechado",
+                                "price": 1700
+                            },
+                            {
+                                "name": "Pollo en crema al cajú",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Pollo grillé",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Mar y tierra",
+                                "price": 4000
+                            },
+                            {
+                                "name": "Langosta",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Arroz meloso",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Langostino",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Camarón al gusto",
+                                "price": 1600
+                            },
+                            {
+                                "name": "Filete de pescado",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Pulpo al gusto",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Caldereta de mariscos",
+                                "price": 3500
+                            },
+                            {
+                                "name": "Cerdo en crema de queso al cajún",
+                                "price": 2500
+                            },
+                            {
+                                "name": "Burrito de cerdo",
+                                "price": 900
+                            },
+                            {
+                                "name": "Burrito Tomasa",
+                                "price": 1000
+                            },
+                            {
+                                "name": "Burrito Cangrejo",
+                                "price": 1100
+                            },
+                            {
+                                "name": "Burrito Langosta",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Burrito Camarón",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Súper Burrito",
+                                "price": 2000
+                            }
+                        ]
                     }
-                  ]
-                }
-              ],
-              "tacos": [
-                {
-                    "courses": [
-                        {
-                            "name": "Tacos Chochitos",
-                            "price": 450
-                        },
-                        {
-                            "name": "Tacos Pastor",
-                            "price": 500
-                        },
-                        {
-                            "name": "Tacos Habanero",
-                            "price": 400
-                        },
-                        {
-                            "name": "Tacos Tinga",
-                            "price": 450
-                        },
-                        {
-                            "name": "Tacos caribeños",
-                            "price": 500
-                        },
-                        {
-                            "name": "Tacos Navilio",
-                            "price": 700
-                        }, {
-                            "name": "Tacos Tomasa",
-                            "price": 650
-                        },
-                        {
-                            "name": "Quesadilla ",
-                            "price": 400
-                        }, {
-                            "name": "Taco Estrella",
-                            "price": 2000
-                        }
-                    ]
-                }
-              ],
-              "pizzas": [
-                {
-                    "courses": [
-                        {
-                            "name": "Pizza napolitana",
-                            "price": 800
-                        }
-                    ]
-                }
-              ],
-              "pastas": [
-                {
-                    "courses": [
-                        {
-                            "name": "Espaguetis napolitanos",
-                            "price": 650
-                        },
-                        {
-                            "name": "Espaguetis Fruti D´Mare",
-                            "price": 1000
-                        }
-                    ]
-                }
-              ],
-              "breads": [
-                {
-                    "courses": [
-                        {
-                            "name": " Sandwich campesino",
-                            "price": 750
-                        },
-                        {
-                            "name": "Sandwich pollo",
-                            "price": 550
-                        },
-                        {
-                            "name": "Sandwich jamón y queso",
-                            "price": 500
-                        }
-                    ]
-                }
-              ],
-              "additions": [
-                {
-                    "name": "jamón",
-                    "price":250
-                },
-                {
-                    "name": "queso",
-                    "price": 350
-                },
-                {
-                    "name": "cebolla",
-                    "price": 200
-                },
-                {
-                    "name": "pina",
-                    "price": 150
-                },
-                {
-                    "name": "aceituna",
-                    "price": 300
-                },
-                {
-                    "name": "pimiento",
-                    "price": 200
-                },
-                {
-                    "name": "camarón",
-                    "price": 350
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
+                ],
+                "tacos": [
                     {
-                      "cocktails": [
-                        {
-                            "name": "Servicio Michelada",
-                            "price":200
-                        },
-                        {
-                            "name": "Servicio Chelada",
-                            "price": 150
-                        },
-                        {
-                            "name": "Mojito natural",
-                            "price": 450
-                        },
-                        {
-                            "name": "Mojito moreno",
-                            "price": 600
-                        },
-                        {
-                            "name": "Ron Collins",
-                            "price": 400
-                        },
-                        {
-                            "name": "Daiquirí natural",
-                            "price": 400
-                        },
-                        {
-                            "name": "Daiquirí de fresa",
-                            "price": 500
-                        },
-                        {
-                            "name": "Canchánchara",
-                            "price": 500
-                        },
-                        {
-                            "name": "Cancha",
-                            "price": 550
-                        },
-                        {
-                            "name": "Caipirísima",
-                            "price": 500
-                        },
-                        {
-                            "name": "Caipirina",
-                            "price": 500
-                        },
-                        {
-                            "name": "Caipiroska",
-                            "price": 500
-                        },
-                        {
-                            "name": "Sangría",
-                            "price": 600
-                        },
-                        {
-                            "name": "Pina colada",
-                            "price": 600
-                        },
-                        {
-                            "name": "Gin tonic",
-                            "price": 500
-                        },
-                        {
-                            "name": "Vodka tonic",
-                            "price": 500
-                        },
-                        {
-                            "name": "Blue Lagon",
-                            "price": 550
-                        },
-                        {
-                            "name": "Ballentines 12 anos",
-                            "price": 600
-                        },
-                        {
-                            "name": "Cuba libre ",
-                            "price":450 
-                        },
-                        {
-                            "name": "Limonada",
-                            "price": 350
-                        },
-                        {
-                            "name": "Limonada Frescura",
-                            "price": 400
-                        }
-                      ],
-                      "beers": [
-                        {
-                            "name": "Cerveza nacional",
-                            "price": 350
-                        },
-                        {
-                            "name": "Cerveza importada",
-                            "price": 300
-                            
-                        }
-                      ]
+                        "courses": [
+                            {
+                                "name": "Tacos Chochitos",
+                                "price": 450
+                            },
+                            {
+                                "name": "Tacos Pastor",
+                                "price": 500
+                            },
+                            {
+                                "name": "Tacos Habanero",
+                                "price": 400
+                            },
+                            {
+                                "name": "Tacos Tinga",
+                                "price": 450
+                            },
+                            {
+                                "name": "Tacos caribeños",
+                                "price": 500
+                            },
+                            {
+                                "name": "Tacos Navilio",
+                                "price": 700
+                            },
+                            {
+                                "name": "Tacos Tomasa",
+                                "price": 650
+                            },
+                            {
+                                "name": "Quesadilla ",
+                                "price": 400
+                            },
+                            {
+                                "name": "Taco Estrella",
+                                "price": 2000
+                            }
+                        ]
                     }
-                  ],
-                  "water": [
+                ],
+                "pizzas": [
                     {
-                        "name": "Agua natural",
+                        "courses": [
+                            {
+                                "name": "Pizza napolitana",
+                                "price": 800
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Espaguetis napolitanos",
+                                "price": 650
+                            },
+                            {
+                                "name": "Espaguetis Fruti D´Mare",
+                                "price": 1000
+                            }
+                        ]
+                    }
+                ],
+                "breads": [
+                    {
+                        "courses": [
+                            {
+                                "name": " Sandwich campesino",
+                                "price": 750
+                            },
+                            {
+                                "name": "Sandwich pollo",
+                                "price": 550
+                            },
+                            {
+                                "name": "Sandwich jamón y queso",
+                                "price": 500
+                            }
+                        ]
+                    }
+                ],
+                "additions": [
+                    {
+                        "name": "jamón",
+                        "price": 250
+                    },
+                    {
+                        "name": "queso",
+                        "price": 350
+                    },
+                    {
+                        "name": "cebolla",
                         "price": 200
-                    }
-                  ],
-                  "soft_drinks": [
+                    },
                     {
-                        "name": "Refresco Importado",
+                        "name": "pina",
+                        "price": 150
+                    },
+                    {
+                        "name": "aceituna",
                         "price": 300
                     },
                     {
-                        "name": "Energizante",
-                        "price": 400
+                        "name": "pimiento",
+                        "price": 200
+                    },
+                    {
+                        "name": "camarón",
+                        "price": 350
                     }
-                  ],
-                  "natual_juices": [
+                ],
+                "liquids": [
                     {
-                        "name": "Jugo natural",
-                        "price": 300
-                        
-                    },
-                    {
-                        "name": "Batido de mamey",
-                        "price":700
+                        "alcoholic_beverages": [
+                            {
+                                "cocktails": [
+                                    {
+                                        "name": "Servicio Michelada",
+                                        "price": 200
+                                    },
+                                    {
+                                        "name": "Servicio Chelada",
+                                        "price": 150
+                                    },
+                                    {
+                                        "name": "Mojito natural",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "Mojito moreno",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Ron Collins",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Daiquirí natural",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Daiquirí de fresa",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Canchánchara",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Cancha",
+                                        "price": 550
+                                    },
+                                    {
+                                        "name": "Caipirísima",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Caipirina",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Caipiroska",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Sangría",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Pina colada",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Gin tonic",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Vodka tonic",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Blue Lagon",
+                                        "price": 550
+                                    },
+                                    {
+                                        "name": "Ballentines 12 anos",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Cuba libre ",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "Limonada",
+                                        "price": 350
+                                    },
+                                    {
+                                        "name": "Limonada Frescura",
+                                        "price": 400
+                                    }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "Cerveza nacional",
+                                        "price": 350
+                                    },
+                                    {
+                                        "name": "Cerveza importada",
+                                        "price": 300
+                                    }
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua natural",
+                                "price": 200
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Refresco Importado",
+                                "price": 300
+                            },
+                            {
+                                "name": "Energizante",
+                                "price": 400
+                            }
+                        ],
+                        "natual_juices": [
+                            {
+                                "name": "Jugo natural",
+                                "price": 300
+                            },
+                            {
+                                "name": "Batido de mamey",
+                                "price": 700
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "expresso",
+                                "price": 120
+                            },
+                            {
+                                "name": "cortado",
+                                "price": 180
+                            },
+                            {
+                                "name": "bombón",
+                                "price": 350
+                            },
+                            {
+                                "name": "Capuchino",
+                                "price": 320
+                            },
+                            {
+                                "name": "Frapuchino",
+                                "price": 500
+                            }
+                        ]
                     }
-                  ],
-                  "coffees": [
-                    {
-                        "name": "expresso",
-                        "price": 120
-                    },
-                    {
-                        "name": "cortado",
-                        "price": 180
-                        
-                    },
-                    {
-                        "name": "bombón",
-                        "price":350 
-                    },
-                    {
-                        "name": "Capuchino",
-                        "price": 320
-                    },
-                    {
-                        "name": "Frapuchino",
-                        "price": 500
-                    }
-                  ]
-                }
-              ]
+                ]
             }
-        }    
-    } 
-} 
+        }
+    }
+}

@@ -11,14 +11,17 @@
         }
     },
     "name": "5ta Billar",
-    "type_cuisine": ["Cocteleria","Internacional"],
+    "type_cuisine": [
+        "Cocteleria",
+        "Internacional"
+    ],
     "schedule": {
         "monday": {
             "opening": "13:00",
             "closing": "1:00"
         },
         "tuesday": {
-           "opening": "13:00",
+            "opening": "13:00",
             "closing": "1:00"
         },
         "wednesday": {
@@ -48,393 +51,407 @@
         "qualification_facebook": 5.0
     },
     "reservation_options": true,
-    "social_networks": ["Facebook","Instagram","WhatsApp"],
-    "payment_options": ["Transfermovil","Efectivo"],
-    "service_details": ["Entretenimiento","Billar","A la carta"],
-    
+    "social_networks": [
+        "Facebook",
+        "Instagram",
+        "WhatsApp"
+    ],
+    "payment_options": [
+        "Transfermovil",
+        "Efectivo"
+    ],
+    "service_details": [
+        "Entretenimiento",
+        "Billar",
+        "A la carta"
+    ],
     "menu_details": {
-        "kind_of_food": ["variada", "criolla", "mexicana", "italiana"],
+        "kind_of_food": [
+            "criolla",
+            "mexicana",
+            "italiana"
+        ],
         "menu_card": {
             "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
+                "starters": [
                     {
-                        "name": "CACAHUATES PICANTE",
-                        "price": 110.00
-                    },
-                    {
-                        "name": "TOSTONES RELLENOS J&G",
-                        "price": 750.00
-                    },
-                    {
-                        "name": "TOSTONES RELLENOS ATUN",
-                        "price": 980.00
-                    },
-                    {
-                        "name": "TOSTONES RELLENOS CARNE",
-                        "price": 900.00
-                    },
-                    {
-                        "name": "CROQUETAS BOLA 9",
-                        "price": 650.00
-                    },
-                    {
-                        "name": "BOLITA DDE QUESO",
-                        "price": 850.00
-                    },
-                    {
-                        "name": "FAJITAS DE POLLO",
-                        "price": 920.00
-                    },
-                    {
-                        "name": "EPERLAN",
-                        "price": 950.00
-                    },
-                    {
-                        "name": "ENTREMÉS",
-                        "price": 960.00
-                    },
-                    {
-                        "name": "SURTIDO 5TABILLA",
-                        "price": 1650.00
-                    },
-                    {
-                        "name": "SURTIDO PREMIUM",
-                        "price": 2950.00
-                    },
-                    {
-                        "name": "ROSITAS DE MAIZ",
-                        "price": 600.00
+                        "courses": [
+                            {
+                                "name": "CACAHUATES PICANTE",
+                                "price": 110.00
+                            },
+                            {
+                                "name": "TOSTONES RELLENOS J&G",
+                                "price": 750.00
+                            },
+                            {
+                                "name": "TOSTONES RELLENOS ATUN",
+                                "price": 980.00
+                            },
+                            {
+                                "name": "TOSTONES RELLENOS CARNE",
+                                "price": 900.00
+                            },
+                            {
+                                "name": "CROQUETAS BOLA 9",
+                                "price": 650.00
+                            },
+                            {
+                                "name": "BOLITA DDE QUESO",
+                                "price": 850.00
+                            },
+                            {
+                                "name": "FAJITAS DE POLLO",
+                                "price": 920.00
+                            },
+                            {
+                                "name": "EPERLAN",
+                                "price": 950.00
+                            },
+                            {
+                                "name": "ENTREMÉS",
+                                "price": 960.00
+                            },
+                            {
+                                "name": "SURTIDO 5TABILLA",
+                                "price": 1650.00
+                            },
+                            {
+                                "name": "SURTIDO PREMIUM",
+                                "price": 2950.00
+                            },
+                            {
+                                "name": "ROSITAS DE MAIZ",
+                                "price": 600.00
+                            }
+                        ]
                     }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
+                ],
+                "main_courses": [
                     {
-                        "name": "TACOS DE CERDO",
-                        "price": 950.00
-                    },
-                    {
-                        "name": "POLLO A LA GORDON BLUE",
-                        "price": 1800.00
-                    },
-                    {
-                        "name": "URUGUAYO DE CERDO",
-                        "price": 2100.00
-                    },
-                    {
-                        "name": "BISTEC DE POLLO ENCEBOLLADO",
-                        "price": 1600.00
-                    },
-                    {
-                        "name": "BISTEC DE CERDO ENCEBOLLADO",
-                        "price": 1900.00
-                    },
-                    {
-                        "name": "BROCHETAS DE CERDO AL CARBÓN",
-                        "price": 1800.00
-                    },
-                    {
-                        "name": "BABY CHICKEN",
-                        "price": 960.00
-                    },
-                    {
-                        "name": "KINGS CHICKEN",
-                        "price": 1350.00
-                    },
-                    {
-                        "name": "LOMO DE CERDO ASADO AL CARBÓN",
-                        "price": 1800.00
-                    },
-                    {
-                        "name": "CHORIZADA AL CARBÓN",
-                        "price": 2000.00
-                    },
-                    {
-                        "name": "LA PARRILLADA",
-                        "price": 4950.00
+                        "courses": [
+                            {
+                                "name": "TACOS DE CERDO",
+                                "price": 950.00
+                            },
+                            {
+                                "name": "POLLO A LA GORDON BLUE",
+                                "price": 1800.00
+                            },
+                            {
+                                "name": "URUGUAYO DE CERDO",
+                                "price": 2100.00
+                            },
+                            {
+                                "name": "BISTEC DE POLLO ENCEBOLLADO",
+                                "price": 1600.00
+                            },
+                            {
+                                "name": "BISTEC DE CERDO ENCEBOLLADO",
+                                "price": 1900.00
+                            },
+                            {
+                                "name": "BROCHETAS DE CERDO AL CARBÓN",
+                                "price": 1800.00
+                            },
+                            {
+                                "name": "BABY CHICKEN",
+                                "price": 960.00
+                            },
+                            {
+                                "name": "KINGS CHICKEN",
+                                "price": 1350.00
+                            },
+                            {
+                                "name": "LOMO DE CERDO ASADO AL CARBÓN",
+                                "price": 1800.00
+                            },
+                            {
+                                "name": "CHORIZADA AL CARBÓN",
+                                "price": 2000.00
+                            },
+                            {
+                                "name": "LA PARRILLADA",
+                                "price": 4950.00
+                            }
+                        ]
                     }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                    "courses": [
-                        {
-                            "name": "Focaccia",
-                            "price": 700.00
-                          },
-                          {
-                            "name": "Pizza napolitana",
-                            "price": 1100.00
-                          },
-                          {
-                            "name": "Pizza mixta",
-                            "price": 1600.00
-                          },
-                          {
-                            "name": "Pizza cuatro estaciones",
-                            "price": 1900.00
-                          }
-                    ]
-                }
-              ],
-              "liquids": [
-                {
-                    "alcoholic_beverages": [
-                        {
-                            "cocktails": [
-                                {
-                                    "name": "margarita",
-                                    "price": 400.00
-                                },
-                                {
-                                    "name": "margarita blue",
-                                    "price": 400.00
-                                },
-                                {
-                                    "name": "tequila sunrise",
-                                    "price": 400.00
-                                },
-                                {
-                                    "name": "medusa",
-                                    "price": 650.00
-                                },
-                                {
-                                    "name": "margarita",
-                                    "price": 720.00
-                                },
-                                {
-                                    "name": "margarita blue",
-                                    "price": 780.00
-                                },
-                                {
-                                    "name": "tequila sunrise",
-                                    "price": 780.00
-                                },
-                                {
-                                    "name": "medusa",
-                                    "price": null
-                                },
-                                {
-                                    "name": "servicio chelada",
-                                    "price": 450.00
-                                },
-                                {
-                                    "name": "servicio michelada",
-                                    "price": 350.00
-                                },
-                                {
-                                    "name": "jagger bomb",
-                                    "price": 1200.00
-                                },
-                                {
-                                    "name": "mojito corona",
-                                    "price": 900.00
-                                },
-                                {
-                                    "name": "corona sunrise",
-                                    "price": 880.00
-                                },
-                                {
-                                    "name": "sangria",
-                                    "price": 760.00
-                                },
-                                {
-                                    "name": "jarra de sangria",
-                                    "price": 3720.00
-                                },
-                                {
-                                    "name": "alexander",
-                                    "price": 1000.00
-                                },
-                                {
-                                    "name": "eclipse",
-                                    "price": 1020.00
-                                },
-                                {
-                                    "name": "mai tai",
-                                    "price": 550.00
-                                },
-                                {
-                                    "name": "orgasmo",
-                                    "price": 1080.00
-                                },
-                                {
-                                    "name": "aperol sprits",
-                                    "price": 1650.00
-                                },
-                                {
-                                    "name": "italian sunset",
-                                    "price": 780.00
-                                },
-                                {
-                                    "name": "mimosa",
-                                    "price": 1500.00
-                                }
-                            ],
-                            "beers": [
-                                {
-                                    "name": "Cervezas Nacionales",
-                                    "price": 400.00
-                                },
-                                {
-                                    "name": "Cerveza corona",
-                                    "price": 600.00
-                                },
-                                {
-                                    "name": "Cervezaz importadas",
-                                    "price": 320.00
-                                }
-                            ]
-                        }
-                    ],
-                    "water": [
-                        {
-                            "name": "Agua natural",
-                            "price": 220.00
-                        }
-                    ],
-                    "natual_juices": [
-                        {
-                            "name": "Jugo",
-                            "price": 230.00
-                        },
-                        {
-                            "name": "Limonada frappe",
-                            "price": 300.00
-                        },
-                        {
-                            "name": "Limonada frappe curacao",
-                            "price": 350.00
-                        },
-                        {
-                            "name": "Limonada frappe granadina",
-                            "price": 380.00
-                        },
-                        {
-                            "name": "Limonada frappe melocoton",
-                            "price": 400.00
-                        },
-                        {
-                            "name": "Limonada frappe menta",
-                            "price": 380.00
-                        },
-                        {
-                            "name": "Limonada frappe mora",
-                            "price": 380.00
-                        },
-                        {
-                            "name": "Limonada frappe naranja",
-                            "price": 470.00
-                        },
-                        {
-                            "name": "Limonada frescura (hierbabuena)",
-                            "price": 350.00
-                        },
-                        {
-                            "name": "limonada frappe piña",
-                            "price": 350.00
-                        },
-                        {
-                            "name": "Limonada frappe tropical blue",
-                            "price": 350.00
-                        }
-                    ],
-                    "soft_drinks": [
-                        {
-                            "name": "Malteada",
-                            "price": 250.00
-                        },
-                        {
-                            "name": "San francisco",
-                            "price": 350.00
-                        },
-                        {
-                            "name": "Refresco",
-                            "price": 340.00
-                        },
-                        {
-                            "name": "Malta",
-                            "price": 400.00
-                        },
-                        {
-                            "name": "Red bull",
-                            "price": 750.00
-                        },
-            {
-                            "name": "Kermato",
-                            "price": 680.00
-                        },
-                        {
-                            "name": "Tigon",
-                            "price": 400.00
-                        }
-                    ],
-                  "coffees": [
+                ],
+                "pizzas": [
                     {
-                        "name": "Espresso",
-                        "price": 100.00
-                    },
-                    {
-                        "name": "Americano",
-                        "price": 100.00
-                    },
-                    {
-                        "name": "Cortadito",
-                        "price": 150.00
-                    },
-                    {
-                        "name": "Con Leche",
-                        "price": 200.00
-                    },
-                    {
-                        "name": "Espresso Macchiato",
-                        "price": 180.00
-                    },
-                    {
-                        "name": "Caramel Macchiato",
-                        "price": 250.00
-                    },
-                    {
-                        "name": "Cappuccino",
-                        "price": 220.00
-                    },
-                    {
-                        "name": "Frappuccino",
-                        "price": 500.00
-                    },
-                    {
-                        "name": "Irlandés",
-                        "price": 250.00
-                    },
-                    {
-                        "name": "Caribeño",
-                        "price": 180.00
-                    },
-                    {
-                        "name": "Alma mía",
-                        "price": 180.00
-                    },
-                    {
-                        "name": "Minty Coffee",
-                        "price": 250.00
-                    },
-                    {
-                        "name": "2KF",
-                        "price": 250.00
-                    },
-                    {
-                        "name": "Lujo",
-                        "price": 600.00
+                        "courses": [
+                            {
+                                "name": "Focaccia",
+                                "price": 700.00
+                            },
+                            {
+                                "name": "Pizza napolitana",
+                                "price": 1100.00
+                            },
+                            {
+                                "name": "Pizza mixta",
+                                "price": 1600.00
+                            },
+                            {
+                                "name": "Pizza cuatro estaciones",
+                                "price": 1900.00
+                            }
+                        ]
                     }
-                  ]
-                }
-              ]
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "cocktails": [
+                                    {
+                                        "name": "margarita",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "margarita blue",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "tequila sunrise",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "medusa",
+                                        "price": 650.00
+                                    },
+                                    {
+                                        "name": "margarita",
+                                        "price": 720.00
+                                    },
+                                    {
+                                        "name": "margarita blue",
+                                        "price": 780.00
+                                    },
+                                    {
+                                        "name": "tequila sunrise",
+                                        "price": 780.00
+                                    },
+                                    {
+                                        "name": "medusa",
+                                        "price": null
+                                    },
+                                    {
+                                        "name": "servicio chelada",
+                                        "price": 450.00
+                                    },
+                                    {
+                                        "name": "servicio michelada",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "jagger bomb",
+                                        "price": 1200.00
+                                    },
+                                    {
+                                        "name": "mojito corona",
+                                        "price": 900.00
+                                    },
+                                    {
+                                        "name": "corona sunrise",
+                                        "price": 880.00
+                                    },
+                                    {
+                                        "name": "sangria",
+                                        "price": 760.00
+                                    },
+                                    {
+                                        "name": "jarra de sangria",
+                                        "price": 3720.00
+                                    },
+                                    {
+                                        "name": "alexander",
+                                        "price": 1000.00
+                                    },
+                                    {
+                                        "name": "eclipse",
+                                        "price": 1020.00
+                                    },
+                                    {
+                                        "name": "mai tai",
+                                        "price": 550.00
+                                    },
+                                    {
+                                        "name": "orgasmo",
+                                        "price": 1080.00
+                                    },
+                                    {
+                                        "name": "aperol sprits",
+                                        "price": 1650.00
+                                    },
+                                    {
+                                        "name": "italian sunset",
+                                        "price": 780.00
+                                    },
+                                    {
+                                        "name": "mimosa",
+                                        "price": 1500.00
+                                    }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "Cervezas Nacionales",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Cerveza corona",
+                                        "price": 600.00
+                                    },
+                                    {
+                                        "name": "Cervezaz importadas",
+                                        "price": 320.00
+                                    }
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua natural",
+                                "price": 220.00
+                            }
+                        ],
+                        "natual_juices": [
+                            {
+                                "name": "Jugo",
+                                "price": 230.00
+                            },
+                            {
+                                "name": "Limonada frappe",
+                                "price": 300.00
+                            },
+                            {
+                                "name": "Limonada frappe curacao",
+                                "price": 350.00
+                            },
+                            {
+                                "name": "Limonada frappe granadina",
+                                "price": 380.00
+                            },
+                            {
+                                "name": "Limonada frappe melocoton",
+                                "price": 400.00
+                            },
+                            {
+                                "name": "Limonada frappe menta",
+                                "price": 380.00
+                            },
+                            {
+                                "name": "Limonada frappe mora",
+                                "price": 380.00
+                            },
+                            {
+                                "name": "Limonada frappe naranja",
+                                "price": 470.00
+                            },
+                            {
+                                "name": "Limonada frescura (hierbabuena)",
+                                "price": 350.00
+                            },
+                            {
+                                "name": "limonada frappe piña",
+                                "price": 350.00
+                            },
+                            {
+                                "name": "Limonada frappe tropical blue",
+                                "price": 350.00
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Malteada",
+                                "price": 250.00
+                            },
+                            {
+                                "name": "San francisco",
+                                "price": 350.00
+                            },
+                            {
+                                "name": "Refresco",
+                                "price": 340.00
+                            },
+                            {
+                                "name": "Malta",
+                                "price": 400.00
+                            },
+                            {
+                                "name": "Red bull",
+                                "price": 750.00
+                            },
+                            {
+                                "name": "Kermato",
+                                "price": 680.00
+                            },
+                            {
+                                "name": "Tigon",
+                                "price": 400.00
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "Espresso",
+                                "price": 100.00
+                            },
+                            {
+                                "name": "Americano",
+                                "price": 100.00
+                            },
+                            {
+                                "name": "Cortadito",
+                                "price": 150.00
+                            },
+                            {
+                                "name": "Con Leche",
+                                "price": 200.00
+                            },
+                            {
+                                "name": "Espresso Macchiato",
+                                "price": 180.00
+                            },
+                            {
+                                "name": "Caramel Macchiato",
+                                "price": 250.00
+                            },
+                            {
+                                "name": "Cappuccino",
+                                "price": 220.00
+                            },
+                            {
+                                "name": "Frappuccino",
+                                "price": 500.00
+                            },
+                            {
+                                "name": "Irlandés",
+                                "price": 250.00
+                            },
+                            {
+                                "name": "Caribeño",
+                                "price": 180.00
+                            },
+                            {
+                                "name": "Alma mía",
+                                "price": 180.00
+                            },
+                            {
+                                "name": "Minty Coffee",
+                                "price": 250.00
+                            },
+                            {
+                                "name": "2KF",
+                                "price": 250.00
+                            },
+                            {
+                                "name": "Lujo",
+                                "price": 600.00
+                            }
+                        ]
+                    }
+                ]
             }
-        }    
+        }
     }
 }

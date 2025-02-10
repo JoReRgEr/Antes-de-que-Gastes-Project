@@ -3,7 +3,7 @@
     "name": "El Portico",
     "district": "Centro Habana",
     "coordinates": {
-        "latitude": 23.13385424944992, 
+        "latitude": 23.13385424944992,
         "longitude": -82.36160649338726
     },
     "contact": {
@@ -46,7 +46,9 @@
     },
     "rating": 5.0,
     "intake_capacity": "media",
-    "cuisine": ["cubana"],
+    "cuisine": [
+        "cubana"
+    ],
     "services": {
         "plant": false,
         "child_care": false,
@@ -63,7 +65,9 @@
         "transfer": true
     },
     "menu_details": {
-        "kind_of_food": ["variada"],
+        "kind_of_food": [
+            "criolla"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -73,27 +77,38 @@
                             {
                                 "name": "pollo chiflado",
                                 "price": 400,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "chuleton",
                                 "price": 950,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "papas fritas",
                                 "price": 350,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "name": "croquetas",
                                 "price": 350,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "tostones",
                                 "price": 250,
-                                "main_ingredients": ["fruta"]
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             }
                         ]
                     }
@@ -104,44 +119,44 @@
                             {
                                 "beers": [
                                     {
-                                        "name" : "cerveza dispensada (jarra)",
-                                        "price" : 300
+                                        "name": "cerveza dispensada (jarra)",
+                                        "price": 300
                                     },
                                     {
-                                        "name" : "cerveza dispensada (termo)",
-                                        "price" : 2000
+                                        "name": "cerveza dispensada (termo)",
+                                        "price": 2000
                                     },
                                     {
-                                        "name" : "cerveza parranda",
-                                        "price" : 400
+                                        "name": "cerveza parranda",
+                                        "price": 400
                                     },
                                     {
-                                        "name" : "cerveza hollandia",
-                                        "price" : 200
+                                        "name": "cerveza hollandia",
+                                        "price": 200
                                     },
                                     {
-                                        "name" : "cerveza cacique",
-                                        "price" : 240
+                                        "name": "cerveza cacique",
+                                        "price": 240
                                     },
                                     {
-                                        "name" : "cerveza unlaguer",
-                                        "price" : 200
+                                        "name": "cerveza unlaguer",
+                                        "price": 200
                                     },
                                     {
-                                        "name" : "cerveza La Fria",
-                                        "price" : 180
+                                        "name": "cerveza La Fria",
+                                        "price": 180
                                     },
                                     {
-                                        "name" : "cerveza almara",
-                                        "price" : 180
+                                        "name": "cerveza almara",
+                                        "price": 180
                                     },
                                     {
-                                        "name" : "cerveza bucanero",
-                                        "price" : 240
+                                        "name": "cerveza bucanero",
+                                        "price": 240
                                     },
                                     {
-                                        "name" : "cerveza cristal",
-                                        "price" : 250
+                                        "name": "cerveza cristal",
+                                        "price": 250
                                     }
                                 ]
                             }
@@ -149,6 +164,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

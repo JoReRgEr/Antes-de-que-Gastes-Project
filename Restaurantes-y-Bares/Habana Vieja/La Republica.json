@@ -1,7 +1,9 @@
 {
   "establishment": {
     "classification": {
-      "type": ["restaurante"]
+      "type": [
+        "restaurante"
+      ]
     },
     "name": "La Republica",
     "description": "Restaurante italiano con una amplia gama de platos, bebidas y una atmósfera acogedora.",
@@ -56,7 +58,9 @@
       "facebook": "",
       "instagram": ""
     },
-    "accepted_payment_methods": ["Solo efectivo"],
+    "accepted_payment_methods": [
+      "Solo efectivo"
+    ],
     "delivery_available": false,
     "service_fee": {
       "name": "Sin cargo adicional",
@@ -68,349 +72,430 @@
       "outdoor_seating": false,
       "dine_in": true,
       "takeaway": true,
-      "offers": ["Restaurante"],
-      "local_options": ["Comidas", "Cenas", "Bebidas"],
-      "services": ["Sanitario", "Wifi gratuito"],
-      "ambience": ["Casual", "Acogedor"],
-      "usual_customers": ["Grupos", "Familias"],
-      "planning": ["Reservas"],
+      "offers": [
+        "Restaurante"
+      ],
+      "local_options": [
+        "Comidas",
+        "Cenas",
+        "Bebidas"
+      ],
+      "services": [
+        "Sanitario",
+        "Wifi gratuito"
+      ],
+      "ambience": [
+        "Casual",
+        "Acogedor"
+      ],
+      "usual_customers": [
+        "Grupos",
+        "Familias"
+      ],
+      "planning": [
+        "Reservas"
+      ],
       "children": true,
       "pets": null,
       "parking": null
     },
     "dietary_options": [],
-    "meals": ["Comidas", "Cenas", "Bebidas"],
-    "advantages": ["Reservas", "Restaurante privado", "Acceso para discapacitados", "Sirve alcohol", "Vino y cerveza", "Wifi gratuito", "Restaurantes de no fumadores"],
-    "highlights": ["Platos pequeños", "Acogedor", "Casual", "Bueno para niños", "Bueno para grupos"]
+    "meals": [
+      "Comidas",
+      "Cenas",
+      "Bebidas"
+    ],
+    "advantages": [
+      "Reservas",
+      "Restaurante privado",
+      "Acceso para discapacitados",
+      "Sirve alcohol",
+      "Vino y cerveza",
+      "Wifi gratuito",
+      "Restaurantes de no fumadores"
+    ],
+    "highlights": [
+      "Platos pequeños",
+      "Acogedor",
+      "Casual",
+      "Bueno para niños",
+      "Bueno para grupos"
+    ]
   },
   "menu_details": {
-      "kind_of_food": ["variada", "europa", "italiana"],
-      "healthy_food_options": false,
-      "menu_card": {
-          "menu_sections": {
-            "starters": [
+    "kind_of_food": [
+      "europa",
+      "italiana"
+    ],
+    "healthy_food_options": false,
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
               {
-                "courses": [
-                  {
-                    "name": "Tomate, albahaca y parmigiano",
-                    "price": 840.00
-                  },
-                  {
-                    "name": "Bechamel y mucho queso",
-                    "price": 850.00
-                  },
-                  {
-                    "name": "Focaccia al orégano",
-                    "price": 350.00
-                  },
-                  {
-                    "name": "Selección de embutidos y queso de la casa",
-                    "price": 2700.00
-                  },
-                  {
-                    "name": "Berenjena a la parmesana",
-                    "price": 1600.00
-                  },
-                  {
-                    "name": "Brusqueta de pomodoro gratinada",
-                    "price": 1400.00
-                  },
-                  {
-                    "name": "Ensalada césar de pollo a la parrilla",
-                    "price": 1450.00
-                  },
-                  {
-                    "name": "Ensalada estación",
-                    "price": 650.00
-                  },
-                  {
-                    "name": "Napolitana con jamón y queso",
-                    "price": 650.00
-                  },
-                  {
-                    "name": "A la carbonara",
-                    "price": 1600.00
-                  },
-                  {
-                    "name": "Con crema alfredo y pollo",
-                    "price": 2450.00
-                  },
-                  {
-                    "name": "A la crema de jamón y champiñones",
-                    "price": 1350.00
-                  },
-                  {
-                    "name": "Al gran caruso",
-                    "price": 1850.00
-                  },
-                  {
-                    "name": "Al ajo, aceite de oliva y camarones",
-                    "price": 2250.00
-                  },
-                  {
-                    "name": "Al pesto genovese",
-                    "price": 2100.00
-                  },
-                  {
-                    "name": "Aglio, óleo y peperoncino",
-                    "price": 850.00
-                  }
-                ]
+                "name": "Tomate, albahaca y parmigiano",
+                "price": 840.00
+              },
+              {
+                "name": "Bechamel y mucho queso",
+                "price": 850.00
+              },
+              {
+                "name": "Focaccia al orégano",
+                "price": 350.00
+              },
+              {
+                "name": "Selección de embutidos y queso de la casa",
+                "price": 2700.00
+              },
+              {
+                "name": "Berenjena a la parmesana",
+                "price": 1600.00
+              },
+              {
+                "name": "Brusqueta de pomodoro gratinada",
+                "price": 1400.00
+              },
+              {
+                "name": "Ensalada césar de pollo a la parrilla",
+                "price": 1450.00
+              },
+              {
+                "name": "Ensalada estación",
+                "price": 650.00
+              },
+              {
+                "name": "Napolitana con jamón y queso",
+                "price": 650.00
+              },
+              {
+                "name": "A la carbonara",
+                "price": 1600.00
+              },
+              {
+                "name": "Con crema alfredo y pollo",
+                "price": 2450.00
+              },
+              {
+                "name": "A la crema de jamón y champiñones",
+                "price": 1350.00
+              },
+              {
+                "name": "Al gran caruso",
+                "price": 1850.00
+              },
+              {
+                "name": "Al ajo, aceite de oliva y camarones",
+                "price": 2250.00
+              },
+              {
+                "name": "Al pesto genovese",
+                "price": 2100.00
+              },
+              {
+                "name": "Aglio, óleo y peperoncino",
+                "price": 850.00
               }
-            ],
-            "main_courses": [
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
               {
-                "courses": [
-                  {
-                    "name": "Involtino de cerdo con jamón y queso",
-                    "price": 2700.00
-                  },
-                  {
-                    "name": "Filete de pescado grille",
-                    "price": 2500.00
-                  },
-                  {
-                    "name": "Langosta grille",
-                    "price": 2600.00
-                  },
-                  {
-                    "name": "Langosta asada con camarones",
-                    "price": 3800.00
-                  },
-                  {
-                    "name": "Filete de salmón",
-                    "price": 3300.00
-                  },
-                  {
-                    "name": "Entrecotte grille a la mantequilla y romero",
-                    "price": 7500.00
-                  }
-                ]
+                "name": "Involtino de cerdo con jamón y queso",
+                "price": 2700.00
+              },
+              {
+                "name": "Filete de pescado grille",
+                "price": 2500.00
+              },
+              {
+                "name": "Langosta grille",
+                "price": 2600.00
+              },
+              {
+                "name": "Langosta asada con camarones",
+                "price": 3800.00
+              },
+              {
+                "name": "Filete de salmón",
+                "price": 3300.00
+              },
+              {
+                "name": "Entrecotte grille a la mantequilla y romero",
+                "price": 7500.00
               }
-            ],
-            "pizzas": [
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
               {
-                "courses": [
-                  {
-                    "name": "Pizza margarita",
-                    "price": [750.00, 1500.00]
-                  },
-                  {
-                    "name": "Pizza 4 estaciones",
-                    "price": [1000.00, 2000.00]
-                  },
-                  {
-                    "name": "Pizza atún y cebolla",
-                    "price": [1250.00, 2500.00]
-                  },
-                  {
-                    "name": "Pizza jamón y champiñón",
-                    "price": [1200.00, 2400.00]
-                  },
-                  {
-                    "name": "Pizza hawaiana",
-                    "price": [950.00, 1900.00]
-                  },
-                  {
-                    "name": "Pizza jamón serrano",
-                    "price": [1000.00, 2000.00]
-                  },
-                  {
-                    "name": "Pizza cuatro quesos",
-                    "price": [1350.00, 2700.00]
-                  },
-                  {
-                    "name": "Pizza caprichosa",
-                    "price": [1350.00, 2700.00]
-                  },
-                  {
-                    "name": "Pizza honolulu",
-                    "price": [1135.00, 2270.00]
-                  },
-                  {
-                    "name": "Calzone",
-                    "price": [1100.00, 2200.00]
-                  },
-                  {
-                    "name": "Pizza italiana",
-                    "price": [1175.00, 2350.00]
-                  },
-                  {
-                    "name": "Pizza pepperoni",
-                    "price": [1000.00, 2000.00]
-                  },
-                  {
-                    "name": "Pizza a la aragosta",
-                    "price": [1200.00, 2400.00]
-                  },
-                  {
-                    "name": "Pizza de frutos del mar",
-                    "price": [1250.00, 2500.00]
-                  }
+                "name": "Pizza margarita",
+                "price": [
+                  750.00,
+                  1500.00
                 ]
-              }
-            ],
-            "pastas": [
+              },
               {
-                "courses": [
-                  {
-                    "name": "A la napolitana",
-                    "price": 800.00
-                  },
-                  {
-                    "name": "A la bolognesa",
-                    "price": 1800.00
-                  },
-                  {
-                    "name": "A la arrabiata",
-                    "price": 1000.00
-                  },
-                  {
-                    "name": "A la puttanesca",
-                    "price": 1350.00
-                  },
-                  {
-                    "name": "A la amatriciana",
-                    "price": 1300.00
-                  },
-                  {
-                    "name": "A la marinera",
-                    "price": 2000.00
-                  },
-                  {
-                    "name": "Con atún",
-                    "price": 2200.00
-                  },
-                  {
-                    "name": "A la langosta",
-                    "price": 1670.00
-                  },
-                  {
-                    "name": "Con albóndigas de carne",
-                    "price": 2400.00
-                  },
-                  {
-                    "name": "Penne con albóndigas de carne gratinada",
-                    "price": 2300.00
-                  },
-                  {
-                    "name": "Canelones de jamón",
-                    "price": 1800.00
-                  },
-                  {
-                    "name": "Lasagna carne alfredo",
-                    "price": 2700.00
-                  }
+                "name": "Pizza 4 estaciones",
+                "price": [
+                  1000.00,
+                  2000.00
                 ]
-              }
-            ],
-            "additions": [
-              {
-                "name": "Jamón cocido",
-                "price": 360.00
               },
               {
-                "name": "Jamón serrano",
-                "price": 590.00
+                "name": "Pizza atún y cebolla",
+                "price": [
+                  1250.00,
+                  2500.00
+                ]
               },
               {
-                "name": "Bacon",
-                "price": 260.00
+                "name": "Pizza jamón y champiñón",
+                "price": [
+                  1200.00,
+                  2400.00
+                ]
               },
               {
-                "name": "Salami",
-                "price": 480.00
+                "name": "Pizza hawaiana",
+                "price": [
+                  950.00,
+                  1900.00
+                ]
               },
               {
-                "name": "Atún",
-                "price": 240.00
+                "name": "Pizza jamón serrano",
+                "price": [
+                  1000.00,
+                  2000.00
+                ]
               },
               {
-                "name": "Camarones",
-                "price": 440.00
+                "name": "Pizza cuatro quesos",
+                "price": [
+                  1350.00,
+                  2700.00
+                ]
               },
               {
-                "name": "Queso azul",
-                "price": 420.00
+                "name": "Pizza caprichosa",
+                "price": [
+                  1350.00,
+                  2700.00
+                ]
               },
               {
-                "name": "Piña",
-                "price": 100.00
+                "name": "Pizza honolulu",
+                "price": [
+                  1135.00,
+                  2270.00
+                ]
               },
               {
-                "name": "Queso parmesano",
-                "price": 450.00
+                "name": "Calzone",
+                "price": [
+                  1100.00,
+                  2200.00
+                ]
               },
               {
-                "name": "Queso mozzarella",
-                "price": 440.00
+                "name": "Pizza italiana",
+                "price": [
+                  1175.00,
+                  2350.00
+                ]
               },
               {
-                "name": "Queso gouda",
-                "price": 250.00
+                "name": "Pizza pepperoni",
+                "price": [
+                  1000.00,
+                  2000.00
+                ]
               },
               {
-                "name": "Pimiento",
-                "price": 90.00
+                "name": "Pizza a la aragosta",
+                "price": [
+                  1200.00,
+                  2400.00
+                ]
               },
               {
-                "name": "Cebolla",
-                            "price": 90.00
-                          },
-                          {
-                            "name": "Tomate natural",
-                            "price": 150.00
-                          },
-                          {
-                            "name": "Huevo",
-                            "price": 100.00
-                          },
-                          {
-                            "name": "Champiñones",
-                            "price": 200.00
-                          },
-                          {
-                            "name": "Maíz dulce",
-                            "price": 150.00
-                          },
-                          {
-                            "name": "Aceituna verde o negras",
-                            "price": [150.00, 180.00]
-                          }
-            ],
-            "desserts": [
-              {
-                "courses": [
-                  {
-                    "name": "Brownie con helado",
-                    "price": 800.00
-                  },
-                  {
-                    "name": "Tarta de manzana con helado",
-                    "price": 800.00
-                  },
-                  {
-                    "name": "Tarta de chocolate con helado",
-                    "price": 600.00
-                  },
-                  {
-                    "name": "Flan napolitano",
-                    "price": 800.00
-                  },
-                  {
-                    "name": "Helado de la casa",
-                    "price": 450.00
-                  },
-                  {
-                    "name": "3 leches de la casa",
-                    "price": 1300.00
-                  }
+                "name": "Pizza de frutos del mar",
+                "price": [
+                  1250.00,
+                  2500.00
                 ]
               }
             ]
           }
-      }    
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": "A la napolitana",
+                "price": 800.00
+              },
+              {
+                "name": "A la bolognesa",
+                "price": 1800.00
+              },
+              {
+                "name": "A la arrabiata",
+                "price": 1000.00
+              },
+              {
+                "name": "A la puttanesca",
+                "price": 1350.00
+              },
+              {
+                "name": "A la amatriciana",
+                "price": 1300.00
+              },
+              {
+                "name": "A la marinera",
+                "price": 2000.00
+              },
+              {
+                "name": "Con atún",
+                "price": 2200.00
+              },
+              {
+                "name": "A la langosta",
+                "price": 1670.00
+              },
+              {
+                "name": "Con albóndigas de carne",
+                "price": 2400.00
+              },
+              {
+                "name": "Penne con albóndigas de carne gratinada",
+                "price": 2300.00
+              },
+              {
+                "name": "Canelones de jamón",
+                "price": 1800.00
+              },
+              {
+                "name": "Lasagna carne alfredo",
+                "price": 2700.00
+              }
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "name": "Jamón cocido",
+            "price": 360.00
+          },
+          {
+            "name": "Jamón serrano",
+            "price": 590.00
+          },
+          {
+            "name": "Bacon",
+            "price": 260.00
+          },
+          {
+            "name": "Salami",
+            "price": 480.00
+          },
+          {
+            "name": "Atún",
+            "price": 240.00
+          },
+          {
+            "name": "Camarones",
+            "price": 440.00
+          },
+          {
+            "name": "Queso azul",
+            "price": 420.00
+          },
+          {
+            "name": "Piña",
+            "price": 100.00
+          },
+          {
+            "name": "Queso parmesano",
+            "price": 450.00
+          },
+          {
+            "name": "Queso mozzarella",
+            "price": 440.00
+          },
+          {
+            "name": "Queso gouda",
+            "price": 250.00
+          },
+          {
+            "name": "Pimiento",
+            "price": 90.00
+          },
+          {
+            "name": "Cebolla",
+            "price": 90.00
+          },
+          {
+            "name": "Tomate natural",
+            "price": 150.00
+          },
+          {
+            "name": "Huevo",
+            "price": 100.00
+          },
+          {
+            "name": "Champiñones",
+            "price": 200.00
+          },
+          {
+            "name": "Maíz dulce",
+            "price": 150.00
+          },
+          {
+            "name": "Aceituna verde o negras",
+            "price": [
+              150.00,
+              180.00
+            ]
+          }
+        ],
+        "desserts": [
+          {
+            "courses": [
+              {
+                "name": "Brownie con helado",
+                "price": 800.00
+              },
+              {
+                "name": "Tarta de manzana con helado",
+                "price": 800.00
+              },
+              {
+                "name": "Tarta de chocolate con helado",
+                "price": 600.00
+              },
+              {
+                "name": "Flan napolitano",
+                "price": 800.00
+              },
+              {
+                "name": "Helado de la casa",
+                "price": 450.00
+              },
+              {
+                "name": "3 leches de la casa",
+                "price": 1300.00
+              }
+            ]
+          }
+        ]
+      }
+    }
   }
 }
-              
-                             

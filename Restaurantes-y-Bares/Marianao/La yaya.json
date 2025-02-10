@@ -1,182 +1,200 @@
 {
-    "Name": "La yaya",
-    "Type": "Restaurante",
-    "Phone_Number": "52016522",
-    "Web_Page": [null],
-    "Ownership": "Particular",
-    "Operating_Hours": {
-        "Monday":   ["11:00-11:00"],
-        "Tuesday":  ["11:00-11:00"],
-        "Wendsday": ["11:00-11:00"],
-        "Thursday": ["11:00-11:00"],
-        "Friday":   ["12:00-00:00"],
-        "Saturday": ["12:00-00:00"],
-        "Sunday":   ["12:00-00:00"]
-    }, 
-    "Location": {
-        "District": "Marianano",
-        "Address": "100 Y 51",
-        "Coordinates": "3HJH+G9J"
-    },
-    "Cuisine": "Variada",
-    
-    "menu_details": {
-        "kind_of_food": ["panes", "criolla", "italiana"],
-        "menu_card": {
-            "menu_sections": {
-              "breads": [
-                {
-                  "name": "Hamburguesa",
-                  "price": 400
+  "Name": "La yaya",
+  "Type": "Restaurante",
+  "Phone_Number": "52016522",
+  "Web_Page": [
+    null
+  ],
+  "Ownership": "Particular",
+  "Operating_Hours": {
+    "Monday": [
+      "11:00-11:00"
+    ],
+    "Tuesday": [
+      "11:00-11:00"
+    ],
+    "Wendsday": [
+      "11:00-11:00"
+    ],
+    "Thursday": [
+      "11:00-11:00"
+    ],
+    "Friday": [
+      "12:00-00:00"
+    ],
+    "Saturday": [
+      "12:00-00:00"
+    ],
+    "Sunday": [
+      "12:00-00:00"
+    ]
+  },
+  "Location": {
+    "District": "Marianano",
+    "Address": "100 Y 51",
+    "Coordinates": "3HJH+G9J"
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "panes",
+      "criolla",
+      "italiana"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "breads": [
+          {
+            "name": "Hamburguesa",
+            "price": 400
+          },
+          {
+            "name": "Hamburguesa yuya",
+            "price": 900
+          },
+          {
+            "name": "Pan con jamon",
+            "price": 350
+          },
+          {
+            "name": "Pan con perro",
+            "price": 280
+          }
+        ],
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "Superpicadera",
+                "price": 2500
               },
               {
-                  "name": "Hamburguesa yuya",
-                  "price": 900
+                "name": "Tostones rellenos",
+                "price": 600
               },
               {
-                "name": "Pan con jamon",
-                "price": 350
-            },
-            {
-                "name": "Pan con perro",
+                "name": "Frituras de malanga",
+                "price": 500
+              },
+              {
+                "name": "Papas fritas",
+                "price": 500
+              },
+              {
+                "name": "Croquetas",
+                "price": 600
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Fajitas de pollo con papa",
+                "price": 900
+              }
+            ]
+          }
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": "Spaguettis con queso gouda",
+                "price": 700
+              },
+              {
+                "name": "Spaguettis doble queso",
+                "price": 1000
+              }
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": "Pizza napolitana",
+                "price": 1000
+              },
+              {
+                "name": "Pizza doble queso",
+                "price": 1300
+              },
+              {
+                "name": "Pizza de jamon",
+                "price": 1350
+              }
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "name": "Jamon",
+            "price": 260
+          },
+          {
+            "name": "Queso",
+            "price": 260
+          },
+          {
+            "name": "Salami",
+            "price": 200
+          }
+        ],
+        "desserts": [
+          {
+            "courses": [
+              {
+                "name": "Helados gusto",
+                "price": 1000
+              }
+            ]
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "beers": [
+                  {
+                    "name": "Cervezas importadas",
+                    "price": 250
+                  },
+                  {
+                    "name": "Cerveza Cubelazo",
+                    "price": 2700
+                  },
+                  {
+                    "name": "Termo de cerveza",
+                    "price": 2000
+                  }
+                ]
+              }
+            ],
+            "natual_juices": [
+              {
+                "name": "jugo de lata",
                 "price": 280
-            }
-              ],
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name": "Superpicadera",
-                      "price": 2500
-                  },
-                  {
-                      "name": "Tostones rellenos",
-                      "price": 600
-                  },
-                  {
-                      "name": "Frituras de malanga",
-                      "price": 500
-                  },
-                  {
-                      "name": "Papas fritas",
-                      "price": 500
-                  },
-                  {
-                      "name": "Croquetas",
-                      "price": 600
-                  }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Fajitas de pollo con papa",
-                      "price": 900
-                    }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Spaguettis con queso gouda",
-                      "price": 700
-                  },
-                  {
-                      "name": "Spaguettis doble queso",
-                      "price": 1000
-                  }
-                  ]
-                }
-              ],
-              "pizzas": [
-                  {
-                    "courses": [
-                      {
-                        "name": "Pizza napolitana",
-                        "price": 1000
-                    },
-                    {
-                        "name": "Pizza doble queso",
-                        "price": 1300
-                    },
-                    {
-                        "name": "Pizza de jamon",
-                        "price": 1350
-                    }
-                    ]
-                  }
-              ],
-              "additions": [
-                {
-                  "name": "Jamon",
-                    "price": 260
-                },
-                {
-                  "name": "Queso",
-                    "price": 260
-                },
-                {
-                  "name": "Salami",
-                    "price": 200
-                }
-              ],
-              "desserts": [
-                {
-                  "courses": [
-                    {
-                      "name": "Helados gusto",
-                      "price": 1000
-                    }
-                  ]
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                    {
-                      "beers": [
-                        {
-                          "name": "Cervezas importadas",
-                          "price": 250
-                      },
-                      {
-                          "name": "Cerveza Cubelazo",
-                          "price": 2700
-                      },
-                      {
-                          "name": "Termo de cerveza",
-                          "price": 2000
-                      }
-                      ]
-                    }
-                  ],
-                  "natual_juices": [
-                    {
-                      "name": "jugo de lata",
-                      "price": 280
-                  },
-                  {
-                      "name": "jugos caja",
-                      "price":650
-                  }
-                  ],
-                  "soft_drinks": [
-                    {
-                      "name": "Refrescos Importados",
-                      "price": 250
-                  },
-                  {
-                      "name": "Malta Santa Isabel",
-                      "price": 280
-                  }
-                  ]
-                }
-              ]
-            }
-        }    
+              },
+              {
+                "name": "jugos caja",
+                "price": 650
+              }
+            ],
+            "soft_drinks": [
+              {
+                "name": "Refrescos Importados",
+                "price": 250
+              },
+              {
+                "name": "Malta Santa Isabel",
+                "price": 280
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

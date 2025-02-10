@@ -1,202 +1,239 @@
 {
-    "Place":"D'Mitu",
-    "Location":[
-        {"Address":"#64, Calle 1ra entre Gertrudis y Lagueruela, La Vibora",
-        "Municipality":"10 de Octubre",
-        "Coordinates":null}
+    "Place": "D'Mitu",
+    "Location": [
+        {
+            "Address": "#64, Calle 1ra entre Gertrudis y Lagueruela, La Vibora",
+            "Municipality": "10 de Octubre",
+            "Coordinates": null
+        }
     ],
-    "Classification":"Pizzeria",
-    "Specialization":"Cocina italiana",
-    "Ownership":"Privado",
-    "Schedule":[
-        {"Opening":"10h00",
-        "Closing":"22h00",
-        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    "Classification": "Pizzeria",
+    "Specialization": "Cocina italiana",
+    "Ownership": "Privado",
+    "Schedule": [
+        {
+            "Opening": "10h00",
+            "Closing": "22h00",
+            "Days": [
+                "Lunes",
+                "Martes",
+                "Miercoles",
+                "Jueves",
+                "Viernes",
+                "Sabado",
+                "Domingo"
+            ]
+        }
     ],
-    "Ratings":[
-        {"Tripadvisor":null,
-        "Google Maps":2.5}
+    "Ratings": [
+        {
+            "Tripadvisor": null,
+            "Google Maps": 2.5
+        }
     ],
-    "Reservations":true,
-    "Delivery":[
-        {"Service existence":true,
-        "Delivery area":["La Habana"]}
+    "Reservations": true,
+    "Delivery": [
+        {
+            "Service existence": true,
+            "Delivery area": [
+                "La Habana"
+            ]
+        }
     ],
-    "Phone number":"53578505 / 76988258",
-    "Accounts or website":[
-        {"Facebook":"D'Mytu"},
-        {"Instagram":"@d_mitu.restaurante"},
-        {"Website":null},
-        {"Email":"mgabanchomoreno@gmail.com"}
+    "Phone number": "53578505 / 76988258",
+    "Accounts or website": [
+        {
+            "Facebook": "D'Mytu"
+        },
+        {
+            "Instagram": "@d_mitu.restaurante"
+        },
+        {
+            "Website": null
+        },
+        {
+            "Email": "mgabanchomoreno@gmail.com"
+        }
     ],
-    "Payment":[
-        {"Method":["Tarjeta","Efectivo"],
-        "Accepted currencies":["CUP","USD","EUR","Otras"]}
+    "Payment": [
+        {
+            "Method": [
+                "Tarjeta",
+                "Efectivo"
+            ],
+            "Accepted currencies": [
+                "CUP",
+                "USD",
+                "EUR",
+                "Otras"
+            ]
+        }
     ],
-    "Capacity":16,
-    "Parking service":true,
-    "Wifi":false,
-    "Smoking area":false,
-    
+    "Capacity": 16,
+    "Parking service": true,
+    "Wifi": false,
+    "Smoking area": false,
     "menu_details": {
-        "kind_of_food": ["variada", "criolla"],
+        "kind_of_food": [
+            "criolla"
+        ],
         "menu_card": {
             "menu_sections": {
-              "pizzas": [
-                {
-                    "courses": [
-                      {
-                        "name":"Pizza de queso",
-                    "price":850
-                    },
+                "pizzas": [
                     {
-                        "name":"Pizza de jamon",
-                    "price":1000
-                    },
-                    {
-                        "name":"Pizza de chorizo",
-                    "price":1000
-                    },
-                    {
-                        "name":"Pizza Hawaiana",
-                    "price":1050
-                    },
-                    {
-                        "name":"Pizza Familiar mixta",
-                    "price":2800
-                    },
-                    {
-                        "name":"Pizza Familiar con bordes de queso",
-                    "price":3200
-                    },
-                    {
-                        "name":"Super Pizza de queso",
-                    "price":1200
-                    },
-                    {
-                        "name":"Super Pizza de jamon",
-                    "price":1300
-                    },
-                    {
-                        "name":"Super Pizza de chorizo",
-                    "price":1300
-                    },
-                    {
-                        "name":"Super Pizza Hawaiana",
-                    "price":1300
-                    },
-                    {
-                        "name":"Super Pizza mixta",
-                    "price":2000
-                    },
-                    {
-                        "name":"Calzone D'Mitu",
-                    "price":900
-                    },
-                    {
-                        "name":"Takazo D'Mitu",
-                    "price":1000
-                    },
-                    {
-                        "name":"Pizza D'Mitu",
-                    "price":1400
-                    },
-                    {
-                        "name":"Pastelon a su gusto",
-                    "price":1700
-                    },
-                    {
-                        "name":"Super Takazo",
-                    "price":1900
-                    },
-                    {
-                        "name":"Pizza Sol",
-                    "price":2000
+                        "courses": [
+                            {
+                                "name": "Pizza de queso",
+                                "price": 850
+                            },
+                            {
+                                "name": "Pizza de jamon",
+                                "price": 1000
+                            },
+                            {
+                                "name": "Pizza de chorizo",
+                                "price": 1000
+                            },
+                            {
+                                "name": "Pizza Hawaiana",
+                                "price": 1050
+                            },
+                            {
+                                "name": "Pizza Familiar mixta",
+                                "price": 2800
+                            },
+                            {
+                                "name": "Pizza Familiar con bordes de queso",
+                                "price": 3200
+                            },
+                            {
+                                "name": "Super Pizza de queso",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Super Pizza de jamon",
+                                "price": 1300
+                            },
+                            {
+                                "name": "Super Pizza de chorizo",
+                                "price": 1300
+                            },
+                            {
+                                "name": "Super Pizza Hawaiana",
+                                "price": 1300
+                            },
+                            {
+                                "name": "Super Pizza mixta",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Calzone D'Mitu",
+                                "price": 900
+                            },
+                            {
+                                "name": "Takazo D'Mitu",
+                                "price": 1000
+                            },
+                            {
+                                "name": "Pizza D'Mitu",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Pastelon a su gusto",
+                                "price": 1700
+                            },
+                            {
+                                "name": "Super Takazo",
+                                "price": 1900
+                            },
+                            {
+                                "name": "Pizza Sol",
+                                "price": 2000
+                            }
+                        ]
                     }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                      {
-                        "name":"Fugazzeta D'Mitu",
-                    "price":2100
-                    },
+                ],
+                "pastas": [
                     {
-                        "name":"Canelones",
-                    "price":800
-                    },
-                    {
-                        "name":"Espaghettis",
-                    "price":800
-                    },
-                    {
-                        "name":"Fettuccine",
-                    "price":800
-                    },
-                    {
-                        "name":"Farfalle",
-                    "price":800
-                    },
-                    {
-                        "name":"Lasagna",
-                    "price":900
-                    },
-                    {
-                        "name":"Raviolis",
-                    "price":900
+                        "courses": [
+                            {
+                                "name": "Fugazzeta D'Mitu",
+                                "price": 2100
+                            },
+                            {
+                                "name": "Canelones",
+                                "price": 800
+                            },
+                            {
+                                "name": "Espaghettis",
+                                "price": 800
+                            },
+                            {
+                                "name": "Fettuccine",
+                                "price": 800
+                            },
+                            {
+                                "name": "Farfalle",
+                                "price": 800
+                            },
+                            {
+                                "name": "Lasagna",
+                                "price": 900
+                            },
+                            {
+                                "name": "Raviolis",
+                                "price": 900
+                            }
+                        ]
                     }
-                  ]
-                }
-              ],
-              "additions": [
-              {
-                "name":"Pina",
-            "price":200
-            },
-            {
-                "name":"Cebolla",
-            "price":200
-            },
-            {
-                "name":"Pimiento",
-            "price":200
-            },
-            {
-                "name":"Jamon",
-            "price":300
-            },
-            {
-                "name":"Bacon",
-            "price":500
-            },
-            {
-                "name":"Queso",
-            "price":300
-            },
-            {
-                "name":"Aceituna",
-            "price":350
-            },
-            {
-                "name":"Chorizo",
-            "price":300
-            },
-            {
-                "name":"Champignon",
-            "price":400
-            },
-            {
-                "name":"Atun",
-            "price":450
-            },
-            {
-                "name":"Camaron",
-            "price":600
+                ],
+                "additions": [
+                    {
+                        "name": "Pina",
+                        "price": 200
+                    },
+                    {
+                        "name": "Cebolla",
+                        "price": 200
+                    },
+                    {
+                        "name": "Pimiento",
+                        "price": 200
+                    },
+                    {
+                        "name": "Jamon",
+                        "price": 300
+                    },
+                    {
+                        "name": "Bacon",
+                        "price": 500
+                    },
+                    {
+                        "name": "Queso",
+                        "price": 300
+                    },
+                    {
+                        "name": "Aceituna",
+                        "price": 350
+                    },
+                    {
+                        "name": "Chorizo",
+                        "price": 300
+                    },
+                    {
+                        "name": "Champignon",
+                        "price": 400
+                    },
+                    {
+                        "name": "Atun",
+                        "price": 450
+                    },
+                    {
+                        "name": "Camaron",
+                        "price": 600
+                    }
+                ]
             }
-              ]
-            }
-        }    
+        }
     }
 }

@@ -1,86 +1,87 @@
 {
-    "Place":"Allegro",
-    "Address":"Paseo de la Villa, Villa Panamericana",
-    "Municipality":"Habana del Este",
-    "Classification":"Restaurant",
-    "Specialization":"Comida italiana",
-    "Property":"Estatal",
-    "Schedule":"12h00 - 21h00",
-    "Ratings":"4.0 (Google Maps)",
-    "Reservations":"False",
-    "Delivery":"False",
-    "Delivery area":"False",
-    "Phone":"7661010",
-    "Accounts or website":"False",
-    "Payment method":"Tarjeta o efectivo (MN)",
-    "Capacity":20,
-    "Parking":"False",
-    "Wifi":"False",
-    "Smoking area":"True",
-    
-    "menu_details": {
-        "kind_of_food": ["variada", "italiana"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name":"Crema de queso",
-                      "price":313
-                    },
-                    {
-                      "name":"Crema Aurora",
-                      "price":315
-                    },
-                    {
-                      "name":"Crema Virginia",
-                      "price":329
-                    }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name":"Pizza napolitana",
-                      "price":390
-                    },
-                    {
-                      "name":"Pizza de jamon",
-                      "price":540
-                    },
-                    {
-                      "name":"Pizza de chorizo",
-                      "price":588
-                    },
-                    {
-                      "name":"Pizza de bacon",
-                      "price":735
-                    }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name":"Spaghettis napolitanos",
-                      "price":410
-                    },
-                    {
-                      "name":"Spaghettis de jamon",
-                      "price":570
-                    },
-                    {
-                      "name":"Lazagna de jamon",
-                      "price":550
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
+  "Place": "Allegro",
+  "Address": "Paseo de la Villa, Villa Panamericana",
+  "Municipality": "Habana del Este",
+  "Classification": "Restaurant",
+  "Specialization": "Comida italiana",
+  "Property": "Estatal",
+  "Schedule": "12h00 - 21h00",
+  "Ratings": "4.0 (Google Maps)",
+  "Reservations": "False",
+  "Delivery": "False",
+  "Delivery area": "False",
+  "Phone": "7661010",
+  "Accounts or website": "False",
+  "Payment method": "Tarjeta o efectivo (MN)",
+  "Capacity": 20,
+  "Parking": "False",
+  "Wifi": "False",
+  "Smoking area": "True",
+  "menu_details": {
+    "kind_of_food": [
+      "italiana"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "Crema de queso",
+                "price": 313
+              },
+              {
+                "name": "Crema Aurora",
+                "price": 315
+              },
+              {
+                "name": "Crema Virginia",
+                "price": 329
+              }
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": "Pizza napolitana",
+                "price": 390
+              },
+              {
+                "name": "Pizza de jamon",
+                "price": 540
+              },
+              {
+                "name": "Pizza de chorizo",
+                "price": 588
+              },
+              {
+                "name": "Pizza de bacon",
+                "price": 735
+              }
+            ]
+          }
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": "Spaghettis napolitanos",
+                "price": 410
+              },
+              {
+                "name": "Spaghettis de jamon",
+                "price": 570
+              },
+              {
+                "name": "Lazagna de jamon",
+                "price": 550
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

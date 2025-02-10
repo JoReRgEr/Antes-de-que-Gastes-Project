@@ -36,7 +36,10 @@
         "bitcoin"
     ],
     "menu_details": {
-        "kind_of_food": ["variada", "italiana", "criolla"],
+        "kind_of_food": [
+            "italiana",
+            "criolla"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -46,68 +49,97 @@
                             {
                                 "name": "Desayuno Completo - Full Breakfast",
                                 "price": 1400.00,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "Desayuno Ligero - Light Breakfast",
                                 "price": 1100.00,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             }
                         ]
                     }
                 ],
                 "starters": [
-                    { 
+                    {
                         "courses": [
                             {
                                 "name": "Croquetas de espinaca",
                                 "price": 505.00,
-                                "main_ingredients": ["harina", "vegetales"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "Croquetas de jamón serrano",
                                 "price": 690.00,
-                                "main_ingredients": ["harina", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "Croquetas de pescado",
                                 "price": 600.00,
-                                "main_ingredients": ["harina", "pescado"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Frituras de malanga",
                                 "price": 500.00,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "name": "Adobo de Pescado",
                                 "price": 2700.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Adobo de Pollo",
                                 "price": 1350.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "Tabla de Jamón Serrano (2pax)",
                                 "price": 3000.00,
-                                "main_ingredients": ["jamon"]
+                                "main_ingredients": [
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "Berenjena a la crema con queso parmesano",
                                 "price": 1400.00,
-                                "main_ingredients": ["vegetales", "queso"]
+                                "main_ingredients": [
+                                    "vegetales",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Ceviche de pescado al estilo mediterráneo",
                                 "price": 2400.00,
-                                "main_ingredients": ["pescado", "variados"]
+                                "main_ingredients": [
+                                    "pescado",
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "Tartar de Res",
                                 "price": 4500.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             }
                         ]
                     }
@@ -118,177 +150,262 @@
                             {
                                 "name": "Arroz negro (Pulpo y Camarones)",
                                 "price": 5800.00,
-                                "main_ingredients": ["grano", "marisco"]
+                                "main_ingredients": [
+                                    "grano",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Rissotto de pollo y vegetales",
                                 "price": 3400.00,
-                                "main_ingredients": ["grano", "pollo"]
+                                "main_ingredients": [
+                                    "grano",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "Rissotto de Camarones con champiñón y naranja",
                                 "price": 3800.00,
-                                "main_ingredients": ["grano", "marisco"]
+                                "main_ingredients": [
+                                    "grano",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Rissotto de hongos Porcini",
                                 "price": 4200.00,
-                                "main_ingredients": ["grano", "hongos"]
+                                "main_ingredients": [
+                                    "grano",
+                                    "hongos"
+                                ]
                             },
                             {
                                 "name": "Ropa vieja con plátano frito",
                                 "price": 3700.00,
-                                "main_ingredients": ["res", "fruta"]
+                                "main_ingredients": [
+                                    "res",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "Picadillo a la Cubana",
                                 "price": 3300.00,
-                                "main_ingredients": ["vegetales", "res"]
+                                "main_ingredients": [
+                                    "vegetales",
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "Paella Marinera (2 pax)",
                                 "price": 7700.00,
-                                "main_ingredients": ["grano", "pescado", "marisco"]
+                                "main_ingredients": [
+                                    "grano",
+                                    "pescado",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Paella Mar y Tierra (2 pax)",
                                 "price": 7700.00,
-                                "main_ingredients": ["grano", "cerdo", "pescado"]
+                                "main_ingredients": [
+                                    "grano",
+                                    "cerdo",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Pollo Grillé",
                                 "price": 1600.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "Pollo en crema de coco y curry",
                                 "price": 2800.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "Fajas de pollo con bacon, hongos y frutos secos",
                                 "price": 2400.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "Cerdo Asado a la abuela",
                                 "price": 2900.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Pescado Grillé",
                                 "price": 3000.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Pescado con toque orgánico",
                                 "price": 3600.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Pescado con aroma del trópico",
                                 "price": 3500.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Mechado de Salomillo de cerdo",
                                 "price": 3500.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Solomillo de res al orégano en salsa de champiñón y queso azul",
                                 "price": 6500.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "Bistec de res en Salsa Chimichurri y Vegetales Salteados",
                                 "price": 8000.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "Fajas de res al sésamo",
                                 "price": 7000.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "Cordero a las cinco pimientas",
                                 "price": 5000.00,
-                                "main_ingredients": ["cordero"]
+                                "main_ingredients": [
+                                    "cordero"
+                                ]
                             },
                             {
                                 "name": "Camarón al ajo y ron cubano",
                                 "price": 3200.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Camarón con crema de jengibre y sésamo",
                                 "price": 3500.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Pescador",
                                 "price": 6000.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Tacos de Punta de Res",
                                 "price": 7200.00,
-                                "main_ingredients": ["harina", "res"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "Tacos de Cerdo",
                                 "price": 3300.00,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Tacos Ropa Vieja",
                                 "price": 4250.00,
-                                "main_ingredients": ["harina", "res"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "Calamar a la Romana",
                                 "price": 2300.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Ensalada de Aguacate con Camarones",
                                 "price": 2400.00,
-                                "main_ingredients": ["vegetales", "marisco"]
+                                "main_ingredients": [
+                                    "vegetales",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Carpaccio de tomate con Serrano",
                                 "price": 2150.00,
-                                "main_ingredients": ["jamon", "vegetales"]
+                                "main_ingredients": [
+                                    "jamon",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "Filete de Pescado con salsa de alcaparras y limón",
                                 "price": 3600.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Filete de pescado en salsa de perejil, almejas y vino blanco",
                                 "price": 3600.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Filete de Pescado con arroz negros",
                                 "price": 4300.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Filete de pescado en salsa de kahlua y coco",
                                 "price": 5500.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Caldereta de Mariscos",
                                 "price": 5400.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Langosta Tropical",
                                 "price": 4500.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             }
                         ]
                     }
@@ -299,32 +416,54 @@
                             {
                                 "name": "Al Pesto",
                                 "price": 1700.00,
-                                "main_ingredients": ["pasta", "queso", "vegetales"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "Carbonara",
                                 "price": 2800.00,
-                                "main_ingredients": ["pasta", "queso", "cerdo", "huevo"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "cerdo",
+                                    "huevo"
+                                ]
                             },
                             {
                                 "name": "Bolognesa",
                                 "price": 3000.00,
-                                "main_ingredients": ["pasta", "queso", "res"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "Amatriciana",
                                 "price": 2100.00,
-                                "main_ingredients": ["pasta", "queso"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Puttanesca",
                                 "price": 3000.00,
-                                "main_ingredients": ["pasta", "queso"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Pasta Fungi",
                                 "price": 4200.00,
-                                "main_ingredients": ["pasta", "hongos"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "hongos"
+                                ]
                             }
                         ]
                     }
@@ -778,7 +917,7 @@
                                     },
                                     {
                                         "name": "Long Island",
-                                        "price":1100
+                                        "price": 1100
                                     }
                                 ],
                                 "beers": [
@@ -791,11 +930,11 @@
                                         "price": 800.00
                                     },
                                     {
-                                        "name":"El cubetazo (5 cervezas bien frías)",
+                                        "name": "El cubetazo (5 cervezas bien frías)",
                                         "price": 2750.00
                                     },
                                     {
-                                        "name":"El tulazo",
+                                        "name": "El tulazo",
                                         "price": 1000.00
                                     }
                                 ]
@@ -829,7 +968,7 @@
                                 "price": 580
                             },
                             {
-                                "name": "Energética", 
+                                "name": "Energética",
                                 "price": 700
                             }
                         ],
@@ -876,6 +1015,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

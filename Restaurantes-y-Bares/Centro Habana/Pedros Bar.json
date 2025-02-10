@@ -3,7 +3,7 @@
     "name": "Pedros Bar",
     "district": "Centro Habana",
     "coordinates": {
-        "latitude": 23.136930631399565, 
+        "latitude": 23.136930631399565,
         "longitude": -82.36181409182808
     },
     "contact": {
@@ -46,7 +46,10 @@
     },
     "rating": 5.0,
     "intake_capacity": "media",
-    "cuisine": ["cocteleria", "italiana"],
+    "cuisine": [
+        "cocteleria",
+        "italiana"
+    ],
     "services": {
         "plant": false,
         "child_care": false,
@@ -63,7 +66,10 @@
         "transfer": true
     },
     "menu_details": {
-        "kind_of_food": ["variada"],
+        "kind_of_food": [
+            "criolla",
+            "italiana"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -73,32 +79,46 @@
                             {
                                 "name": "papas fritas",
                                 "price": 1150,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "name": "frituras de malanga",
                                 "price": 800,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "name": "croquetas",
                                 "price": 1050,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "dados de queso",
                                 "price": 1350,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "fajitas de pollo",
                                 "price": 1450,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "tabla mixta",
                                 "price": 4600,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -108,18 +128,30 @@
                         "courses": [
                             {
                                 "name": "pizza de queso",
-                                "price": 1200, 
-                                "main_ingredients": ["harina", "queso"]
+                                "price": 1200,
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "pizza hawaiana",
-                                "price": 1500, 
-                                "main_ingredients": ["harina", "queso", "jamon", "fruta"]
+                                "price": 1500,
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "pizza de vegetales",
-                                "price": 1500, 
-                                "main_ingredients": ["harina", "queso", "vegetales"]
+                                "price": 1500,
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             }
                         ]
                     }
@@ -130,22 +162,35 @@
                             {
                                 "name": "sandwich de jamon y queso",
                                 "price": 1200,
-                                "main_ingredients": ["harina", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "sandwich de pechuga",
                                 "price": 1550,
-                                "main_ingredients": ["harina", "pollo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "sandwich de atun",
                                 "price": 1500,
-                                "main_ingredients": ["harina", "pescado"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "sandwich de lechon",
                                 "price": 1550,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             }
                         ]
                     }
@@ -156,85 +201,85 @@
                             {
                                 "beers": [
                                     {
-                                        "name" : "jarra de cerveza",
-                                        "price" : 350
+                                        "name": "jarra de cerveza",
+                                        "price": 350
                                     },
                                     {
-                                        "name" : "cerveza",
-                                        "price" : 600
+                                        "name": "cerveza",
+                                        "price": 600
                                     },
                                     {
-                                        "name" : "vasos de ceveza",
-                                        "price" : 200
+                                        "name": "vasos de ceveza",
+                                        "price": 200
                                     }
                                 ],
                                 "cocktails": [
                                     {
-                                        "name" : "canchanchara",
-                                        "price" : 1150
+                                        "name": "canchanchara",
+                                        "price": 1150
                                     },
                                     {
-                                        "name" : "mojito",
-                                        "price" : 1100
+                                        "name": "mojito",
+                                        "price": 1100
                                     },
                                     {
-                                        "name" : "caipis",
-                                        "price" : 1100
+                                        "name": "caipis",
+                                        "price": 1100
                                     },
                                     {
-                                        "name" : "daiquiri",
-                                        "price" : 1100
+                                        "name": "daiquiri",
+                                        "price": 1100
                                     },
                                     {
-                                        "name" : "gin tonic",
-                                        "price" : 1450
+                                        "name": "gin tonic",
+                                        "price": 1450
                                     },
                                     {
-                                        "name" : "margarita",
-                                        "price" : 1050
+                                        "name": "margarita",
+                                        "price": 1050
                                     },
                                     {
-                                        "name" : "cubata",
-                                        "price" : 1050
+                                        "name": "cubata",
+                                        "price": 1050
                                     },
                                     {
-                                        "name" : "sangria",
-                                        "price" : 1350
+                                        "name": "sangria",
+                                        "price": 1350
                                     },
                                     {
-                                        "name" : "piña colada",
-                                        "price" : 1100
+                                        "name": "piña colada",
+                                        "price": 1100
                                     },
                                     {
-                                        "name" : "servicio de michelada",
-                                        "price" : 300
+                                        "name": "servicio de michelada",
+                                        "price": 300
                                     },
                                     {
-                                        "name" : "servicio de chelada",
-                                        "price" : 400
+                                        "name": "servicio de chelada",
+                                        "price": 400
                                     }
                                 ]
                             }
                         ],
                         "water": [
                             {
-                                "name" : "agua natural",
-                                "price" : 250
+                                "name": "agua natural",
+                                "price": 250
                             }
                         ],
                         "soft_drinks": [
                             {
-                                "name" : "refresco",
-                                "price" : 500
+                                "name": "refresco",
+                                "price": 500
                             },
                             {
-                                "name" : "energizante",
-                                "price" : 500
+                                "name": "energizante",
+                                "price": 500
                             }
                         ]
                     }
                 ]
             }
-        }    
+        }
     }
 }

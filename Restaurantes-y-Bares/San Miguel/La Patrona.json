@@ -1,138 +1,187 @@
 {
-    "general_info": {
-        "name":"La Patrona",
-        "township": "San Miguel del Padrón",
-        "adress":"Calzada de Guines en San Francisco de Paula",
-        "local":"cafeteria",
-        "open":"0800",
-        "close":"0000",
-        "days_of_week":["martes","miércoles","jueves","viernes","sábado","domingo"],
-        "sector":"privado",
-        "capability":6,
-        "social_network":["Facebook"],
-        "years": 0
-
-        
-    },
-    "economy": {
-        "payment_methods":["efectivo","transferencia"],
-        "online_reservation":true,
-        "tips_included":false,
-        "delivery":true
-    },
-    "menu_details": {
-        "kind_of_food": ["variada", "criolla", "italiana"],
-        "menu_card": {
-            "menu_sections": {
-              "breads": [
-                {
-                  "courses": [
-                    {
-                      "name":["hamburguesa clasica"],
-                "price":500
-                    },
-                    {
-                      "name":["hamburguesa sencilla"],
-                "price":700
-                    },
-                    {
-                      "name":["hamburguesa grosera"],
-                "price":1200
-                    },
-                    {
-                      "name":["hamburguesa patrona"],
-                "price":1000
-                    }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                    "courses": [
-                      {
-                        "name":["bistec uruguayo"],
-                  "price":2600
-                       },
-                       {
-                        "name":["ropa vieja"],
-                  "price":1400
-                       },
-                       {
-                        "name":["escalope de cerdo"],
-                  "price":1800
-                       },
-                       {
-                        "name":["bistec de cerdo"],
-                  "price":1600
-                       },
-                       {
-                        "name":["arroz frito"],
-                  "price":1000
-                       }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name":["lasaña"],
-                "price":1250
-                    },
-                    {
-                      "name":["canelones"],
-                "price":1100
-                    },
-                    {
-                      "name":["espaguetti carbonara"],
-                "price":1500
-                    }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                     "name":["pizza La Patrona"],
-                "price":1800
-                    }
-                  ]
-                }
-              ],
-              "desserts": [
-                {
-                  "courses": [
-                    {
-                      "name":["flan"],
-                "price":200
-                    },
-                    {
-                      "name":["copa lolita"],
-                "price":400
-                    },
-                    {
-                      "name":["cesta helado"],
-                "price":500
-                    },
-                    {
-                      "name":["tres gracias"],
-                "price":300
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
-    },
-    "social": {
-        "kids_seat":false,
-        "blackout_alternatives":false,
-        "entertainment":[],
-        "peak_hour":["almuerzo"],
-        "tourism":false,
-        "pets":false,
-        "bathroom":false,
-        "heated":true
+  "general_info": {
+    "name": "La Patrona",
+    "township": "San Miguel del Padrón",
+    "adress": "Calzada de Guines en San Francisco de Paula",
+    "local": "cafeteria",
+    "open": "0800",
+    "close": "0000",
+    "days_of_week": [
+      "martes",
+      "miércoles",
+      "jueves",
+      "viernes",
+      "sábado",
+      "domingo"
+    ],
+    "sector": "privado",
+    "capability": 6,
+    "social_network": [
+      "Facebook"
+    ],
+    "years": 0
+  },
+  "economy": {
+    "payment_methods": [
+      "efectivo",
+      "transferencia"
+    ],
+    "online_reservation": true,
+    "tips_included": false,
+    "delivery": true
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "criolla",
+      "italiana"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "breads": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "hamburguesa clasica"
+                ],
+                "price": 500
+              },
+              {
+                "name": [
+                  "hamburguesa sencilla"
+                ],
+                "price": 700
+              },
+              {
+                "name": [
+                  "hamburguesa grosera"
+                ],
+                "price": 1200
+              },
+              {
+                "name": [
+                  "hamburguesa patrona"
+                ],
+                "price": 1000
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "bistec uruguayo"
+                ],
+                "price": 2600
+              },
+              {
+                "name": [
+                  "ropa vieja"
+                ],
+                "price": 1400
+              },
+              {
+                "name": [
+                  "escalope de cerdo"
+                ],
+                "price": 1800
+              },
+              {
+                "name": [
+                  "bistec de cerdo"
+                ],
+                "price": 1600
+              },
+              {
+                "name": [
+                  "arroz frito"
+                ],
+                "price": 1000
+              }
+            ]
+          }
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "lasaña"
+                ],
+                "price": 1250
+              },
+              {
+                "name": [
+                  "canelones"
+                ],
+                "price": 1100
+              },
+              {
+                "name": [
+                  "espaguetti carbonara"
+                ],
+                "price": 1500
+              }
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "pizza La Patrona"
+                ],
+                "price": 1800
+              }
+            ]
+          }
+        ],
+        "desserts": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "flan"
+                ],
+                "price": 200
+              },
+              {
+                "name": [
+                  "copa lolita"
+                ],
+                "price": 400
+              },
+              {
+                "name": [
+                  "cesta helado"
+                ],
+                "price": 500
+              },
+              {
+                "name": [
+                  "tres gracias"
+                ],
+                "price": 300
+              }
+            ]
+          }
+        ]
+      }
     }
+  },
+  "social": {
+    "kids_seat": false,
+    "blackout_alternatives": false,
+    "entertainment": [],
+    "peak_hour": [
+      "almuerzo"
+    ],
+    "tourism": false,
+    "pets": false,
+    "bathroom": false,
+    "heated": true
+  }
 }

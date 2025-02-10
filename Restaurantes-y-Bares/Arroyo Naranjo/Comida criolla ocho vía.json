@@ -43,21 +43,30 @@
     "location_details": {
         "rating": {
             "google": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "tripadvisor": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "facebook": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             }
         },
@@ -66,22 +75,27 @@
         "festive_decorations": false,
         "home_uniform": "casual",
         "collaboration_for_events": false,
-        "type_of_concurrent_clients": ["familias"],
+        "type_of_concurrent_clients": [
+            "familias"
+        ],
         "energy_backup": true
     },
     "services": {
         "social_networks": {
-            "web_page": [ false,
+            "web_page": [
+                false,
                 {
                     "url": null
                 }
             ],
-            "facebook": [ true,
+            "facebook": [
+                true,
                 {
                     "url": "https://www.facebook.com/groups/470098482168254/"
                 }
             ],
-            "instagram": [ false,
+            "instagram": [
+                false,
                 {
                     "url": null
                 }
@@ -91,7 +105,7 @@
         "child_care": false,
         "disable_support": false,
         "wifi": false,
-        "parking":  true,
+        "parking": true,
         "delivery": true,
         "reserves": true,
         "rent_from_the_client": true,
@@ -103,12 +117,11 @@
     },
     "pay_meth": {
         "cash": true,
-        "transfer":
-            {
-                "transfermovil": true,
-                "visa": true,
-                "mastercard": true
-            },
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
         "currency": {
             "cup": true,
             "usd": true,
@@ -118,125 +131,127 @@
         "10% charge": false
     },
     "menu_details": {
-        "kind_of_food": ["variada", "criolla"],
+        "kind_of_food": [
+            "criolla"
+        ],
         "menu_card": {
             "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
+                "starters": [
                     {
-                        "name": "Croquetas de queso",
-                       "price": 500.00
-                      },
-                      {
-                        "name": "Tostones Rellenos",
-                       "price": 800.00
-                      },
-                      {
-                        "name": "Tostones Tradicionales",
-                       "price": 250.00
-                      },
-                      {
-                        "name": "Papas Fritas",
-                       "price": 800.00
-                      },
-                      {
-                        "name": "Platanos Fritos",
-                       "price": 200.00
-                      }
-                  ]
-                }
-              ],
-              "main_course": [
-                {
-                    "courses": [
-                        {
-                            "name": "Bistec de Higado(460 gramos)",
-                           "price": 1600.00
-                          },
-                          {
-                            "name": "Higado Italiana(460 gramos)",
-                           "price": 1600.00
-                          },
-                          {
-                            "name": "Bistec de Cerdo(460 gramos)",
-                           "price": 2200.00
-                          },
-                          {
-                            "name": "Chuleta de Cerdo(460 gramos)",
-                           "price": 2200.00
-                          },
-                          {
-                            "name": "Fricase de Cerdo(430 gramos)",
-                           "price": 2500.00
-                          },
-                          {
-                            "name": "Masa Frita(430 gramos)",
-                           "price": 2200.00
-                          },
-                          {
-                            "name": "Fricase de Carnero(960 gramos)",
-                           "price": 2200.00
-                          },
-                          {
-                            "name": "Bistec Uruguayo)",
-                           "price": 2800.00
-                          },
-                          {
-                            "name": "Pescado Entero a la Marinera",
-                           "price": 2200.00
-                          },
-                          {
-                            "name": "Ropa Vieja(460 gramos)",
-                           "price": 2700.00
-                          },
-                          {
-                            "name": "Camaron Enchilado",
-                           "price": 2700.00
-                          },
-                          {
-                            "name": "Langosta Grille(690 gramos)",
-                           "price": 2700.00
-                          },
-                          {
-                            "name": "Langosta Enchilada(690 gramos)",
-                           "price": 2800.00
-                          },
-                          {
-                            "name": "Pescado Empanado",
-                           "price": 2500.00
-                          },
-                          {
-                            "name": "Enchilado de Cangrejo",
-                           "price": 1800.00
-                          },
-                          {
-                            "name": "Bistec de Pollo",
-                           "price": 2000.00
-                          },
-                          {
-                            "name": "Pechuga de Pollo",
-                           "price": 2500.00
-                          },
-                          {
-                            "name": "Costilla Frita o Fricase",
-                           "price": 2200.00
-                          }
-                    ]
-                }
-              ],
-              "rations": [
-                {
-                    "name": "Arroz Moro",
-                   "price": 200.00
-                  },
-                  {
-                    "name": "Ensalada Mixta",
-                   "price": 300.00
-                  }
-              ]
+                        "courses": [
+                            {
+                                "name": "Croquetas de queso",
+                                "price": 500.00
+                            },
+                            {
+                                "name": "Tostones Rellenos",
+                                "price": 800.00
+                            },
+                            {
+                                "name": "Tostones Tradicionales",
+                                "price": 250.00
+                            },
+                            {
+                                "name": "Papas Fritas",
+                                "price": 800.00
+                            },
+                            {
+                                "name": "Platanos Fritos",
+                                "price": 200.00
+                            }
+                        ]
+                    }
+                ],
+                "main_course": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Bistec de Higado(460 gramos)",
+                                "price": 1600.00
+                            },
+                            {
+                                "name": "Higado Italiana(460 gramos)",
+                                "price": 1600.00
+                            },
+                            {
+                                "name": "Bistec de Cerdo(460 gramos)",
+                                "price": 2200.00
+                            },
+                            {
+                                "name": "Chuleta de Cerdo(460 gramos)",
+                                "price": 2200.00
+                            },
+                            {
+                                "name": "Fricase de Cerdo(430 gramos)",
+                                "price": 2500.00
+                            },
+                            {
+                                "name": "Masa Frita(430 gramos)",
+                                "price": 2200.00
+                            },
+                            {
+                                "name": "Fricase de Carnero(960 gramos)",
+                                "price": 2200.00
+                            },
+                            {
+                                "name": "Bistec Uruguayo)",
+                                "price": 2800.00
+                            },
+                            {
+                                "name": "Pescado Entero a la Marinera",
+                                "price": 2200.00
+                            },
+                            {
+                                "name": "Ropa Vieja(460 gramos)",
+                                "price": 2700.00
+                            },
+                            {
+                                "name": "Camaron Enchilado",
+                                "price": 2700.00
+                            },
+                            {
+                                "name": "Langosta Grille(690 gramos)",
+                                "price": 2700.00
+                            },
+                            {
+                                "name": "Langosta Enchilada(690 gramos)",
+                                "price": 2800.00
+                            },
+                            {
+                                "name": "Pescado Empanado",
+                                "price": 2500.00
+                            },
+                            {
+                                "name": "Enchilado de Cangrejo",
+                                "price": 1800.00
+                            },
+                            {
+                                "name": "Bistec de Pollo",
+                                "price": 2000.00
+                            },
+                            {
+                                "name": "Pechuga de Pollo",
+                                "price": 2500.00
+                            },
+                            {
+                                "name": "Costilla Frita o Fricase",
+                                "price": 2200.00
+                            }
+                        ]
+                    }
+                ],
+                "rations": [
+                    {
+                        "name": "Arroz Moro",
+                        "price": 200.00
+                    },
+                    {
+                        "name": "Ensalada Mixta",
+                        "price": 300.00
+                    }
+                ]
             }
-        }    
+        }
     },
-    "service_charge_percentage": 0 
+    "service_charge_percentage": 0
 }

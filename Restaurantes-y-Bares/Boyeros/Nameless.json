@@ -43,21 +43,30 @@
     "location_details": {
         "rating": {
             "google": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "tripadvisor": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "facebook": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             }
         },
@@ -66,18 +75,22 @@
         "festive_decorations": false,
         "home_uniform": "informal",
         "collaboration_for_events": false,
-        "type_of_concurrent_clients": ["amistades"],
+        "type_of_concurrent_clients": [
+            "amistades"
+        ],
         "energy_backup": null
     },
     "services": {
         "social_networks": {
             "web_page": false,
-            "facebook": [ false,
+            "facebook": [
+                false,
                 {
                     "url": null
                 }
             ],
-            "instagram": [ false,
+            "instagram": [
+                false,
                 {
                     "url": null
                 }
@@ -87,7 +100,7 @@
         "child_care": false,
         "disable_support": false,
         "wifi": false,
-        "parking":  false,
+        "parking": false,
         "delivery": false,
         "reserves": false,
         "rent_from_the_client": false,
@@ -99,12 +112,11 @@
     },
     "pay_meth": {
         "cash": true,
-        "transfer":
-            {
-                "transfermovil": false,
-                "visa": false,
-                "mastercard": false
-            },
+        "transfer": {
+            "transfermovil": false,
+            "visa": false,
+            "mastercard": false
+        },
         "currency": {
             "cup": true,
             "usd": false,
@@ -115,7 +127,9 @@
         "10% charge": false
     },
     "menu_details": {
-        "kind_of_food": ["variada"],
+        "kind_of_food": [
+            "criolla"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -125,7 +139,9 @@
                             {
                                 "course_name": "Picadera mixta",
                                 "price": 1600,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -136,67 +152,95 @@
                             {
                                 "course_name": "Arroz Frito",
                                 "price": 700.00,
-                                "main_ingredients": ["grano"]
+                                "main_ingredients": [
+                                    "grano"
+                                ]
                             },
                             {
                                 "course_name": "Pollo Frito",
                                 "price": 1000.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Chuleta de Cerdo Natural",
                                 "price": 1000.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Lomo de cerdo natural",
                                 "price": 1000.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Bistec de cerdo",
                                 "price": 1000.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Bistec de res",
                                 "price": 1300.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Uruguayo de res",
                                 "price": 1700.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Canciller",
                                 "price": 1700.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Pechuga",
                                 "price": 1200.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Fricase de res",
                                 "price": 1000.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Cordon Bleu",
                                 "price": 1700.00,
-                                "main_ingredients": ["pollo", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "pollo",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Costilla de cerdo ahumada",
                                 "price": 1000.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Costilla de cerdo a la barbacoa",
                                 "price": 1200.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             }
                         ]
                     }
@@ -207,47 +251,72 @@
                             {
                                 "course_name": "Pizza Napolitana",
                                 "price": 600,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Jamon",
                                 "price": 700,
-                                "main_ingredients": ["harina", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de aceitunas",
                                 "price": 900,
-                                "main_ingredients": ["harina", "fruta"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de cebolla",
                                 "price": 700,
-                                "main_ingredients": ["harina", "vegetales"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "course_name": "Pizza Marinera",
                                 "price": 1500,
-                                "main_ingredients": ["harina", "pescado", "marisco"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pescado",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "course_name": "Pizza Doble Via",
                                 "price": 1500,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Pizza Hawaiana",
                                 "price": 850,
-                                "main_ingredients": ["harina", "jamon", "fruta"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Chorizo",
                                 "price": 900,
-                                "main_ingredients": ["harina", "chorizo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "chorizo"
+                                ]
                             }
                         ]
                     }
                 ]
             }
-        }    
+        }
     }
 }

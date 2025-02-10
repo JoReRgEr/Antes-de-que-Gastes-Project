@@ -1,238 +1,241 @@
 {
-    "General info":{
-        "name":"GaraG",
-        "Phone number":"",
-        "Type":"Bar-Restaurante",
-        "Specialty":"Comida Mixta",
-        "Website":"",
-        "Schedule":"Lunes-Domingo 12pm-12am",
-        "Payment methods":"Efectivo-Transferecia",
-        "Capacity":"media",
-        "Location": {
-            "Provincia":"La Habana",
-            "Municipio":"San Miguel del Padron",
-            "Direccion":"C. Guanabacoa #1214 % B y C, Los Angeles"
-        },
-        "Facilities":{
-            "Parking":null,
-            "Wifi":null,
-            "Delivery":null,
-            "Reservation":null
-        },
-        "menu_details": {
-            "kind_of_food": ["variada", "criolla", "italiana"],
-            "menu_card": {
-                "menu_sections": {
-                  "starters": [
-                    {
-                      "courses": [
-                        {
-                          "name": "Picadera GaraG",
-                            "price":3500
-                        },
-                        {
-                          "name": "Toston Alfredo",
-                            "price":750
-                        },
-                        {
-                          "name": "Eperlan",
-                            "price":1650
-                        },
-                        {
-                          "name": "Fajitas de pollo",
-                            "price":1225
-                        },
-                        {
-                          "name": "Fajitas de cerdo",
-                            "price":1550
-                        },
-                        {
-                          "name": "Croquetas de Mima",
-                            "price":750
-                        },
-                        {
-                          "name": "Ceviche",
-                            "price":900
-                        },
-                        {
-                          "name": "Tacos de Carnita",
-                            "price":1205
-                        },
-                        {
-                          "name": "Tacos Marinesos",
-                            "price":1295
-                        },
-                        {
-                          "name": "Ensalada Fria",
-                            "price":750
-                        },
-                        {
-                          "name": "Coctel de Camaron",
-                            "price":1250
-                        }
-                      ]
-                    }
-                  ],
-                  "main_courses": [
-                    {
-                        "courses": [
-                         {
-                          "name": "Filete de pescado grille",
-                            "price":1920
-                        },
-                        {
-                          "name": "Filete de pescado empanado",
-                            "price":1980
-                        },
-                        {
-                          "name": "Filete de pescado GaraG",
-                            "price":2225
-                        },
-                        {
-                          "name": "Canciller",
-                            "price":2150
-                        },
-                        {
-                          "name": "Filete Alfredo",
-                            "price":2150
-                        },
-                        {
-                          "name": "Masas de pescado al ajito",
-                            "price":1920
-                        },
-                        {
-                          "name": "Pargo frito",
-                            "price":2150
-                        },
-                        {
-                          "name": "Pollo frito",
-                            "price":1350
-                        },
-                        {
-                          "name": "Bistec de pollo grille",
-                            "price":1350
-                        },
-                        {
-                          "name": "Pollo empanado",
-                            "price":1450
-                        },
-                        {
-                          "name": "Cordon Blue",
-                            "price":1925
-                        },
-                        {
-                          "name": "Bistec de cerdo encebollado",
-                            "price":1950
-                        },
-                        {
-                          "name": "Cerdo grille",
-                            "price":1700
-                        },
-                        {
-                          "name": "Cerdo empanado",
-                            "price":1750
-                        },
-                        {
-                          "name": "Cerdo Uruguayo",
-                            "price":1955
-                        },
-                        {
-                          "name": "Masa de cerdo frita",
-                            "price":2200
-                        },
-                        {
-                          "name": "Cerdo asado",
-                            "price":2150
-                        },
-                        {
-                          "name": "Camaron al ajillo",
-                            "price":2300
-                        },
-                        {
-                          "name": "Camaron grille",
-                            "price":2105
-                        },
-                        {
-                          "name": "Camaron enchilado",
-                            "price":2230
-                        },
-                        {
-                          "name": "Camaron emapanado",
-                            "price":2290
-                        },
-                        {
-                          "name": "Aporreado de res",
-                            "price":1950
-                        },
-                        {
-                          "name": "Ropa vieja",
-                            "price":1930
-                        },
-                        {
-                          "name": "Arroz frito especial",
-                            "price":1350
-                        },
-                        {
-                          "name": "Arroz frito",
-                            "price":1200
-                        },
-                        {
-                          "name": "Ensalada estacion",
-                            "price":350
-                        },
-                        {
-                          "name": "Vegetal salteado",
-                            "price":350
-                        }
-                      ]
-                    }
-                  ],
-                  "pizzas": [
-                    {
-                      "courses": [
-                        {
-                          "name": "Napoles (pizza)",
-                            "price":930
-                        },
-                        {
-                          "name": "Anti Hawaiana",
-                            "price":1555
-                        },
-                        {
-                          "name": "Lechocita",
-                            "price":1595
-                        },
-                        {
-                          "name": "5 Quesos",
-                            "price":1650
-                        }
-                      ]
-                    }
-                  ],
-                  "desserts": [
-                    {
-                      "courses": [
-                        {
-                          "name": "Copa de helado",
-                            "price":400
-                        },
-                        {
-                          "name": "Copa lolita",
-                            "price":650
-                        },
-                        {
-                          "name": "Cake a la moda",
-                            "price":850
-                        },
-                        {
-                          "name": "Batido de helado",
-                            "price":750
-                        }
-                      ]
-                    }
-                  ]
+  "General info": {
+    "name": "GaraG",
+    "Phone number": "",
+    "Type": "Bar-Restaurante",
+    "Specialty": "Comida Mixta",
+    "Website": "",
+    "Schedule": "Lunes-Domingo 12pm-12am",
+    "Payment methods": "Efectivo-Transferecia",
+    "Capacity": "media",
+    "Location": {
+      "Provincia": "La Habana",
+      "Municipio": "San Miguel del Padron",
+      "Direccion": "C. Guanabacoa #1214 % B y C, Los Angeles"
+    },
+    "Facilities": {
+      "Parking": null,
+      "Wifi": null,
+      "Delivery": null,
+      "Reservation": null
+    },
+    "menu_details": {
+      "kind_of_food": [
+        "criolla",
+        "italiana"
+      ],
+      "menu_card": {
+        "menu_sections": {
+          "starters": [
+            {
+              "courses": [
+                {
+                  "name": "Picadera GaraG",
+                  "price": 3500
+                },
+                {
+                  "name": "Toston Alfredo",
+                  "price": 750
+                },
+                {
+                  "name": "Eperlan",
+                  "price": 1650
+                },
+                {
+                  "name": "Fajitas de pollo",
+                  "price": 1225
+                },
+                {
+                  "name": "Fajitas de cerdo",
+                  "price": 1550
+                },
+                {
+                  "name": "Croquetas de Mima",
+                  "price": 750
+                },
+                {
+                  "name": "Ceviche",
+                  "price": 900
+                },
+                {
+                  "name": "Tacos de Carnita",
+                  "price": 1205
+                },
+                {
+                  "name": "Tacos Marinesos",
+                  "price": 1295
+                },
+                {
+                  "name": "Ensalada Fria",
+                  "price": 750
+                },
+                {
+                  "name": "Coctel de Camaron",
+                  "price": 1250
                 }
-            }    
+              ]
+            }
+          ],
+          "main_courses": [
+            {
+              "courses": [
+                {
+                  "name": "Filete de pescado grille",
+                  "price": 1920
+                },
+                {
+                  "name": "Filete de pescado empanado",
+                  "price": 1980
+                },
+                {
+                  "name": "Filete de pescado GaraG",
+                  "price": 2225
+                },
+                {
+                  "name": "Canciller",
+                  "price": 2150
+                },
+                {
+                  "name": "Filete Alfredo",
+                  "price": 2150
+                },
+                {
+                  "name": "Masas de pescado al ajito",
+                  "price": 1920
+                },
+                {
+                  "name": "Pargo frito",
+                  "price": 2150
+                },
+                {
+                  "name": "Pollo frito",
+                  "price": 1350
+                },
+                {
+                  "name": "Bistec de pollo grille",
+                  "price": 1350
+                },
+                {
+                  "name": "Pollo empanado",
+                  "price": 1450
+                },
+                {
+                  "name": "Cordon Blue",
+                  "price": 1925
+                },
+                {
+                  "name": "Bistec de cerdo encebollado",
+                  "price": 1950
+                },
+                {
+                  "name": "Cerdo grille",
+                  "price": 1700
+                },
+                {
+                  "name": "Cerdo empanado",
+                  "price": 1750
+                },
+                {
+                  "name": "Cerdo Uruguayo",
+                  "price": 1955
+                },
+                {
+                  "name": "Masa de cerdo frita",
+                  "price": 2200
+                },
+                {
+                  "name": "Cerdo asado",
+                  "price": 2150
+                },
+                {
+                  "name": "Camaron al ajillo",
+                  "price": 2300
+                },
+                {
+                  "name": "Camaron grille",
+                  "price": 2105
+                },
+                {
+                  "name": "Camaron enchilado",
+                  "price": 2230
+                },
+                {
+                  "name": "Camaron emapanado",
+                  "price": 2290
+                },
+                {
+                  "name": "Aporreado de res",
+                  "price": 1950
+                },
+                {
+                  "name": "Ropa vieja",
+                  "price": 1930
+                },
+                {
+                  "name": "Arroz frito especial",
+                  "price": 1350
+                },
+                {
+                  "name": "Arroz frito",
+                  "price": 1200
+                },
+                {
+                  "name": "Ensalada estacion",
+                  "price": 350
+                },
+                {
+                  "name": "Vegetal salteado",
+                  "price": 350
+                }
+              ]
+            }
+          ],
+          "pizzas": [
+            {
+              "courses": [
+                {
+                  "name": "Napoles (pizza)",
+                  "price": 930
+                },
+                {
+                  "name": "Anti Hawaiana",
+                  "price": 1555
+                },
+                {
+                  "name": "Lechocita",
+                  "price": 1595
+                },
+                {
+                  "name": "5 Quesos",
+                  "price": 1650
+                }
+              ]
+            }
+          ],
+          "desserts": [
+            {
+              "courses": [
+                {
+                  "name": "Copa de helado",
+                  "price": 400
+                },
+                {
+                  "name": "Copa lolita",
+                  "price": 650
+                },
+                {
+                  "name": "Cake a la moda",
+                  "price": 850
+                },
+                {
+                  "name": "Batido de helado",
+                  "price": 750
+                }
+              ]
+            }
+          ]
         }
+      }
     }
+  }
 }

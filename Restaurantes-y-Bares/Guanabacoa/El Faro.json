@@ -1,172 +1,187 @@
 {
-    "ID": 703,
-    "locality": {
-        "mun": "Guanabacoa",
-        "locator": {
-            "phones": {
-                "mobile": "",
-                "landline": null
-            },
-            "plus_code": "4MFW+P84, Maximo Gomez, La Habana, Cuba"
-        }
-    },
-    "name": "El Faro",
-    "type_cuisine": ["Bar","Criolla","Pizzas"],
-    "schedule": {
-        "monday": {
-            "opening": "9:00",
-            "closing": "23:00"
-        },
-        "tuesday": {
-            "opening": "9:00",
-            "closing": "23:00"
-        },
-        "wednesday": {
-            "opening": "9:00",
-            "closing": "23:00"
-        },
-        "thursday": {
-            "opening": "9:00",
-            "closing": "23:00"
-        },
-        "friday": {
-           "opening": "9:00",
-            "closing": "23:00"
-        },
-        "saturday": {
-           "opening": "9:00",
-            "closing": "23:00"
-        },
-        "sunday": {
-            "opening": "9:00",
-            "closing": "23:00"
-        }
-    },
-    "quality": {
-        "qualification_google": 3.7,
-        "qualification_tripadvisor": null,
-        "qualification_facebook": null
-    },
-    "reservation_options": true,
-    "social_networks": ["WhatsApp"],
-    "payment_options": ["Efectivo","Transfermovil"],
-    "service_details": ["A la Carta","Entretenimiento"],
-    
-    "menu_details": {
-        "kind_of_food": ["variada", "criolla", "italiana", "panes"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name": "ENCHILADO DE CANGREJO",
-                      "price": 750.00
-                  },
-                  {
-                      "name": "CROQUETA DE LA CASA",
-                      "price": 180.00
-                  },
-                  {
-                      "name": "ENSALADA FRÍA DE JAMÓN",
-                      "price": 700.00
-                  },
-                  {
-                      "name": "ENSALADA FRÍA DE ATÚN",
-                      "price": 1200.00
-                  },
-                  {
-                      "name": "Picadera Tropical",
-                      "price": 850.00
-                    },
-                    {
-                      "name": "Plato a lo Cubano",
-                      "price": 800.00
-                    }
-                  ]
-                }
-              ],
-              "breads": [
-                {
-                  "courses": [
-                    {
-                      "name": "PAN CON HAMBURGUESA",
-                      "price": 500.00
-                  },
-                  {
-                      "name": "HAMBURGUESA FARO",
-                      "price": 900.00
-                  }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Costillas de Cerdo",
-                      "price": 1200.00
-                    },
-                    {
-                      "name": "Ruedas de pescado Grille",
-                      "price": 1400.00
-                    },
-                    {
-                      "name": "Pollo Grille",
-                      "price": 950.00
-                    }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name": "PIZZA EL FARO",
-                      "price": 900.00
-                  },
-                  {
-                      "name": "PIZZA COMBINADA",
-                      "price": 900.00
-                  },
-                  {
-                      "name": "PIZZA HAWAIANA",
-                      "price": 900.00
-                  },
-                  {
-                      "name": "PIZZA DE CEBOLLA",
-                      "price": 900.00
-                  },
-                  {
-                      "name": "PIZZA DE PIMIENTO",
-                      "price": 900.00
-                  },
-                  {
-                      "name": "PIZZA GUSTAZO (Doble Queso)",
-                      "price": 900.00
-                  },
-                  {
-                      "name": "PIZZA JAMÓN",
-                      "price": 900.00
-                  }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Spaguetti Napolitano",
-                      "price": 750.00
-                    },
-                    {
-                      "name": "Spaguetti de Jamón",
-                      "price": 850.00
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
+  "ID": 703,
+  "locality": {
+    "mun": "Guanabacoa",
+    "locator": {
+      "phones": {
+        "mobile": "",
+        "landline": null
+      },
+      "plus_code": "4MFW+P84, Maximo Gomez, La Habana, Cuba"
     }
+  },
+  "name": "El Faro",
+  "type_cuisine": [
+    "Bar",
+    "Criolla",
+    "Pizzas"
+  ],
+  "schedule": {
+    "monday": {
+      "opening": "9:00",
+      "closing": "23:00"
+    },
+    "tuesday": {
+      "opening": "9:00",
+      "closing": "23:00"
+    },
+    "wednesday": {
+      "opening": "9:00",
+      "closing": "23:00"
+    },
+    "thursday": {
+      "opening": "9:00",
+      "closing": "23:00"
+    },
+    "friday": {
+      "opening": "9:00",
+      "closing": "23:00"
+    },
+    "saturday": {
+      "opening": "9:00",
+      "closing": "23:00"
+    },
+    "sunday": {
+      "opening": "9:00",
+      "closing": "23:00"
+    }
+  },
+  "quality": {
+    "qualification_google": 3.7,
+    "qualification_tripadvisor": null,
+    "qualification_facebook": null
+  },
+  "reservation_options": true,
+  "social_networks": [
+    "WhatsApp"
+  ],
+  "payment_options": [
+    "Efectivo",
+    "Transfermovil"
+  ],
+  "service_details": [
+    "A la Carta",
+    "Entretenimiento"
+  ],
+  "menu_details": {
+    "kind_of_food": [
+      "criolla",
+      "italiana",
+      "panes"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "ENCHILADO DE CANGREJO",
+                "price": 750.00
+              },
+              {
+                "name": "CROQUETA DE LA CASA",
+                "price": 180.00
+              },
+              {
+                "name": "ENSALADA FRÍA DE JAMÓN",
+                "price": 700.00
+              },
+              {
+                "name": "ENSALADA FRÍA DE ATÚN",
+                "price": 1200.00
+              },
+              {
+                "name": "Picadera Tropical",
+                "price": 850.00
+              },
+              {
+                "name": "Plato a lo Cubano",
+                "price": 800.00
+              }
+            ]
+          }
+        ],
+        "breads": [
+          {
+            "courses": [
+              {
+                "name": "PAN CON HAMBURGUESA",
+                "price": 500.00
+              },
+              {
+                "name": "HAMBURGUESA FARO",
+                "price": 900.00
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Costillas de Cerdo",
+                "price": 1200.00
+              },
+              {
+                "name": "Ruedas de pescado Grille",
+                "price": 1400.00
+              },
+              {
+                "name": "Pollo Grille",
+                "price": 950.00
+              }
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": "PIZZA EL FARO",
+                "price": 900.00
+              },
+              {
+                "name": "PIZZA COMBINADA",
+                "price": 900.00
+              },
+              {
+                "name": "PIZZA HAWAIANA",
+                "price": 900.00
+              },
+              {
+                "name": "PIZZA DE CEBOLLA",
+                "price": 900.00
+              },
+              {
+                "name": "PIZZA DE PIMIENTO",
+                "price": 900.00
+              },
+              {
+                "name": "PIZZA GUSTAZO (Doble Queso)",
+                "price": 900.00
+              },
+              {
+                "name": "PIZZA JAMÓN",
+                "price": 900.00
+              }
+            ]
+          }
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": "Spaguetti Napolitano",
+                "price": 750.00
+              },
+              {
+                "name": "Spaguetti de Jamón",
+                "price": 850.00
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
 }

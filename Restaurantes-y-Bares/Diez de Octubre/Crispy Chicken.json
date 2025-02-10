@@ -1,112 +1,148 @@
 {
-    "Place":"Crispy Chicken",
-    "Location":[
-        {"Address":"Avenida de Acosta y Juan Delgado, Monaco",
-        "Municipality":"10 de Octubre",
-        "Coordinates":null}
+    "Place": "Crispy Chicken",
+    "Location": [
+        {
+            "Address": "Avenida de Acosta y Juan Delgado, Monaco",
+            "Municipality": "10 de Octubre",
+            "Coordinates": null
+        }
     ],
-    "Classification":"Cafeteria",
-    "Specialization":"Cocina rapida",
-    "Property":"Privado",
-    "Schedule":[
-        {"Opening":"11h00",
-        "Closing":"23h00",
-        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    "Classification": "Cafeteria",
+    "Specialization": "Cocina rapida",
+    "Property": "Privado",
+    "Schedule": [
+        {
+            "Opening": "11h00",
+            "Closing": "23h00",
+            "Days": [
+                "Lunes",
+                "Martes",
+                "Miercoles",
+                "Jueves",
+                "Viernes",
+                "Sabado",
+                "Domingo"
+            ]
+        }
     ],
-    "Ratings":[
-        {"Tripadvisor":null,
-        "Google Maps":null}
+    "Ratings": [
+        {
+            "Tripadvisor": null,
+            "Google Maps": null
+        }
     ],
-    "Reservations":false,
-    "Delivery":[
-        {"Service existence":true,
-        "Delivery area":["La Habana"]}
+    "Reservations": false,
+    "Delivery": [
+        {
+            "Service existence": true,
+            "Delivery area": [
+                "La Habana"
+            ]
+        }
     ],
-    "Phone number":"50763525",
-    "Accounts or website":[
-        {"Facebook":"Crispy Chicken"},
-        {"Instagram":"@crispy.chicken.monaco"},
-        {"Website":null},
-        {"Email":null}
+    "Phone number": "50763525",
+    "Accounts or website": [
+        {
+            "Facebook": "Crispy Chicken"
+        },
+        {
+            "Instagram": "@crispy.chicken.monaco"
+        },
+        {
+            "Website": null
+        },
+        {
+            "Email": null
+        }
     ],
-    "Payment":[
-        {"Method":["Tarjeta","Efectivo"],
-        "Accepted currencies":["CUP","USD","EUR"]}
+    "Payment": [
+        {
+            "Method": [
+                "Tarjeta",
+                "Efectivo"
+            ],
+            "Accepted currencies": [
+                "CUP",
+                "USD",
+                "EUR"
+            ]
+        }
     ],
-    "Capacity":10,
-    "Parking":true,
-    "Wifi":false,
-    "Smoking area":true,
-    
+    "Capacity": 10,
+    "Parking": true,
+    "Wifi": false,
+    "Smoking area": true,
     "menu_details": {
-        "kind_of_food": ["variada", "criolla"],
+        "kind_of_food": [
+            "criolla"
+        ],
         "menu_card": {
             "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
+                "starters": [
                     {
-                      "name":"Mini Hot Dog",
-                  "price":300
-                  },
-                  {
-                      "name":"Flamenquin",
-                  "price":1000
-                  },
-                  {
-                      "name":"San Jacobo",
-                  "price":1000
-                  },
-                  {
-                      "name":"Tostones rellenos",
-                  "price":800
-                  },
-                  {
-                      "name":"Entremes de jamon y queso",
-                  "price":1200
-                  },
-                  {
-                      "name":"Picadera de la casa",
-                  "price":2500
-                  },
-                  {
-                      "name":"Chips de boniato",
-                  "price":500
-                  }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                    "courses": [
-                      {
-                        "name":"Pollo frito",
-                    "price":1300
-                    },
-                    {
-                        "name":"Pollo chiflado",
-                    "price":1600
-                    },
-                    {
-                        "name":"Pollo chiflado sin hueso",
-                    "price":1800
-                    },
-                    {
-                        "name":"Pollo relleno de jamon y queso",
-                    "price":2000
-                    },
-                    {
-                        "name":"Nuggets de pollo",
-                    "price":1000
-                    },
-                    {
-                        "name":"Sandwich de pollo",
-                    "price":900
+                        "courses": [
+                            {
+                                "name": "Mini Hot Dog",
+                                "price": 300
+                            },
+                            {
+                                "name": "Flamenquin",
+                                "price": 1000
+                            },
+                            {
+                                "name": "San Jacobo",
+                                "price": 1000
+                            },
+                            {
+                                "name": "Tostones rellenos",
+                                "price": 800
+                            },
+                            {
+                                "name": "Entremes de jamon y queso",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Picadera de la casa",
+                                "price": 2500
+                            },
+                            {
+                                "name": "Chips de boniato",
+                                "price": 500
+                            }
+                        ]
                     }
-                  ]
-                }
-              ]
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Pollo frito",
+                                "price": 1300
+                            },
+                            {
+                                "name": "Pollo chiflado",
+                                "price": 1600
+                            },
+                            {
+                                "name": "Pollo chiflado sin hueso",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Pollo relleno de jamon y queso",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Nuggets de pollo",
+                                "price": 1000
+                            },
+                            {
+                                "name": "Sandwich de pollo",
+                                "price": 900
+                            }
+                        ]
+                    }
+                ]
             }
-        }    
+        }
     }
 }

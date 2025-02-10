@@ -1,236 +1,237 @@
 {
-    "Place":"El Chanchullero",
-    "Address":"#162D entre Calle 5G y Calle 162, zona 6, Alamar",
-    "Municipality":"Habana del Este",
-    "Classification":"Bar-Restaurant",
-    "Specialization":"Comida criolla",
-    "Property":"Privado",
-    "Schedule":"12h00 - 00h00 (Todos los dias)",
-    "Ratings":"4.5 (Tripadvisor) / 4.4 (Google Maps)",
-    "Reservations":"False",
-    "Delivery":"True",
-    "Delivery area":"Habana del Este, Guanabacoa",
-    "Phone":"Null",
-    "Accounts or website":"@chanchullerobar.zona6 (Instagram) / El Chanchullero de Alamar Bar&Restaurant (Facebook)",
-    "Payment method":"Tarjeta o efectivo (MN o moneda extranjera)",
-    "Capacity":30,
-    "Parking":"False",
-    "Wifi":"False",
-    "Smoking area":"True",
-    
-    "menu_details": {
-        "kind_of_food": ["variada", "criolla"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name":"Chicharrita de platano macho",
-                      "price":250
-                    },
-                    {
-                      "name":"Toston relleno con cerdo",
-                      "price":375
-                    },
-                    {
-                      "name":"Fritura de malanga con miel",
-                      "price":375
-                    },
-                    {
-                      "name":"Ceviche de pulpo y pescado",
-                      "price":450
-                    }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name":"Cerdo al perejil",
-                      "price":795
-                    },
-                    {
-                      "name":"Brochetas de cerdo",
-                      "price":795
-                    },
-                    {
-                      "name":"Bistec encebollado",
-                      "price":800
-                    },
-                    {
-                      "name":"Ropa vieja",
-                      "price":800
-                    },
-                    {
-                      "name":"Cerdo asado al horno",
-                      "price":795
-                    },
-                    {
-                      "name":"Pulpo al ajillo",
-                      "price":925
-                    },
-                    {
-                      "name":"Pescado chanchullero (castero)",
-                      "price":800
-                    },
-                    {
-                      "name":"Enchilado de langosta",
-                      "price":975
-                    },
-                    {
-                      "name":"Langosta a la plancha",
-                      "price":975
-                    },
-                    {
-                      "name":"Masas de cerdo",
-                      "price":800
-                    }
-                  ]
-                }
-              ],
-              "desserts": [
-                {
-                  "courses": [
-                    {
-                      "name":"Flan al caramelo",
-                      "price":150
-                    }
-                  ]
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                    {
-                      "cocktails": [
-                        {
-                          "name":"Chelada",
-                          "price":400
-                        },
-                        {
-                          "name":"Michelada",
-                          "price":450
-                        },
-                        {
-                          "name":"Catarro",
-                          "price":275
-                        },
-                        {
-                          "name":"Cuba Libre",
-                          "price":275
-                        },
-                        {
-                          "name":"Mojito",
-                          "price":275
-                        },
-                        {
-                          "name":"Caipirisima",
-                          "price":275
-                        },
-                        {
-                          "name":"Ron Coli",
-                          "price":275
-                        },
-                        {
-                          "name":"Cosita de esa",
-                          "price":275
-                        },
-                        {
-                          "name":"Caipiroska",
-                          "price":275
-                        },
-                        {
-                          "name":"Caipirina",
-                          "price":300
-                        },
-                        {
-                          "name":"Daiquiri",
-                          "price":300
-                        },
-                        {
-                          "name":"Pina colada",
-                          "price":300
-                        },
-                        {
-                          "name":"Vodka con naranja",
-                          "price":300
-                        }
-                      ],
-                      "beers": [
-                        {
-                          "name":"Cerveza importada",
-                          "Price":275
-                        }
-                      ],
-                      "shots": [
-                        {
-                          "name":"Ron HC Club Especial",
-                          "price":325
-                        },
-                        {
-                          "name":"Vodka absolut",
-                          "price":525
-                        },
-                        {
-                          "name":"Whiskey Black and White",
-                          "price":395
-                        },
-                        {
-                          "name":"Clan Cambell",
-                          "price":425
-                        },
-                        {
-                          "name":"Jameson",
-                          "price":425
-                        },
-                        {
-                          "name":"Finest Blended (Speech)",
-                          "price":400
-                        }    
-                      ]
-                    }
-                  ],
-                  "water": [
-                    {
-                      "name":"Agua natural",
-                      "price":130
-                    },
-                    {
-                      "name":"Agua gaseada",
-                      "price":180
-                    }
-                  ],
-                  "natual_juices": [
-                    {
-                      "name":"Jugo de fruta natural",
-                      "price":140
-                    }
-                  ],
-                  "soft_drinks": [
-                    {
-                      "name":"Refrescos importados",
-                      "price":240
-                    },
-                    {
-                      "name":"Refrescos nacionales",
-                      "price":200
-                    },
-                    {
-                      "name":"Red Bull",
-                      "price":300
-                    }
-                  ],
-                  "coffees": [
-                    {
-                      "name":"cafe Expreso",
-                      "price":100
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
+  "Place": "El Chanchullero",
+  "Address": "#162D entre Calle 5G y Calle 162, zona 6, Alamar",
+  "Municipality": "Habana del Este",
+  "Classification": "Bar-Restaurant",
+  "Specialization": "Comida criolla",
+  "Property": "Privado",
+  "Schedule": "12h00 - 00h00 (Todos los dias)",
+  "Ratings": "4.5 (Tripadvisor) / 4.4 (Google Maps)",
+  "Reservations": "False",
+  "Delivery": "True",
+  "Delivery area": "Habana del Este, Guanabacoa",
+  "Phone": "Null",
+  "Accounts or website": "@chanchullerobar.zona6 (Instagram) / El Chanchullero de Alamar Bar&Restaurant (Facebook)",
+  "Payment method": "Tarjeta o efectivo (MN o moneda extranjera)",
+  "Capacity": 30,
+  "Parking": "False",
+  "Wifi": "False",
+  "Smoking area": "True",
+  "menu_details": {
+    "kind_of_food": [
+      "criolla"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "Chicharrita de platano macho",
+                "price": 250
+              },
+              {
+                "name": "Toston relleno con cerdo",
+                "price": 375
+              },
+              {
+                "name": "Fritura de malanga con miel",
+                "price": 375
+              },
+              {
+                "name": "Ceviche de pulpo y pescado",
+                "price": 450
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Cerdo al perejil",
+                "price": 795
+              },
+              {
+                "name": "Brochetas de cerdo",
+                "price": 795
+              },
+              {
+                "name": "Bistec encebollado",
+                "price": 800
+              },
+              {
+                "name": "Ropa vieja",
+                "price": 800
+              },
+              {
+                "name": "Cerdo asado al horno",
+                "price": 795
+              },
+              {
+                "name": "Pulpo al ajillo",
+                "price": 925
+              },
+              {
+                "name": "Pescado chanchullero (castero)",
+                "price": 800
+              },
+              {
+                "name": "Enchilado de langosta",
+                "price": 975
+              },
+              {
+                "name": "Langosta a la plancha",
+                "price": 975
+              },
+              {
+                "name": "Masas de cerdo",
+                "price": 800
+              }
+            ]
+          }
+        ],
+        "desserts": [
+          {
+            "courses": [
+              {
+                "name": "Flan al caramelo",
+                "price": 150
+              }
+            ]
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "cocktails": [
+                  {
+                    "name": "Chelada",
+                    "price": 400
+                  },
+                  {
+                    "name": "Michelada",
+                    "price": 450
+                  },
+                  {
+                    "name": "Catarro",
+                    "price": 275
+                  },
+                  {
+                    "name": "Cuba Libre",
+                    "price": 275
+                  },
+                  {
+                    "name": "Mojito",
+                    "price": 275
+                  },
+                  {
+                    "name": "Caipirisima",
+                    "price": 275
+                  },
+                  {
+                    "name": "Ron Coli",
+                    "price": 275
+                  },
+                  {
+                    "name": "Cosita de esa",
+                    "price": 275
+                  },
+                  {
+                    "name": "Caipiroska",
+                    "price": 275
+                  },
+                  {
+                    "name": "Caipirina",
+                    "price": 300
+                  },
+                  {
+                    "name": "Daiquiri",
+                    "price": 300
+                  },
+                  {
+                    "name": "Pina colada",
+                    "price": 300
+                  },
+                  {
+                    "name": "Vodka con naranja",
+                    "price": 300
+                  }
+                ],
+                "beers": [
+                  {
+                    "name": "Cerveza importada",
+                    "Price": 275
+                  }
+                ],
+                "shots": [
+                  {
+                    "name": "Ron HC Club Especial",
+                    "price": 325
+                  },
+                  {
+                    "name": "Vodka absolut",
+                    "price": 525
+                  },
+                  {
+                    "name": "Whiskey Black and White",
+                    "price": 395
+                  },
+                  {
+                    "name": "Clan Cambell",
+                    "price": 425
+                  },
+                  {
+                    "name": "Jameson",
+                    "price": 425
+                  },
+                  {
+                    "name": "Finest Blended (Speech)",
+                    "price": 400
+                  }
+                ]
+              }
+            ],
+            "water": [
+              {
+                "name": "Agua natural",
+                "price": 130
+              },
+              {
+                "name": "Agua gaseada",
+                "price": 180
+              }
+            ],
+            "natual_juices": [
+              {
+                "name": "Jugo de fruta natural",
+                "price": 140
+              }
+            ],
+            "soft_drinks": [
+              {
+                "name": "Refrescos importados",
+                "price": 240
+              },
+              {
+                "name": "Refrescos nacionales",
+                "price": 200
+              },
+              {
+                "name": "Red Bull",
+                "price": 300
+              }
+            ],
+            "coffees": [
+              {
+                "name": "cafe Expreso",
+                "price": 100
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

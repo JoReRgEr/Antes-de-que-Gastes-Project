@@ -1,265 +1,321 @@
 {
- "type_of_establishment": "restaurante",
-    "place_name": "Fiesta Criolla",
-    "property_type": "particular",
-    "address": {
-        "establishment_phone_number": null,
-        "email": null,
-        "city": "La Habana",
-        "district": "Arroyo Naranjo",
-        "location": "Calle 100 #1003 (después del puente de calabazar)",
-        "coordinates": "23.045798685030046, -82.37124679490715"
+  "type_of_establishment": "restaurante",
+  "place_name": "Fiesta Criolla",
+  "property_type": "particular",
+  "address": {
+    "establishment_phone_number": null,
+    "email": null,
+    "city": "La Habana",
+    "district": "Arroyo Naranjo",
+    "location": "Calle 100 #1003 (después del puente de calabazar)",
+    "coordinates": "23.045798685030046, -82.37124679490715"
+  },
+  "schedules": {
+    "monday": {
+      "open": "12:00",
+      "closed": "00:00"
     },
-    "schedules": {
-        "monday": {
-            "open": "12:00",
-            "closed": "00:00"
-        },
-        "tuesday": {
-            "open": "12:00",
-            "closed": "00:00"
-        },
-        "wednesday": {
-            "open": "12:00",
-            "closed": "00:00"
-        },
-        "thursday": {
-            "open": "12:00",
-            "closed": "00:00"
-        },
-        "friday": {
-            "open": "12:00",
-            "closed": "00:00"
-        },
-        "saturday": {
-            "open": "12:00",
-            "closed": "00:00"
-        },
-        "sunday": {
-            "open": "12:00",
-            "closed": "00:00"
+    "tuesday": {
+      "open": "12:00",
+      "closed": "00:00"
+    },
+    "wednesday": {
+      "open": "12:00",
+      "closed": "00:00"
+    },
+    "thursday": {
+      "open": "12:00",
+      "closed": "00:00"
+    },
+    "friday": {
+      "open": "12:00",
+      "closed": "00:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "closed": "00:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "closed": "00:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": 4.2,
+        "number_of_reviews": 11,
+        "recurring_themes": [
+          [
+            null
+          ]
+        ]
+      },
+      "tripadvisor": {
+        "stars": null,
+        "number_of_reviews": null,
+        "recurring_themes": [
+          [
+            null
+          ]
+        ]
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null,
+        "recurring_themes": [
+          [
+            null
+          ]
+        ]
+      }
+    },
+    "establishment_capacity": "grande",
+    "decoration": "rural",
+    "festive_decorations": false,
+    "home_uniform": "informal",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "grupos"
+    ],
+    "energy_backup": true
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
         }
+      ],
+      "facebook": [
+        true,
+        {
+          "url": "https://www.facebook.com/RestaurantFiestaCriolla?locale=es_LA"
+        }
+      ],
+      "instagram": [
+        true,
+        {
+          "url": "https://www.instagram.com/fiestacriollaconcordia/"
+        }
+      ],
+      "whatsapp": "+53 5 2713373"
     },
-    "location_details": {
-        "rating": {
-            "google": {
-                    "stars": 4.2,
-                    "number_of_reviews": 11,
-                    "recurring_themes": [ [null]
-                ]
-            },
-            "tripadvisor": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
-                ]
-            },
-            "facebook": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
-                ]
-            }
-        },
-        "establishment_capacity": "grande",
-        "decoration": "rural",
-        "festive_decorations": false,
-        "home_uniform": "informal",
-        "collaboration_for_events": false,
-        "type_of_concurrent_clients": ["grupos"],
-        "energy_backup": true
+    "child_care": false,
+    "disable_support": false,
+    "wifi": false,
+    "parking": true,
+    "delivery": false,
+    "reserves": false,
+    "rent_from_the_client": false,
+    "vip_zone": false,
+    "catering": false,
+    "interactive_activities": false,
+    "sanitary": true,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
     },
-    "services": {
-        "social_networks": {
-            "web_page": [ false,
-                {
-                    "url": null
-                }
-            ],
-            "facebook": [ true,
-                {
-                    "url": "https://www.facebook.com/RestaurantFiestaCriolla?locale=es_LA"
-                }
-            ],
-            "instagram": [ true,
-                {
-                    "url": "https://www.instagram.com/fiestacriollaconcordia/"
-                }
-            ],
-            "whatsapp": "+53 5 2713373"
-        },
-        "child_care": false,
-        "disable_support": false,
-        "wifi": false,
-        "parking":  true,
-        "delivery": false,
-        "reserves": false,
-        "rent_from_the_client": false,
-        "vip_zone": false,
-        "catering": false,
-        "interactive_activities": false,
-        "sanitary": true,
-        "pet_friendly": false
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": false
     },
-    "pay_meth": {
-        "cash": true,
-        "transfer":
-            {
-                "transfermovil": true,
-                "visa": false,
-                "mastercard": false
-            },
-        "currency": {
-            "cup": true,
-            "usd": false,
-            "euro": false,
-            "mlc": false
-        },
-        "10% charge": false,
+    "10% charge": false,
     "menu_details": {
-        "kind_of_food": ["variada", "criolla"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
+      "kind_of_food": [
+        "criolla",
+        "italiana"
+      ],
+      "menu_card": {
+        "menu_sections": {
+          "starters": [
+            {
+              "courses": [
                 {
-                  "courses": [
-                    {"name": "Toston criollo",
-      "price": 500.00
-    },
-      {"name": "Toston relleno con Jamon y Queso",
-      "price": 600.00
-    },
-      {"name": "Toston relleno con Atun",
-      "price": 700.00
-    },
-      {"name": "Eperlan",
-      "price": 1300.00
-    },
-      {"name": "Fajitas de pollo",
-      "price": 1300.00
-    },
-      {"name": "Caldo de Mariscos",
-      "price": 1000.00
-    },
-      {"name": "Camaron Rebosado",
-      "price": 2000.00
-    },
-      {"name": "Tamal en Hojas",
-      "price": 90.00
-    },
-      {"name": "Fritura de Malanga",
-      "price": 500.00
-    },
-      {"name": "Platano Frito",
-      "price": 350.00
-    },
-      {"name": "Alitas de Pollo",
-      "price": 850.00
-    }
-                  ]
-                }
-              ],
-              "main_course": [
+                  "name": "Toston criollo",
+                  "price": 500.00
+                },
                 {
-                    "courses": [
-                        {"name": "Pollo Asado",
-                        "price": 1150.00
-                      },
-                        {"name": "Pechuga Grillé",
-                        "price": 1450.00
-                      },
-                        {"name": "Pechuga Gratinada Jamón y Queso",
-                        "price": 1600.00
-                      },
-                        {"name": "Chuleta",
-                        "price": 1350.00
-                      },
-                        {"name": "Pechuga Salteada con vegetales",
-                        "price": 1550.00
-                      },
-                        {"name": "Lomo Ahumado",
-                        "price": 1350.00
-                      },
-                        {"name": "Lomo deshuesado ahumado",
-                        "price": 1550.00
-                      },
-                        {"name": "Costillas Fritas",
-                        "price": 1400.00
-                      },
-                        {"name": "Masa Frita",
-                        "price": 1550.00
-                      },
-                        {"name": "Bistec Grillé",
-                        "price": 1450.00
-                      },
-                        {"name": "Bistec Gratinado de Jamón y Queso",
-                        "price": 1600.00
-                      },
-                        {"name": "Ropa Vieja",
-                        "price": 1500.00
-                      },
-                        {"name": "Suprema carnero",
-                        "price": 1800.00
-                      },
-                        {"name": "Fricasé de Carnero",
-                        "price": 1500.00
-                      },
-                        {"name": "Camarón grillé",
-                        "price": 1900.00
-                      },
-                        {"name": "Langosta grillé",
-                        "price": 1900.00
-                      },
-                        {"name": "Pulpo grillé",
-                        "price": 2000.00
-                      },
-                        {"name": "Pescado grillé",
-                        "price": 1300.00
-                      },
-                        {"name": "Rueda pescado grillé",
-                        "price": 1300.00
-                      },
-                        {"name": "Pescado Grillé gratinado con Jamón y Queso",
-                        "price": 1450.00
-                      },
-                        {"name": "Don Pedro",
-                        "price": 2300.00
-                      },
-                        {"name": "Masa de cangrejo",
-                        "price": 1050.00
-                      },
-                        {"name": "Caldero de mariscos",
-                        "price": 3500.00
-                      },
-                        {"name": "Mar y tierra",
-                        "price": 3950.00
-                      },
-                        {"name": "Paella",
-                        "price": 2300.00
-                      },
-                        {"name": "Mariscada",
-                        "price": 2500.00
-                      },
-                        {"name": "Spaguetis Napolitanos",
-                        "price": 1000.00
-                      },
-                        {"name": "Spaguetis con Jamón y Queso",
-                        "price": 1250.00
-                      }
-                    ]
-                }
-              ],
-              "desserts": [
+                  "name": "Toston relleno con Jamon y Queso",
+                  "price": 600.00
+                },
                 {
-                    "courses": [
-                        {"name": "Dulce Tres Leches",
-      "price": 350.00
-    }
-                    ]
+                  "name": "Toston relleno con Atun",
+                  "price": 700.00
+                },
+                {
+                  "name": "Eperlan",
+                  "price": 1300.00
+                },
+                {
+                  "name": "Fajitas de pollo",
+                  "price": 1300.00
+                },
+                {
+                  "name": "Caldo de Mariscos",
+                  "price": 1000.00
+                },
+                {
+                  "name": "Camaron Rebosado",
+                  "price": 2000.00
+                },
+                {
+                  "name": "Tamal en Hojas",
+                  "price": 90.00
+                },
+                {
+                  "name": "Fritura de Malanga",
+                  "price": 500.00
+                },
+                {
+                  "name": "Platano Frito",
+                  "price": 350.00
+                },
+                {
+                  "name": "Alitas de Pollo",
+                  "price": 850.00
                 }
               ]
             }
-        }    
+          ],
+          "main_course": [
+            {
+              "courses": [
+                {
+                  "name": "Pollo Asado",
+                  "price": 1150.00
+                },
+                {
+                  "name": "Pechuga Grillé",
+                  "price": 1450.00
+                },
+                {
+                  "name": "Pechuga Gratinada Jamón y Queso",
+                  "price": 1600.00
+                },
+                {
+                  "name": "Chuleta",
+                  "price": 1350.00
+                },
+                {
+                  "name": "Pechuga Salteada con vegetales",
+                  "price": 1550.00
+                },
+                {
+                  "name": "Lomo Ahumado",
+                  "price": 1350.00
+                },
+                {
+                  "name": "Lomo deshuesado ahumado",
+                  "price": 1550.00
+                },
+                {
+                  "name": "Costillas Fritas",
+                  "price": 1400.00
+                },
+                {
+                  "name": "Masa Frita",
+                  "price": 1550.00
+                },
+                {
+                  "name": "Bistec Grillé",
+                  "price": 1450.00
+                },
+                {
+                  "name": "Bistec Gratinado de Jamón y Queso",
+                  "price": 1600.00
+                },
+                {
+                  "name": "Ropa Vieja",
+                  "price": 1500.00
+                },
+                {
+                  "name": "Suprema carnero",
+                  "price": 1800.00
+                },
+                {
+                  "name": "Fricasé de Carnero",
+                  "price": 1500.00
+                },
+                {
+                  "name": "Camarón grillé",
+                  "price": 1900.00
+                },
+                {
+                  "name": "Langosta grillé",
+                  "price": 1900.00
+                },
+                {
+                  "name": "Pulpo grillé",
+                  "price": 2000.00
+                },
+                {
+                  "name": "Pescado grillé",
+                  "price": 1300.00
+                },
+                {
+                  "name": "Rueda pescado grillé",
+                  "price": 1300.00
+                },
+                {
+                  "name": "Pescado Grillé gratinado con Jamón y Queso",
+                  "price": 1450.00
+                },
+                {
+                  "name": "Don Pedro",
+                  "price": 2300.00
+                },
+                {
+                  "name": "Masa de cangrejo",
+                  "price": 1050.00
+                },
+                {
+                  "name": "Caldero de mariscos",
+                  "price": 3500.00
+                },
+                {
+                  "name": "Mar y tierra",
+                  "price": 3950.00
+                },
+                {
+                  "name": "Paella",
+                  "price": 2300.00
+                },
+                {
+                  "name": "Mariscada",
+                  "price": 2500.00
+                },
+                {
+                  "name": "Spaguetis Napolitanos",
+                  "price": 1000.00
+                },
+                {
+                  "name": "Spaguetis con Jamón y Queso",
+                  "price": 1250.00
+                }
+              ]
+            }
+          ],
+          "desserts": [
+            {
+              "courses": [
+                {
+                  "name": "Dulce Tres Leches",
+                  "price": 350.00
+                }
+              ]
+            }
+          ]
+        }
+      }
     }
-}
+  }
 }

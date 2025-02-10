@@ -118,7 +118,7 @@
         "10% charge": true
     },
     "menu_details": {
-        "kind_of_food": ["variada", "criolla"],
+        "kind_of_food": ["criolla"],
         "menu_card": {
             "menu_sections": {
               "starters": [

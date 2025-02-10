@@ -3,7 +3,7 @@
     "name": "RicarDon",
     "district": "Centro Habana",
     "coordinates": {
-        "latitude": 23.137414091589683, 
+        "latitude": 23.137414091589683,
         "longitude": -82.36092696447452
     },
     "contact": {
@@ -46,7 +46,12 @@
     },
     "rating": 5.0,
     "intake_capacity": "media",
-    "cuisine": ["caribeña", "latina", "mediterránea", "cubana"],
+    "cuisine": [
+        "caribeña",
+        "latina",
+        "mediterránea",
+        "cubana"
+    ],
     "services": {
         "plant": true,
         "child_care": false,
@@ -63,7 +68,10 @@
         "transfer": true
     },
     "menu_details": {
-        "kind_of_food": ["variada", "criolla", "italiana"],
+        "kind_of_food": [
+            "criolla",
+            "italiana"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -73,52 +81,86 @@
                             {
                                 "name": "croquetas de chorizo (10 un)",
                                 "price": 970,
-                                "main_ingredients": ["harina", "embutido"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "embutido"
+                                ]
                             },
                             {
                                 "name": "tostones rellenos con jamon y queso (50g jamon, 30g queso)",
                                 "price": 600,
-                                "main_ingredients": ["fruta", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "ceviche estilo ricardo",
                                 "price": 1350,
-                                "main_ingredients": ["vegetales", "pescado", "marisco"]
+                                "main_ingredients": [
+                                    "vegetales",
+                                    "pescado",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "coctel de langosta (150g)",
                                 "price": 1000,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "quesadillas de jamon y queso (75g cada uno)",
                                 "price": 750,
-                                "main_ingredients": ["harina", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "empanadillas de queso con mermelada de guayaba",
                                 "price": 950,
-                                "main_ingredients": ["harina", "queso", "fruta"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "brusquetas de jamon y queso (50g jamon y 30g queso)",
                                 "price": 875,
-                                "main_ingredients": ["harina", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "frituras de malanga",
                                 "price": 500,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "name": "tapas de salmon con queso crema y uvas pasas (60g)",
                                 "price": 1125,
-                                "main_ingredients": ["pescado", "queso", "fruta"]
+                                "main_ingredients": [
+                                    "pescado",
+                                    "queso",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "tostones rellenos de ropa vieja de cerdo (100g)",
                                 "price": 1000,
-                                "main_ingredients": ["fruta", "res"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "res"
+                                ]
                             }
                         ]
                     }
@@ -129,252 +171,362 @@
                             {
                                 "name": "baston de pollo empanado (280g)",
                                 "price": 2200,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "brochetas de pollo con piña (280g)",
                                 "price": 2025,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "brochetas de pollo (280g)",
                                 "price": 2000,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "pollo a la crema con jamon serrano (280g)",
                                 "price": 2250,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "fajitas de pollo a la campesina (280g)",
                                 "price": 2500,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "Cordon Bleu (280g y 45g jamon y queso)",
                                 "price": 3000,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "pollo grille en salsa de cebolla (280g)",
                                 "price": 2250,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "pollo grille basado en salsa barbecue (250g)",
                                 "price": 1700,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "alondridas de cerdo en salsa criolla (210g)",
                                 "price": 1500,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "montado de pollo jamon y queso (280c pollo y jamon y queso)",
                                 "price": 2500,
-                                "main_ingredients": ["pollo", "queso", "jamon"]
+                                "main_ingredients": [
+                                    "pollo",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "brochetas de cerdo con piña (280g)",
                                 "price": 2100,
-                                "main_ingredients": ["cerdo", "fruta"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "ropa vieja de cerdo sin salsa de tomate (170g)",
                                 "price": 1900,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "ropa vieja de cerdo con salsa de tomate (170g)",
                                 "price": 2000,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "bistec de cerdo gratinado con jamon y queso (280g y 45g jamon y queso)",
                                 "price": 2400,
-                                "main_ingredients": ["cerdo", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "lomo de cerdo deshuesado con mojo criollo (280g)",
                                 "price": 2200,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "lomo ahumado agridulce (280g)",
                                 "price": 2250,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "lomo ahumado al graten (280)",
                                 "price": 2200,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "lomo ahumado grille (280g)",
                                 "price": 2000,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "lomo ahumado en salsa barbacoa (280g)",
                                 "price": 2250,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "pescado relleno con salmon",
                                 "price": 3200,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "arroz marinero",
                                 "price": 3350,
-                                "main_ingredients": ["grano", "marisco"]
+                                "main_ingredients": [
+                                    "grano",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "camarón en salsa de crema de queso y albahaca",
                                 "price": 3300,
-                                "main_ingredients": ["marisco", "queso", "jamon"]
+                                "main_ingredients": [
+                                    "marisco",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "camarón thermidor",
                                 "price": 2500,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "filete de salmon (350g)",
                                 "price": 2500,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "pescado del dia (280g)",
                                 "price": 2625,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "pescado salvaje",
                                 "price": 2800,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "fajitas de pescado en mirepoix de vegetales (280g)",
                                 "price": 2300,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "pescado grille c/ m d hotel (280g)",
                                 "price": 2500,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "langosta grille c/ m d hotel (350g)",
                                 "price": 2500,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "enchilado de pulpo (250g)",
                                 "price": 4000,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "pescado marinero (280g pescado y 60g camarón)",
                                 "price": 3000,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "camarón empanado (250g)",
                                 "price": 2500,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "camarones enchilados (250g)",
                                 "price": 2800,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "filete de pescado empanado (200g)",
                                 "price": 2500,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "dados de pescado en salsa cubana (200g)",
                                 "price": 2500,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "pescado joinville (280g pescado y 50g de camarón)",
                                 "price": 3700,
-                                "main_ingredients": ["pescado", "marisco"]
+                                "main_ingredients": [
+                                    "pescado",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "zarzuela marinera (150g de cada producto)",
                                 "price": 4900,
-                                "main_ingredients": ["pescado", "marisco"]
+                                "main_ingredients": [
+                                    "pescado",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "sirloin con salsa española",
                                 "price": 12000,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "ribeye de wagyu de res",
                                 "price": 14000,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "ribeye angus",
                                 "price": 9000,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "wagyu new york strip",
                                 "price": 13750,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "chilindron de cordero (250g)",
                                 "price": 2400,
-                                "main_ingredients": ["cordero"]
+                                "main_ingredients": [
+                                    "cordero"
+                                ]
                             },
                             {
                                 "name": "ropa vieja de res sin salsa de tomate (170g)",
                                 "price": 2500,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "dados de res estofado (250g)",
                                 "price": 2600,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "ropa vieja de res con salsa de tomate (170g)",
                                 "price": 2700,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "estofado de cordero al vino tinto (250g)",
                                 "price": 2250,
-                                "main_ingredients": ["cordero"]
+                                "main_ingredients": [
+                                    "cordero"
+                                ]
                             },
                             {
                                 "name": "pollo asado",
                                 "price": 2300,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "new york strip angus",
                                 "price": 8400,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "pollo entero relleno 2500gr",
                                 "price": 10000,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "camarones enchilados (250g)",
                                 "price": 2800,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             }
                         ]
                     }
@@ -385,22 +537,34 @@
                             {
                                 "name": "tacos de camaron (200g)",
                                 "price": 1800,
-                                "main_ingredients": ["harina", "marisco"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "tacos de cerdo y res (65g cerdo y 65g res)",
                                 "price": 1100,
-                                "main_ingredients": ["harina", "cerdo", "res"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo",
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "tacos de pollo (125g)",
                                 "price": 1100,
-                                "main_ingredients": ["harina", "pollo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "tacos de pollo en salsa pico de gallo (125)",
                                 "price": 1250,
-                                "main_ingredients": [""]
+                                "main_ingredients": [
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -411,57 +575,100 @@
                             {
                                 "name": "pizza de serrano",
                                 "price": 1950,
-                                "main_ingredients": ["harina", "queso", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "pizza de camarones",
                                 "price": 2000,
-                                "main_ingredients": ["harina", "queso", "marisco"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "pizza de atun",
                                 "price": 1550,
-                                "main_ingredients": ["harina", "queso", "pescado"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "pizza de cebolla",
                                 "price": 1100,
-                                "main_ingredients": ["harina", "queso", "vegetales"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "pizza de chorizo vela",
                                 "price": 2000,
-                                "main_ingredients": ["harina", "queso", "embutido"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "embutido"
+                                ]
                             },
                             {
                                 "name": "pizza de jamon",
                                 "price": 1450,
-                                "main_ingredients": ["harina", "queso", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "pizza napolitana",
                                 "price": 1100,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "pizza de aji y cebolla",
                                 "price": 1200,
-                                "main_ingredients": ["harina", "queso", "vegetales"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "pizza al pesto",
                                 "price": 1100,
-                                "main_ingredients": ["harina", "queso", "vegetales"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "pizza 4 queso",
                                 "price": 2000,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "pizza a la carbonara",
                                 "price": 2500,
-                                "main_ingredients": ["harina", "queso", "huevo", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "huevo",
+                                    "cerdo"
+                                ]
                             }
                         ]
                     }
@@ -472,37 +679,65 @@
                             {
                                 "name": "spaghetti napoles con queso gouda",
                                 "price": 1200,
-                                "main_ingredients": ["pasta", "queso"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "spaghetti con jamon y queso gouda",
                                 "price": 1700,
-                                "main_ingredients": ["pasta", "queso", "jamon"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "spaghetti camarones",
                                 "price": 2200,
-                                "main_ingredients": ["pasta", "queso", "marisco"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "spaghetti en salsa blanca cremosa con parmesano",
                                 "price": 1900,
-                                "main_ingredients": ["pasta", "queso", "leche"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "leche"
+                                ]
                             },
                             {
                                 "name": "spaghetti con atun",
                                 "price": 2000,
-                                "main_ingredients": ["pasta", "queso", "pescado"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "spaghetti en salsa cremosa de salmon ahumado",
                                 "price": 2300,
-                                "main_ingredients": ["pasta", "queso", "pescado"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "spaghetti carbonara",
                                 "price": 2500,
-                                "main_ingredients": ["pasta", "queso", "cerdo", "huevo"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "cerdo",
+                                    "huevo"
+                                ]
                             }
                         ]
                     }
@@ -547,27 +782,40 @@
                             {
                                 "name": "flan al caramelo",
                                 "price": 350,
-                                "main_ingredients": ["leche", "huevo"]
+                                "main_ingredients": [
+                                    "leche",
+                                    "huevo"
+                                ]
                             },
                             {
                                 "name": "eclair de crema y chocolate (1 unidad)",
                                 "price": 850,
-                                "main_ingredients": ["harina", "leche"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche"
+                                ]
                             },
                             {
                                 "name": "cake de chocolate (porción)",
                                 "price": 1000,
-                                "main_ingredients": ["harina", "leche"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche"
+                                ]
                             },
                             {
                                 "name": "dulce de papaya",
                                 "price": 275,
-                                "main_ingredients": ["fruta"]
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "dulce coco del abuelo",
                                 "price": 250,
-                                "main_ingredients": ["fruta"]
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             }
                         ]
                     }
@@ -667,6 +915,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

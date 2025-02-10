@@ -29,90 +29,128 @@
         "delivery": false,
         "power plant": false
     },
-    "payment_methods": [
-    ],
+    "payment_methods": [],
     "menu_details": {
-        "kind_of_food": ["variada", "italiana", "criolla"],
+        "kind_of_food": [
+            "italiana",
+            "criolla"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
                 "starters": [
-                    { 
+                    {
                         "courses": [
                             {
                                 "name": "Picadera Fénix",
                                 "price": 1785.00,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "Entremés jamón y aceite",
                                 "price": 535.00,
-                                "main_ingredients": ["jamon"]
+                                "main_ingredients": [
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "Entremés jamón y queso",
                                 "price": 835.00,
-                                "main_ingredients": ["jamon", "queso"]
+                                "main_ingredients": [
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Entremés aceitunas",
                                 "price": 555.00,
-                                "main_ingredients": ["fruta"]
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "Coctel camarones",
                                 "price": 1200.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Ensalada fría jamón",
                                 "price": 595.00,
-                                "main_ingredients": ["pasta", "jamon"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "Ensalada fría atún",
                                 "price": 850.00,
-                                "main_ingredients": ["pasta", "pescado"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Vianda c/mojo",
                                 "price": 315.00,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "name": "Tostones nat. ajillo",
                                 "price": 495.00,
-                                "main_ingredients": ["fruta"]
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "Tost. rellenos jamon y quesos",
                                 "price": 695.00,
-                                "main_ingredients": ["fruta", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Tost. rellenos c/camarón",
                                 "price": 835.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Mariposas chinas",
                                 "price": 375.00,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "name": "Ensalada mixta",
                                 "price": 360.00,
-                                "main_ingredients": ["vegetales"]
+                                "main_ingredients": [
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "Sopa Fénix",
                                 "price": 895.00,
-                                "main_ingredients": ["pasta", "variados"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "Fritura malanga",
                                 "price": 510.00,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             }
                         ]
                     }
@@ -123,102 +161,144 @@
                             {
                                 "name": "Bistec cerdo grille",
                                 "price": 1625.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Bistec cerdo encebollado",
                                 "price": 1885.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Ropa vieja",
                                 "price": 2535.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "Camarón grille",
                                 "price": 2785.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Camarón al ajillo",
                                 "price": 2950.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Camarón enchilado",
                                 "price": 3120.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Filete pescado grille",
                                 "price": 2675.00,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Filete sensación",
                                 "price": 3000.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Filete terraza",
                                 "price": 3940.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Chop suey camarón",
                                 "price": 2970.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Chop suey pollo",
                                 "price": 1995.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "Chop suey cerdo",
                                 "price": 2205.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Pollo grille",
                                 "price": 3975.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "Plancha de mar",
                                 "price": 5255.00,
-                                "main_ingredients": ["pescado", "marisco"]
+                                "main_ingredients": [
+                                    "pescado",
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Masas cerdo ftas (1.5b)",
                                 "price": 4550.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Brochetas cerdo (1.56)",
                                 "price": 4650.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Plancha mar y tierra",
                                 "price": 5255.00,
-                                "main_ingredients": ["cerdo", "pescado"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Corona fenix",
                                 "price": 5965.00,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "Zarzuela de mariscos",
                                 "price": 5455.00,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Mucho cerdo (3 lb)",
                                 "price": 8550.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             }
                         ]
                     }
@@ -229,22 +309,38 @@
                             {
                                 "name": "Pizza c/queso gouda",
                                 "price": 1120.00,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Pizza c/queso blanco",
                                 "price": 695.00,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Pizza Haw. queso blanco",
                                 "price": 1145.00,
-                                "main_ingredients": ["harina", "queso", "jamon", "fruta"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "Pizza Haw. queso gouda",
                                 "price": 1570.00,
-                                "main_ingredients": ["harina", "queso", "jamon", "fruta"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon",
+                                    "fruta"
+                                ]
                             }
                         ]
                     }
@@ -255,12 +351,19 @@
                             {
                                 "name": "Espag. nap. c/queso gouda",
                                 "price": 995.00,
-                                "main_ingredients": ["pasta", "queso"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Espag. nap. c/queso bco",
                                 "price": 645.00,
-                                "main_ingredients": ["pasta", "queso", "cerdo"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "cerdo"
+                                ]
                             }
                         ]
                     }
@@ -392,6 +495,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

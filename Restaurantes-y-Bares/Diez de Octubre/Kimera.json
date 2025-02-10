@@ -1,414 +1,449 @@
 {
-    "Place":"Kimera",
-    "Location":[
-        {"Address":"#311, Calle Lacret entre Juan Bruno Zallas y Cortina, Santos Suarez",
-        "Municipality":"10 de Octubre",
-        "Coordinates":null}
+    "Place": "Kimera",
+    "Location": [
+        {
+            "Address": "#311, Calle Lacret entre Juan Bruno Zallas y Cortina, Santos Suarez",
+            "Municipality": "10 de Octubre",
+            "Coordinates": null
+        }
     ],
-    "Classification":"Bar-Cafeteria",
-    "Specialization":"Cocina mixta",
-    "Property":"Privado",
-    "Schedule":[
-        {"Opening":"12h00",
-        "Closing":"01h00",
-        "Days":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]}
+    "Classification": "Bar-Cafeteria",
+    "Specialization": "Cocina mixta",
+    "Property": "Privado",
+    "Schedule": [
+        {
+            "Opening": "12h00",
+            "Closing": "01h00",
+            "Days": [
+                "Lunes",
+                "Martes",
+                "Miercoles",
+                "Jueves",
+                "Viernes",
+                "Sabado",
+                "Domingo"
+            ]
+        }
     ],
-    "Ratings":[
-        {"Tripadvisor":4.5,
-        "Google Maps":4.8}
+    "Ratings": [
+        {
+            "Tripadvisor": 4.5,
+            "Google Maps": 4.8
+        }
     ],
-    "Reservations":false,
-    "Delivery":[
-        {"Service existence":false,
-        "Delivery area":null}
+    "Reservations": false,
+    "Delivery": [
+        {
+            "Service existence": false,
+            "Delivery area": null
+        }
     ],
-    "Phone number":"52667701 / 76419083",
-    "Accounts or website":[
-        {"Facebook":null},
-        {"Instagram":"@kimera.bar.cafeteria"},
-        {"Website":null},
-        {"Email":null}
+    "Phone number": "52667701 / 76419083",
+    "Accounts or website": [
+        {
+            "Facebook": null
+        },
+        {
+            "Instagram": "@kimera.bar.cafeteria"
+        },
+        {
+            "Website": null
+        },
+        {
+            "Email": null
+        }
     ],
-    "Payment":[
-        {"Method":["Tarjeta","Efectivo"],
-        "Accepted currencies":["CUP","USD","EUR"]}
+    "Payment": [
+        {
+            "Method": [
+                "Tarjeta",
+                "Efectivo"
+            ],
+            "Accepted currencies": [
+                "CUP",
+                "USD",
+                "EUR"
+            ]
+        }
     ],
-    "Capacity":25,
-    "Parking":false,
-    "Wifi":false,
-    "Smoking area":true,
-    
+    "Capacity": 25,
+    "Parking": false,
+    "Wifi": false,
+    "Smoking area": true,
     "menu_details": {
-        "kind_of_food": ["variada", "criolla", "italiana"],
+        "kind_of_food": [
+            "criolla",
+            "italiana"
+        ],
         "menu_card": {
             "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
+                "starters": [
                     {
-                      "name":"Ensalada de vegetales",
-                  "price":450
-                  },
-                  {
-                      "name":"Croquetas",
-                  "price":500
-                  },
-                  {
-                      "name":"Frituras",
-                  "price":500
-                  },
-                  {
-                      "name":"Ceviche",
-                  "price":800
-                  },
-                  {
-                      "name":"Ensalada fria",
-                  "price":900
-                  },
-                  {
-                      "name":"Eperlan",
-                  "price":1000
-                  },
-                  {
-                      "name":"Baston de pollo",
-                  "price":1000
-                  },
-                  {
-                      "name":"Picadera de pollo o cerdo",
-                  "price":1200
-                  },
-                  {
-                      "name":"Combo Kimera",
-                  "price":4000
-                  },
-                  {
-                      "name":"Crema Aurora",
-                  "price":500
-                  },
-                  {
-                      "name":"Crema de queso",
-                  "price":600
-                  },
-                  {
-                      "name":"Crema Virginia",
-                  "price":600
-                  },
-                  {
-                      "name":"Crema Reina",
-                  "price":650
-                  }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name":"Fajitas de pollo",
-                  "price":1500
-                  },
-                  {
-                      "name":"Fajitas de pescado",
-                  "price":1500
-                  },
-                  {
-                      "name":"Pescado entero frito",
-                  "price":1600
-                  },
-                  {
-                      "name":"Rueda de pescado",
-                  "price":1600
-                  },
-                  {
-                      "name":"Pollo grille",
-                  "price":1600
-                  },
-                  {
-                      "name":"Pollo frito",
-                  "price":1700
-                  },
-                  {
-                      "name":"Pollo Princesa",
-                  "price":1700
-                  },
-                  {
-                      "name":"Lonjas de cerdo",
-                  "price":1800
-                  },
-                  {
-                      "name":"Estofado de cerdo",
-                  "price":1800
-                  },
-                  {
-                      "name":"Filete de pescado",
-                  "price":1800
-                  },
-                  {
-                      "name":"Ropa vieja",
-                  "price":2000
-                  },
-                  {
-                      "name":"Pescado Kimera",
-                  "price":2000
-                  },
-                  {
-                      "name":"Gordon Blue",
-                  "price":2000
-                  },
-                  {
-                      "name":"Canciller",
-                  "price":2100
-                  },
-                  {
-                      "name":"Uruguayo de cerdo",
-                  "price":2300
-                  },
-                  {
-                      "name":"Plato Kimera",
-                  "price":4500
-                  }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                    "courses": [
-                      {
-                        "name":"Pizza napolitana",
-                    "price":900
-                    },
-                    {
-                        "name":"Pizza de aji o cebolla",
-                    "price":1200
-                    },
-                    {
-                        "name":"Pizza de jamon",
-                    "price":1400
-                    },
-                    {
-                        "name":"Pizza Hawaiana",
-                    "price":1500
-                    },
-                    {
-                        "name":"Pizza de aceitunas",
-                    "price":1500
-                    },
-                    {
-                        "name":"Pizza de pollo",
-                    "price":1500
-                    },
-                    {
-                        "name":"Pizza Doble Queso",
-                    "price":1700
-                    },
-                    {
-                        "name":"Pizza de atun",
-                    "price":1800
-                    },
-                    {
-                        "name":"Pizza de cerdo",
-                    "price":1900
-                    },
-                    {
-                        "name":"Pizza de Ropa Vieja",
-                    "price":2000
-                    },
-                    {
-                        "name":"Pizza del mar Kimera",
-                    "price":2500
+                        "courses": [
+                            {
+                                "name": "Ensalada de vegetales",
+                                "price": 450
+                            },
+                            {
+                                "name": "Croquetas",
+                                "price": 500
+                            },
+                            {
+                                "name": "Frituras",
+                                "price": 500
+                            },
+                            {
+                                "name": "Ceviche",
+                                "price": 800
+                            },
+                            {
+                                "name": "Ensalada fria",
+                                "price": 900
+                            },
+                            {
+                                "name": "Eperlan",
+                                "price": 1000
+                            },
+                            {
+                                "name": "Baston de pollo",
+                                "price": 1000
+                            },
+                            {
+                                "name": "Picadera de pollo o cerdo",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Combo Kimera",
+                                "price": 4000
+                            },
+                            {
+                                "name": "Crema Aurora",
+                                "price": 500
+                            },
+                            {
+                                "name": "Crema de queso",
+                                "price": 600
+                            },
+                            {
+                                "name": "Crema Virginia",
+                                "price": 600
+                            },
+                            {
+                                "name": "Crema Reina",
+                                "price": 650
+                            }
+                        ]
                     }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
+                ],
+                "main_courses": [
                     {
-                      "name":"Lasagna",
-                  "price":1400
-                  },
-                  {
-                      "name":"Espaghettis napolitano",
-                  "price":800
-                  },
-                  {
-                      "name":"Espaghettis de jamon",
-                  "price":1300
-                  },
-                  {
-                      "name":"Espaghettis Doble Queso",
-                  "price":1400
-                  },
-                  {
-                      "name":"Espaghettis Carbonara",
-                  "price":1600
-                  },
-                  {
-                      "name":"Espaghettis del mar Kimera",
-                  "price":2500
-                  }
-                  ]
-                }
-              ],
-              "desserts": [
-                {
-                  "courses": [
-                    {
-                      "name":"Helado",
-                  "price":320
-                  },
-                  {
-                      "name":"Flan",
-                  "price":350
-                  },
-                  {
-                      "name":"Tartaleta",
-                  "price":250
-                  }
-                  ]
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                    {
-                      "cocktails": [
-                        {
-                          "name":"Michelada",
-                      "price":300
-                      },
-                      {
-                          "name":"Cuba Libre",
-                      "price":500
-                      },
-                      {
-                          "name":"Mojito",
-                      "price":550
-                      },
-                      {
-                          "name":"Cubanito",
-                      "price":500
-                      },
-                      {
-                          "name":"Cubata",
-                      "price":550
-                      },
-                      {
-                          "name":"Destornillador",
-                      "price":550
-                      },
-                      {
-                          "name":"Daiquiri",
-                      "price":600
-                      },
-                      {
-                          "name":"Caipiroska",
-                      "price":600
-                      },
-                      {
-                          "name":"Caipirinha",
-                      "price":600
-                      },
-                      {
-                          "name":"Caipirissima",
-                      "price":600
-                      },
-                      {
-                          "name":"Canchanchara",
-                      "price":600
-                      },
-                      {
-                          "name":"Vodka Tonic",
-                      "price":600
-                      },
-                      {
-                          "name":"Whisky Tonic",
-                      "price":600
-                      },
-                      {
-                          "name":"Gin Tonic",
-                      "price":700
-                      },
-                      {
-                          "name":"Pina Colada",
-                      "price":700
-                      },
-                      {
-                          "name":"Sangria",
-                      "price":800
-                      },
-                      {
-                          "name":"Margarita",
-                      "price":900
-                      }
-                      ],
-                      "beers": [
-                        {
-                          "name":"Cerveza",
-                      "price":320
-                      }
-                      ]
+                        "courses": [
+                            {
+                                "name": "Fajitas de pollo",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Fajitas de pescado",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Pescado entero frito",
+                                "price": 1600
+                            },
+                            {
+                                "name": "Rueda de pescado",
+                                "price": 1600
+                            },
+                            {
+                                "name": "Pollo grille",
+                                "price": 1600
+                            },
+                            {
+                                "name": "Pollo frito",
+                                "price": 1700
+                            },
+                            {
+                                "name": "Pollo Princesa",
+                                "price": 1700
+                            },
+                            {
+                                "name": "Lonjas de cerdo",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Estofado de cerdo",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Filete de pescado",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Ropa vieja",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Pescado Kimera",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Gordon Blue",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Canciller",
+                                "price": 2100
+                            },
+                            {
+                                "name": "Uruguayo de cerdo",
+                                "price": 2300
+                            },
+                            {
+                                "name": "Plato Kimera",
+                                "price": 4500
+                            }
+                        ]
                     }
-                  ],
-                  "water": [
+                ],
+                "pizzas": [
                     {
-                      "name":"Agua",
-                  "price":250
-                  }
-                  ],
-                  "natural_juices": [
+                        "courses": [
+                            {
+                                "name": "Pizza napolitana",
+                                "price": 900
+                            },
+                            {
+                                "name": "Pizza de aji o cebolla",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Pizza de jamon",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Pizza Hawaiana",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Pizza de aceitunas",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Pizza de pollo",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Pizza Doble Queso",
+                                "price": 1700
+                            },
+                            {
+                                "name": "Pizza de atun",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Pizza de cerdo",
+                                "price": 1900
+                            },
+                            {
+                                "name": "Pizza de Ropa Vieja",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Pizza del mar Kimera",
+                                "price": 2500
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
                     {
-                      "name":"Batido de frutas",
-                  "price":400
-                  },
-                  {
-                      "name":"Jugos",
-                  "price":250
-                  }
-                  ],
-                  "soft_drinks":[
+                        "courses": [
+                            {
+                                "name": "Lasagna",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Espaghettis napolitano",
+                                "price": 800
+                            },
+                            {
+                                "name": "Espaghettis de jamon",
+                                "price": 1300
+                            },
+                            {
+                                "name": "Espaghettis Doble Queso",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Espaghettis Carbonara",
+                                "price": 1600
+                            },
+                            {
+                                "name": "Espaghettis del mar Kimera",
+                                "price": 2500
+                            }
+                        ]
+                    }
+                ],
+                "desserts": [
                     {
-                      "name":"Refresco",
-                  "price":300
-                  },
-                  {
-                      "name":"Energizante",
-                  "price":400
-                  },
-                  {
-                      "name":"Malta",
-                  "price":400
-                  },
-                  {
-                      "name":"Malteada",
-                  "price":600
-                  }
-                  ],
-                  "coffees": [
+                        "courses": [
+                            {
+                                "name": "Helado",
+                                "price": 320
+                            },
+                            {
+                                "name": "Flan",
+                                "price": 350
+                            },
+                            {
+                                "name": "Tartaleta",
+                                "price": 250
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
                     {
-                      "name":"Cafe Expresso",
-                  "price":150
-                  },
-                  {
-                      "name":"Cafe Cortadito",
-                  "price":200
-                  },
-                  {
-                      "name":"Cafe Cappuccino",
-                  "price":220
-                  },
-                  {
-                      "name":"Cafe Bombon",
-                  "price":300
-                  },
-                  {
-                      "name":"Cafe Frappuccino",
-                  "price":350
-                  }
-                  ]
-                }
-              ]
+                        "alcoholic_beverages": [
+                            {
+                                "cocktails": [
+                                    {
+                                        "name": "Michelada",
+                                        "price": 300
+                                    },
+                                    {
+                                        "name": "Cuba Libre",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Mojito",
+                                        "price": 550
+                                    },
+                                    {
+                                        "name": "Cubanito",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Cubata",
+                                        "price": 550
+                                    },
+                                    {
+                                        "name": "Destornillador",
+                                        "price": 550
+                                    },
+                                    {
+                                        "name": "Daiquiri",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Caipiroska",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Caipirinha",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Caipirissima",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Canchanchara",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Vodka Tonic",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Whisky Tonic",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Gin Tonic",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Pina Colada",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Sangria",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "Margarita",
+                                        "price": 900
+                                    }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "Cerveza",
+                                        "price": 320
+                                    }
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua",
+                                "price": 250
+                            }
+                        ],
+                        "natural_juices": [
+                            {
+                                "name": "Batido de frutas",
+                                "price": 400
+                            },
+                            {
+                                "name": "Jugos",
+                                "price": 250
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Refresco",
+                                "price": 300
+                            },
+                            {
+                                "name": "Energizante",
+                                "price": 400
+                            },
+                            {
+                                "name": "Malta",
+                                "price": 400
+                            },
+                            {
+                                "name": "Malteada",
+                                "price": 600
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "Cafe Expresso",
+                                "price": 150
+                            },
+                            {
+                                "name": "Cafe Cortadito",
+                                "price": 200
+                            },
+                            {
+                                "name": "Cafe Cappuccino",
+                                "price": 220
+                            },
+                            {
+                                "name": "Cafe Bombon",
+                                "price": 300
+                            },
+                            {
+                                "name": "Cafe Frappuccino",
+                                "price": 350
+                            }
+                        ]
+                    }
+                ]
             }
-        }    
+        }
     }
 }

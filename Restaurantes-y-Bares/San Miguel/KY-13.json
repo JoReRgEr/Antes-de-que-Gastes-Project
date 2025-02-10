@@ -1,232 +1,329 @@
 {
-    "general_info": {
-        "name":"KY-13",
-        "township": "San Miguel del Padrón",
-        "adress":"calzada de guines #45 e/ 13 y 23 AMP. San Matias",
-        "local":"restaurante-cafeteria",
-        "open":"1000",
-        "close":"2300",
-        "days_of_week":["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
-        "sector":"privado",
-        "capability":24,
-        "social_network":["Facebook","Instagram"],
-        "years": 11
-
-        
-    },
-    "economy": {
-        "payment_methods":["transferencia","efectivo"],
-        "online_reservation":true,
-        "tips_included":false,
-        "delivery":true 
-    },
-    "menu_details": {
-        "kind_of_food": ["variada", "criolla", "italiana"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name":["croquetas de queso"],
-                "price":600
-                    },
-                    {
-                      "name":["frituras de malanga"],
-                "price":600
-                    },
-                    {
-                      "name":["tostones rellenos"],
-                "price":700
-                    },
-                    {
-                      "name":["eperlan"],
-                "price":1300
-                    },
-                    {
-                      "name":["dedos de pollo"],
-                "price":1000
-                    },
-                    {
-                      "name":["coctel de camaron"],
-                "price":1300
-                    },
-                    {
-                      "name":["camaron rebozado"],
-                "price":1200
-                    },
-                    {
-                      "name":["crema de queso"],
-                "price":850
-                    },
-                    {
-                      "name":["crema aurora"],
-                "price":850
-                    },
-                    {
-                      "name":["surtido KY13"],
-                "price":4000
-                    }
-                  ]
-                }
-              ],
-              "breads": [
-                {
-                  "courses": [
-                    {
-                      "name":["hamburguesa sencilla"],
-                "price":1400
-                    },
-                    {
-                      "name":["hamburguesa KY13"],
-                "price":2950
-                    },
-                    {
-                      "name":["sandwich sencillo"],
-                "price":1250
-                    },
-                    {
-                      "name":["sandwich lomo ahumado"],
-                "price":1250
-                    },
-                    {
-                      "name":["sandwich especial"],
-                "price":2100
-                    },
-                    {
-                      "name":["sandwich de atún"],
-                "price":1150
-                    }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                    "courses": [
-                     {
-                      "name":["bistec de cerdo grille"],
-                "price":2350
-                     },
-                     {
-                      "name":["bistec de cerdo empanado"],
-                "price":2700
-                     },
-                     {
-                      "name":["uruguayo de cerdo"],
-                "price":3500
-                     },
-                     {
-                      "name":["pechuga de pollo grille"],
-                "price":2400
-                     },
-                     {
-                      "name":["pechuga de pollo gratinada"],
-                "price":2800
-                     },
-                     {
-                      "name":["pollo gordon blue"],
-                "price":3650
-                     },
-                     {
-                      "name":["pollo frito o asado"],
-                "price":2000
-                     },
-                     {
-                      "name":["ropa vieja de res"],
-                "price":2800
-                     },
-                     {
-                      "name":["picadillo a la habanera"],
-                "price":2700
-                     },
-                     {
-                      "name":["chuleta de cerdo"],
-                "price":2600
-                     },
-                     {
-                      "name":["lomo ahumado"],
-                "price":2500
-                     },
-                     {
-                      "name":["costilla de cerdo frita"],
-                "price":2300
-                     },
-                     {
-                      "name":["masa de cerdo frita"],
-                "price":3800
-                     },
-                     {
-                      "name":["bistec de pollo"],
-                "price":2200
-                     },
-                     {
-                      "name":["arroz frito"],
-                "price":2800
-                     }
-                  ]
-                }
-              ],
-              "rations": [
-                {
-                  "name":["arroz blanco"],
-                "price":300
-                },
-                {
-                  "name":["arroz moro"],
-                "price":480
-                },
-                {
-                  "name":["vianda frita"],
-                "price":700
-                },
-                {
-                  "name":["ensalada mixta"],
-                "price":700
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name":["pizza de queso"],
-                "price":1200
-                    },
-                    {
-                      "name":["pizza familiar de queso"],
-                "price":3350
-                    }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name":["espaguetti de queso"],
-                "price":1300
-                    },
-                    {
-                      "name":["lasaña de jamón"],
-                "price":1800
-                    },
-                    {
-                      "name":["espaguetti a la carbonara"],
-                "price":2000
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
-    },
-    "social": {
-        "kids_seat":false,
-        "blackout_alternatives":false,
-        "entertainment":[],
-        "peak_hour":["comida"],
-        "tourism":true,
-        "pets":false,
-        "bathroom":true,
-        "heated":false
+  "general_info": {
+    "name": "KY-13",
+    "township": "San Miguel del Padrón",
+    "adress": "calzada de guines #45 e/ 13 y 23 AMP. San Matias",
+    "local": "restaurante-cafeteria",
+    "open": "1000",
+    "close": "2300",
+    "days_of_week": [
+      "lunes",
+      "martes",
+      "miércoles",
+      "jueves",
+      "viernes",
+      "sábado",
+      "domingo"
+    ],
+    "sector": "privado",
+    "capability": 24,
+    "social_network": [
+      "Facebook",
+      "Instagram"
+    ],
+    "years": 11
+  },
+  "economy": {
+    "payment_methods": [
+      "transferencia",
+      "efectivo"
+    ],
+    "online_reservation": true,
+    "tips_included": false,
+    "delivery": true
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "criolla",
+      "italiana"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "croquetas de queso"
+                ],
+                "price": 600
+              },
+              {
+                "name": [
+                  "frituras de malanga"
+                ],
+                "price": 600
+              },
+              {
+                "name": [
+                  "tostones rellenos"
+                ],
+                "price": 700
+              },
+              {
+                "name": [
+                  "eperlan"
+                ],
+                "price": 1300
+              },
+              {
+                "name": [
+                  "dedos de pollo"
+                ],
+                "price": 1000
+              },
+              {
+                "name": [
+                  "coctel de camaron"
+                ],
+                "price": 1300
+              },
+              {
+                "name": [
+                  "camaron rebozado"
+                ],
+                "price": 1200
+              },
+              {
+                "name": [
+                  "crema de queso"
+                ],
+                "price": 850
+              },
+              {
+                "name": [
+                  "crema aurora"
+                ],
+                "price": 850
+              },
+              {
+                "name": [
+                  "surtido KY13"
+                ],
+                "price": 4000
+              }
+            ]
+          }
+        ],
+        "breads": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "hamburguesa sencilla"
+                ],
+                "price": 1400
+              },
+              {
+                "name": [
+                  "hamburguesa KY13"
+                ],
+                "price": 2950
+              },
+              {
+                "name": [
+                  "sandwich sencillo"
+                ],
+                "price": 1250
+              },
+              {
+                "name": [
+                  "sandwich lomo ahumado"
+                ],
+                "price": 1250
+              },
+              {
+                "name": [
+                  "sandwich especial"
+                ],
+                "price": 2100
+              },
+              {
+                "name": [
+                  "sandwich de atún"
+                ],
+                "price": 1150
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "bistec de cerdo grille"
+                ],
+                "price": 2350
+              },
+              {
+                "name": [
+                  "bistec de cerdo empanado"
+                ],
+                "price": 2700
+              },
+              {
+                "name": [
+                  "uruguayo de cerdo"
+                ],
+                "price": 3500
+              },
+              {
+                "name": [
+                  "pechuga de pollo grille"
+                ],
+                "price": 2400
+              },
+              {
+                "name": [
+                  "pechuga de pollo gratinada"
+                ],
+                "price": 2800
+              },
+              {
+                "name": [
+                  "pollo gordon blue"
+                ],
+                "price": 3650
+              },
+              {
+                "name": [
+                  "pollo frito o asado"
+                ],
+                "price": 2000
+              },
+              {
+                "name": [
+                  "ropa vieja de res"
+                ],
+                "price": 2800
+              },
+              {
+                "name": [
+                  "picadillo a la habanera"
+                ],
+                "price": 2700
+              },
+              {
+                "name": [
+                  "chuleta de cerdo"
+                ],
+                "price": 2600
+              },
+              {
+                "name": [
+                  "lomo ahumado"
+                ],
+                "price": 2500
+              },
+              {
+                "name": [
+                  "costilla de cerdo frita"
+                ],
+                "price": 2300
+              },
+              {
+                "name": [
+                  "masa de cerdo frita"
+                ],
+                "price": 3800
+              },
+              {
+                "name": [
+                  "bistec de pollo"
+                ],
+                "price": 2200
+              },
+              {
+                "name": [
+                  "arroz frito"
+                ],
+                "price": 2800
+              }
+            ]
+          }
+        ],
+        "rations": [
+          {
+            "name": [
+              "arroz blanco"
+            ],
+            "price": 300
+          },
+          {
+            "name": [
+              "arroz moro"
+            ],
+            "price": 480
+          },
+          {
+            "name": [
+              "vianda frita"
+            ],
+            "price": 700
+          },
+          {
+            "name": [
+              "ensalada mixta"
+            ],
+            "price": 700
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "pizza de queso"
+                ],
+                "price": 1200
+              },
+              {
+                "name": [
+                  "pizza familiar de queso"
+                ],
+                "price": 3350
+              }
+            ]
+          }
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "espaguetti de queso"
+                ],
+                "price": 1300
+              },
+              {
+                "name": [
+                  "lasaña de jamón"
+                ],
+                "price": 1800
+              },
+              {
+                "name": [
+                  "espaguetti a la carbonara"
+                ],
+                "price": 2000
+              }
+            ]
+          }
+        ]
+      }
     }
+  },
+  "social": {
+    "kids_seat": false,
+    "blackout_alternatives": false,
+    "entertainment": [],
+    "peak_hour": [
+      "comida"
+    ],
+    "tourism": true,
+    "pets": false,
+    "bathroom": true,
+    "heated": false
+  }
 }

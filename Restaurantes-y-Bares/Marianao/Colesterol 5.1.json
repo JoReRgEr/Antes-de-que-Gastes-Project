@@ -5,265 +5,285 @@
     "Web_Page": "Cafecolesterol5.1",
     "Ownership": "Particular",
     "Operating_Hours": {
-        "Monday":   ["10:00-00:00"],
-        "Tuesday":  ["10:00-00:00"],
-        "Wendsday": ["10:00-00:00"],
-        "Thursday": ["10:00-00:00"],
-        "Friday":   ["10:00-00:00"],
-        "Saturday": ["10:00-00:00"],
-        "Sunday":   ["10:00-00:00"]
+        "Monday": [
+            "10:00-00:00"
+        ],
+        "Tuesday": [
+            "10:00-00:00"
+        ],
+        "Wendsday": [
+            "10:00-00:00"
+        ],
+        "Thursday": [
+            "10:00-00:00"
+        ],
+        "Friday": [
+            "10:00-00:00"
+        ],
+        "Saturday": [
+            "10:00-00:00"
+        ],
+        "Sunday": [
+            "10:00-00:00"
+        ]
     },
     "Location": {
         "District": "Marianao",
         "Address": "Avenida 51 entre 134 y 136",
         "Coordinates": "3HC7+CMM"
     },
-    "Cuisine": "Variada",
-    
     "menu_details": {
-        "kind_of_food": ["panes", "criolla", "italiana"],
+        "kind_of_food": [
+            "panes",
+            "criolla",
+            "italiana"
+        ],
         "menu_card": {
             "menu_sections": {
-              "starters": [
-                {
-                  "name": "Mariposita China",
-                  "price": 565
-              },
-              {
-                  "name": "Frituras de Malanga",
-                  "price": 590
-              },
-              {
-                  "name": "Bolitas de queso con miel y.mostaza",
-                  "price": 730
-              },
-              {
-                  "name": "Croquetas Colesterol 5.1",
-                  "price": 835
-              },
-              {
-                  "name": "Fajitas de Pollo",
-                  "price": 950
-              },
-              {
-                  "name": "Fajitas de Cerdo",
-                  "price": 1150
-              },
-              {
-                  "name": "Cóctel de Camarones",
-                  "price": 1670
-              },
-              {
-                  "name": "Eperlan de pescado",
-                  "price": 950
-              },
-              {
-                  "name": "Ensalada Fría de Jamón",
-                  "price": 835
-              },
-              {
-                  "name": "Ensalada Fría de Pollo",
-                  "price": 865
-              },
-              {
-                  "name": "Ensalada Fría de Atún",
-                  "price": 995
-              },
-              {
-                  "name": "Ensalada Fría de Marisco",
-                  "price": 1125
-              },
-              {
-                  "name": "Crema de Queso",
-                  "price": 595
-              },
-              {
-                  "name": "Crema de Mariscos",
-                  "price": 920
-              },
-              {
-                  "name": "Garbanzo Frito",
-                  "price": 1670
-              },
-              {
-                  "name": "Tacos de Pollo",
-                  "price": 126
-              },
-              {
-                "name": "Tacos de Cerdo",
-                  "price": 1670
-              },
-              {
-                  "name": "Tacos de Marineros",
-                  "price": 2330
-              },
-              {
-                  "name": "Tabla colesterol",
-                  "price": 3320
-              }
-              ],
-              "breads": [
-                {
-                  "courses": [
+                "starters": [
                     {
-                      "name": "Sandwich Ropa Vieja",
-                      "price": 760
-                  },
-                  {
-                      "name": "Sandwich de Jamón y Queso",
-                      "price": 765
-                  },
-                  {
-                      "name": "Sandwich Cubano",
-                      "price": 1320
-                  },
-                  {
-                      "name": "Sandwich de Atún y Cebolla",
-                      "price": 1945
-                  },
-                    {
-                      "name": "Hamburguesa de pollo",
-                      "price": 1650
-                  },
-                  {
-                      "name": "Hamburguesa de cerdo",
-                      "price": 1795
-                  },
-                  {
-                      "name": "Hamburguesa de res",
-                      "price": 1945
-                  }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Enchilado de Cangrejo",
-                      "price": 1005
-                  },
-                  {
-                      "name": "Enchilado de Langosta",
-                      "price": 3030
-                  },
-                  {
-                      "name": "Mariscada estelares 5.1",
-                      "price": 3800
-                  },
-                  {
-                      "name": "Pescado Enchilado",
-                      "price": 2600
-                  },
-                  {
-                      "name": "Filete de Pescado Grille",
-                      "price": 3625
-                  },
-                  {
-                      "name": "Filete de Pescado Canciller ",
-                      "price": 3675
-                  },
-                  {
-                      "name": "Arroz con Artistage ",
-                      "price": 2800
-                  },
-                    {
-                      "name": "Ropa Vieja Res",
-                      "price": 2190
-                  } ,
-                  {
-                      "name": "Brocheta Mixta",
-                      "price": 2600
-                  },
-                    {
-                      "name": "Bistec Suprema ",
-                      "price": 2460
-                  },
-                    {
-                      "name": "Masa de Cerdo Frita",
-                      "price": 2725
-                  },
-                  {
-                      "name": "Bistec Uruguayo ",
-                      "price": 2995
-                  },
-                  {
-                      "name": "Chuleta de Cerdo en Salsa Agridulce",
-                      "price": 3200
-                  }
-                  ]
-                }
-              ],
-              "pizzas": [
-                  {
-                    "courses": [
-                      {
-                        "name": "Pizza Margarita 5.1 ",
-                        "price": 1930
+                        "name": "Mariposita China",
+                        "price": 565
                     },
                     {
-                        "name": "Pizza de Jamón",
-                        "price": 2115
+                        "name": "Frituras de Malanga",
+                        "price": 590
                     },
                     {
-                        "name": "Pizza hawaiana",
-                        "price": 2215
+                        "name": "Bolitas de queso con miel y.mostaza",
+                        "price": 730
                     },
                     {
-                        "name": "Pizza de Bacon, Pepperoni y Jamón Serrano",
-                        "price": 2845
+                        "name": "Croquetas Colesterol 5.1",
+                        "price": 835
                     },
                     {
-                        "name": "Pizza Campesina",
-                        "price": 2645
+                        "name": "Fajitas de Pollo",
+                        "price": 950
                     },
                     {
-                        "name": "Pizza Marinera",
-                        "price": 3020
+                        "name": "Fajitas de Cerdo",
+                        "price": 1150
+                    },
+                    {
+                        "name": "Cóctel de Camarones",
+                        "price": 1670
+                    },
+                    {
+                        "name": "Eperlan de pescado",
+                        "price": 950
+                    },
+                    {
+                        "name": "Ensalada Fría de Jamón",
+                        "price": 835
+                    },
+                    {
+                        "name": "Ensalada Fría de Pollo",
+                        "price": 865
+                    },
+                    {
+                        "name": "Ensalada Fría de Atún",
+                        "price": 995
+                    },
+                    {
+                        "name": "Ensalada Fría de Marisco",
+                        "price": 1125
+                    },
+                    {
+                        "name": "Crema de Queso",
+                        "price": 595
+                    },
+                    {
+                        "name": "Crema de Mariscos",
+                        "price": 920
+                    },
+                    {
+                        "name": "Garbanzo Frito",
+                        "price": 1670
+                    },
+                    {
+                        "name": "Tacos de Pollo",
+                        "price": 126
+                    },
+                    {
+                        "name": "Tacos de Cerdo",
+                        "price": 1670
+                    },
+                    {
+                        "name": "Tacos de Marineros",
+                        "price": 2330
+                    },
+                    {
+                        "name": "Tabla colesterol",
+                        "price": 3320
                     }
-                    ]
-                  }
-              ],
-              "pastas": [
-                {
-                  "courses": [
+                ],
+                "breads": [
                     {
-                      "name": "Espaguetis napolitanos ",
-                      "price": 925
-                  },
-                  {
-                      "name": "Espaguetis con Jamón ",
-                      "price": 1145
-                  },
-                  {
-                      "name": "Espaguetis a la Boloñesa ",
-                      "price": 1800
-                  },
-                  {
-                      "name": "Espaguetis al Pesto",
-                      "price": 1265
-                  },
-                  {
-                      "name": "Espaguetis Carbonara ",
-                      "price": 2475
-                  },
-                  {
-                      "name": "Espaguetis con frutos de Mar",
-                      "price": 3750
-                  },
-                  {
-                      "name": "Lasaña boloñesa ",
-                      "price": 2245
-                  }
-                  ]
-                }
-              ]
+                        "courses": [
+                            {
+                                "name": "Sandwich Ropa Vieja",
+                                "price": 760
+                            },
+                            {
+                                "name": "Sandwich de Jamón y Queso",
+                                "price": 765
+                            },
+                            {
+                                "name": "Sandwich Cubano",
+                                "price": 1320
+                            },
+                            {
+                                "name": "Sandwich de Atún y Cebolla",
+                                "price": 1945
+                            },
+                            {
+                                "name": "Hamburguesa de pollo",
+                                "price": 1650
+                            },
+                            {
+                                "name": "Hamburguesa de cerdo",
+                                "price": 1795
+                            },
+                            {
+                                "name": "Hamburguesa de res",
+                                "price": 1945
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Enchilado de Cangrejo",
+                                "price": 1005
+                            },
+                            {
+                                "name": "Enchilado de Langosta",
+                                "price": 3030
+                            },
+                            {
+                                "name": "Mariscada estelares 5.1",
+                                "price": 3800
+                            },
+                            {
+                                "name": "Pescado Enchilado",
+                                "price": 2600
+                            },
+                            {
+                                "name": "Filete de Pescado Grille",
+                                "price": 3625
+                            },
+                            {
+                                "name": "Filete de Pescado Canciller ",
+                                "price": 3675
+                            },
+                            {
+                                "name": "Arroz con Artistage ",
+                                "price": 2800
+                            },
+                            {
+                                "name": "Ropa Vieja Res",
+                                "price": 2190
+                            },
+                            {
+                                "name": "Brocheta Mixta",
+                                "price": 2600
+                            },
+                            {
+                                "name": "Bistec Suprema ",
+                                "price": 2460
+                            },
+                            {
+                                "name": "Masa de Cerdo Frita",
+                                "price": 2725
+                            },
+                            {
+                                "name": "Bistec Uruguayo ",
+                                "price": 2995
+                            },
+                            {
+                                "name": "Chuleta de Cerdo en Salsa Agridulce",
+                                "price": 3200
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Pizza Margarita 5.1 ",
+                                "price": 1930
+                            },
+                            {
+                                "name": "Pizza de Jamón",
+                                "price": 2115
+                            },
+                            {
+                                "name": "Pizza hawaiana",
+                                "price": 2215
+                            },
+                            {
+                                "name": "Pizza de Bacon, Pepperoni y Jamón Serrano",
+                                "price": 2845
+                            },
+                            {
+                                "name": "Pizza Campesina",
+                                "price": 2645
+                            },
+                            {
+                                "name": "Pizza Marinera",
+                                "price": 3020
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Espaguetis napolitanos ",
+                                "price": 925
+                            },
+                            {
+                                "name": "Espaguetis con Jamón ",
+                                "price": 1145
+                            },
+                            {
+                                "name": "Espaguetis a la Boloñesa ",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Espaguetis al Pesto",
+                                "price": 1265
+                            },
+                            {
+                                "name": "Espaguetis Carbonara ",
+                                "price": 2475
+                            },
+                            {
+                                "name": "Espaguetis con frutos de Mar",
+                                "price": 3750
+                            },
+                            {
+                                "name": "Lasaña boloñesa ",
+                                "price": 2245
+                            }
+                        ]
+                    }
+                ]
             }
-        }    
+        }
     },
     "Other Info": {
-        "Entertainment": ["Musica grabada"],
-        "Facilities": ["Servicio a domicilio"],
+        "Entertainment": [
+            "Musica grabada"
+        ],
+        "Facilities": [
+            "Servicio a domicilio"
+        ],
         "Payments_Options": {
             "Cash": "Si",
             "Credit_Card": "No",

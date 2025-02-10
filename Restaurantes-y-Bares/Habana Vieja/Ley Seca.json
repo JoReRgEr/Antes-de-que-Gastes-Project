@@ -1,643 +1,684 @@
 {
-    "establishment": {
-      "classification": {
-        "type": ["Bar-Restaurante"]
-      },
-      "name": "Ley Seca",
-      "type": ["Caribeña", "Pub", "Cubana"],
-      "description": "Un lugar para bailar, disfrutar de buenos cócteles y comida en el bar. Ambiente agradable e informal, ideal para ir en grupo.",
-      "contact_info": {
-        "phone": {
-          "number": "+53 5668.5088",
-          "type": "mobile"
-        },
-        "email": null,
-        "website": null
-      },
-      "opening_hours": {
-        "monday": {
-          "open": "11:30",
-          "close": "04:00"
-        },
-        "tuesday": {
-          "open": "11:30",
-          "close": "04:00"
-        },
-        "wednesday": {
-          "open": "11:30",
-          "close": "04:00"
-        },
-        "thursday": {
-          "open": "11:30",
-          "close": "04:00"
-        },
-        "friday": {
-          "open": "11:30",
-          "close": "04:00"
-        },
-        "saturday": {
-          "open": "11:30",
-          "close": "04:00"
-        },
-        "sunday": {
-          "open": "11:30",
-          "close": "04:00"
-        }
-      },
-      "address": "Calle Habana #416 entre Obispo y Obrapía, Habana Vieja",
-      "municipality": "Habana Vieja",
-      "province": "La Habana",
-      "coordinates": {
-        "latitude": 0,
-        "longitude": 0
-      },
-      "social_media": {
-        "instagram": "https://www.instagram.com/ley_seca_speakeasyhabana?igsh=MjZoaGF5ZGhnM3dw",
-        "facebook": "https://m.facebook.com/61559397838059/",
-        "whatsapp": null
-      },
-      "accepted_payment_methods": [],
-      "delivery_available": false,
-      "service_fee": {
-        "name": "Tarifa de 10%",
-        "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-        "applies": true
-      },
-      "features": {
-        "reservation_required": false,
-        "outdoor_seating": false,
-        "dine_in": true,
-        "takeaway": false,
-        "offers": ["Bar", "Comida en el bar"],
-        "local_options": ["Comidas", "Cenas", "Abierto hasta tarde", "Bebidas"],
-        "services": ["Sanitario"],
-        "ambience": ["Agradable", "Informal"],
-        "usual_customers": ["Grupos"],
-        "planning": ["Se aceptan reservas"],
-        "children": null,
-        "pets": false,
-        "parking": null
-      },
-      "dietary_options": [],
-      "meals": ["Comidas", "Cenas", "Abierto hasta tarde", "Bebidas"],
-      "advantages": ["Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
-      "highlights": ["Lugar para bailar", "Comida en el bar", "Buenos cócteles", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  "establishment": {
+    "classification": {
+      "type": [
+        "Bar-Restaurante"
+      ]
     },
-    "menu_details": {
-        "kind_of_food": ["variada", "europea", "criolla", "italiana"],
-        "healthy_food_options": false,
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name": "Ceviche Muuh!",
-                      "price": 2000
-                    },
-                    {
-                      "name": "Vegetales We Trust",
-                      "price": 2000
-                    },
-                    {
-                      "name": "Tartar Fish",
-                      "price": 2500
-                    },
-                    {
-                      "name": "Sandwich Ley Seca",
-                      "price": 2500
-                    },
-                    {
-                      "name": "Carpaccio de pulpo",
-                      "price": 3000
-                    },
-                    {
-                      "name": "Carpaccio de res",
-                      "price": 3000
-                    },
-                    {
-                      "name": "Tabla D' tráfico",
-                      "price": 6000
-                    },
-                    {
-                      "name": "Un poquito D' To'",
-                      "price": 9000
-                    },
-                    {
-                      "name": "Croquetas de pescado",
-                      "price": 1500
-                    },
-                    {
-                      "name": "Croquetas de pollo",
-                      "price": 1500
-                    },
-                    {
-                      "name": "Croquetas de embutido",
-                      "price": 1500
-                    },
-                    {
-                      "name": "Croquetas de queso",
-                      "price": 1500
-                    },
-                    {
-                      "name": "Sexy papas fritas",
-                      "price": 1800
-                    },
-                    {
-                      "name": "Empanadas de carne",
-                      "price": 2000
-                    },
-                    {
-                      "name": "Tacos de vegetales",
-                      "price": 2000
-                    },
-                    {
-                      "name": "Empanadas de queso",
-                      "price": 2000
-                    },
-                    {
-                      "name": "Tacos de pollo",
-                      "price": 2300
-                    },
-                    {
-                      "name": "Tacos de cerdo",
-                      "price": 2300
-                    },
-                    {
-                      "name": "Tacos de pescado",
-                      "price": 2300
-                    },
-                    {
-                      "name": "Croquetas de Serrano",
-                      "price": 2600
-                    },
-                    {
-                      "name": "Tacos de res",
-                      "price": 3000
-                    },
-                    {
-                      "name": "Seleccion Charcut",
-                      "price": 3000
-                    },
-                    {
-                      "name": "Chupe de mariscos",
-                      "price": 3000
-                    },
-                    {
-                      "name": "Tacos de langosta",
-                      "price": 3500
-                    },
-                    {
-                      "name": "Garbanzos sin piedad",
-                      "price": 4500
-                    }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Pollo grille",
-                      "price": 2500
-                    },
-                    {
-                      "name": "Cerdo con masas",
-                      "price": 3000
-                    },
-                    {
-                      "name": "Ropa vieja",
-                      "price": 3000
-                    },
-                    {
-                      "name": "Balas D' camaron",
-                      "price": 3500
-                    },
-                    {
-                      "name": "Lomo de cerdo",
-                      "price": 4000
-                    },
-                    {
-                      "name": "Langosta ganster",
-                      "price": 4000
-                    },
-                    {
-                      "name": "Pescado al limón",
-                      "price": 3500
-                    },
-                    {
-                      "name": "Filete a la douche",
-                      "price": 5000
-                    },
-                    {
-                      "name": "Puntaroja",
-                      "price": 5000
-                    },
-                    {
-                      "name": "Filete chateaubriand",
-                      "price": 7000
-                    },
-                    {
-                      "name": "Filete clandestino",
-                      "price": 7000
-                    },
-                    {
-                      "name": "Pulpo al gusto",
-                      "price": 5000
-                    },
-                    {
-                      "name": "Pollo trufa y parmesano",
-                      "price": 5200
-                    },
-                    {
-                      "name": "Rissotto de res",
-                      "price": 7000
-                    },
-                    {
-                      "name": "Rissotto del mar",
-                      "price": 7000
-                    },
-                    {
-                      "name": "Mignon",
-                      "price": 7000
-                    },
-                    {
-                      "name": "Rissotto fhungi",
-                      "price": 7000
-                    },
-                    {
-                      "name": "Arroz blackout",
-                      "price": 7000
-                    },
-                    {
-                      "name": "Surtido de la ruta",
-                      "price": 11000
-                    },
-                    {
-                      "name": "Corte Res Arrachera",
-                      "price": 7000
-                    },
-                    {
-                      "name": "Picaña",
-                      "price": 9000
-                    },
-                    {
-                      "name": "Bife Angosto",
-                      "price": 16000
-                    },
-                    {
-                      "name": "Tomahawk",
-                      "price": 25000
-                    },
-                    {
-                      "name": "Entrecotte",
-                      "price": 12500
-                    },
-                    {
-                      "name": "New York",
-                      "price": 10000
-                    },
-                    {
-                      "name": "Ribeye",
-                      "price": 12000
-                    },
-                    {
-                      "name": "Solomillo Cerdo",
-                      "price": 8000
-                    },
-                    {
-                      "name": "Cannolo Pizza A Su Elección",
-                      "price": 1500
-                    },
-                    {
-                      "name": "Langosta al Gusto",
-                      "price": 6750
-                    },
-                    {
-                      "name": "Mariscada",
-                      "price": 6750
-                    },
-                    {
-                      "name": "Tabla de Mariscos",
-                      "price": 10000
-                    },
-                    {
-                      "name": "Dúo del Mar",
-                      "price": 6000
-                    },
-                    {
-                      "name": "Carne de Res con Papas",
-                      "price": 6000
-                    },
-                    {
-                      "name": "Tostón a la Habanera",
-                      "price": 2500
-                    },
-                    {
-                      "name": "Aguacate Relleno Con Camarones",
-                      "price": 3650
-                    },
-                    {
-                        "name": "Fricasé de Cerdo",
-                                  "price": 4000
-                                },
-                                {
-                                  "name": "Lomo Ahumado",
-                                  "price": 4500
-                                },
-                                {
-                                  "name": "Paella Mixta",
-                                  "price": 9000
-                                },
-                    {
-                      "name": "Mar y Tierra",
-                      "price": 6000
-                    },
-                    {
-                      "name": "Filete de Pescado",
-                      "price": 4250
-                    },
-                    {
-                      "name": "Filete de Pescado Empanado",
-                      "price": 4400
-                    },
-                    {
-                      "name": "Filete de Pescado gratinado",
-                      "price": 4850
-                    },
-                    {
-                      "name": "Camarones al gusto",
-                      "price": 3650
-                    },
-                    {
-                      "name": "Pescado frito",
-                      "price": 6750
-                    },
-                    {
-                      "name": "Pescado John Bill",
-                      "price": 5450
-                    },
-                    {
-                      "name": "Filete de Pescado Monte Toro",
-                      "price": 5450
-                    },
-                    {
-                      "name": "Filete de Pescado Canciller",
-                      "price": 5900
-                    },
-                    {
-                      "name": "Patacón de la Abuela",
-                      "price": 3500
-                    },
-                    {
-                      "name": "Grillada Mixta",
-                      "price": 7000
-                    },
-                    {
-                      "name": "Trillada Campesina",
-                      "price": 12000
-                    },
-                    {
-                      "name": "Brocheta a su Elección",
-                      "price": 2500
-                    },
-                    {
-                      "name": "Suprema de Pollo",
-                      "price": 2750
-                    },
-                    {
-                      "name": "Pollo Cordon Blue",
-                      "price": 3400
-                    },
-                    {
-                      "name": "Fajitas de Pollo/Cerdo",
-                      "price": 2750
-                    },
-                    {
-                      "name": "Pollo Grillé",
-                      "price": 2750
-                    },
-                    {
-                      "name": "Pollo Frito",
-                      "price": 3400
-                    },
-                    {
-                      "name": "Pollo Asado en su Jugo con Papas",
-                      "price": 4000
-                    },
-                    {
-                      "name": "Bistec Uruguayo",
-                      "price": 3400
-                    },
-                    {
-                      "name": "Bistec de Cerdo Encebollado",
-                      "price": 2500
-                    },
-                    {
-                      "name": "Bistec de Res",
-                      "price": 8000
-                    },
-                    {
-                      "name": "Vaca Frita",
-                      "price": 3400
-                    },
-                    {
-                      "name": "Ropa Vieja",
-                      "price": 3400
-                    },
-                    {
-                      "name": "Chilindrón de Cordero",
-                      "price": 6250
-                    },
-                    {
-                      "name": "Masa de Cerdo",
-                      "price": 3100
-                    },
-                    {
-                      "name": "Costillas de Cerdo",
-                      "price": 4000
-                    },
-                    {
-                      "name": "Arroz frito",
-                      "price": 1950
-                    },
-                    {
-                      "name": "Camarones",
-                      "price": 2400
-                    },
-                    {
-                      "name": "Tres Lomitos",
-                      "price": 3700
-                    },
-                    {
-                      "name": "Costilla Americana / Criolla",
-                      "price": 8750
-                  }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Pasta tres quesos",
-                      "price": 3000
-                    },
-                    {
-                      "name": "Pasta carbonara",
-                      "price": 3000
-                    },
-                    {
-                      "name": "Pasta Frutti di madre",
-                      "price": 4500
-                    },
-                    {
-                      "name": "Pasta al buey",
-                      "price": 5000
-                    }
-                  ]
-                }
-              ],
-              "desserts": [
-                {
-                  "courses": [
-                    {
-                      "name": "Tarta de limón",
-                      "price": 800
-                    },
-                    {
-                      "name": "Cheesecake",
-                      "price": 800
-                    },
-                    {
-                      "name": "Casquitos de guayaba",
-                      "price": 1000
-                    },
-                    {
-                      "name": "Torrejas",
-                      "price": 1000
-                    },
-                    {
-                      "name": "Arroz con leche",
-                      "price": 1000
-                    }
-                  ]
-                }
-              ],
-                "liquids": [
+    "name": "Ley Seca",
+    "type": [
+      "Caribeña",
+      "Pub",
+      "Cubana"
+    ],
+    "description": "Un lugar para bailar, disfrutar de buenos cócteles y comida en el bar. Ambiente agradable e informal, ideal para ir en grupo.",
+    "contact_info": {
+      "phone": {
+        "number": "+53 5668.5088",
+        "type": "mobile"
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:30",
+        "close": "04:00"
+      },
+      "tuesday": {
+        "open": "11:30",
+        "close": "04:00"
+      },
+      "wednesday": {
+        "open": "11:30",
+        "close": "04:00"
+      },
+      "thursday": {
+        "open": "11:30",
+        "close": "04:00"
+      },
+      "friday": {
+        "open": "11:30",
+        "close": "04:00"
+      },
+      "saturday": {
+        "open": "11:30",
+        "close": "04:00"
+      },
+      "sunday": {
+        "open": "11:30",
+        "close": "04:00"
+      }
+    },
+    "address": "Calle Habana #416 entre Obispo y Obrapía, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "instagram": "https://www.instagram.com/ley_seca_speakeasyhabana?igsh=MjZoaGF5ZGhnM3dw",
+      "facebook": "https://m.facebook.com/61559397838059/",
+      "whatsapp": null
+    },
+    "accepted_payment_methods": [],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de 10%",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [
+        "Bar",
+        "Comida en el bar"
+      ],
+      "local_options": [
+        "Comidas",
+        "Cenas",
+        "Abierto hasta tarde",
+        "Bebidas"
+      ],
+      "services": [
+        "Sanitario"
+      ],
+      "ambience": [
+        "Agradable",
+        "Informal"
+      ],
+      "usual_customers": [
+        "Grupos"
+      ],
+      "planning": [
+        "Se aceptan reservas"
+      ],
+      "children": null,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [
+      "Comidas",
+      "Cenas",
+      "Abierto hasta tarde",
+      "Bebidas"
+    ],
+    "advantages": [
+      "Capacidad",
+      "Sirve alcohol",
+      "Bar completo",
+      "Servicio de mesa"
+    ],
+    "highlights": [
+      "Lugar para bailar",
+      "Comida en el bar",
+      "Buenos cócteles",
+      "Agradable",
+      "Informal",
+      "Recomendable para ir en grupo"
+    ]
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "europea",
+      "criolla",
+      "italiana"
+    ],
+    "healthy_food_options": false,
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "Ceviche Muuh!",
+                "price": 2000
+              },
+              {
+                "name": "Vegetales We Trust",
+                "price": 2000
+              },
+              {
+                "name": "Tartar Fish",
+                "price": 2500
+              },
+              {
+                "name": "Sandwich Ley Seca",
+                "price": 2500
+              },
+              {
+                "name": "Carpaccio de pulpo",
+                "price": 3000
+              },
+              {
+                "name": "Carpaccio de res",
+                "price": 3000
+              },
+              {
+                "name": "Tabla D' tráfico",
+                "price": 6000
+              },
+              {
+                "name": "Un poquito D' To'",
+                "price": 9000
+              },
+              {
+                "name": "Croquetas de pescado",
+                "price": 1500
+              },
+              {
+                "name": "Croquetas de pollo",
+                "price": 1500
+              },
+              {
+                "name": "Croquetas de embutido",
+                "price": 1500
+              },
+              {
+                "name": "Croquetas de queso",
+                "price": 1500
+              },
+              {
+                "name": "Sexy papas fritas",
+                "price": 1800
+              },
+              {
+                "name": "Empanadas de carne",
+                "price": 2000
+              },
+              {
+                "name": "Tacos de vegetales",
+                "price": 2000
+              },
+              {
+                "name": "Empanadas de queso",
+                "price": 2000
+              },
+              {
+                "name": "Tacos de pollo",
+                "price": 2300
+              },
+              {
+                "name": "Tacos de cerdo",
+                "price": 2300
+              },
+              {
+                "name": "Tacos de pescado",
+                "price": 2300
+              },
+              {
+                "name": "Croquetas de Serrano",
+                "price": 2600
+              },
+              {
+                "name": "Tacos de res",
+                "price": 3000
+              },
+              {
+                "name": "Seleccion Charcut",
+                "price": 3000
+              },
+              {
+                "name": "Chupe de mariscos",
+                "price": 3000
+              },
+              {
+                "name": "Tacos de langosta",
+                "price": 3500
+              },
+              {
+                "name": "Garbanzos sin piedad",
+                "price": 4500
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Pollo grille",
+                "price": 2500
+              },
+              {
+                "name": "Cerdo con masas",
+                "price": 3000
+              },
+              {
+                "name": "Ropa vieja",
+                "price": 3000
+              },
+              {
+                "name": "Balas D' camaron",
+                "price": 3500
+              },
+              {
+                "name": "Lomo de cerdo",
+                "price": 4000
+              },
+              {
+                "name": "Langosta ganster",
+                "price": 4000
+              },
+              {
+                "name": "Pescado al limón",
+                "price": 3500
+              },
+              {
+                "name": "Filete a la douche",
+                "price": 5000
+              },
+              {
+                "name": "Puntaroja",
+                "price": 5000
+              },
+              {
+                "name": "Filete chateaubriand",
+                "price": 7000
+              },
+              {
+                "name": "Filete clandestino",
+                "price": 7000
+              },
+              {
+                "name": "Pulpo al gusto",
+                "price": 5000
+              },
+              {
+                "name": "Pollo trufa y parmesano",
+                "price": 5200
+              },
+              {
+                "name": "Rissotto de res",
+                "price": 7000
+              },
+              {
+                "name": "Rissotto del mar",
+                "price": 7000
+              },
+              {
+                "name": "Mignon",
+                "price": 7000
+              },
+              {
+                "name": "Rissotto fhungi",
+                "price": 7000
+              },
+              {
+                "name": "Arroz blackout",
+                "price": 7000
+              },
+              {
+                "name": "Surtido de la ruta",
+                "price": 11000
+              },
+              {
+                "name": "Corte Res Arrachera",
+                "price": 7000
+              },
+              {
+                "name": "Picaña",
+                "price": 9000
+              },
+              {
+                "name": "Bife Angosto",
+                "price": 16000
+              },
+              {
+                "name": "Tomahawk",
+                "price": 25000
+              },
+              {
+                "name": "Entrecotte",
+                "price": 12500
+              },
+              {
+                "name": "New York",
+                "price": 10000
+              },
+              {
+                "name": "Ribeye",
+                "price": 12000
+              },
+              {
+                "name": "Solomillo Cerdo",
+                "price": 8000
+              },
+              {
+                "name": "Cannolo Pizza A Su Elección",
+                "price": 1500
+              },
+              {
+                "name": "Langosta al Gusto",
+                "price": 6750
+              },
+              {
+                "name": "Mariscada",
+                "price": 6750
+              },
+              {
+                "name": "Tabla de Mariscos",
+                "price": 10000
+              },
+              {
+                "name": "Dúo del Mar",
+                "price": 6000
+              },
+              {
+                "name": "Carne de Res con Papas",
+                "price": 6000
+              },
+              {
+                "name": "Tostón a la Habanera",
+                "price": 2500
+              },
+              {
+                "name": "Aguacate Relleno Con Camarones",
+                "price": 3650
+              },
+              {
+                "name": "Fricasé de Cerdo",
+                "price": 4000
+              },
+              {
+                "name": "Lomo Ahumado",
+                "price": 4500
+              },
+              {
+                "name": "Paella Mixta",
+                "price": 9000
+              },
+              {
+                "name": "Mar y Tierra",
+                "price": 6000
+              },
+              {
+                "name": "Filete de Pescado",
+                "price": 4250
+              },
+              {
+                "name": "Filete de Pescado Empanado",
+                "price": 4400
+              },
+              {
+                "name": "Filete de Pescado gratinado",
+                "price": 4850
+              },
+              {
+                "name": "Camarones al gusto",
+                "price": 3650
+              },
+              {
+                "name": "Pescado frito",
+                "price": 6750
+              },
+              {
+                "name": "Pescado John Bill",
+                "price": 5450
+              },
+              {
+                "name": "Filete de Pescado Monte Toro",
+                "price": 5450
+              },
+              {
+                "name": "Filete de Pescado Canciller",
+                "price": 5900
+              },
+              {
+                "name": "Patacón de la Abuela",
+                "price": 3500
+              },
+              {
+                "name": "Grillada Mixta",
+                "price": 7000
+              },
+              {
+                "name": "Trillada Campesina",
+                "price": 12000
+              },
+              {
+                "name": "Brocheta a su Elección",
+                "price": 2500
+              },
+              {
+                "name": "Suprema de Pollo",
+                "price": 2750
+              },
+              {
+                "name": "Pollo Cordon Blue",
+                "price": 3400
+              },
+              {
+                "name": "Fajitas de Pollo/Cerdo",
+                "price": 2750
+              },
+              {
+                "name": "Pollo Grillé",
+                "price": 2750
+              },
+              {
+                "name": "Pollo Frito",
+                "price": 3400
+              },
+              {
+                "name": "Pollo Asado en su Jugo con Papas",
+                "price": 4000
+              },
+              {
+                "name": "Bistec Uruguayo",
+                "price": 3400
+              },
+              {
+                "name": "Bistec de Cerdo Encebollado",
+                "price": 2500
+              },
+              {
+                "name": "Bistec de Res",
+                "price": 8000
+              },
+              {
+                "name": "Vaca Frita",
+                "price": 3400
+              },
+              {
+                "name": "Ropa Vieja",
+                "price": 3400
+              },
+              {
+                "name": "Chilindrón de Cordero",
+                "price": 6250
+              },
+              {
+                "name": "Masa de Cerdo",
+                "price": 3100
+              },
+              {
+                "name": "Costillas de Cerdo",
+                "price": 4000
+              },
+              {
+                "name": "Arroz frito",
+                "price": 1950
+              },
+              {
+                "name": "Camarones",
+                "price": 2400
+              },
+              {
+                "name": "Tres Lomitos",
+                "price": 3700
+              },
+              {
+                "name": "Costilla Americana / Criolla",
+                "price": 8750
+              }
+            ]
+          }
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": "Pasta tres quesos",
+                "price": 3000
+              },
+              {
+                "name": "Pasta carbonara",
+                "price": 3000
+              },
+              {
+                "name": "Pasta Frutti di madre",
+                "price": 4500
+              },
+              {
+                "name": "Pasta al buey",
+                "price": 5000
+              }
+            ]
+          }
+        ],
+        "desserts": [
+          {
+            "courses": [
+              {
+                "name": "Tarta de limón",
+                "price": 800
+              },
+              {
+                "name": "Cheesecake",
+                "price": 800
+              },
+              {
+                "name": "Casquitos de guayaba",
+                "price": 1000
+              },
+              {
+                "name": "Torrejas",
+                "price": 1000
+              },
+              {
+                "name": "Arroz con leche",
+                "price": 1000
+              }
+            ]
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "bottles": [
                   {
-                    "alcoholic_beverages": [
-                      {
-                        "bottles": [
-                          {
-                            "name": "Jhonny Walker Red Label",
-                            "price": 13000
-                          },
-                          {
-                            "name": "Jhonny Walker Black Label",
-                            "price": 20000
-                          },
-                          {
-                            "name": "Jhonny Walker Double Black",
-                            "price": 30000
-                          },
-                          {
-                            "name": "Jhonny Walker Green Label",
-                            "price": 50000
-                          },
-                          {
-                            "name": "Jhonny Walker Gold Label",
-                            "price": 60000
-                          },
-                          {
-                            "name": "Jhonny Walker Blue Label",
-                            "price": 250000
-                          },
-                          {
-                            "name": "Buchanan 12 años",
-                            "price": 40000
-                          },
-                          {
-                            "name": "Buchanan Máster",
-                            "price": 70000
-                          },
-                          {
-                            "name": "Buchanan 18 años",
-                            "price": 70000
-                          },
-                          {
-                            "name": "Chivas Regal 12 años",
-                            "price": 18000
-                          },
-                          {
-                            "name": "Chivas Regal 18 años",
-                            "price": 70000
-                          },
-                          {
-                            "name": "Jack Daniel",
-                            "price": 25000
-                          },
-                          {
-                            "name": "HC Selección Maestros",
-                            "price": 25000
-                          },
-                          {
-                            "name": "HC Pacto Navío",
-                            "price": 30000
-                          },
-                          {
-                            "name": "Santiago 8 años",
-                            "price": 12000
-                          },
-                          {
-                            "name": "Santiago 11 años",
-                            "price": 25000
-                          },
-                          {
-                            "name": "Santiago 12 años",
-                            "price": 35000
-                          },
-                          {
-                            "name": "HC 15 años",
-                            "price": 60000
-                          },
-                          {
-                            "name": "Absolut",
-                            "price": 12000
-                          },
-                          {
-                            "name": "Ciroc Sabor",
-                            "price": 30000
-                          },
-                          {
-                            "name": "Ciroc Neutro",
-                            "price": 25000
-                          },
-                          {
-                            "name": "Grey Goose",
-                            "price": 60000
-                          },
-                          {
-                            "name": "Moet Imperial",
-                            "price": 60000
-                          },
-                          {
-                            "name": "Moet Ice",
-                            "price": 70000
-                          },
-                          {
-                            "name": "Moet Rose",
-                            "price": 80000
-                          }
-                        ]
-                      }
-                    ]
+                    "name": "Jhonny Walker Red Label",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Jhonny Walker Black Label",
+                    "price": 20000
+                  },
+                  {
+                    "name": "Jhonny Walker Double Black",
+                    "price": 30000
+                  },
+                  {
+                    "name": "Jhonny Walker Green Label",
+                    "price": 50000
+                  },
+                  {
+                    "name": "Jhonny Walker Gold Label",
+                    "price": 60000
+                  },
+                  {
+                    "name": "Jhonny Walker Blue Label",
+                    "price": 250000
+                  },
+                  {
+                    "name": "Buchanan 12 años",
+                    "price": 40000
+                  },
+                  {
+                    "name": "Buchanan Máster",
+                    "price": 70000
+                  },
+                  {
+                    "name": "Buchanan 18 años",
+                    "price": 70000
+                  },
+                  {
+                    "name": "Chivas Regal 12 años",
+                    "price": 18000
+                  },
+                  {
+                    "name": "Chivas Regal 18 años",
+                    "price": 70000
+                  },
+                  {
+                    "name": "Jack Daniel",
+                    "price": 25000
+                  },
+                  {
+                    "name": "HC Selección Maestros",
+                    "price": 25000
+                  },
+                  {
+                    "name": "HC Pacto Navío",
+                    "price": 30000
+                  },
+                  {
+                    "name": "Santiago 8 años",
+                    "price": 12000
+                  },
+                  {
+                    "name": "Santiago 11 años",
+                    "price": 25000
+                  },
+                  {
+                    "name": "Santiago 12 años",
+                    "price": 35000
+                  },
+                  {
+                    "name": "HC 15 años",
+                    "price": 60000
+                  },
+                  {
+                    "name": "Absolut",
+                    "price": 12000
+                  },
+                  {
+                    "name": "Ciroc Sabor",
+                    "price": 30000
+                  },
+                  {
+                    "name": "Ciroc Neutro",
+                    "price": 25000
+                  },
+                  {
+                    "name": "Grey Goose",
+                    "price": 60000
+                  },
+                  {
+                    "name": "Moet Imperial",
+                    "price": 60000
+                  },
+                  {
+                    "name": "Moet Ice",
+                    "price": 70000
+                  },
+                  {
+                    "name": "Moet Rose",
+                    "price": 80000
                   }
                 ]
-            }
-        }    
+              }
+            ]
+          }
+        ]
+      }
     }
   }
-                        
-  
-  
+}

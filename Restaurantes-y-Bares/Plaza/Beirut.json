@@ -1,211 +1,206 @@
 {
-    "type": "Bar-Restaurante",
-    "name": "Beirut", 
-    "location": {
-        "address": "Calle 1ra entre A y B, Vedado",
-        "municipe": "Plaza de la Revolucion",
-        "province": "La Habana"
-    },
-    "sector": "privado",
-    
-    "qualification": 4.5,
-    
-    "specialized_food": ["Comida libanesa", "de oriente medio"],
-
-    "payment method": ["Efectivo", "Transferencia"],
-    
-    "phone": 78315883,
-    
-    "capacity": 60,
-    
-    "reservation":  true,
-
-    "parking": true,
-
-    "delivery": false,
-
-    "wifi": false,
-
-    "electric generator": false,
-    
-    "hours": {
-        "monday": "11:00am - 11:00pm",  
-        "tuesday": "11:00am - 11:00pm",
-        "wednesday": "11:00am - 11:00pm",
-        "thursday": "11:00am - 11:00pm",
-        "friday": "11:00am - 11:00pm",
-        "saturday": "11:00am - 11:00pm",
-        "sunday": "11:00am - 11:00pm"
-    },
-    
-    "menu_details": {
-        "kind_of_food": ["variada", "oriental"],
-        "menu_card": {
-            "menu_sections": {
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Shish Taouk",
-                      "price": 2950
-                  },
-                  {
-                      "name": "Kabab",
-                      "price": 2900
-                  },
-                  {
-                      "name": "Shish Taouk-Kabab",
-                      "price": 2800
-                  },
-                  {
-                      "name": "Shish Kabab",
-                      "price": 2000
-                  },
-                  {
-                      "name": "Tajin",
-                      "price": 3500
-                  },
-                  {
-                      "name": "Mixto Beirut",
-                      "price": 3700
-                  }
-                  ]
-                }
-              ],
-              "breads": [
-                {
-                  "courses": [
-                    {
-                      "name": " Shawarma de pollo",
-                      "price":1520 
-                  },
-                  {
-                      "name": " Shawarma árabe",
-                      "price": 1520
-                  },
-                  {
-                      "name": "Sandwich Falafel",
-                      "price": 1420
-                  },
-                  {
-                      "name": " Sandwich Shish Taouk",
-                      "price": 1720 
-                  },
-                  {
-                      "name": " Sandwich Kabab",
-                      "price": 1720
-                  }
-                  ]
-                }
-              ],
-              "rations": [
-                {
-                  "name": "Fetuche",
-                  "price": 1500
+  "type": "Bar-Restaurante",
+  "name": "Beirut",
+  "location": {
+    "address": "Calle 1ra entre A y B, Vedado",
+    "municipe": "Plaza de la Revolucion",
+    "province": "La Habana"
+  },
+  "sector": "privado",
+  "qualification": 4.5,
+  "specialized_food": [
+    "Comida libanesa",
+    "de oriente medio"
+  ],
+  "payment method": [
+    "Efectivo",
+    "Transferencia"
+  ],
+  "phone": 78315883,
+  "capacity": 60,
+  "reservation": true,
+  "parking": true,
+  "delivery": false,
+  "wifi": false,
+  "electric generator": false,
+  "hours": {
+    "monday": "11:00am - 11:00pm",
+    "tuesday": "11:00am - 11:00pm",
+    "wednesday": "11:00am - 11:00pm",
+    "thursday": "11:00am - 11:00pm",
+    "friday": "11:00am - 11:00pm",
+    "saturday": "11:00am - 11:00pm",
+    "sunday": "11:00am - 11:00pm"
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "oriental"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Shish Taouk",
+                "price": 2950
               },
               {
-                  "name": "Ensalada mixta",
-                  "price": 2000
+                "name": "Kabab",
+                "price": 2900
               },
               {
-                  "name": "Betabel",
-                  "price": 2000
+                "name": "Shish Taouk-Kabab",
+                "price": 2800
               },
               {
-                  "name": "Ensalada Beirut",
-                  "price": 2100
+                "name": "Shish Kabab",
+                "price": 2000
               },
               {
-                  "name": "Tabule",
-                  "price": 3000
+                "name": "Tajin",
+                "price": 3500
+              },
+              {
+                "name": "Mixto Beirut",
+                "price": 3700
               }
-              ],
-              "desserts": [
-                {
-                  "courses": [
-                    {
-                      "name": "Sensei borracho",
-                      "price": 1920
-                  },
+            ]
+          }
+        ],
+        "breads": [
+          {
+            "courses": [
+              {
+                "name": " Shawarma de pollo",
+                "price": 1520
+              },
+              {
+                "name": " Shawarma árabe",
+                "price": 1520
+              },
+              {
+                "name": "Sandwich Falafel",
+                "price": 1420
+              },
+              {
+                "name": " Sandwich Shish Taouk",
+                "price": 1720
+              },
+              {
+                "name": " Sandwich Kabab",
+                "price": 1720
+              }
+            ]
+          }
+        ],
+        "rations": [
+          {
+            "name": "Fetuche",
+            "price": 1500
+          },
+          {
+            "name": "Ensalada mixta",
+            "price": 2000
+          },
+          {
+            "name": "Betabel",
+            "price": 2000
+          },
+          {
+            "name": "Ensalada Beirut",
+            "price": 2100
+          },
+          {
+            "name": "Tabule",
+            "price": 3000
+          }
+        ],
+        "desserts": [
+          {
+            "courses": [
+              {
+                "name": "Sensei borracho",
+                "price": 1920
+              },
+              {
+                "name": "Maestro Shifu",
+                "price": 2080
+              },
+              {
+                "name": "Mei Mei",
+                "price": 1800
+              },
+              {
+                "name": "Maestro Shinobi",
+                "price": 1760
+              }
+            ]
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "beers": [
                   {
-                      "name": "Maestro Shifu",
-                      "price": 2080
-                  },
-                  {
-                      "name": "Mei Mei",
-                      "price": 1800
-                  },
-                  {
-                      "name": "Maestro Shinobi",
-                      "price": 1760
+                    "name": "Cervezas",
+                    "price": 390
                   }
-                  ]
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                    {
-                      "beers": [
-                        {
-                          "name": "Cervezas",
-                          "price": 390
-                      }
-                      ]
-                    }
-                  ],
-                  "natual_juices": [
-                    {
-                      "name": "Limonada",
-                      "price": 410
-                  },
-                  {
-                    "name": "Jugos naturales",
-                    "price": 410
-                }
-                  ],
-                  "water": [
-                    {
-                      "name": "Agua nacional",
-                      "price": 175
-                  }
-                  ],
-                  "soft_drinks": [
-                    {
-                      "name": "Refrescos importados",
-                      "price": 290
-                  },
-                  {
-                      "name": "Maltas",
-                      "price": 290
-                  }
-                  ],
-                  "coffees": [
-                    {
-                      "name": "Expresso",
-                      "price": 125
-                  },
-                  {
-                      "name": "Capuccino",
-                      "price": 300
-                      
-                  },
-                  {
-                      "name": "Americano",
-                      "price": 160
-                  },
-                  {
-                      "name": "Cortado",
-                      "price": 200
-                  },
-                  {
-                      "name": "Te",
-                      "price": 150
-                  }
-                  ]
-                }
-              ]
-            }
-        }    
+                ]
+              }
+            ],
+            "natual_juices": [
+              {
+                "name": "Limonada",
+                "price": 410
+              },
+              {
+                "name": "Jugos naturales",
+                "price": 410
+              }
+            ],
+            "water": [
+              {
+                "name": "Agua nacional",
+                "price": 175
+              }
+            ],
+            "soft_drinks": [
+              {
+                "name": "Refrescos importados",
+                "price": 290
+              },
+              {
+                "name": "Maltas",
+                "price": 290
+              }
+            ],
+            "coffees": [
+              {
+                "name": "Expresso",
+                "price": 125
+              },
+              {
+                "name": "Capuccino",
+                "price": 300
+              },
+              {
+                "name": "Americano",
+                "price": 160
+              },
+              {
+                "name": "Cortado",
+                "price": 200
+              },
+              {
+                "name": "Te",
+                "price": 150
+              }
+            ]
+          }
+        ]
+      }
     }
-} 
+  }
+}

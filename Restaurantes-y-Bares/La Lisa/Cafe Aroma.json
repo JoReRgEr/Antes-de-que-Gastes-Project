@@ -1,220 +1,309 @@
-{    "name" : "Cafe Aroma",
-    "location" : "lisa",
-    "specialty" : ["cofee"],
-    
-    "menu_details": {
-        "kind_of_food": ["variada", "criolla", "mexicana"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    { 
-                      "name" : ["Nachos con Salsa"],
-                      "price" : 200
-                    },
-                    { 
-                      "name" : ["Croquetas"],
-                      "price" : 200
-                    },
-                    { 
-                      "name" : ["Picadera Aroma"],
-                      "price" : 320
-                    },
-                    { 
-                      "name" : ["Garbanzos Fritos"],
-                      "price" :  550
-                    },
-                    { 
-                      "name" : ["Eperlan de Pescado"],
-                      "price" :  600
-                    },
-                    { 
-                      "name" : ["Enchilado de Cangrejo"],
-                      "price" :  700
-                    },
-                    { 
-                      "name" : ["Fajitas de Cerdo"],
-                      "price" :  600
-                    },
-                    { 
-                      "name" : ["Tacos de Pollo"],
-                      "price" : 600
-                    },
-                    { 
-                      "name" : ["Tacos de Cangrejo"],
-                      "price" : 500
-                    },
-                    { 
-                      "name" : ["Tacos de Cerdo"],
-                      "price" : 600
-                    },
-                    { 
-                      "name" : ["Tacos de Jamon Pierna"],
-                      "price" : 620
-                    },
-                    { 
-                      "name" : ["Tacos de Ropa Vieja"],
-                      "price" : 750
-                    },
-                    { 
-                      "name" : ["Tostones rellenos de Jamon y Queso"],
-                      "price" : 750
-                    },
-                    { 
-                      "name" : ["Tostones Rellenos de Atun"],
-                      "price" : 380
-                    },
-                    { 
-                      "name" : ["Tostones Rellenos de Ropa Vieja"],
-                      "price" : 400
-                    }
-                  ]
-                }
-              ],
-              "breads": [
-                {
-                  "courses": [
-                    { 
-                      "name" : ["Sandwich de Jamon y Queso"],
-                      "price" : 320
-                      },
-                      { 
-                        "name" : ["Sandwich de Jamon"],
-                        "price" : 360
-                        },
-                        { 
-                          "name" : ["Sandwich de Queso"],
-                          "price" : 360
-                          },
-                          { 
-                            "name" : ["Sandwich de Pollo"],
-                            "price" : 360
-                            },
-                            { 
-                              "name" : [ "Sandwich de Atun"],
-                              "price" : 320
-                              },
-                              { 
-                                "name" : ["Sandwich Hawaiano", "Sandwich Hawaiano"],
-                                "price" : 360
-                                },
-                                { 
-                                  "name" : ["Sandwich Hawaiano", "Sandwich Hawaiano"],
-                                  "price" : 320
-                                  }
-                  ]
-                }
-              ],
-              "desserts": [
-                {
-                  "courses": [
-                    { 
-                      "name" : ["Donas"],
-                      "prices" : 200
-                    },
-                    { 
-                      "name" : ["Helado con Galletas"],
-                      "prices" : 320
-                    },
-                    { 
-                      "name" : ["Bola de Helado"],
-                      "prices" : 140
-                    },
-                    { 
-                      "name" : ["Dulce Aroma"],
-                      "prices" : 350
-                    }
-                  ]
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                    {
-                      "cocktails": [
-                        {
-                          "name": ["Caipirinha"],
-                          "price": 250
-                        },
-                        {
-                          "name": ["Daiquiri"],
-                          "price": 250
-                        },
-                        {
-                          "name": ["Caipiroska"],
-                          "price": 280
-                        },
-                        {
-                          "name": ["Caipirisima"],
-                          "price": 280
-                        },
-                        {
-                          "name": ["Screwdriver"],
-                          "price": 280
-                        },
-                        {
-                          "name": ["Mojito"],
-                          "price": 300
-                        },
-                        {
-                          "name": ["Mojito Ruso"],
-                          "price": 320
-                        },
-                        {
-                          "name": ["Cremas de Tequila"],
-                          "price": 320
-                        },
-                        {
-                          "name": ["Pina Colada"],
-                          "price": 350
-                        },
-                        {
-                          "name": ["Martini"],
-                          "price": 300
-                        },
-                        {
-                          "name": ["Gin & Tonic"],
-                          "price": 350
-                        },
-                        {
-                          "name": ["Sex on the Beach"],
-                          "price": 300
-                        },
-                        {
-                          "name": ["Sangria"],
-                          "price": 350
-                        },
-                        {
-                          "name": ["Margarita"],
-                          "price": 320
-                        },
-                        {
-                          "name": ["Orgasmo"],
-                          "price": 350
-                        }
-                      ],
-                      "beers": [
-                        { 
-                          "name" : ["Cervezas Importadas"],
-                          "prices" : 250
-                          }
-                      ],
-                      "wine_glass": [
-                        {
-                          "name": ["Copa de Vino"],
-                          "price": 500
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
+{
+  "name": "Cafe Aroma",
+  "location": "lisa",
+  "specialty": [
+    "cofee"
+  ],
+  "menu_details": {
+    "kind_of_food": [
+      "criolla",
+      "mexicana"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "Nachos con Salsa"
+                ],
+                "price": 200
+              },
+              {
+                "name": [
+                  "Croquetas"
+                ],
+                "price": 200
+              },
+              {
+                "name": [
+                  "Picadera Aroma"
+                ],
+                "price": 320
+              },
+              {
+                "name": [
+                  "Garbanzos Fritos"
+                ],
+                "price": 550
+              },
+              {
+                "name": [
+                  "Eperlan de Pescado"
+                ],
+                "price": 600
+              },
+              {
+                "name": [
+                  "Enchilado de Cangrejo"
+                ],
+                "price": 700
+              },
+              {
+                "name": [
+                  "Fajitas de Cerdo"
+                ],
+                "price": 600
+              },
+              {
+                "name": [
+                  "Tacos de Pollo"
+                ],
+                "price": 600
+              },
+              {
+                "name": [
+                  "Tacos de Cangrejo"
+                ],
+                "price": 500
+              },
+              {
+                "name": [
+                  "Tacos de Cerdo"
+                ],
+                "price": 600
+              },
+              {
+                "name": [
+                  "Tacos de Jamon Pierna"
+                ],
+                "price": 620
+              },
+              {
+                "name": [
+                  "Tacos de Ropa Vieja"
+                ],
+                "price": 750
+              },
+              {
+                "name": [
+                  "Tostones rellenos de Jamon y Queso"
+                ],
+                "price": 750
+              },
+              {
+                "name": [
+                  "Tostones Rellenos de Atun"
+                ],
+                "price": 380
+              },
+              {
+                "name": [
+                  "Tostones Rellenos de Ropa Vieja"
+                ],
+                "price": 400
+              }
+            ]
+          }
+        ],
+        "breads": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "Sandwich de Jamon y Queso"
+                ],
+                "price": 320
+              },
+              {
+                "name": [
+                  "Sandwich de Jamon"
+                ],
+                "price": 360
+              },
+              {
+                "name": [
+                  "Sandwich de Queso"
+                ],
+                "price": 360
+              },
+              {
+                "name": [
+                  "Sandwich de Pollo"
+                ],
+                "price": 360
+              },
+              {
+                "name": [
+                  "Sandwich de Atun"
+                ],
+                "price": 320
+              },
+              {
+                "name": [
+                  "Sandwich Hawaiano",
+                  "Sandwich Hawaiano"
+                ],
+                "price": 360
+              },
+              {
+                "name": [
+                  "Sandwich Hawaiano",
+                  "Sandwich Hawaiano"
+                ],
+                "price": 320
+              }
+            ]
+          }
+        ],
+        "desserts": [
+          {
+            "courses": [
+              {
+                "name": [
+                  "Donas"
+                ],
+                "prices": 200
+              },
+              {
+                "name": [
+                  "Helado con Galletas"
+                ],
+                "prices": 320
+              },
+              {
+                "name": [
+                  "Bola de Helado"
+                ],
+                "prices": 140
+              },
+              {
+                "name": [
+                  "Dulce Aroma"
+                ],
+                "prices": 350
+              }
+            ]
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "cocktails": [
+                  {
+                    "name": [
+                      "Caipirinha"
+                    ],
+                    "price": 250
+                  },
+                  {
+                    "name": [
+                      "Daiquiri"
+                    ],
+                    "price": 250
+                  },
+                  {
+                    "name": [
+                      "Caipiroska"
+                    ],
+                    "price": 280
+                  },
+                  {
+                    "name": [
+                      "Caipirisima"
+                    ],
+                    "price": 280
+                  },
+                  {
+                    "name": [
+                      "Screwdriver"
+                    ],
+                    "price": 280
+                  },
+                  {
+                    "name": [
+                      "Mojito"
+                    ],
+                    "price": 300
+                  },
+                  {
+                    "name": [
+                      "Mojito Ruso"
+                    ],
+                    "price": 320
+                  },
+                  {
+                    "name": [
+                      "Cremas de Tequila"
+                    ],
+                    "price": 320
+                  },
+                  {
+                    "name": [
+                      "Pina Colada"
+                    ],
+                    "price": 350
+                  },
+                  {
+                    "name": [
+                      "Martini"
+                    ],
+                    "price": 300
+                  },
+                  {
+                    "name": [
+                      "Gin & Tonic"
+                    ],
+                    "price": 350
+                  },
+                  {
+                    "name": [
+                      "Sex on the Beach"
+                    ],
+                    "price": 300
+                  },
+                  {
+                    "name": [
+                      "Sangria"
+                    ],
+                    "price": 350
+                  },
+                  {
+                    "name": [
+                      "Margarita"
+                    ],
+                    "price": 320
+                  },
+                  {
+                    "name": [
+                      "Orgasmo"
+                    ],
+                    "price": 350
+                  }
+                ],
+                "beers": [
+                  {
+                    "name": [
+                      "Cervezas Importadas"
+                    ],
+                    "prices": 250
+                  }
+                ],
+                "wine_glass": [
+                  {
+                    "name": [
+                      "Copa de Vino"
+                    ],
+                    "price": 500
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
-    
-    }
-
-     
-
+  }
+}

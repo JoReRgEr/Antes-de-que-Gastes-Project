@@ -1,10 +1,19 @@
 {
   "establishment": {
     "classification": {
-      "type": ["bar-restaurante"]
+      "type": [
+        "bar-restaurante"
+      ]
     },
     "name": "Teniente Rey 360",
-    "type": ["Caribeña", "Latina", "Marisco", "Cubana", "Sudamericana", "Centroamericana"],
+    "type": [
+      "Caribeña",
+      "Latina",
+      "Marisco",
+      "Cubana",
+      "Sudamericana",
+      "Centroamericana"
+    ],
     "description": "El bar-restaurante especializado en comida cubana, las mejores ofertas, excelente relación calidad y precio. A solo unos pasos del Capitolio, visítanos.",
     "contact_info": {
       "phone": {
@@ -68,263 +77,300 @@
       "outdoor_seating": false,
       "dine_in": true,
       "takeaway": false,
-      "offers": ["Restaurante", "Bar"],
-      "local_options": ["Comidas", "Cenas", "Brunch"],
-      "services": ["Sanitario", "Tiene bar", "Televisión", "Acceso para discapacitados"],
-      "ambience": ["Agradable", "Informal"],
-      "usual_customers": ["Grupos"],
-      "planning": ["Se aceptan reservas"],
+      "offers": [
+        "Restaurante",
+        "Bar"
+      ],
+      "local_options": [
+        "Comidas",
+        "Cenas",
+        "Brunch"
+      ],
+      "services": [
+        "Sanitario",
+        "Tiene bar",
+        "Televisión",
+        "Acceso para discapacitados"
+      ],
+      "ambience": [
+        "Agradable",
+        "Informal"
+      ],
+      "usual_customers": [
+        "Grupos"
+      ],
+      "planning": [
+        "Se aceptan reservas"
+      ],
       "children": null,
       "pets": null,
       "parking": null
     },
-    "dietary_options": ["Opciones vegetarianas"],
-    "meals": ["Comidas", "Cenas", "Brunch"],
-    "advantages": ["Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
-    "highlights": ["Aperitivos", "Agradable", "Informal", "Recomendable para ir en grupo"]
+    "dietary_options": [
+      "Opciones vegetarianas"
+    ],
+    "meals": [
+      "Comidas",
+      "Cenas",
+      "Brunch"
+    ],
+    "advantages": [
+      "Reservas",
+      "Capacidad",
+      "Sirve alcohol",
+      "Bar completo",
+      "Servicio de mesa"
+    ],
+    "highlights": [
+      "Aperitivos",
+      "Agradable",
+      "Informal",
+      "Recomendable para ir en grupo"
+    ]
   },
   "menu_details": {
-      "kind_of_food": ["variada", "criolla"],
-      "menu_card": {
-          "menu_sections": {
-            "starters": [
+    "kind_of_food": [
+      "criolla"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
               {
-                "courses": [
-                  {
-                    "name": "Surtidos Tte Rey Especialidades",
-                    "price": null
-                  },
-                  {
-                    "name": "Croquetas",
-                    "price": 400
-                  },
-                  {
-                    "name": "Bolitas de Queso",
-                    "price": 500
-                  },
-                  {
-                    "name": "Tostones Rellenos",
-                    "price": 600
-                  },
-                  {
-                    "name": "Garbanzos Fritos",
-                    "price": 700
-                  },
-                  {
-                    "name": "Tamal con salsa BBQ",
-                    "price": 600
-                  },
-                  {
-                    "name": "Selección del panadero",
-                    "price": 600
-                  },
-                  {
-                    "name": "Tostas de cangrejo",
-                    "price": 800
-                  },
-                  {
-                    "name": "Croquetas de la casa",
-                    "price": 1200
-                  },
-                  {
-                    "name": "Tartar de albacora",
-                    "price": 1300
-                  },
-                  {
-                    "name": "Ceviche Sibarita",
-                    "price": 1300
-                  },
-                  {
-                    "name": "Bruschettas Mix",
-                    "price": 1350
-                  },
-                  {
-                    "name": "Tacos de ropa vieja",
-                    "price": 1700
-                  },
-                  {
-                    "name": "Tacos de cerdo",
-                    "price": 1600
-                  },
-                  {
-                    "name": "Tataki de albacora",
-                    "price": 1950
-                  },
-                  {
-                    "name": "Tabla de jamón serrano, embutidos y queso",
-                    "price": 2700
-                  },
-                  {
-                    "name": "Tacos de camarón y bacón",
-                    "price": 2950
-                  },
-                  {
-                    "name": "Carpaccio de Res (Angus Prime)",
-                    "price": 3500
-                  },
-                  {
-                    "name": "Natural",
-                    "price": 800
-                  },
-                  {
-                    "name": "Chicken Little",
-                    "price": 1650
-                  }
-                ]
-              }
-            ],
-            "main_courses": [
-              {
-                "courses": [
-                  {
-                    "name": "Pechuga de Pollo",
-                    "price": 1950
-                  },
-                  {
-                    "name": "Fajitas de Pechuga de Pollo",
-                    "price": 2000
-                  },
-                  {
-                    "name": "Spaguettis",
-                    "price": null
-                  },
-                  {
-                    "name": "Ropa Vieja",
-                    "price": 2000
-                  },
-                  {
-                    "name": "Picadillo a la Cubana",
-                    "price": 1500
-                  },
-                  {
-                    "name": "Masas de Cerdo",
-                    "price": 1700
-                  },
-                  {
-                    "name": "Fricase de Cerdo",
-                    "price": 1750
-                  },
-                  {
-                    "name": "Solomillo",
-                    "price": 1900
-                  },
-                  {
-                    "name": "Cazuelita Tte Rey",
-                    "price": 2900
-                  },
-                  {
-                    "name": "Mariscada Tte Rey",
-                    "price": 12900
-                  },
-                  {
-                    "name": "Filete de Pescado",
-                    "price": 2400
-                  },
-                  {
-                    "name": "Filet Mignon",
-                    "price": 3200
-                  },
-                  {
-                    "name": "Punta de Filete",
-                    "price": 2900
-                  },
-                  {
-                    "name": "Filete Jhonvill",
-                    "price": 3500
-                  },
-                  {
-                    "name": "Coctel de Camarones",
-                    "price": 700
-                  },
-                  {
-                    "name": "Coctel de Langosta",
-                    "price": 700
-                  },
-                  {
-                    "name": "Langosta",
-                    "price": 2500
-                  },
-                  {
-                    "name": "Colas de Langosta",
-                    "price": 2600
-                  },
-                  {
-                    "name": "Camarones a la Orden",
-                    "price": 2500
-                  },
-                  {
-                    "name": "Camarones Rebosados",
-                    "price": 2800
-                  },
-                  {
-                    "name": "Pulpo",
-                    "price": 2700
-                  }
-                ]
-              }
-            ],
-            "rations": [
-              {
-                "name": "Arroz",
-                "price": 200
+                "name": "Surtidos Tte Rey Especialidades",
+                "price": null
               },
               {
-                "name": "Chatinos",
-                "price": 300
+                "name": "Croquetas",
+                "price": 400
               },
               {
-                "name": "Yuca",
-                "price": 200
-              }
-            ],
-            "liquids": [
+                "name": "Bolitas de Queso",
+                "price": 500
+              },
               {
-                "alcoholic_beverages": [
-                  {
-                    "beers": [
-                      {
-                        "name": "Cerveza Nacional Lata",
-                        "price": 360
-                      },
-                      {
-                        "name": "Cerveza Nacional Botella",
-                        "price": 460
-                      },
-                      {
-                        "name": "Cerveza Importada",
-                        "price": 460
-                      }
-                    ]
-                  }
-                ],
-                "water": [
-                  {
-                    "name": "Agua Natural Nacional",
-                    "price": 250
-                  },
-                  {
-                    "name": "Agua Tónica",
-                    "price": 450
-                  }
-                ],
-                "soft_drinks": [
-                  {
-                    "name": "Refrescos Nacionales",
-                    "price": 380
-                  },
-                  {
-                    "name": "Refrescos Importados",
-                    "price": 420
-                  },
-                  {
-                    "name": "Malta Nacional",
-                    "price": 420
-                  }
-                ]
+                "name": "Tostones Rellenos",
+                "price": 600
+              },
+              {
+                "name": "Garbanzos Fritos",
+                "price": 700
+              },
+              {
+                "name": "Tamal con salsa BBQ",
+                "price": 600
+              },
+              {
+                "name": "Selección del panadero",
+                "price": 600
+              },
+              {
+                "name": "Tostas de cangrejo",
+                "price": 800
+              },
+              {
+                "name": "Croquetas de la casa",
+                "price": 1200
+              },
+              {
+                "name": "Tartar de albacora",
+                "price": 1300
+              },
+              {
+                "name": "Ceviche Sibarita",
+                "price": 1300
+              },
+              {
+                "name": "Bruschettas Mix",
+                "price": 1350
+              },
+              {
+                "name": "Tacos de ropa vieja",
+                "price": 1700
+              },
+              {
+                "name": "Tacos de cerdo",
+                "price": 1600
+              },
+              {
+                "name": "Tataki de albacora",
+                "price": 1950
+              },
+              {
+                "name": "Tabla de jamón serrano, embutidos y queso",
+                "price": 2700
+              },
+              {
+                "name": "Tacos de camarón y bacón",
+                "price": 2950
+              },
+              {
+                "name": "Carpaccio de Res (Angus Prime)",
+                "price": 3500
+              },
+              {
+                "name": "Natural",
+                "price": 800
+              },
+              {
+                "name": "Chicken Little",
+                "price": 1650
               }
             ]
           }
-      }    
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Pechuga de Pollo",
+                "price": 1950
+              },
+              {
+                "name": "Fajitas de Pechuga de Pollo",
+                "price": 2000
+              },
+              {
+                "name": "Spaguettis",
+                "price": null
+              },
+              {
+                "name": "Ropa Vieja",
+                "price": 2000
+              },
+              {
+                "name": "Picadillo a la Cubana",
+                "price": 1500
+              },
+              {
+                "name": "Masas de Cerdo",
+                "price": 1700
+              },
+              {
+                "name": "Fricase de Cerdo",
+                "price": 1750
+              },
+              {
+                "name": "Solomillo",
+                "price": 1900
+              },
+              {
+                "name": "Cazuelita Tte Rey",
+                "price": 2900
+              },
+              {
+                "name": "Mariscada Tte Rey",
+                "price": 12900
+              },
+              {
+                "name": "Filete de Pescado",
+                "price": 2400
+              },
+              {
+                "name": "Filet Mignon",
+                "price": 3200
+              },
+              {
+                "name": "Punta de Filete",
+                "price": 2900
+              },
+              {
+                "name": "Filete Jhonvill",
+                "price": 3500
+              },
+              {
+                "name": "Coctel de Camarones",
+                "price": 700
+              },
+              {
+                "name": "Coctel de Langosta",
+                "price": 700
+              },
+              {
+                "name": "Langosta",
+                "price": 2500
+              },
+              {
+                "name": "Colas de Langosta",
+                "price": 2600
+              },
+              {
+                "name": "Camarones a la Orden",
+                "price": 2500
+              },
+              {
+                "name": "Camarones Rebosados",
+                "price": 2800
+              },
+              {
+                "name": "Pulpo",
+                "price": 2700
+              }
+            ]
+          }
+        ],
+        "rations": [
+          {
+            "name": "Arroz",
+            "price": 200
+          },
+          {
+            "name": "Chatinos",
+            "price": 300
+          },
+          {
+            "name": "Yuca",
+            "price": 200
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "beers": [
+                  {
+                    "name": "Cerveza Nacional Lata",
+                    "price": 360
+                  },
+                  {
+                    "name": "Cerveza Nacional Botella",
+                    "price": 460
+                  },
+                  {
+                    "name": "Cerveza Importada",
+                    "price": 460
+                  }
+                ]
+              }
+            ],
+            "water": [
+              {
+                "name": "Agua Natural Nacional",
+                "price": 250
+              },
+              {
+                "name": "Agua Tónica",
+                "price": 450
+              }
+            ],
+            "soft_drinks": [
+              {
+                "name": "Refrescos Nacionales",
+                "price": 380
+              },
+              {
+                "name": "Refrescos Importados",
+                "price": 420
+              },
+              {
+                "name": "Malta Nacional",
+                "price": 420
+              }
+            ]
+          }
+        ]
+      }
+    }
   }
 }
-        

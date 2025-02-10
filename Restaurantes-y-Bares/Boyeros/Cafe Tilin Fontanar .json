@@ -43,21 +43,30 @@
     "location_details": {
         "rating": {
             "google": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "tripadvisor": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "facebook": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             }
         },
@@ -66,18 +75,22 @@
         "festive_decorations": true,
         "home_uniform": "casual",
         "collaboration_for_events": true,
-        "type_of_concurrent_clients": ["familias"],
+        "type_of_concurrent_clients": [
+            "familias"
+        ],
         "energy_backup": true
     },
     "services": {
         "social_networks": {
             "web_page": false,
-            "facebook": [ true,
+            "facebook": [
+                true,
                 {
                     "url": "https://www.facebook.com/p/Caf%C3%A9-Til%C3%ADn-Fontanar-100091993113611/?_rdr"
                 }
             ],
-            "instagram": [ true,
+            "instagram": [
+                true,
                 {
                     "url": "https://www.instagram.com/restaurante_cafetilin/"
                 }
@@ -87,7 +100,7 @@
         "child_care": true,
         "disable_support": false,
         "wifi": false,
-        "parking":  true,
+        "parking": true,
         "delivery": true,
         "reserves": true,
         "rent_from_the_client": true,
@@ -99,12 +112,11 @@
     },
     "pay_meth": {
         "cash": true,
-        "transfer":
-            {
-                "transfermovil": true,
-                "visa": true,
-                "mastercard": true
-            },
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
         "currency": {
             "cup": true,
             "usd": true,
@@ -115,7 +127,9 @@
         "10% charge": false
     },
     "menu_details": {
-        "kind_of_food": ["variada"],
+        "kind_of_food": [
+            "criolla"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -125,77 +139,116 @@
                             {
                                 "course_name": "Croquetas de la Casa",
                                 "price": 850.00,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Tostones Rellenos de Jamon y Queso",
                                 "price": 950.00,
-                                "main_ingredients": ["fruta", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Tostones Rellenos de Atun",
                                 "price": 950.00,
-                                "main_ingredients": ["fruta", "pescado"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Tostones Rellenos de Ropa Vieja",
                                 "price": 950.00,
-                                "main_ingredients": ["fruta", "res"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "Frituras de Malanga",
                                 "price": 850.00,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "course_name": "Fajitas de Pollo",
                                 "price": 950.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Fajitas de Cerdo",
                                 "price": 950.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Picadera Tilin",
                                 "price": 2500.00,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Hamburguesa Clasica",
                                 "price": 1100.00,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "Hamburguesa Bar",
                                 "price": 1300.00,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "Hamburguesa Mexicana",
                                 "price": 1750.00,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "Hamburguesa Tilin",
                                 "price": 2000.00,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Combo Americano",
                                 "price": 1750.00,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Hamburguesa La Cubana",
                                 "price": 1800.00,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Hamburguesa Super Clasica",
                                 "price": 1750.00,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -206,67 +259,102 @@
                             {
                                 "course_name": "Bistec de Cerdo Encebollado",
                                 "price": 1850.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Bistec de Cerdo Grille",
                                 "price": 1600.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Masas de Cerdo",
                                 "price": 1850.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Escalope de Cerdo",
                                 "price": 1950.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Ropa Vieja de Cerdo",
                                 "price": 1700.00,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "Arroz Frito",
                                 "price": 1500.00,
-                                "main_ingredients": ["grano"]
+                                "main_ingredients": [
+                                    "grano"
+                                ]
                             },
                             {
                                 "course_name": "Suprema de Pollo",
                                 "price": 1850.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Fajitas de Pollo Salteadas con Vegetales",
                                 "price": 1750.00,
-                                "main_ingredients": ["pollo", "vegetales"]
+                                "main_ingredients": [
+                                    "pollo",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "course_name": "Pollo Frito",
                                 "price": 1450.00,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "Brochetas Mixtas al Carbon",
                                 "price": 2500.00,
-                                "main_ingredients": ["cerdo", "pollo", "res", "fruta", "vegetales"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "pollo",
+                                    "res",
+                                    "fruta",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "course_name": "Cordon Bleu",
                                 "price": 3050.00,
-                                "main_ingredients": ["pollo", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "pollo",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Bistec Uruguayo",
                                 "price": 3250.00,
-                                "main_ingredients": ["res", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "res",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Milanesa a la Napolitana",
                                 "price": 3300.00,
-                                "main_ingredients": ["res"]
+                                "main_ingredients": [
+                                    "res"
+                                ]
                             }
                         ]
                     }
@@ -303,12 +391,17 @@
                             {
                                 "course_name": "Spaghetti Napolitano",
                                 "price": 1300.00,
-                                "main_ingredients": ["pasta"]
+                                "main_ingredients": [
+                                    "pasta"
+                                ]
                             },
                             {
                                 "course_name": "Spaghetti de Jamon",
                                 "price": 1700.00,
-                                "main_ingredients": ["pasta", "jamon"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "jamon"
+                                ]
                             }
                         ]
                     }
@@ -319,37 +412,65 @@
                             {
                                 "course_name": "Pizza Napolitana",
                                 "price": 1300.00,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Chorizo",
                                 "price": 1700.00,
-                                "main_ingredients": ["harina", "queso", "chorizo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "chorizo"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Atun",
                                 "price": 1700.00,
-                                "main_ingredients": ["harina", "queso", "pescado"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "course_name": "Pizza Hawaiana",
                                 "price": 1950.00,
-                                "main_ingredients": ["harina","queso", "jamon", "fruta"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "course_name": "Pizza Tilin",
                                 "price": 2500.00,
-                                "main_ingredients": ["harina", "queso", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Jamon",
                                 "price": 1700.00,
-                                "main_ingredients": ["harina", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "Pizza de Cebolla",
                                 "price": 1500.00,
-                                "main_ingredients": ["harina", "queso", "vegetales"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             }
                         ]
                     }
@@ -360,32 +481,46 @@
                             {
                                 "course_name": "Postre del Dia",
                                 "price": 500.00,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "Tarta Helada",
                                 "price": 950.00,
-                                "main_ingredients": ["helado", "harina"]
+                                "main_ingredients": [
+                                    "helado",
+                                    "harina"
+                                ]
                             },
                             {
                                 "course_name": "Flan de Caramelo",
                                 "price": 350.00,
-                                "main_ingredients": ["huevo"]
+                                "main_ingredients": [
+                                    "huevo"
+                                ]
                             },
                             {
                                 "course_name": "Copa de Helado",
                                 "price": 450.00,
-                                "main_ingredients": ["helado"]
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             },
                             {
                                 "course_name": "Copa Lolita",
                                 "price": 650.00,
-                                "main_ingredients": ["helado"]
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             },
                             {
                                 "course_name": "Suero de Helado",
                                 "price": 850.00,
-                                "main_ingredients": ["helado", "leche"]
+                                "main_ingredients": [
+                                    "helado",
+                                    "leche"
+                                ]
                             }
                         ]
                     }
@@ -613,6 +748,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

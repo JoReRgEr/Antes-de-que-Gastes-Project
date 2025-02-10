@@ -3,7 +3,7 @@
     "name": "El Bleko",
     "district": "Centro Habana",
     "coordinates": {
-        "latitude": 23.141509790555908, 
+        "latitude": 23.141509790555908,
         "longitude": -82.374230422513
     },
     "contact": {
@@ -46,7 +46,11 @@
     },
     "rating": 3.5,
     "intake_capacity": "media",
-    "cuisine": ["caribeña", "italiana", "criolla"],
+    "cuisine": [
+        "caribeña",
+        "italiana",
+        "criolla"
+    ],
     "services": {
         "plant": false,
         "child_care": false,
@@ -63,7 +67,11 @@
         "transfer": true
     },
     "menu_details": {
-        "kind_of_food": ["variada"],
+        "kind_of_food": [
+            "criolla",
+            "italiana",
+            "mexicana"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -73,62 +81,97 @@
                             {
                                 "name": "frituras de malanga",
                                 "price": 750,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "name": "croquetas mixtas",
                                 "price": 1050,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "palitos de queso",
                                 "price": 1100,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "tacos de cerdo",
                                 "price": 1550,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "tacos de cerdo ahumado",
                                 "price": 1750,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "tacos de pollo",
                                 "price": 1450,
-                                "main_ingredients": ["harina", "pollo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "nachos de salsa de queso",
                                 "price": 900,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "nachos con pollo a la barbacoa",
                                 "price": 1450,
-                                "main_ingredients": ["harina", "pollo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "alitas de pollo a la barbacoa",
                                 "price": 1350,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "crostini mixto",
                                 "price": 950,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "torrejas saladas con cerdo ahumado",
                                 "price": 1050,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "quesadillas de jamón pierna",
                                 "price": 1650,
-                                "main_ingredients": ["harina", "queso", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "jamon"
+                                ]
                             }
                         ]
                     }
@@ -139,17 +182,23 @@
                             {
                                 "name": "bistec a la plancha",
                                 "price": 2000,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "pollo frito",
                                 "price": 1500,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "fajita de pechuga de pollo",
                                 "price": 2500,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             }
                         ]
                     }
@@ -160,17 +209,26 @@
                             {
                                 "name": "pizza de queso",
                                 "price": 1250,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "pizza de jamón",
                                 "price": 1450,
-                                "main_ingredients": ["harina", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "pizza de chorizo",
                                 "price": 1450,
-                                "main_ingredients": ["harina", "embutido"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "embutido"
+                                ]
                             }
                         ]
                     }
@@ -381,14 +439,13 @@
                         ],
                         "natural_juices": [
                             {
-                                "name" : "jugos",
-                                "price" : 300
+                                "name": "jugos",
+                                "price": 300
                             }
-
                         ]
                     }
                 ]
             }
-        }    
+        }
     }
 }

@@ -1,405 +1,408 @@
-{ 
-    "Restaurants":{
-        "Papi_Happy":{
-            "Province": "La Habana",
-            "Municipality": "La Habana del Este",
-            "Location": "5ta AVE & 470, La Habana",
-            "Stars":{
-                "Social network": "Google",
-                "url": "https://g.co/kgs/1HKjpJK",
-                "total": 4.0,
-                "date": "20241205"
-        },
-            "schedules": "Apertura 9:00am y Cierre 11:00pm",
-            "Days of the week": "Todos",
-            "Type of food or specialty": "Criolla y italiana",
-            "Most popular food": "Picadera Papi Happy",
-            "Facilities": {
-                "Pets": true,
-                "Wheelchair ramp": true,
-                "infant stool": true,
-                "Smoking area": true,
-                "Parking": true,
-                "Home service": true,
-                "Payment type": "Efectivo y Transferencia"
-        },
-            "Capacity": 60,
-            
-    "menu_details": {
-        "kind_of_food": ["variada", "criolla", "europea", "italiana"],
+{
+  "Restaurants": {
+    "Papi_Happy": {
+      "Province": "La Habana",
+      "Municipality": "La Habana del Este",
+      "Location": "5ta AVE & 470, La Habana",
+      "Stars": {
+        "Social network": "Google",
+        "url": "https://g.co/kgs/1HKjpJK",
+        "total": 4.0,
+        "date": "20241205"
+      },
+      "schedules": "Apertura 9:00am y Cierre 11:00pm",
+      "Days of the week": "Todos",
+      "Type of food or specialty": "Criolla y italiana",
+      "Most popular food": "Picadera Papi Happy",
+      "Facilities": {
+        "Pets": true,
+        "Wheelchair ramp": true,
+        "infant stool": true,
+        "Smoking area": true,
+        "Parking": true,
+        "Home service": true,
+        "Payment type": "Efectivo y Transferencia"
+      },
+      "Capacity": 60,
+      "menu_details": {
+        "kind_of_food": [
+          "criolla",
+          "europea",
+          "italiana"
+        ],
         "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name": "Picadera Papi Happy",
-                      "price": 2900
-                    },
-                    {
-                      "name": "Empanadas de la Casa",
-                      "price": 750
-                    },
-                    {
-                      "name": "Frituras de Malanga",
-                      "price": 480
-                    },
-                    {
-                      "name": "Croquetas de la Casa",
-                      "price": 460
-                    },
-                    {
-                      "name": "Ceviche",
-                      "price": 850
-                    },
-                    {
-                      "name": "Coctel de Camarones",
-                      "price": 1150
-                    },
-                    {
-                      "name": "Coctel de Langosta",
-                      "price": 1150
-                    },
-                    {
-                      "name": "Coctel Mixto",
-                      "price": 1200
-                    },
-                    {
-                      "name": "Eperlan",
-                      "price": 1250
-                    },
-                    {
-                      "name": "Fajitas de Pollo",
-                      "price": 1200
-                    },
-                    {
-                      "name": "Entremes Surtido",
-                      "price": 750
-                    },
-                    {
-                      "name": "Tostones Naturales",
-                      "price": 350
-                    },
-                    {
-                      "name": "Tostones Rellenos",
-                      "price": 550
-                    },
-                    {
-                      "name": "Chicharritas",
-                      "price": 300
-                    },
-                    {
-                      "name": "Crema de Queso",
-                      "price": 1100
-                    },
-                    {
-                      "name": "Crema Virginia",
-                      "price": 1150
-                    },
-                    {
-                      "name": "Crema Aurora",
-                      "price": 1125
-                    }
-                    ]
-                }
-              ],
-              "breads": [
-                {
-                  "courses": [
-                    {
-                      "name": "Hamburguesa Papi Happy",
-                      "price": 1300
-                    },
-                    {
-                      "name": "Hamburguesa de Pollo",
-                      "price": 1100
-                    },
-                    {
-                      "name": "Hamburguesa de Cerdo",
-                      "price": 1000
-                    }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Cazuela de Mar",
-                      "price": 3200
-                    },
-                    {
-                      "name": "Grillada de Mar",
-                      "price": 3300
-                    },
-                    {
-                      "name": "Grillada de Mar y Tierra",
-                      "price": 3600
-                    },
-                    {
-                      "name": "Mariscos Mixtos",
-                      "price": 3500
-                    },
-                    {
-                      "name": "Langosta al gusto",
-                      "price": 2150
-                    },
-                    {
-                      "name": "Camarones al Gusto",
-                      "price": 2050
-                    },
-                    {
-                      "name": "Pulpo al Gusto",
-                      "price": 2500
-                    },
-                    {
-                      "name": "Filete de Pescado Grille",
-                      "price": 1450
-                    },
-                    {
-                      "name": "Filete Canciller",
-                      "price": 1750
-                    },
-                    {
-                      "name": "Pechuga Grille",
-                      "price": 1500
-                    },
-                    {
-                      "name": "Pechuga Rellena",
-                      "price": 1750
-                    },
-                    {
-                      "name": "Cordon Blue",
-                      "price": 1800
-                    },
-                    {
-                      "name": "Pollo Frito",
-                      "price": 1500
-                    },
-                    {
-                      "name": "Higado a la italiana",
-                      "price": 1050
-                    },
-                    {
-                      "name": "Bistec de Cerdo",
-                      "price": 1500
-                    },
-                    {
-                      "name": "Uruguayo",
-                      "price": 1850
-                    },
-                    {
-                      "name": "Lomo Ahumado",
-                      "price": 1450
-                    },
-                    {
-                      "name": "Lomito de Cerdo",
-                      "price": 1550
-                    },
-                    {
-                      "name": "Lomito Tres Capas Gratinado",
-                      "price": 1800
-                    },
-                    {
-                      "name": "Cerdo a la Juliana",
-                      "price": 1750
-                    },
-                    {
-                      "name": "Cordero al Vino Tinto",
-                      "price": 2150
-                    },
-                    {
-                      "name": "Cordero Montañes",
-                      "price": 2500
-                    },
-                    {
-                      "name": "Chilindron de Cordero",
-                      "price": 2640
-                    }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Pizza Papi Happy",
-                      "price": 2100
-                    },
-                    {
-                      "name": "Pizza Napolitana",
-                      "price": 850
-                    },
-                    {
-                      "name": "Pizza Hawaiana",
-                      "price": 1350
-                    },
-                    {
-                      "name": "Pizza de Jamon",
-                      "price": 1200
-                    },
-                    {
-                      "name": "Pizza de Bacon",
-                      "price": 1200
-                    },
-                    {
-                      "name": "Pizza de Vegetales",
-                      "price": 950
-                    },
-                    {
-                      "name": "Pizza de Champiñones",
-                      "price": 1350
-                    }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Lasaña",
-                      "price": 1100
-                    },
-                    {
-                      "name": "Spaguetti Napolitano",
-                      "price": 850
-                    },
-                    {
-                      "name": "Spaguetti con Jamon",
-                      "price": 1100
-                    },
-                    {
-                      "name": "Spaguetti con Camarones",
-                      "price": 1350
-                    },
-                    {
-                      "name": "Spaguetti Frutti di Mare",
-                      "price": 1680
-                    }
-                  ]
-                }
-              ],
-              "additions": [
-                {
-                  "name": "Jamon",
-                  "price": 250
-                },
-                {
-                  "name": "Chorizo",
-                  "price": 250
-                },
-                {
-                  "name": "Queso",
-                  "price": 420
-                },
-                {
-                  "name": "Langosta",
-                  "price": 750
-                },
-                {
-                  "name": "Camarones",
-                  "price": 750
-                },
-                {
-                  "name": "Piña",
-                  "price": 200
-                },
-                {
-                  "name": "Pimiento",
-                  "price": 200
-                },
-                {
-                  "name": "Aceituna",
-                  "price": 250
-                },
-                {
-                  "name": "Champiñones",
-                  "price": 250
-                }
-              ],
-              "rations": [
-                {
-                  "name": "Paella Marinera",
-                  "price": 2800
-                },
-                {
-                  "name": "Paella Mar y Tierra",
-                  "price": 3000
-                },
-                {
-                  "name": "Arroz con Pollo a la Chorrera",
-                  "price": 2300
-                },
-                {
-                  "name": "Arroz Frito",
-                  "price": 1300
-                },
-                {
-                  "name": "Arroz con Vegetales",
-                  "price": 400
-                },
-                {
-                  "name": "Arroz Campesino",
-                  "price": 1450
-                },
-                {
-                  "name": "Arroz Blanco",
-                  "price": 200
-                },
-                {
-                  "name": "Arroz Moro",
-                  "price": 250
-                },
-                {
-                  "name": "Garbanzo Frito",
-                  "price": 960
-                },
-                {
-                  "name": "Frijoles",
-                  "price": 350
-                },
-                {
-                  "name": "Sopa de Pollo",
-                  "price": 1300
-                },
-                {
-                  "name": "Sopa de Pescado",
-                  "price": 1350
-                },
-                {
-                  "name": "Consome de Mariscos",
-                  "price": 900
-                },
-                {
-                  "name": "Consome de Pollo",
-                  "price": 850
-                },
-                {
-                  "name": "Ensalada Mixta",
-                  "price": 500
-                }
-              ],
-              "desserts": [
-                {
-                  "courses": [
-                    {
-                      "name": "Helado Cake",
-                      "price": 660
-                    },
-                    {
-                      "name": "Helado Cupcake",
-                      "price": 550
-                    },
-                    {
-                      "name": "Dulce Coco y Queso",
-                      "price": 650
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
+          "menu_sections": {
+            "starters": [
+              {
+                "courses": [
+                  {
+                    "name": "Picadera Papi Happy",
+                    "price": 2900
+                  },
+                  {
+                    "name": "Empanadas de la Casa",
+                    "price": 750
+                  },
+                  {
+                    "name": "Frituras de Malanga",
+                    "price": 480
+                  },
+                  {
+                    "name": "Croquetas de la Casa",
+                    "price": 460
+                  },
+                  {
+                    "name": "Ceviche",
+                    "price": 850
+                  },
+                  {
+                    "name": "Coctel de Camarones",
+                    "price": 1150
+                  },
+                  {
+                    "name": "Coctel de Langosta",
+                    "price": 1150
+                  },
+                  {
+                    "name": "Coctel Mixto",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Eperlan",
+                    "price": 1250
+                  },
+                  {
+                    "name": "Fajitas de Pollo",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Entremes Surtido",
+                    "price": 750
+                  },
+                  {
+                    "name": "Tostones Naturales",
+                    "price": 350
+                  },
+                  {
+                    "name": "Tostones Rellenos",
+                    "price": 550
+                  },
+                  {
+                    "name": "Chicharritas",
+                    "price": 300
+                  },
+                  {
+                    "name": "Crema de Queso",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Crema Virginia",
+                    "price": 1150
+                  },
+                  {
+                    "name": "Crema Aurora",
+                    "price": 1125
+                  }
+                ]
+              }
+            ],
+            "breads": [
+              {
+                "courses": [
+                  {
+                    "name": "Hamburguesa Papi Happy",
+                    "price": 1300
+                  },
+                  {
+                    "name": "Hamburguesa de Pollo",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Hamburguesa de Cerdo",
+                    "price": 1000
+                  }
+                ]
+              }
+            ],
+            "main_courses": [
+              {
+                "courses": [
+                  {
+                    "name": "Cazuela de Mar",
+                    "price": 3200
+                  },
+                  {
+                    "name": "Grillada de Mar",
+                    "price": 3300
+                  },
+                  {
+                    "name": "Grillada de Mar y Tierra",
+                    "price": 3600
+                  },
+                  {
+                    "name": "Mariscos Mixtos",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Langosta al gusto",
+                    "price": 2150
+                  },
+                  {
+                    "name": "Camarones al Gusto",
+                    "price": 2050
+                  },
+                  {
+                    "name": "Pulpo al Gusto",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Filete de Pescado Grille",
+                    "price": 1450
+                  },
+                  {
+                    "name": "Filete Canciller",
+                    "price": 1750
+                  },
+                  {
+                    "name": "Pechuga Grille",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Pechuga Rellena",
+                    "price": 1750
+                  },
+                  {
+                    "name": "Cordon Blue",
+                    "price": 1800
+                  },
+                  {
+                    "name": "Pollo Frito",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Higado a la italiana",
+                    "price": 1050
+                  },
+                  {
+                    "name": "Bistec de Cerdo",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Uruguayo",
+                    "price": 1850
+                  },
+                  {
+                    "name": "Lomo Ahumado",
+                    "price": 1450
+                  },
+                  {
+                    "name": "Lomito de Cerdo",
+                    "price": 1550
+                  },
+                  {
+                    "name": "Lomito Tres Capas Gratinado",
+                    "price": 1800
+                  },
+                  {
+                    "name": "Cerdo a la Juliana",
+                    "price": 1750
+                  },
+                  {
+                    "name": "Cordero al Vino Tinto",
+                    "price": 2150
+                  },
+                  {
+                    "name": "Cordero Montañes",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Chilindron de Cordero",
+                    "price": 2640
+                  }
+                ]
+              }
+            ],
+            "pizzas": [
+              {
+                "courses": [
+                  {
+                    "name": "Pizza Papi Happy",
+                    "price": 2100
+                  },
+                  {
+                    "name": "Pizza Napolitana",
+                    "price": 850
+                  },
+                  {
+                    "name": "Pizza Hawaiana",
+                    "price": 1350
+                  },
+                  {
+                    "name": "Pizza de Jamon",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Pizza de Bacon",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Pizza de Vegetales",
+                    "price": 950
+                  },
+                  {
+                    "name": "Pizza de Champiñones",
+                    "price": 1350
+                  }
+                ]
+              }
+            ],
+            "pastas": [
+              {
+                "courses": [
+                  {
+                    "name": "Lasaña",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Spaguetti Napolitano",
+                    "price": 850
+                  },
+                  {
+                    "name": "Spaguetti con Jamon",
+                    "price": 1100
+                  },
+                  {
+                    "name": "Spaguetti con Camarones",
+                    "price": 1350
+                  },
+                  {
+                    "name": "Spaguetti Frutti di Mare",
+                    "price": 1680
+                  }
+                ]
+              }
+            ],
+            "additions": [
+              {
+                "name": "Jamon",
+                "price": 250
+              },
+              {
+                "name": "Chorizo",
+                "price": 250
+              },
+              {
+                "name": "Queso",
+                "price": 420
+              },
+              {
+                "name": "Langosta",
+                "price": 750
+              },
+              {
+                "name": "Camarones",
+                "price": 750
+              },
+              {
+                "name": "Piña",
+                "price": 200
+              },
+              {
+                "name": "Pimiento",
+                "price": 200
+              },
+              {
+                "name": "Aceituna",
+                "price": 250
+              },
+              {
+                "name": "Champiñones",
+                "price": 250
+              }
+            ],
+            "rations": [
+              {
+                "name": "Paella Marinera",
+                "price": 2800
+              },
+              {
+                "name": "Paella Mar y Tierra",
+                "price": 3000
+              },
+              {
+                "name": "Arroz con Pollo a la Chorrera",
+                "price": 2300
+              },
+              {
+                "name": "Arroz Frito",
+                "price": 1300
+              },
+              {
+                "name": "Arroz con Vegetales",
+                "price": 400
+              },
+              {
+                "name": "Arroz Campesino",
+                "price": 1450
+              },
+              {
+                "name": "Arroz Blanco",
+                "price": 200
+              },
+              {
+                "name": "Arroz Moro",
+                "price": 250
+              },
+              {
+                "name": "Garbanzo Frito",
+                "price": 960
+              },
+              {
+                "name": "Frijoles",
+                "price": 350
+              },
+              {
+                "name": "Sopa de Pollo",
+                "price": 1300
+              },
+              {
+                "name": "Sopa de Pescado",
+                "price": 1350
+              },
+              {
+                "name": "Consome de Mariscos",
+                "price": 900
+              },
+              {
+                "name": "Consome de Pollo",
+                "price": 850
+              },
+              {
+                "name": "Ensalada Mixta",
+                "price": 500
+              }
+            ],
+            "desserts": [
+              {
+                "courses": [
+                  {
+                    "name": "Helado Cake",
+                    "price": 660
+                  },
+                  {
+                    "name": "Helado Cupcake",
+                    "price": 550
+                  },
+                  {
+                    "name": "Dulce Coco y Queso",
+                    "price": 650
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
     }
-    }
-}
+  }
 }

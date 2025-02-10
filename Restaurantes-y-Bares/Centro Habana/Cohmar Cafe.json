@@ -3,7 +3,7 @@
     "name": "Cohmar Cafe",
     "district": "Centro Habana",
     "coordinates": {
-        "latitude": 23.136810792066857, 
+        "latitude": 23.136810792066857,
         "longitude": -82.36139565096036
     },
     "contact": {
@@ -46,7 +46,11 @@
     },
     "rating": 5.0,
     "intake_capacity": "media",
-    "cuisine": ["criolla", "internacional", "cubana"],
+    "cuisine": [
+        "criolla",
+        "internacional",
+        "cubana"
+    ],
     "services": {
         "plant": false,
         "child_care": false,
@@ -63,7 +67,9 @@
         "transfer": true
     },
     "menu_details": {
-        "kind_of_food": ["variada"],
+        "kind_of_food": [
+            "criolla"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -73,32 +79,48 @@
                             {
                                 "course_name": "croquetas de jamón",
                                 "price": 650,
-                                "main_ingredients": ["harina", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "course_name": "frituras de malanga",
                                 "price": 550,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "course_name": "tostones rellenos",
                                 "price": 725,
-                                "main_ingredients": ["fruta", "variados"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "brusqueta de queso",
                                 "price": 695,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "brusqueta de serrano",
                                 "price": 1350,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "picadera mixta",
                                 "price": 1825,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -109,37 +131,52 @@
                             {
                                 "course_name": "fajitas de pollo naturales",
                                 "price": 1950,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "pechuga de pollo grille",
                                 "price": 1950,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "course_name": "lonjas de cerdo en salsa agridulce",
                                 "price": 1965,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "bistec de cerdo encebollado",
                                 "price": 1965,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "vaca frita de cerdo",
                                 "price": 1965,
-                                "main_ingredients": ["cerdo", "res"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "res"
+                                ]
                             },
                             {
                                 "course_name": "ropa vieja de cerdo",
                                 "price": 1965,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "course_name": "lomo ahumado al mojo criollo",
                                 "price": 1975,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             }
                         ]
                     }
@@ -148,22 +185,30 @@
                     {
                         "name": "arroz moro",
                         "price": 350,
-                        "main_ingredients": ["grano"]
+                        "main_ingredients": [
+                            "grano"
+                        ]
                     },
                     {
                         "name": "arroz blanco",
                         "price": 325,
-                        "main_ingredients": ["grano"]
+                        "main_ingredients": [
+                            "grano"
+                        ]
                     },
                     {
                         "name": "arroz pilaf",
                         "price": 325,
-                        "main_ingredients": ["grano"]
+                        "main_ingredients": [
+                            "grano"
+                        ]
                     },
                     {
                         "name": "tostón natural",
                         "price": 325,
-                        "main_ingredients": ["fruta"]
+                        "main_ingredients": [
+                            "fruta"
+                        ]
                     }
                 ],
                 "breads": [
@@ -172,87 +217,135 @@
                             {
                                 "course_name": "bocata de jamón",
                                 "price": 570,
-                                "main_ingredients": ["jamon"]
+                                "main_ingredients": [
+                                    "jamon"
+                                ]
                             },
                             {
                                 "course_name": "bocata de queso",
                                 "price": 585,
-                                "main_ingredients": ["queso"]
+                                "main_ingredients": [
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "bocata de jamon y queso",
                                 "price": 650,
-                                "main_ingredients": ["jamon", "queso"]
+                                "main_ingredients": [
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "bocata de jamon pierna",
                                 "price": 695,
-                                "main_ingredients": ["jamon"]
+                                "main_ingredients": [
+                                    "jamon"
+                                ]
                             },
                             {
                                 "course_name": "bocata de jamon pierna y queso",
                                 "price": 695,
-                                "main_ingredients": ["jamon", "queso"]
+                                "main_ingredients": [
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "bocata de chorizo",
                                 "price": 570,
-                                "main_ingredients": ["embutido"]
+                                "main_ingredients": [
+                                    "embutido"
+                                ]
                             },
                             {
                                 "course_name": "bocata de chorizo y queso",
                                 "price": 650,
-                                "main_ingredients": ["embutido", "queso"]
+                                "main_ingredients": [
+                                    "embutido",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "bocata mixto",
                                 "price": 785,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
                             {
                                 "course_name": "bocata cubano",
                                 "price": 1375,
-                                "main_ingredients": ["cerdo", "huevo"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "huevo"
+                                ]
                             },
                             {
                                 "course_name": "sandwich de jamón",
                                 "price": 460,
-                                "main_ingredients": ["harina", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "course_name": "sandwich de queso",
                                 "price": 465,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "sandwich de jamon y queso",
                                 "price": 535,
-                                "main_ingredients": ["harina", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "sandwich de jamon pierna",
                                 "price": 650,
-                                "main_ingredients": ["harina", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "course_name": "sandwich de jamon pierna y queso",
                                 "price": 695,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "sandwich de chorizo",
                                 "price": 465,
-                                "main_ingredients": ["harina", "embutido"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "embutido"
+                                ]
                             },
                             {
                                 "course_name": "sandwich de chorizo y queso",
                                 "price": 535,
-                                "main_ingredients": ["harina", "embutido", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "embutido",
+                                    "queso"
+                                ]
                             },
                             {
                                 "course_name": "sandwich mixto",
                                 "price": 650,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -263,17 +356,23 @@
                             {
                                 "course_name": "copa 4 bolas",
                                 "price": 450,
-                                "main_ingredients": ["helado"]
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             },
                             {
                                 "course_name": "copa 3 bolas",
                                 "price": 350,
-                                "main_ingredients": ["helado"]
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             },
                             {
                                 "course_name": "sueño de helado",
                                 "price": 560,
-                                "main_ingredients": ["helado"]
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             }
                         ]
                     }
@@ -523,7 +622,6 @@
                                 "name": "batido de frutas",
                                 "price": 500
                             }
-
                         ],
                         "coffees": [
                             {
@@ -566,6 +664,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

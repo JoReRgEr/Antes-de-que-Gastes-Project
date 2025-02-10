@@ -3,7 +3,7 @@
     "name": "Doping Pizza",
     "district": "Centro Habana",
     "coordinates": {
-        "latitude": 23.13389533564469, 
+        "latitude": 23.13389533564469,
         "longitude": -82.37685653415737
     },
     "contact": {
@@ -15,7 +15,7 @@
         "instagram": "@dopingpizzas"
     },
     "schedule": {
-        "monday": { 
+        "monday": {
             "open": "1200",
             "close": "2400"
         },
@@ -46,7 +46,9 @@
     },
     "rating": 3.1,
     "intake_capacity": "baja",
-    "cuisine": ["italiana"],
+    "cuisine": [
+        "italiana"
+    ],
     "services": {
         "plant": false,
         "child_care": false,
@@ -63,7 +65,10 @@
         "transfer": true
     },
     "menu_details": {
-        "kind_of_food": ["variada"],
+        "kind_of_food": [
+            "criolla",
+            "italiana"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -73,17 +78,25 @@
                             {
                                 "name": "ensalada fria natural",
                                 "price": 500,
-                                "main_ingredients": ["pasta"]
+                                "main_ingredients": [
+                                    "pasta"
+                                ]
                             },
                             {
                                 "name": "ensalada fria de jamon",
                                 "price": 600,
-                                "main_ingredients": ["pasta", "jamon"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "ensalada fria de atun",
                                 "price": 700,
-                                "main_ingredients": ["pasta", "pescado"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "pescado"
+                                ]
                             }
                         ]
                     }
@@ -94,37 +107,58 @@
                             {
                                 "name": "pizza napolitana",
                                 "price": 1000,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "name": "pizza de jamon",
                                 "price": 1100,
-                                "main_ingredients": ["harina", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "pizza hawaiana",
                                 "price": 1300,
-                                "main_ingredients": ["harina", "jamon", "fruta"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "pizza de atun",
                                 "price": 1300,
-                                "main_ingredients": ["harina", "pescado"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "pizza de chorizo",
                                 "price": 1400,
-                                "main_ingredients": ["harina", "embutido"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "embutido"
+                                ]
                             },
                             {
                                 "name": "pizza de bacon",
                                 "price": 1400,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "pizza doping extreme",
                                 "price": 1500,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -135,7 +169,9 @@
                             {
                                 "name": "spaghetti napoles",
                                 "price": 900,
-                                "main_ingredients": ["pasta"]
+                                "main_ingredients": [
+                                    "pasta"
+                                ]
                             }
                         ]
                     }
@@ -178,14 +214,20 @@
                     {
                         "courses": [
                             {
-                                "name" : "batido de helado",
-                                "price" : 550,
-                                "main_ingredients": ["helado", "leche"]
+                                "name": "batido de helado",
+                                "price": 550,
+                                "main_ingredients": [
+                                    "helado",
+                                    "leche"
+                                ]
                             },
                             {
-                                "name" : "batido de helado",
-                                "price" : 750,
-                                "main_ingredients": ["helado", "leche"]
+                                "name": "batido de helado",
+                                "price": 750,
+                                "main_ingredients": [
+                                    "helado",
+                                    "leche"
+                                ]
                             }
                         ]
                     }
@@ -196,20 +238,20 @@
                             {
                                 "beers": [
                                     {
-                                        "name" : "cerveza",
-                                        "price" : 300
+                                        "name": "cerveza",
+                                        "price": 300
                                     }
                                 ]
                             }
                         ],
                         "soft_drinks": [
                             {
-                                "name" : "refresco",
-                                "price" : 250
+                                "name": "refresco",
+                                "price": 250
                             },
                             {
-                                "name" : "malta",
-                                "price" : 300
+                                "name": "malta",
+                                "price": 300
                             },
                             {
                                 "name": "malteada",
@@ -218,20 +260,19 @@
                         ],
                         "water": [
                             {
-                                "name" : "agua",
-                                "price" : 150
+                                "name": "agua",
+                                "price": 150
                             }
                         ],
                         "natural_juices": [
                             {
-                                "name" : "jugos",
-                                "price" : 300
+                                "name": "jugos",
+                                "price": 300
                             }
-
                         ]
                     }
                 ]
             }
-        }    
+        }
     }
 }

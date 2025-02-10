@@ -1,163 +1,164 @@
-{ 
-    "Restaurants":{
-        "Tiki_Bar":{
-            "Province": "La Habana",
-            "Municipality": "La Habana del Este",
-            "Location": " 4H76+RQH, La Habana",
-            "Stars":{
-                "Social network": "Google",
-                "url": "https://g.co/kgs/74d13HE",
-                "total": 3.9,
-                "date": "20241130"
-        },
-            "schedules": "Apertura 9:00am y Cierre 10:00pm",
-            "Days of the week": "Todos",
-            "Type of food or specialty": "Mariscos",
-            "Most popular food": "Pescado Frito",
-            "Facilities": {
-                "Pets": true,
-                "Wheelchair ramp": true,
-                "infant stool": true,
-                "Smoking area": false,
-                "Parking": true,
-                "Home service": false,
-                "Payment type": "Efectivo y Transferencia"
-        },
-            "Capacity": 50,
-            
-    "menu_details": {
-        "kind_of_food": ["variada", "criolla"],
+{
+  "Restaurants": {
+    "Tiki_Bar": {
+      "Province": "La Habana",
+      "Municipality": "La Habana del Este",
+      "Location": " 4H76+RQH, La Habana",
+      "Stars": {
+        "Social network": "Google",
+        "url": "https://g.co/kgs/74d13HE",
+        "total": 3.9,
+        "date": "20241130"
+      },
+      "schedules": "Apertura 9:00am y Cierre 10:00pm",
+      "Days of the week": "Todos",
+      "Type of food or specialty": "Mariscos",
+      "Most popular food": "Pescado Frito",
+      "Facilities": {
+        "Pets": true,
+        "Wheelchair ramp": true,
+        "infant stool": true,
+        "Smoking area": false,
+        "Parking": true,
+        "Home service": false,
+        "Payment type": "Efectivo y Transferencia"
+      },
+      "Capacity": 50,
+      "menu_details": {
+        "kind_of_food": [
+          "criolla"
+        ],
         "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name": "Tostones de Jamon y Queso",
-                      "price": 1200
-                    },
-                    {
-                      "name": "Tostones de Chorizo y Queso",
-                      "price": 1200
-                    },
-                    {
-                      "name": "Tostones de Cangrejo",
-                      "price": 2300
-                    },
-                    {
-                      "name": "Tostones de Langosta",
-                      "price": 4000
-                    },
-                    {
-                      "name": "Tostones de Camaron",
-                      "price": 4000
-                    },
-                    {
-                      "name": "Taco de Cangrejo",
-                      "price": 2500
-                    },
-                    {
-                      "name": "Taco de Camaron",
-                      "price": 4000
-                    },
-                    {
-                      "name": "Taco de Langosta",
-                      "price": 4000
-                    },
-                    {
-                      "name": "Papas Tiki",
-                      "price": 1300
-                    },
-                    {
-                      "name": "Ceviche de Pescado",
-                      "price": 2000
-                    },
-                    {
-                      "name": "Ceviche de Langosta",
-                      "price": 3000
-                    },
-                    {
-                      "name": "Coctel de Camaron",
-                      "price": 3500
-                    },
-                    {
-                      "name": "Coctel de Langosta",
-                      "price": 2900
-                    },
-                    {
-                      "name": "Fajita de Cerdo",
-                      "price": 2250
-                    },
-                    {
-                      "name": "Fajita de Pollo",
-                      "price": 2100
-                    }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Camaron al Gusto",
-                      "price": 4000
-                    },
-                    {
-                      "name": "Langosta al Gusto",
-                      "price": 4000
-                    },
-                    {
-                      "name": "Enchilado de Cangrejo",
-                      "price": 2500
-                    },
-                    {
-                      "name": "Bistec de Cerdo",
-                      "price": 2500
-                    },
-                    {
-                      "name": "Ribeye",
-                      "price": 12500
-                    },
-                    {
-                      "name": "Pulpo al Gusto",
-                      "price": 3800
-                    }
-                  ]
-                }
-              ],
-              "liquids": [
-                {
-                  "soft_drinks": [
-                    {
-                      "name": "Red Bull",
-                      "price": 700
-                    },
-                    {
-                      "name": "Energizante",
-                      "price": 420
-                    },
-                    {
-                      "name": "Malta",
-                      "price": 500
-                    },
-                    {
-                      "name": "Cerveza",
-                      "price": 500
-                    },
-                    {
-                      "name": "Refresco",
-                      "price": 450
-                    },
-                    {
-                      "name": "Malteada",
-                      "price": 1000
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
-     }
+          "menu_sections": {
+            "starters": [
+              {
+                "courses": [
+                  {
+                    "name": "Tostones de Jamon y Queso",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Tostones de Chorizo y Queso",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Tostones de Cangrejo",
+                    "price": 2300
+                  },
+                  {
+                    "name": "Tostones de Langosta",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Tostones de Camaron",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Taco de Cangrejo",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Taco de Camaron",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Taco de Langosta",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Papas Tiki",
+                    "price": 1300
+                  },
+                  {
+                    "name": "Ceviche de Pescado",
+                    "price": 2000
+                  },
+                  {
+                    "name": "Ceviche de Langosta",
+                    "price": 3000
+                  },
+                  {
+                    "name": "Coctel de Camaron",
+                    "price": 3500
+                  },
+                  {
+                    "name": "Coctel de Langosta",
+                    "price": 2900
+                  },
+                  {
+                    "name": "Fajita de Cerdo",
+                    "price": 2250
+                  },
+                  {
+                    "name": "Fajita de Pollo",
+                    "price": 2100
+                  }
+                ]
+              }
+            ],
+            "main_courses": [
+              {
+                "courses": [
+                  {
+                    "name": "Camaron al Gusto",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Langosta al Gusto",
+                    "price": 4000
+                  },
+                  {
+                    "name": "Enchilado de Cangrejo",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Bistec de Cerdo",
+                    "price": 2500
+                  },
+                  {
+                    "name": "Ribeye",
+                    "price": 12500
+                  },
+                  {
+                    "name": "Pulpo al Gusto",
+                    "price": 3800
+                  }
+                ]
+              }
+            ],
+            "liquids": [
+              {
+                "soft_drinks": [
+                  {
+                    "name": "Red Bull",
+                    "price": 700
+                  },
+                  {
+                    "name": "Energizante",
+                    "price": 420
+                  },
+                  {
+                    "name": "Malta",
+                    "price": 500
+                  },
+                  {
+                    "name": "Cerveza",
+                    "price": 500
+                  },
+                  {
+                    "name": "Refresco",
+                    "price": 450
+                  },
+                  {
+                    "name": "Malteada",
+                    "price": 1000
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
     }
- }
+  }
 }

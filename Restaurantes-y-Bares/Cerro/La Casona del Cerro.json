@@ -1,128 +1,132 @@
 {
-    "municipality": "ce",
-    "name": "La Casona del Cerro",
-    "address": "Calzada del Cerro entre Alzobispo y Peñón",
-    "contacts": {
-        "phone": [],
-        "website": null,
-        "facebook": null,
-        "instagram": null
-    },
-    "ratings": {},
-    "owner": "Particular",
-    "type": "Restaurante",
-    "specialty": "Comida Criolla",
-    "hours": {
-        "monday": "1000_2200",
-        "tuesday": "1000_2200",
-        "wednesday": "1000_2200",
-        "thursday": "1000_2200",
-        "friday": "1000_2200",
-        "saturday": "1000_2200",
-        "sunday": "1000_1400"
-    },
-    "services": {
-        "parking": false,
-        "reservations": false,
-        "delivery": false,
-        "power plant": false
-    },
-    "payment_methods": [
-        "cup",
-        "usd",
-        "mlc"
+  "municipality": "ce",
+  "name": "La Casona del Cerro",
+  "address": "Calzada del Cerro entre Alzobispo y Peñón",
+  "contacts": {
+    "phone": [],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {},
+  "owner": "Particular",
+  "type": "Restaurante",
+  "specialty": "Comida Criolla",
+  "hours": {
+    "monday": "1000_2200",
+    "tuesday": "1000_2200",
+    "wednesday": "1000_2200",
+    "thursday": "1000_2200",
+    "friday": "1000_2200",
+    "saturday": "1000_2200",
+    "sunday": "1000_1400"
+  },
+  "services": {
+    "parking": false,
+    "reservations": false,
+    "delivery": false,
+    "power plant": false
+  },
+  "payment_methods": [
+    "cup",
+    "usd",
+    "mlc"
+  ],
+  "menu_details": {
+    "kind_of_food": [
+      "italiana",
+      "criolla",
+      "panes"
     ],
-    "menu_details": {
-        "kind_of_food": ["variada", "italiana", "criolla", "panes"],
-        "menu_card": {
-            "menu_sections": {
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "pollo asado",
-                      "price": 1100
-                    },
-                    {
-                      "name": "masa frita",
-                      "price": 900
-                    },
-                    {
-                      "name": "bistec de cerdo",
-                      "price": 850
-                    },
-                    {
-                      "name": "fricasé de cerdo",
-                      "price": 850
-                    },
-                    {
-                      "name": "chuleta",
-                      "price": 1000
-                    }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name": "pizza napolitana c/queso gouda",
-                      "price": 450
-                    },
-                    {
-                      "name": "pizza doble queso",
-                      "price": 650
-                    },
-                    {
-                      "name": "pizza de jamon y queso gouda",
-                      "price": 500
-                    },
-                    {
-                      "name": "pizza mixta c/queso gouda",
-                      "price": 550
-                    },
-                    {
-                      "name": "pizza familiar c/queso gouda",
-                      "price": 900
-                    },
-                    {
-                      "name": "pizza familiar doble queso",
-                      "price": 1200
-                    },
-                    {
-                      "name": "pizza familiar de jamon y queso gouda",
-                      "price": 1000
-                    },
-                    {
-                      "name": "pizza familiar mixta c/queso gouda",
-                      "price": 1050
-                    }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name": "spaghetti c/queso gouda",
-                      "price": 450
-                    },
-                    {
-                      "name": "spaghetti c/ jamon y queso gouda",
-                      "price": 500
-                    },
-                    {
-                      "name": "spaghetti doble queso gouda",
-                      "price": 650
-                    },
-                    {
-                      "name": "spaghetti mixto",
-                      "price": 550
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
+    "menu_card": {
+      "menu_sections": {
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "pollo asado",
+                "price": 1100
+              },
+              {
+                "name": "masa frita",
+                "price": 900
+              },
+              {
+                "name": "bistec de cerdo",
+                "price": 850
+              },
+              {
+                "name": "fricasé de cerdo",
+                "price": 850
+              },
+              {
+                "name": "chuleta",
+                "price": 1000
+              }
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": "pizza napolitana c/queso gouda",
+                "price": 450
+              },
+              {
+                "name": "pizza doble queso",
+                "price": 650
+              },
+              {
+                "name": "pizza de jamon y queso gouda",
+                "price": 500
+              },
+              {
+                "name": "pizza mixta c/queso gouda",
+                "price": 550
+              },
+              {
+                "name": "pizza familiar c/queso gouda",
+                "price": 900
+              },
+              {
+                "name": "pizza familiar doble queso",
+                "price": 1200
+              },
+              {
+                "name": "pizza familiar de jamon y queso gouda",
+                "price": 1000
+              },
+              {
+                "name": "pizza familiar mixta c/queso gouda",
+                "price": 1050
+              }
+            ]
+          }
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": "spaghetti c/queso gouda",
+                "price": 450
+              },
+              {
+                "name": "spaghetti c/ jamon y queso gouda",
+                "price": 500
+              },
+              {
+                "name": "spaghetti doble queso gouda",
+                "price": 650
+              },
+              {
+                "name": "spaghetti mixto",
+                "price": 550
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

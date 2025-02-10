@@ -1,326 +1,328 @@
 {
-    "Place":"Jackafe",
-    "Address":"Calle 164B, #3B01, Esquina 3ra B, Mercado de los Rusos, zona 1, Alamar",
-    "Municipality":"Habana del Este",
-    "Classification":"Bar-Restaurant",
-    "Specialization":"Comida mixta",
-    "Property":"Privado",
-    "Schedule":"12h00 - 09h00 (Todos los dias)",
-    "Ratings":"4.9 (Google Maps)",
-    "Reservations":"True",
-    "Delivery":"True",
-    "Delivery area":"Habana del Este, Guanabacoa",
-    "Phone":"77636363",
-    "Accounts or website":"JacKafe (Facebook)",
-    "Payment method":"Tarjeta o efectivo (MN o moneda extranjera)",
-    "Capacity":40,
-    "Parking":"True",
-    "Wifi":"False",
-    "Smoking area":"True",
-    
-    "menu_details": {
-        "kind_of_food": ["variada", "criolla", "italiana"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name":"Croquetas",
-                      "price":360
-                    },
-                    {
-                      "name":"Bolitas de queso",
-                      "price":280
-                    },
-                    {
-                      "name":"Tostones rellenos de chorizo",
-                      "price":940
-                    },
-                    {
-                      "name":"Tostones rellenos de atun",
-                      "price":840
-                    },
-                    {
-                      "name":"Tostones rellenos de jamon",
-                      "price":680
-                    },
-                    {
-                      "name":"Coctel de pescado",
-                      "price":760
-                    },
-                    {
-                      "name":"Coctel de camaron",
-                      "price":780
-                    },
-                    {
-                      "name":"Coctelde langosta",
-                      "price":980
-                    },
-                    {
-                      "name":"Trio de cocteles",
-                      "price":2280
-                    },
-                    {
-                      "name":"Ceviche",
-                      "price":1190
-                    },
-                    {
-                      "name":"Eperlan",
-                      "price":1720
-                    },
-                    {
-                      "name":"Garbanzos fritos",
-                      "price":1680
-                    },
-                    {
-                      "name":"Entremes de la casa",
-                      "price":1920
-                    },
-                    {
-                      "name":"Entremes de jamon serrano",
-                      "price":1350
-                    },
-                    {
-                      "name":"Tabla de quesos",
-                      "price":1820
-                    }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name":"Bistec de cerdo grille",
-                      "price":1620
-                    },
-                    {
-                      "name":"Bistec de cerdo Princesa",
-                      "price":2240
-                    },
-                    {
-                      "name":"Bistec Uruguayo",
-                      "price":2380
-                    },
-                    {
-                      "name":"Cordero al vino tinto",
-                      "price":2730
-                    },
-                    {
-                      "name":"Estofado de res",
-                      "price":3320
-                    },
-                    {
-                      "name":"Filete de pescado grille",
-                      "price":1590
-                    },
-                    {
-                      "name":"Filete de pescado Princesa",
-                      "price":2140
-                    },
-                    {
-                      "name":"Canciller",
-                      "price":2320
-                    },
-                    {
-                      "name":"Pulpo enchilado",
-                      "price":1330
-                    },
-                    {
-                      "name":"Pulpo al ajillo",
-                      "price":1850
-                    },
-                    {
-                      "name":"Langosta grille",
-                      "price":2190
-                    },
-                    {
-                      "name":"Langosta enchilada",
-                      "price":2310
-                    },
-                    {
-                      "name":"Langosta Termidor",
-                      "price":2520
-                    }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name":"Lazana bolonesa",
-                      "price":1690
-                    },
-                    {
-                      "name":"Espaghetti napolitano queso gouda",
-                      "price":840
-                    },
-                    {
-                      "name":"Espaghetti napolitano queso mozarella",
-                      "price":610
-                    },
-                    {
-                      "name":"Espaghetti al aglio y olio",
-                      "price":1240
-                    }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name":"Pizza napolitana queso gouda",
-                      "price":760
-                    },
-                    {
-                      "name":"Pizza napolitana queso mozarella",
-                      "price":610
-                    }
-                  ]
-                }
-              ],
-              "additions": [
-                {
-                  "name":"Champinon",
-                  "price":140
-                },
-                {
-                  "name":"Atun",
-                  "price":510
-                },
-                {
-                  "name":"Aceitunas",
-                  "price":450
-                },
-                {
-                  "name":"Jamon",
-                  "price":250
-                },
-                {
-                  "name":"Jamon Serrano",
-                  "price":650
-                },
-                {
-                  "name":"Chorizo",
-                  "price":480
-                },
-                {
-                  "name":"Queso Gouda",
-                  "price":420
-                },
-                {
-                  "name":"Queso Mimolett",
-                  "price":480
-                },
-                {
-                  "name":"Queso Azul",
-                  "price":380
-                },
-                {
-                  "name":"Pina",
-                  "price":170
-                },
-                {
-                  "name":"Salsa de tomate",
-                  "price":150
-                }
-              ],
-              "rations": [
-                {
-                  "name":"Arroz blanco",
-                  "price":180
-                },
-                {
-                  "name":"Arroz moro",
-                  "price":250
-                },
-                {
-                  "name":"Arroz frito Jackafe",
-                  "price":1480
-                },
-                {
-                  "name":"Ensalada de estacion",
-                  "price":250
-                },
-                {
-                  "name":"Viandas fritas",
-                  "price":250
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                    {
-                      "beers": [
-                        {
-                          "name":"Cerveza importada",
-                          "price":280
-                        },
-                        {
-                          "name":"Cerveza michelada",
-                          "price":100
-                        }
-                      ]
-                    }
-                  ],
-                  "water": [
-                    {
-                      "name":"Agua natural importada",
-                      "price":260
-                    },
-                    {
-                      "name":"Agua tonica",
-                      "price":720
-                    }
-                  ],
-                  "soft_drinks": [
-                    {
-                      "name":"Refresco importado",
-                      "price":330
-                    },
-                    {
-                      "name":"Energizante",
-                      "price":370
-                    }
-                  ],
-                  "natual_juices": [
-                    {
-                      "name":"Jugo de caja",
-                      "price":850
-                    }
-                  ],
-                  "coffees": [
-                    {
-                      "name":"Cafe Expreso",
-                      "price":180
-                    },
-                    {
-                      "name":"Cafe Americano",
-                      "price":180
-                    },
-                    {
-                      "name":"Cafe Cortado",
-                      "price":250
-                    },
-                    {
-                      "name":"Cafe Capuchino",
-                      "price":300
-                    },
-                    {
-                      "name":"Cafe con Ashe",
-                      "price":395
-                    },
-                    {
-                      "name":"Te",
-                      "price":80
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
+  "Place": "Jackafe",
+  "Address": "Calle 164B, #3B01, Esquina 3ra B, Mercado de los Rusos, zona 1, Alamar",
+  "Municipality": "Habana del Este",
+  "Classification": "Bar-Restaurant",
+  "Specialization": "Comida mixta",
+  "Property": "Privado",
+  "Schedule": "12h00 - 09h00 (Todos los dias)",
+  "Ratings": "4.9 (Google Maps)",
+  "Reservations": "True",
+  "Delivery": "True",
+  "Delivery area": "Habana del Este, Guanabacoa",
+  "Phone": "77636363",
+  "Accounts or website": "JacKafe (Facebook)",
+  "Payment method": "Tarjeta o efectivo (MN o moneda extranjera)",
+  "Capacity": 40,
+  "Parking": "True",
+  "Wifi": "False",
+  "Smoking area": "True",
+  "menu_details": {
+    "kind_of_food": [
+      "criolla",
+      "italiana"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "Croquetas",
+                "price": 360
+              },
+              {
+                "name": "Bolitas de queso",
+                "price": 280
+              },
+              {
+                "name": "Tostones rellenos de chorizo",
+                "price": 940
+              },
+              {
+                "name": "Tostones rellenos de atun",
+                "price": 840
+              },
+              {
+                "name": "Tostones rellenos de jamon",
+                "price": 680
+              },
+              {
+                "name": "Coctel de pescado",
+                "price": 760
+              },
+              {
+                "name": "Coctel de camaron",
+                "price": 780
+              },
+              {
+                "name": "Coctelde langosta",
+                "price": 980
+              },
+              {
+                "name": "Trio de cocteles",
+                "price": 2280
+              },
+              {
+                "name": "Ceviche",
+                "price": 1190
+              },
+              {
+                "name": "Eperlan",
+                "price": 1720
+              },
+              {
+                "name": "Garbanzos fritos",
+                "price": 1680
+              },
+              {
+                "name": "Entremes de la casa",
+                "price": 1920
+              },
+              {
+                "name": "Entremes de jamon serrano",
+                "price": 1350
+              },
+              {
+                "name": "Tabla de quesos",
+                "price": 1820
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Bistec de cerdo grille",
+                "price": 1620
+              },
+              {
+                "name": "Bistec de cerdo Princesa",
+                "price": 2240
+              },
+              {
+                "name": "Bistec Uruguayo",
+                "price": 2380
+              },
+              {
+                "name": "Cordero al vino tinto",
+                "price": 2730
+              },
+              {
+                "name": "Estofado de res",
+                "price": 3320
+              },
+              {
+                "name": "Filete de pescado grille",
+                "price": 1590
+              },
+              {
+                "name": "Filete de pescado Princesa",
+                "price": 2140
+              },
+              {
+                "name": "Canciller",
+                "price": 2320
+              },
+              {
+                "name": "Pulpo enchilado",
+                "price": 1330
+              },
+              {
+                "name": "Pulpo al ajillo",
+                "price": 1850
+              },
+              {
+                "name": "Langosta grille",
+                "price": 2190
+              },
+              {
+                "name": "Langosta enchilada",
+                "price": 2310
+              },
+              {
+                "name": "Langosta Termidor",
+                "price": 2520
+              }
+            ]
+          }
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": "Lazana bolonesa",
+                "price": 1690
+              },
+              {
+                "name": "Espaghetti napolitano queso gouda",
+                "price": 840
+              },
+              {
+                "name": "Espaghetti napolitano queso mozarella",
+                "price": 610
+              },
+              {
+                "name": "Espaghetti al aglio y olio",
+                "price": 1240
+              }
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": "Pizza napolitana queso gouda",
+                "price": 760
+              },
+              {
+                "name": "Pizza napolitana queso mozarella",
+                "price": 610
+              }
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "name": "Champinon",
+            "price": 140
+          },
+          {
+            "name": "Atun",
+            "price": 510
+          },
+          {
+            "name": "Aceitunas",
+            "price": 450
+          },
+          {
+            "name": "Jamon",
+            "price": 250
+          },
+          {
+            "name": "Jamon Serrano",
+            "price": 650
+          },
+          {
+            "name": "Chorizo",
+            "price": 480
+          },
+          {
+            "name": "Queso Gouda",
+            "price": 420
+          },
+          {
+            "name": "Queso Mimolett",
+            "price": 480
+          },
+          {
+            "name": "Queso Azul",
+            "price": 380
+          },
+          {
+            "name": "Pina",
+            "price": 170
+          },
+          {
+            "name": "Salsa de tomate",
+            "price": 150
+          }
+        ],
+        "rations": [
+          {
+            "name": "Arroz blanco",
+            "price": 180
+          },
+          {
+            "name": "Arroz moro",
+            "price": 250
+          },
+          {
+            "name": "Arroz frito Jackafe",
+            "price": 1480
+          },
+          {
+            "name": "Ensalada de estacion",
+            "price": 250
+          },
+          {
+            "name": "Viandas fritas",
+            "price": 250
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "beers": [
+                  {
+                    "name": "Cerveza importada",
+                    "price": 280
+                  },
+                  {
+                    "name": "Cerveza michelada",
+                    "price": 100
+                  }
+                ]
+              }
+            ],
+            "water": [
+              {
+                "name": "Agua natural importada",
+                "price": 260
+              },
+              {
+                "name": "Agua tonica",
+                "price": 720
+              }
+            ],
+            "soft_drinks": [
+              {
+                "name": "Refresco importado",
+                "price": 330
+              },
+              {
+                "name": "Energizante",
+                "price": 370
+              }
+            ],
+            "natual_juices": [
+              {
+                "name": "Jugo de caja",
+                "price": 850
+              }
+            ],
+            "coffees": [
+              {
+                "name": "Cafe Expreso",
+                "price": 180
+              },
+              {
+                "name": "Cafe Americano",
+                "price": 180
+              },
+              {
+                "name": "Cafe Cortado",
+                "price": 250
+              },
+              {
+                "name": "Cafe Capuchino",
+                "price": 300
+              },
+              {
+                "name": "Cafe con Ashe",
+                "price": 395
+              },
+              {
+                "name": "Te",
+                "price": 80
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

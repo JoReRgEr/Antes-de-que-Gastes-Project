@@ -34,7 +34,11 @@
         "eur"
     ],
     "menu_details": {
-        "kind_of_food": ["variada", "criolla", "francesa"],
+        "kind_of_food": [
+            "americana",
+            "criolla",
+            "francesa"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -44,27 +48,41 @@
                             {
                                 "name": "Desayuno Ejecutivo",
                                 "price": 2000,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "Hot Cakes, Crepes, Tostadas Francesas, Waffles",
                                 "price": 1500,
-                                "main_ingredients": ["harina", "leche", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche",
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "Yogurt con Granola y Frutas",
                                 "price": 700,
-                                "main_ingredients": ["fruta", "queso"]
+                                "main_ingredients": [
+                                    "fruta",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Ensalada de Frutas",
                                 "price": 750,
-                                "main_ingredients": ["fruta"]
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "Huevos al Gusto",
                                 "price": 1050,
-                            "main_ingredients": ["huevo", "variados"]
+                                "main_ingredients": [
+                                    "huevo",
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -75,67 +93,97 @@
                             {
                                 "name": "Tostón relleno 3.0",
                                 "price": 1500,
-                                "main_ingredients": ["fruta"]
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "Brusquetas",
                                 "price": 1500,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "Coctel de camarones",
                                 "price": 1800,
-                                "main_ingredients": ["marisco"]
+                                "main_ingredients": [
+                                    "marisco"
+                                ]
                             },
                             {
                                 "name": "Tostas de jamón serrano",
                                 "price": 1800,
-                                "main_ingredients": ["harina", "jamon"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon"
+                                ]
                             },
                             {
                                 "name": "Bolitas de queso estilo La Francesa",
                                 "price": 1600,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Ceviche de pesca blanca",
                                 "price": 1800,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Ensalada Capricho",
                                 "price": 1800,
-                                "main_ingredients": ["vegetales"]
+                                "main_ingredients": [
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "Papas bravas",
                                 "price": 1500,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "name": "Papas fritas",
                                 "price": 1600,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "name": "Frituritas de malanga",
                                 "price": 950,
-                                "main_ingredients": ["vianda"]                            
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             },
                             {
                                 "name": "Croquetas de la casa",
                                 "price": 1600,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "Tabla fría",
                                 "price": 3200,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "Tabla caliente",
                                 "price": 3500,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -146,37 +194,60 @@
                             {
                                 "name": "Sandwich Cubano",
                                 "price": 1900,
-                                "main_ingredients": ["harina", "cerdo"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Sandwich Clásico",
                                 "price": 1750,
-                                "main_ingredients": ["harina", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Sandwich Club",
                                 "price": 2500,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "Sandwich de Atún",
                                 "price": 2500,
-                                "main_ingredients": ["harina", "pescado"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Croissant Clásico",
                                 "price": 1500,
-                                "main_ingredients": ["harina", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Croissant Natural",
                                 "price": 750,
-                                "main_ingredients": ["harina", "vegetales"]                            
+                                "main_ingredients": [
+                                    "harina",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "Hamburguesa La Francesa",
                                 "price": 2500,
-                                "main_ingredients": ["harina", "variados"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -187,22 +258,31 @@
                             {
                                 "name": "Brochetas de cerdo",
                                 "price": 2500,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "Tacos de cerdo",
                                 "price": 2000,
-                                "main_ingredients": ["cerdo", "harina"]
+                                "main_ingredients": [
+                                    "cerdo",
+                                    "harina"
+                                ]
                             },
                             {
                                 "name": "Dados de pescado frito con acompañamiento de salsa tártara",
                                 "price": 1800,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             },
                             {
                                 "name": "Nuggets de pollo",
                                 "price": 1800,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             }
                         ]
                     }
@@ -213,27 +293,47 @@
                             {
                                 "name": "Pasta Napolitana",
                                 "price": 1250,
-                                "main_ingredients": ["pasta", "queso"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Pasta Boloñesa",
                                 "price": 1000,
-                                "main_ingredients": ["pasta", "queso", "res"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "res"
+                                ]
                             },
                             {
                                 "name": "Pasta Carbonara",
                                 "price": 1800,
-                                "main_ingredients": ["pasta", "queso", "cerdo", "huevo"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "cerdo",
+                                    "huevo"
+                                ]
                             },
                             {
                                 "name": "Pasta al Pesto",
                                 "price": 1800,
-                                "main_ingredients": ["pasta", "queso", "vegetales"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "Pasta Aglio Olio",
                                 "price": 1260,
-                                "main_ingredients": ["pasta", "queso", "variados"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso",
+                                    "variados"
+                                ]
                             }
                         ]
                     }
@@ -274,32 +374,51 @@
                             {
                                 "name": "Brownie de chocolate",
                                 "price": 1200,
-                                "main_ingredients": ["harina", "leche"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche"
+                                ]
                             },
                             {
                                 "name": "Mousse de café",
                                 "price": 950,
-                                "main_ingredients": ["harina", "leche"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche"
+                                ]
                             },
                             {
                                 "name": "Pie de limón",
                                 "price": 1200,
-                                "main_ingredients": ["harina", "fruta", "leche"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "fruta",
+                                    "leche"
+                                ]
                             },
                             {
                                 "name": "Chesse cake",
                                 "price": 1200,
-                                "main_ingredients": ["harina", "leche", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Copa de helado",
                                 "price": 1200,
-                                "main_ingredients": ["helado"]
+                                "main_ingredients": [
+                                    "helado"
+                                ]
                             },
                             {
                                 "name": "Batido de helado",
                                 "price": 500,
-                                "main_ingredients": ["helado", "leche"]
+                                "main_ingredients": [
+                                    "helado",
+                                    "leche"
+                                ]
                             }
                         ]
                     }
@@ -310,19 +429,19 @@
                             {
                                 "beers": [
                                     {
-                                        "name": "Cristal", 
+                                        "name": "Cristal",
                                         "price": 650
                                     },
                                     {
-                                        "name": "Cristal extra", 
+                                        "name": "Cristal extra",
                                         "price": 750
                                     },
                                     {
-                                        "name": "Corona", 
+                                        "name": "Corona",
                                         "price": 600
                                     },
                                     {
-                                        "name": "Bucanero", 
+                                        "name": "Bucanero",
                                         "price": 650
                                     }
                                 ],
@@ -430,95 +549,95 @@
                                 ],
                                 "shots": [
                                     {
-                                        "name": "Ballantines", 
+                                        "name": "Ballantines",
                                         "price": 900
                                     },
                                     {
-                                        "name": "Clan Campbell", 
+                                        "name": "Clan Campbell",
                                         "price": 900
                                     },
                                     {
-                                        "name": "Johnnie Walker", 
+                                        "name": "Johnnie Walker",
                                         "price": 1200
                                     },
                                     {
-                                        "name": "Chivas Regal 12", 
+                                        "name": "Chivas Regal 12",
                                         "price": 1200
                                     },
                                     {
-                                        "name": "JB", 
+                                        "name": "JB",
                                         "price": 950
                                     },
                                     {
-                                        "name": "Havana Club 3 años", 
+                                        "name": "Havana Club 3 años",
                                         "price": 650
                                     },
                                     {
-                                        "name": "Havana Club Añejo Especial", 
+                                        "name": "Havana Club Añejo Especial",
                                         "price": 700
                                     },
                                     {
-                                        "name": "Havana Club 7 años", 
+                                        "name": "Havana Club 7 años",
                                         "price": 900
                                     },
                                     {
-                                        "name": "Havana Club Selección de Maestros", 
+                                        "name": "Havana Club Selección de Maestros",
                                         "price": 1700
                                     },
                                     {
-                                        "name": "Santiago 7 años", 
+                                        "name": "Santiago 7 años",
                                         "price": 700
                                     },
                                     {
-                                        "name": "Santiago 11 años", 
+                                        "name": "Santiago 11 años",
                                         "price": 850
                                     },
                                     {
-                                        "name": "Santiago 12 años", 
+                                        "name": "Santiago 12 años",
                                         "price": 900
                                     },
                                     {
-                                        "name": "Cubay", 
+                                        "name": "Cubay",
                                         "price": 850
                                     },
                                     {
-                                        "name": "Pacto Navio", 
+                                        "name": "Pacto Navio",
                                         "price": 2000
                                     },
                                     {
-                                        "name": "Tequila Señor de los Cielos", 
+                                        "name": "Tequila Señor de los Cielos",
                                         "price": 650
                                     },
                                     {
-                                        "name": "Tequila Olmeca", 
+                                        "name": "Tequila Olmeca",
                                         "price": 650
                                     },
                                     {
-                                        "name": "Maestro Tequilero", 
+                                        "name": "Maestro Tequilero",
                                         "price": 560
                                     },
                                     {
-                                        "name": "Maestro Tangueray", 
+                                        "name": "Maestro Tangueray",
                                         "price": 550
                                     },
                                     {
-                                        "name": "Ginebra Tanqueray", 
+                                        "name": "Ginebra Tanqueray",
                                         "price": 650
                                     },
                                     {
-                                        "name": "Ginebra Beefeater", 
+                                        "name": "Ginebra Beefeater",
                                         "price": 650
                                     },
                                     {
-                                        "name": "Vodka Lyubov", 
+                                        "name": "Vodka Lyubov",
                                         "price": 950
                                     },
                                     {
-                                        "name": "Vodka Igor", 
+                                        "name": "Vodka Igor",
                                         "price": 650
                                     },
                                     {
-                                        "name": "Vodka Absolut", 
+                                        "name": "Vodka Absolut",
                                         "price": 650
                                     }
                                 ]
@@ -607,6 +726,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

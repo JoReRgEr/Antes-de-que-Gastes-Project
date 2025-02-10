@@ -1,14 +1,20 @@
 {
   "establishment": {
     "classification": {
-      "type": ["Bar", "Café", "Cubana"]
+      "type": [
+        "Bar",
+        "Café",
+        "Cubana"
+      ]
     },
     "name": "Cafe Fortuna Joe",
     "description": "Un lugar acogedor y casual en La Habana Vieja que ofrece una variedad de bebidas y platos pequeños.",
     "contact_info": {
       "phone": {
         "number": "(07) 860080",
-        "type": ["landline"]
+        "type": [
+          "landline"
+        ]
       },
       "email": null,
       "website": null
@@ -64,570 +70,726 @@
       "outdoor_seating": true,
       "dine_in": true,
       "takeaway": true,
-      "offers": ["Bar", "Café"],
-      "local_options": ["Desayuno", "Brunch", "Almuerzo", "Cena", "Postres"],
-      "services": ["Bar en el lugar", "Baños"],
-      "ambience": ["Casual", "Acogedor"],
-      "usual_customers": ["Grupos"],
-      "planning": ["Acepta reservas"],
+      "offers": [
+        "Bar",
+        "Café"
+      ],
+      "local_options": [
+        "Desayuno",
+        "Brunch",
+        "Almuerzo",
+        "Cena",
+        "Postres"
+      ],
+      "services": [
+        "Bar en el lugar",
+        "Baños"
+      ],
+      "ambience": [
+        "Casual",
+        "Acogedor"
+      ],
+      "usual_customers": [
+        "Grupos"
+      ],
+      "planning": [
+        "Acepta reservas"
+      ],
       "children": null,
       "pets": null,
-      "parking": ["Amplio estacionamiento"]
+      "parking": [
+        "Amplio estacionamiento"
+      ]
     },
     "dietary_options": [],
-    "meals": ["Desayuno", "Brunch", "Almuerzo"],
-    "advantages": ["Reservas", "Terraza exterior", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
-    "highlights": ["Asientos al aire libre", "Platos pequeños", "Acogedor", "Casual", "Ideal para grupos"]
+    "meals": [
+      "Desayuno",
+      "Brunch",
+      "Almuerzo"
+    ],
+    "advantages": [
+      "Reservas",
+      "Terraza exterior",
+      "Capacidad",
+      "Sirve alcohol",
+      "Bar completo",
+      "Servicio de mesa"
+    ],
+    "highlights": [
+      "Asientos al aire libre",
+      "Platos pequeños",
+      "Acogedor",
+      "Casual",
+      "Ideal para grupos"
+    ]
   },
   "menu_details": {
-      "kind_of_food": ["variada", "turca", "criolla", "italiana"],
-      "healthy_food_options": false,
-      "menu_card": {
-          "menu_sections": {
-              "starters": [
-                  { 
-                      "courses": [
-                          {
-                              "name": "Brusquetas mixtas",
-                              "price": 860,
-                              "main_ingredients": ["harina", "vegetales", "queso", "jamon"]
-                            },
-                            {
-                              "name": "Tamal en sartén con ropa vieja de cerdo",
-                              "price": 1950,
-                              "main_ingredients": ["grano", "cerdo"]
-                            },
-                            {
-                              "name": "Frituras de malanga",
-                              "price": 490,
-                              "main_ingredients": ["vianda", "harina", "huevo"]
-                            },
-                            {
-                              "name": "Croquetas de la casa",
-                              "price": 580,
-                              "main_ingredients": ["variados", "harina", "huevo"]
-                            },
-                            {
-                              "name": "Ensalada fría",
-                              "price": 490,
-                              "main_ingredients": ["vegetales"]
-                            },
-                            {
-                              "name": "Picadera Doña Margot",
-                              "price": 1800,
-                              "main_ingredients": ["jamon", "queso", "fruta"]
-                            },
-                            {
-                              "name": "Tostones rellenos de jamon y queso",
-                              "price": 650,
-                              "main_ingredients": ["fruta", "jamon", "queso"]
-                            },
-                            {
-                              "name": "Tacos de cerdo",
-                              "price": 880,
-                              "main_ingredients": ["harina", "cerdo"]
-                            },
-                            {
-                              "name": "Tacos de cordero",
-                              "price": 880,
-                              "main_ingredients": ["harina", "cordero"]
-                            },
-                            {
-                              "name": "Tacos de atún y mayonesa",
-                              "price": 800,
-                              "main_ingredients": ["harina", "pescado"]
-                            },
-                            {
-                              "name": "Cóctel de camarones",
-                              "price": 1600,
-                              "main_ingredients": ["marisco"]
-                            },
-                            {
-                              "name": "Picadera Fortuna",
-                              "price": 4600,
-                              "main_ingredients": ["jamon", "queso", "embutido", "fruta"]
-                            }
-                      ]
-                  }
-              ],
-              "main_courses": [
-                  {
-                      "courses": [
-                        {
-                          "name": "Vegetales de estación",
-                          "price": 1600,
-                          "main_ingredients": ["vegetales"]
-                        },
-                        {
-                          "name": "César",
-                          "price": 1300,
-                          "main_ingredients": ["vegetales", "queso"]
-                        },
-                        {
-                          "name": "Fajitas de pollo salteadas con vegetales",
-                          "price": 1600,
-                          "main_ingredients": ["pollo", "vegetales"]
-                        },
-                        {
-                          "name": "Pollos en aroma y sabor",
-                          "price": 1400,
-                          "main_ingredients": ["pollo"]
-                        },
-                        {
-                          "name": "Masas de cerdo frita",
-                          "price": 1800,
-                          "main_ingredients": ["cerdo"]
-                        },
-                        {
-                          "name": "Masas de cerdo vestidas de jamon y queso",
-                          "price": 2200,
-                          "main_ingredients": ["cerdo", "jamon", "queso"]
-                        },
-                        {
-                          "name": "Brochetas de cerdo y chorizo",
-                          "price": 2600,
-                          "main_ingredients": ["cerdo", "embutido", "vegetales"]
-                        },
-                        {
-                          "name": "Chorizo parrillero",
-                          "price": 1800,
-                          "main_ingredients": ["embutido"]
-                        },
-                        {
-                          "name": "Delirio de cordero",
-                          "price": 1900,
-                          "main_ingredients": ["cordero"]
-                        },
-                        {
-                          "name": "Cordero al vino tinto",
-                          "price": 2200,
-                          "main_ingredients": ["cordero"]
-                        },
-                        {
-                          "name": "Camarones enchilados o al ajillo",
-                          "price": 2400,
-                          "main_ingredients": ["marisco", "vegetales"]
-                        },
-                        {
-                          "name": "Pulpo al ajillo o encebollado",
-                          "price": 3200,
-                          "main_ingredients": ["marisco", "vegetales"]
-                        }
-                      ]
-                  }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Pizza de Queso",
-                      "price": 980,
-                      "main_ingredients": ["harina", "queso"]
-                    },
-                    {
-                      "name": "Pizza Fortuna",
-                      "price": 1700,
-                      "main_ingredients": ["harina", "queso", "jamon", "fruta"]
-                    }
-                  ]
-                }
-              ],
-              "additions": [
-                {
-                  "name": "Aceituna",
-                  "price": 280
-                },
-                {
-                  "name": "Queso azul",
-                  "price": 490
-                },
-                {
-                  "name": "Bacon",
-                  "price": 380
-                },
-                {
-                  "name": "Jamon",
-                  "price": 280
-                },
-                {
-                  "name": "pescado",
-                  "price": 400
-                },
-                {
-                  "name": "Huevo",
-                  "price": 250
-                },
-                {
-                  "name": "Chorizo",
-                  "price": 250
-                },
-                {
-                  "name": "Pimiento",
-                  "price": 200
-                },
-                {
-                  "name": "Pollo",
-                  "price": 300
-                },
-                {
-                  "name": "Cebolla",
-                  "price": 280
-                },
-                {
-                  "name": "Miel",
-                  "price": 100
-                },
-                {
-                  "name": "Piña",
-                  "price": 100
-                },
-                {
-                  "name": "Queso",
-                  "price": 350
-                }
-              ],
-              "breads": [
-                  {
-                      "courses": [
-                        {
-                          "name": "Bocadito de Jamon",
-                          "price": 500,
-                          "main_ingredients": ["harina", "jamon"]
-                        },
-                        {
-                          "name": "Bocadito de Queso",
-                          "price": 580,
-                          "main_ingredients": ["harina", "queso"]
-                        },
-                        {
-                          "name": "Bocadito de Jamon y Queso",
-                          "price": 650,
-                          "main_ingredients": ["harina", "jamon", "queso"]
-                        },
-                        {
-                          "name": "Bocadito de Pollo y Queso",
-                          "price": 650,
-                          "main_ingredients": ["harina", "pollo", "queso"]
-                        },
-                        {
-                          "name": "Bocadito de Atún",
-                          "price": 680,
-                          "main_ingredients": ["harina", "pescado"]
-                        },
-                        {
-                          "name": "Pan con Lechón",
-                          "price": 680,
-                          "main_ingredients": ["harina", "cerdo"]
-                        },
-                        {
-                          "name": "Pan Pirata Gay",
-                          "price": 1000,
-                          "main_ingredients": ["harina", "jamon", "queso", "vegetales"]
-                        }
-                      ]
-                  }
-              ],
-              "desserts": [
-                  {
-                      "courses": [
-                        {
-                          "name": "Limonada Ginger Pl",
-                          "price": 400,
-                          "main_ingredients": ["fruta"]
-                        },
-                        {
-                          "name": "Copa de helado",
-                          "price": 500,
-                          "main_ingredients": ["leche", "helado"]
-                        },
-                        {
-                          "name": "Flan",
-                          "price": 400,
-                          "main_ingredients": ["huevo", "leche"]
-                        }
-                      ]
-                  }
-              ],
-              "offers": [
-                {
-                  "name": "6 cervezas imp + 1 pizza de queso",
-                  "price": 2700
-                },
-                {
-                  "name": "6 cervezas nac + 1 pizza de queso",
-                  "price": 3000
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                    {
-                      "cocktails": [
-                        {
-                          "name": "Michelada / Cerveza Nacional",
-                          "price": 1680
-                        },
-                        {
-                          "name": "Michelada / Cerveza Importada",
-                          "price": 580
-                        },
-                        {
-                          "name": "BABY BOOM",
-                          "price": 500
-                        },
-                        {
-                          "name": "Cuba Libre",
-                          "price": 500
-                        },
-                        {
-                          "name": "Daiquiri",
-                          "price": 1500
-                        },
-                        {
-                          "name": "Gin Tonic",
-                          "price": 750
-                        },
-                        {
-                          "name": "Daiquiri a la fruta",
-                          "price": 600
-                        },
-                        {
-                          "name": "Screwdriver",
-                          "price": 500
-                        },
-                        {
-                          "name": "Mojito",
-                          "price": 500
-                        },
-                        {
-                          "name": "Calpiroska",
-                          "price": 500
-                        },
-                        {
-                          "name": "Mojito Zombie",
-                          "price": 4650
-                        },
-                        {
-                          "name": "Blue lagoon",
-                          "price": 600
-                        },
-                        {
-                          "name": "Ron Collins",
-                          "price": 4500
-                        },
-                        {
-                          "name": "Gozadera en la playa",
-                          "price": 550
-                        },
-                        {
-                          "name": "Calpirisima",
-                          "price": 490
-                        },
-                        {
-                          "name": "Margarita",
-                          "price": 580
-                        },
-                        {
-                          "name": "Cubata",
-                          "price": 600
-                        },
-                        {
-                          "name": "Tom Collins",
-                          "price": 550
-                        },
-                        {
-                          "name": "Piña Colada",
-                          "price": 650
-                        },
-                        {
-                          "name": "Tequila Sunrise",
-                          "price": 600
-                        },
-                        {
-                          "name": "San Francisco de noche",
-                          "price": 600
-                        },
-                        {
-                          "name": "Mimosa",
-                          "price": 600
-                        },
-                        {
-                          "name": "Caipiriña",
-                          "price": 490
-                        },
-                        {
-                          "name": "Cuba Bella",
-                          "price": 600
-                        },
-                        {
-                          "name": "Canchánchara",
-                          "price": 480
-                        },
-                        {
-                          "name": "Aperol Spritz",
-                          "price": 1200
-                        },
-                        {
-                          "name": "Londres 1922",
-                          "price": 580
-                        },
-                        {
-                          "name": "Negroni",
-                          "price": 1200
-                        },
-                        {
-                          "name": "Martini",
-                          "price": 600
-                        },
-                        {
-                          "name": "Long Island",
-                          "price": 2550
-                        },
-                        {
-                          "name": "Mexicano molesto",
-                          "price": 500
-                        },
-                        {
-                          "name": "D'LA CASA Vodkasol",
-                          "price": 4500
-                        },
-                        {
-                          "name": "0+",
-                          "price": 650
-                        }
-                      ],
-                      "beers": [
-                        {
-                          "name": "Cerveza Nacional",
-                          "price": 480
-                        },
-                        {
-                          "name": "Cerveza Importada",
-                          "price": 380
-                        }
-                      ]
-                    }
-                  ],
-                  "water": [
-                    {
-                      "name": "Agua natural",
-                      "price": 300
-                    },
-                    {
-                      "name": "Agua gaseada",
-                      "price": 450
-                    }
-                  ],
-                  "natual_juices": [
-                    {
-                      "name": "Jugos naturales",
-                      "price": 200
-                    },
-                    {
-                      "name": "Ponche de frutas del día",
-                      "price": 350
-                    },
-                    {
-                      "name": "Limonada natural o frappé",
-                      "price": 350
-                    },
-                    {
-                      "name": "Limonada Tuty (con agua gaseada)",
-                      "price": 400
-                    },
-                    {
-                      "name": "Limonada con hierbabuena",
-                      "price": 400
-                    },
-                    {
-                      "name": "San Francisco (sin alcohol)",
-                      "price": 380
-                    }
-                  ],
-                  "soft_drinks": [
-                    {
-                      "name": "Refresco",
-                      "price": 400
-                    },
-                    {
-                      "name": "Malta",
-                      "price": 400
-                    },
-                    {
-                      "name": "Malteada",
-                      "price": 580
-                    },
-                    {
-                      "name": "Energizante",
-                      "price": 450
-                    }
-                  ],
-                  "coffees": [
-                    {
-                      "name": "Frapuchino",
-                      "price": 480
-                    },
-                    {
-                      "name": "Café Sorpresa",
-                      "price": 650
-                    },
-                    {
-                      "name": "Café Megasorpresa",
-                      "price": 900
-                    },
-                    {
-                      "name": "Café Bola",
-                      "price": 650
-                    },
-                    {
-                      "name": "Baileys Coffee con hielo",
-                      "price": 480
-                    },
-                    {
-                      "name": "Café Bombón",
-                      "price": 400
-                    },
-                    {
-                      "name": "Café Fortuna",
-                      "price": 480
-                    },
-                    {
-                      "name": "Café Expreso",
-                      "price": 200
-                    },
-                    {
-                      "name": "Café Americano",
-                      "price": 200
-                    },
-                    {
-                      "name": "Café Cortado",
-                      "price": 250
-                    },
-                    {
-                      "name": "Café Escocés",
-                      "price": 690
-                    },
-                    {
-                      "name": "Café con Leche",
-                      "price": 300
-                    },
-                    {
-                      "name": "Café Carajillo",
-                      "price": 300
-                    },
-                    {
-                      "name": "Capuchino",
-                      "price": 380
-                    },
-                    {
-                      "name": "Affogato",
-                      "price": 380
-                    }
-                  ]
-                }
-              ]
+    "kind_of_food": [
+      "turca",
+      "criolla",
+      "italiana"
+    ],
+    "healthy_food_options": false,
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "Brusquetas mixtas",
+                "price": 860,
+                "main_ingredients": [
+                  "harina",
+                  "vegetales",
+                  "queso",
+                  "jamon"
+                ]
+              },
+              {
+                "name": "Tamal en sartén con ropa vieja de cerdo",
+                "price": 1950,
+                "main_ingredients": [
+                  "grano",
+                  "cerdo"
+                ]
+              },
+              {
+                "name": "Frituras de malanga",
+                "price": 490,
+                "main_ingredients": [
+                  "vianda",
+                  "harina",
+                  "huevo"
+                ]
+              },
+              {
+                "name": "Croquetas de la casa",
+                "price": 580,
+                "main_ingredients": [
+                  "variados",
+                  "harina",
+                  "huevo"
+                ]
+              },
+              {
+                "name": "Ensalada fría",
+                "price": 490,
+                "main_ingredients": [
+                  "vegetales"
+                ]
+              },
+              {
+                "name": "Picadera Doña Margot",
+                "price": 1800,
+                "main_ingredients": [
+                  "jamon",
+                  "queso",
+                  "fruta"
+                ]
+              },
+              {
+                "name": "Tostones rellenos de jamon y queso",
+                "price": 650,
+                "main_ingredients": [
+                  "fruta",
+                  "jamon",
+                  "queso"
+                ]
+              },
+              {
+                "name": "Tacos de cerdo",
+                "price": 880,
+                "main_ingredients": [
+                  "harina",
+                  "cerdo"
+                ]
+              },
+              {
+                "name": "Tacos de cordero",
+                "price": 880,
+                "main_ingredients": [
+                  "harina",
+                  "cordero"
+                ]
+              },
+              {
+                "name": "Tacos de atún y mayonesa",
+                "price": 800,
+                "main_ingredients": [
+                  "harina",
+                  "pescado"
+                ]
+              },
+              {
+                "name": "Cóctel de camarones",
+                "price": 1600,
+                "main_ingredients": [
+                  "marisco"
+                ]
+              },
+              {
+                "name": "Picadera Fortuna",
+                "price": 4600,
+                "main_ingredients": [
+                  "jamon",
+                  "queso",
+                  "embutido",
+                  "fruta"
+                ]
+              }
+            ]
           }
-      }    
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Vegetales de estación",
+                "price": 1600,
+                "main_ingredients": [
+                  "vegetales"
+                ]
+              },
+              {
+                "name": "César",
+                "price": 1300,
+                "main_ingredients": [
+                  "vegetales",
+                  "queso"
+                ]
+              },
+              {
+                "name": "Fajitas de pollo salteadas con vegetales",
+                "price": 1600,
+                "main_ingredients": [
+                  "pollo",
+                  "vegetales"
+                ]
+              },
+              {
+                "name": "Pollos en aroma y sabor",
+                "price": 1400,
+                "main_ingredients": [
+                  "pollo"
+                ]
+              },
+              {
+                "name": "Masas de cerdo frita",
+                "price": 1800,
+                "main_ingredients": [
+                  "cerdo"
+                ]
+              },
+              {
+                "name": "Masas de cerdo vestidas de jamon y queso",
+                "price": 2200,
+                "main_ingredients": [
+                  "cerdo",
+                  "jamon",
+                  "queso"
+                ]
+              },
+              {
+                "name": "Brochetas de cerdo y chorizo",
+                "price": 2600,
+                "main_ingredients": [
+                  "cerdo",
+                  "embutido",
+                  "vegetales"
+                ]
+              },
+              {
+                "name": "Chorizo parrillero",
+                "price": 1800,
+                "main_ingredients": [
+                  "embutido"
+                ]
+              },
+              {
+                "name": "Delirio de cordero",
+                "price": 1900,
+                "main_ingredients": [
+                  "cordero"
+                ]
+              },
+              {
+                "name": "Cordero al vino tinto",
+                "price": 2200,
+                "main_ingredients": [
+                  "cordero"
+                ]
+              },
+              {
+                "name": "Camarones enchilados o al ajillo",
+                "price": 2400,
+                "main_ingredients": [
+                  "marisco",
+                  "vegetales"
+                ]
+              },
+              {
+                "name": "Pulpo al ajillo o encebollado",
+                "price": 3200,
+                "main_ingredients": [
+                  "marisco",
+                  "vegetales"
+                ]
+              }
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": "Pizza de Queso",
+                "price": 980,
+                "main_ingredients": [
+                  "harina",
+                  "queso"
+                ]
+              },
+              {
+                "name": "Pizza Fortuna",
+                "price": 1700,
+                "main_ingredients": [
+                  "harina",
+                  "queso",
+                  "jamon",
+                  "fruta"
+                ]
+              }
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "name": "Aceituna",
+            "price": 280
+          },
+          {
+            "name": "Queso azul",
+            "price": 490
+          },
+          {
+            "name": "Bacon",
+            "price": 380
+          },
+          {
+            "name": "Jamon",
+            "price": 280
+          },
+          {
+            "name": "pescado",
+            "price": 400
+          },
+          {
+            "name": "Huevo",
+            "price": 250
+          },
+          {
+            "name": "Chorizo",
+            "price": 250
+          },
+          {
+            "name": "Pimiento",
+            "price": 200
+          },
+          {
+            "name": "Pollo",
+            "price": 300
+          },
+          {
+            "name": "Cebolla",
+            "price": 280
+          },
+          {
+            "name": "Miel",
+            "price": 100
+          },
+          {
+            "name": "Piña",
+            "price": 100
+          },
+          {
+            "name": "Queso",
+            "price": 350
+          }
+        ],
+        "breads": [
+          {
+            "courses": [
+              {
+                "name": "Bocadito de Jamon",
+                "price": 500,
+                "main_ingredients": [
+                  "harina",
+                  "jamon"
+                ]
+              },
+              {
+                "name": "Bocadito de Queso",
+                "price": 580,
+                "main_ingredients": [
+                  "harina",
+                  "queso"
+                ]
+              },
+              {
+                "name": "Bocadito de Jamon y Queso",
+                "price": 650,
+                "main_ingredients": [
+                  "harina",
+                  "jamon",
+                  "queso"
+                ]
+              },
+              {
+                "name": "Bocadito de Pollo y Queso",
+                "price": 650,
+                "main_ingredients": [
+                  "harina",
+                  "pollo",
+                  "queso"
+                ]
+              },
+              {
+                "name": "Bocadito de Atún",
+                "price": 680,
+                "main_ingredients": [
+                  "harina",
+                  "pescado"
+                ]
+              },
+              {
+                "name": "Pan con Lechón",
+                "price": 680,
+                "main_ingredients": [
+                  "harina",
+                  "cerdo"
+                ]
+              },
+              {
+                "name": "Pan Pirata Gay",
+                "price": 1000,
+                "main_ingredients": [
+                  "harina",
+                  "jamon",
+                  "queso",
+                  "vegetales"
+                ]
+              }
+            ]
+          }
+        ],
+        "desserts": [
+          {
+            "courses": [
+              {
+                "name": "Limonada Ginger Pl",
+                "price": 400,
+                "main_ingredients": [
+                  "fruta"
+                ]
+              },
+              {
+                "name": "Copa de helado",
+                "price": 500,
+                "main_ingredients": [
+                  "leche",
+                  "helado"
+                ]
+              },
+              {
+                "name": "Flan",
+                "price": 400,
+                "main_ingredients": [
+                  "huevo",
+                  "leche"
+                ]
+              }
+            ]
+          }
+        ],
+        "offers": [
+          {
+            "name": "6 cervezas imp + 1 pizza de queso",
+            "price": 2700
+          },
+          {
+            "name": "6 cervezas nac + 1 pizza de queso",
+            "price": 3000
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "cocktails": [
+                  {
+                    "name": "Michelada / Cerveza Nacional",
+                    "price": 1680
+                  },
+                  {
+                    "name": "Michelada / Cerveza Importada",
+                    "price": 580
+                  },
+                  {
+                    "name": "BABY BOOM",
+                    "price": 500
+                  },
+                  {
+                    "name": "Cuba Libre",
+                    "price": 500
+                  },
+                  {
+                    "name": "Daiquiri",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Gin Tonic",
+                    "price": 750
+                  },
+                  {
+                    "name": "Daiquiri a la fruta",
+                    "price": 600
+                  },
+                  {
+                    "name": "Screwdriver",
+                    "price": 500
+                  },
+                  {
+                    "name": "Mojito",
+                    "price": 500
+                  },
+                  {
+                    "name": "Calpiroska",
+                    "price": 500
+                  },
+                  {
+                    "name": "Mojito Zombie",
+                    "price": 4650
+                  },
+                  {
+                    "name": "Blue lagoon",
+                    "price": 600
+                  },
+                  {
+                    "name": "Ron Collins",
+                    "price": 4500
+                  },
+                  {
+                    "name": "Gozadera en la playa",
+                    "price": 550
+                  },
+                  {
+                    "name": "Calpirisima",
+                    "price": 490
+                  },
+                  {
+                    "name": "Margarita",
+                    "price": 580
+                  },
+                  {
+                    "name": "Cubata",
+                    "price": 600
+                  },
+                  {
+                    "name": "Tom Collins",
+                    "price": 550
+                  },
+                  {
+                    "name": "Piña Colada",
+                    "price": 650
+                  },
+                  {
+                    "name": "Tequila Sunrise",
+                    "price": 600
+                  },
+                  {
+                    "name": "San Francisco de noche",
+                    "price": 600
+                  },
+                  {
+                    "name": "Mimosa",
+                    "price": 600
+                  },
+                  {
+                    "name": "Caipiriña",
+                    "price": 490
+                  },
+                  {
+                    "name": "Cuba Bella",
+                    "price": 600
+                  },
+                  {
+                    "name": "Canchánchara",
+                    "price": 480
+                  },
+                  {
+                    "name": "Aperol Spritz",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Londres 1922",
+                    "price": 580
+                  },
+                  {
+                    "name": "Negroni",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Martini",
+                    "price": 600
+                  },
+                  {
+                    "name": "Long Island",
+                    "price": 2550
+                  },
+                  {
+                    "name": "Mexicano molesto",
+                    "price": 500
+                  },
+                  {
+                    "name": "D'LA CASA Vodkasol",
+                    "price": 4500
+                  },
+                  {
+                    "name": "0+",
+                    "price": 650
+                  }
+                ],
+                "beers": [
+                  {
+                    "name": "Cerveza Nacional",
+                    "price": 480
+                  },
+                  {
+                    "name": "Cerveza Importada",
+                    "price": 380
+                  }
+                ]
+              }
+            ],
+            "water": [
+              {
+                "name": "Agua natural",
+                "price": 300
+              },
+              {
+                "name": "Agua gaseada",
+                "price": 450
+              }
+            ],
+            "natual_juices": [
+              {
+                "name": "Jugos naturales",
+                "price": 200
+              },
+              {
+                "name": "Ponche de frutas del día",
+                "price": 350
+              },
+              {
+                "name": "Limonada natural o frappé",
+                "price": 350
+              },
+              {
+                "name": "Limonada Tuty (con agua gaseada)",
+                "price": 400
+              },
+              {
+                "name": "Limonada con hierbabuena",
+                "price": 400
+              },
+              {
+                "name": "San Francisco (sin alcohol)",
+                "price": 380
+              }
+            ],
+            "soft_drinks": [
+              {
+                "name": "Refresco",
+                "price": 400
+              },
+              {
+                "name": "Malta",
+                "price": 400
+              },
+              {
+                "name": "Malteada",
+                "price": 580
+              },
+              {
+                "name": "Energizante",
+                "price": 450
+              }
+            ],
+            "coffees": [
+              {
+                "name": "Frapuchino",
+                "price": 480
+              },
+              {
+                "name": "Café Sorpresa",
+                "price": 650
+              },
+              {
+                "name": "Café Megasorpresa",
+                "price": 900
+              },
+              {
+                "name": "Café Bola",
+                "price": 650
+              },
+              {
+                "name": "Baileys Coffee con hielo",
+                "price": 480
+              },
+              {
+                "name": "Café Bombón",
+                "price": 400
+              },
+              {
+                "name": "Café Fortuna",
+                "price": 480
+              },
+              {
+                "name": "Café Expreso",
+                "price": 200
+              },
+              {
+                "name": "Café Americano",
+                "price": 200
+              },
+              {
+                "name": "Café Cortado",
+                "price": 250
+              },
+              {
+                "name": "Café Escocés",
+                "price": 690
+              },
+              {
+                "name": "Café con Leche",
+                "price": 300
+              },
+              {
+                "name": "Café Carajillo",
+                "price": 300
+              },
+              {
+                "name": "Capuchino",
+                "price": 380
+              },
+              {
+                "name": "Affogato",
+                "price": 380
+              }
+            ]
+          }
+        ]
+      }
+    }
   }
-  }
-  
+}

@@ -1,35 +1,31 @@
 {
     "type": "Bar-Restaurante",
-    "name": "Bodegón del Asado", 
+    "name": "Bodegón del Asado",
     "location": {
         "address": "Calle 24, No 418, e / 23 y 25, Vedado",
         "municipe": "Plaza de la Revolucion",
         "province": "La Habana"
     },
     "sector": "",
-    
     "qualification": 4.5,
-    
-    "specialized_food": ["Comida cubana", "criolla", "italiana"],
-
-    "payment method": ["Efectivo", "Transferencia"],
-    
+    "specialized_food": [
+        "Comida cubana",
+        "criolla",
+        "italiana"
+    ],
+    "payment method": [
+        "Efectivo",
+        "Transferencia"
+    ],
     "phone": 78375201,
-    
     "capacity": 50,
-    
     "reservation": true,
-
     "parking": false,
-
     "delivery": true,
-
     "wifi": false,
-
     "electric generator": true,
-    
     "hours": {
-        "monday": "",  
+        "monday": "",
         "tuesday": "",
         "wednesday": "",
         "thursday": "",
@@ -38,558 +34,561 @@
         "sunday": ""
     },
     "menu_details": {
-        "kind_of_food": ["variada", "criolla", "italiana"],
+        "kind_of_food": [
+            "criolla",
+            "italiana"
+        ],
         "menu_card": {
             "menu_sections": {
-              "starters": [
-                {
-                  "course": [
+                "starters": [
                     {
-                      "name": "Pan Baguette Recién Horneado",
-                      "price": 450
-                  },
-                  {
-                      "name": "Picada Bodegón",
-                      "price": 2000
-                  },
-                  {
-                      "name": "Croqueticas caseras de la guajira",
-                      "price": 850
-                  },
-                  {
-                      "name": "Croqueticas de pescado",
-                      "price": 850
-                  },
-                  {
-                      "name": "Eperlans de pescado",
-                      "price": 2500
-                  },
-                  {
-                      "name": "Bolitas de carne",
-                      "price": 900
-                  },
-                  {
-                      "name": "Frituritas de malanga",
-                      "price": 650
-                  },
-                  {
-                      "name": "Chicharrones crujientes de cerdo",
-                      "price": 1500
-                  },
-                  {
-                      "name": "Tostones rellenos",
-                      "price": 1000
-                  },
-                  {
-                      "name": "Tostones cubanos al ajo",
-                      "price": 750
-                  },
-                  {
-                      "name": "Tamalito en cazuela a la cubana",
-                      "price": 500
-                  },
-                  {
-                      "name": "Cesta de yuca con ropa vieja",
-                      "price": 1500
-                  },
-                  {
-                      "name": "Bolitas de queso",
-                      "price":1500 
-                  },
-                  {
-                      "name": "Fajitas de pollo empanadas",
-                      "price":2500 
-                  }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Tamal en cazuela a la cubana",
-                      "price": 1000
-                  },
-                  {
-                      "name": "Charcutería artesanal",
-                      "price": 2500
-                  },
-                  {
-                      "name": "Filete de cerdo a las brasas del carbón",
-                      "price": 3500
-                  },
-                  {
-                      "name": "Mixto de asados criollos",
-                      "price": 7000
-                  },
-                  {
-                      "name": "A las Brasas del carbón 1 kg de cerdo asado",
-                      "price": 9000
-                  },
-                  {
-                      "name": "1/2 kg de cerdo asado",
-                      "price": 4700
-                  },
-                  {
-                      "name": "Ración de cerdo asado",
-                      "price": 2500
-                  },
-                  {
-                      "name": "Chuleta de cerdo al carbón",
-                      "price": 2500
-                  },
-                  {
-                      "name": "Lomo ahumado sin hueso",
-                      "price": 2500
-                  },
-                  {
-                      "name": "Bistec de cerdo grille ",
-                      "price": 2500
-                  },
-                  {
-                      "name": "Lomo sin hueso",
-                      "price": 3000
-                  },
-                  {
-                      "name": "Suprema de pollo",
-                      "price": 2700
-                  },
-                  {
-                      "name": "Costillas de cerdo a las brasas",
-                      "price": 3500
-                  },
-                  {
-                      "name": "Filete de pescado",
-                      "price": 2800
-                  },
-                  {
-                      "name": "Ropa vieja de res",
-                      "price": 2700
-                  },
-                  {
-                      "name": "Vaca frita",
-                      "price": 2800
-                  },
-                  {
-                      "name": "Fajitas de pollo salteadas",
-                      "price": 2600
-                  },
-                  {
-                      "name": "Chilindrón de cordero",
-                      "price": 3500
-                  },
-                  {
-                      "name": "Masas de cerdo fritas",
-                      "price": 3500
-                  }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Pizza de queso",
-                      "price": 1800
-                  },
-                  {
-                      "name": "Pizza doble queso",
-                      "price": 2200
-                  },
-                  {
-                      "name": "Pizza de jamón",
-                      "price": 2000
-                  },
-                  {
-                      "name": "Pizza de ropa vieja",
-                      "price": 3100
-                  },
-                  {
-                      "name": "Pizza de ropa vieja de cerdo",
-                      "price": 3000
-                  }
-                  ]
-                }
-              ],
-              "breads": [
-                {
-                  "courses": [
-                    {
-                      "name": " Sandwich de jamón y queso",
-                      "price": 1500
-                  },
-                  {
-                      "name": "Sandwich al estilo cubano ",
-                      "price": 1800
-                  },
-                  {
-                      "name": " Pan con lechón",
-                      "price": 1500
-                  }
-                  ]
-                }
-              ],
-              "rations": [
-                {
-                  "name": "Arroz blanco",
-                  "price": 500
-              },
-              {
-                  "name": "Arroz moro",
-                  "price": 600
-              },
-              {
-                  "name": "Frijoles negros dormidos",
-                  "price": 550
-              },
-              {
-                  "name": "Vianda hervida con mojo",
-                  "price": 600
-              },
-              {
-                  "name": "Ensalada de vegetales",
-                  "price": 550
-              },
-              {
-                  "name": "Platanito maduro frito",
-                  "price": 750
-              }
-              ],
-              "additions": [
-                {
-                  "name": "Jamón",
-                  "price": 300
-              },
-              {
-                  "name": "Queso",
-                  "price": 500
-              }
-              ],
-              "desserts": [
-                {
-                  "courses": [
-                    {
-                      "name": "Casquito de guayaba con queso",
-                      "price": 600
-                  },
-                  {
-                      "name": "Mermelada de guayaba con queso",
-                      "price": 500
-                  },
-                  {
-                      "name": "Flan al caramelo",
-                      "price": 750
-                  },
-                  {
-                      "name": "Dulce de frutabomba en almíbar con queso",
-                      "price": 600
-                  },
-                  {
-                      "name": "Buñuelos de la abuela",
-                      "price": 450
-                  },
-                  {
-                      "name": "Copa de helado",
-                      "price": 750
-                  },
-                  {
-                      "name": "Copa Lolita",
-                      "price": 950
-                  }
-                  ]
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                    {
-                      "cocktails": [
-                        {
-                          "name": "Limonada Frappé",
-                          "price": 550
-                      },
-                      {
-                          "name": "Limonada Natural",
-                          "price": 550
-                      },
-                      {
-                          "name": "Limonada  Frescura",
-                          "price": 600
-                      },
-                      {
-                          "name": "Limonada de frutas",
-                          "price": 700
-                      },
-                      {
-                          "name": "Mojito Bodegón",
-                          "price": 650
-                      },
-                      {
-                          "name": "Cuba Libre Bodegón",
-                          "price": 600
-                      },
-                      {
-                          "name": "Cubata Bodegón",
-                          "price": 750
-                      },
-                      {
-                          "name": "Daiquirí frappé o natural",
-                          "price": 650
-                      },
-                      {
-                          "name": "Ron Collins",
-                          "price": 650
-                      },
-                      {
-                          "name": "Havana Special",
-                          "price": 600
-                      },
-                      {
-                          "name": "Canchánchara",
-                          "price": 600
-                      },
-                      {
-                          "name": "Mary  Pickford",
-                          "price": 600
-                      },
-                      {
-                          "name": "Martini",
-                          "price": 700
-                      },
-                      {
-                          "name": "Sangría",
-                          "price": 800
-                      },
-                      {
-                          "name": "Caipirinha",
-                          "price": 650
-                      },
-                      {
-                          "name": "Caipirísima",
-                          "price": 650
-                      },
-                      {
-                          "name": "Caipiroska",
-                          "price": 700
-                      },
-                      {
-                          "name": "Margarita",
-                          "price": 700
-                      },
-                      {
-                          "name": "Gin Tonic Beefeater",
-                          "price": 750
-                      }
-                      ],
-                      "beers": [
-                        {
-                          "name": "Cervezas nacionales",
-                          "price": 450
-                      },
-                      {
-                          "name": "Cervezas importadas",
-                          "price": 400
-                      },
-                      {
-                          "name": "Servicio Chelada",
-                          "price": 200
-                      },
-                      {
-                          "name": "Servicio  Michelada",
-                          "price": 300
-                      }
-                      ],
-                      "shots": [
-                        {
-                          "name": "Havana Club Anejo 3 anos",
-                          "price": 350
-                      },
-                      {
-                          "name": "Havana Club Anejo Especial",
-                          "price": 450
-                      },
-                      {
-                          "name": "Havana Club Anejo Reserva",
-                          "price": 500
-                      },
-                      {
-                          "name": "Havana Club Anejo 7 anos",
-                          "price": 580
-                      },
-                      {
-                          "name": "Havana Club Smoky",
-                          "price": 550
-                      },
-                      {
-                          "name": "Havana Club Spiced",
-                          "price": 500
-                      },
-                      {
-                          "name": "Havana Club Selección de Maestros",
-                          "price": 800
-                      },
-                      {
-                          "name": "Santiago Anejo 8 años",
-                          "price": 900
-                      },
-                      {
-                          "name": "Santiago Extra Dry",
-                          "price": 500
-                      },
-                      {
-                          "name": "Santiago Anejo 12 anos",
-                          "price": 1650
-                      },
-                      {
-                          "name": "Santiago 11 anos",
-                          "price": 1600
-                      },
-                      {
-                          "name": "Santero añejo 11 anos",
-                          "price": 700
-                      },
-                      {
-                          "name": "Santero Añejo 15 anos ",
-                          "price": 900
-                      },
-                      {
-                          "name": "Pacto Navío",
-                          "price": 800
-                      },
-                      {
-                          "name": "Cubay 10 anos",
-                          "price": 500
-                      },
-                      {
-                          "name": "Aguardiente",
-                          "price": 200
-                      },
-                      {
-                          "name": "Moutai de Luxe",
-                          "price": 1200
-                      },
-                      {
-                          "name": "Grappa del Castelo di banfi",
-                          "price": 500
-                      },
-                      {
-                          "name": "Pisco Barsol Acholado",
-                          "price": 500
-                      },
-                      {
-                          "name": "Ritual",
-                          "price": 450
-                      },
-                      {
-                          "name": "Vodka de la casa ",
-                          "price": 500
-                      },
-                      {
-                          "name": "Mezcal Señorío",
-                          "price": 750
-                      },
-                      {
-                          "name": "White Horse",
-                          "price": 300
-                      },
-                      {
-                          "name": "Jameson",
-                          "price": 850
-                      },
-                      {
-                          "name": "J&B Classic",
-                          "price": 300
-                      },
-                      {
-                          "name": "Ballantines Finest",
-                          "price": 600
-                      },
-                      {
-                          "name": "Johnnie Walker Red Label",
-                          "price": 700
-                      },
-                      {
-                          "name": "Johnnie Walker Black Label",
-                          "price": 1700
-                      },
-                      {
-                          "name": "Black and White",
-                          "price": 350
-                      },
-                      {
-                          "name": "Chivas Regal 12 anos",
-                          "price": 1100
-                      },
-                      {
-                          "name": "Chivas Regal Royal Salute 21 anos",
-                          "price": 1100
-                      },
-                      {
-                          "name": "Brandy Torres 5",
-                          "price": 850
-                      }
-                      ]
+                        "course": [
+                            {
+                                "name": "Pan Baguette Recién Horneado",
+                                "price": 450
+                            },
+                            {
+                                "name": "Picada Bodegón",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Croqueticas caseras de la guajira",
+                                "price": 850
+                            },
+                            {
+                                "name": "Croqueticas de pescado",
+                                "price": 850
+                            },
+                            {
+                                "name": "Eperlans de pescado",
+                                "price": 2500
+                            },
+                            {
+                                "name": "Bolitas de carne",
+                                "price": 900
+                            },
+                            {
+                                "name": "Frituritas de malanga",
+                                "price": 650
+                            },
+                            {
+                                "name": "Chicharrones crujientes de cerdo",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Tostones rellenos",
+                                "price": 1000
+                            },
+                            {
+                                "name": "Tostones cubanos al ajo",
+                                "price": 750
+                            },
+                            {
+                                "name": "Tamalito en cazuela a la cubana",
+                                "price": 500
+                            },
+                            {
+                                "name": "Cesta de yuca con ropa vieja",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Bolitas de queso",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Fajitas de pollo empanadas",
+                                "price": 2500
+                            }
+                        ]
                     }
-                  ],
-                  "natual_juices": [
+                ],
+                "main_courses": [
                     {
-                      "name": "Jugos de frutas naturales",
-                      "price": 300
-                  }
-                  ],
-                  "water": [
+                        "courses": [
+                            {
+                                "name": "Tamal en cazuela a la cubana",
+                                "price": 1000
+                            },
+                            {
+                                "name": "Charcutería artesanal",
+                                "price": 2500
+                            },
+                            {
+                                "name": "Filete de cerdo a las brasas del carbón",
+                                "price": 3500
+                            },
+                            {
+                                "name": "Mixto de asados criollos",
+                                "price": 7000
+                            },
+                            {
+                                "name": "A las Brasas del carbón 1 kg de cerdo asado",
+                                "price": 9000
+                            },
+                            {
+                                "name": "1/2 kg de cerdo asado",
+                                "price": 4700
+                            },
+                            {
+                                "name": "Ración de cerdo asado",
+                                "price": 2500
+                            },
+                            {
+                                "name": "Chuleta de cerdo al carbón",
+                                "price": 2500
+                            },
+                            {
+                                "name": "Lomo ahumado sin hueso",
+                                "price": 2500
+                            },
+                            {
+                                "name": "Bistec de cerdo grille ",
+                                "price": 2500
+                            },
+                            {
+                                "name": "Lomo sin hueso",
+                                "price": 3000
+                            },
+                            {
+                                "name": "Suprema de pollo",
+                                "price": 2700
+                            },
+                            {
+                                "name": "Costillas de cerdo a las brasas",
+                                "price": 3500
+                            },
+                            {
+                                "name": "Filete de pescado",
+                                "price": 2800
+                            },
+                            {
+                                "name": "Ropa vieja de res",
+                                "price": 2700
+                            },
+                            {
+                                "name": "Vaca frita",
+                                "price": 2800
+                            },
+                            {
+                                "name": "Fajitas de pollo salteadas",
+                                "price": 2600
+                            },
+                            {
+                                "name": "Chilindrón de cordero",
+                                "price": 3500
+                            },
+                            {
+                                "name": "Masas de cerdo fritas",
+                                "price": 3500
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
                     {
-                      "name": "Agua natural",
-                      "price": 300
-                  },
-                  {
-                      "name": "Agua gaseada Ciego Montero",
-                      "price":400
-                  },
-                  {
-                      "name": "Agua Tónica Ciego Montero",
-                      "price": 250
-                  }
-                  ],
-                  "soft_drinks": [
+                        "courses": [
+                            {
+                                "name": "Pizza de queso",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Pizza doble queso",
+                                "price": 2200
+                            },
+                            {
+                                "name": "Pizza de jamón",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Pizza de ropa vieja",
+                                "price": 3100
+                            },
+                            {
+                                "name": "Pizza de ropa vieja de cerdo",
+                                "price": 3000
+                            }
+                        ]
+                    }
+                ],
+                "breads": [
                     {
-                      "name": "Refrescos importados",
-                      "price": 350
-                  },
-                  {
-                    "name": "Malta importada",
-                    "price":450 
-                }
-                  ],
-                  "coffees": [
+                        "courses": [
+                            {
+                                "name": " Sandwich de jamón y queso",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Sandwich al estilo cubano ",
+                                "price": 1800
+                            },
+                            {
+                                "name": " Pan con lechón",
+                                "price": 1500
+                            }
+                        ]
+                    }
+                ],
+                "rations": [
                     {
-                      "name": "Expresso",
-                      "price": 200
-                  },
-                  {
-                      "name": "Americano",
-                      "price": 200     
-                  },
-                  {
-                      "name": "Café con leche",
-                      "price": 350
-                  },
-                  {
-                      "name": "Cortadito",
-                      "price": 250
-                  },
-                  {
-                      "name": "Cappuccino",
-                      "price": 350
-                  },
-                  {
-                      "name": "Frappuccino",
-                      "price": 600
-                  }
-                  ]
-                }
-              ]
+                        "name": "Arroz blanco",
+                        "price": 500
+                    },
+                    {
+                        "name": "Arroz moro",
+                        "price": 600
+                    },
+                    {
+                        "name": "Frijoles negros dormidos",
+                        "price": 550
+                    },
+                    {
+                        "name": "Vianda hervida con mojo",
+                        "price": 600
+                    },
+                    {
+                        "name": "Ensalada de vegetales",
+                        "price": 550
+                    },
+                    {
+                        "name": "Platanito maduro frito",
+                        "price": 750
+                    }
+                ],
+                "additions": [
+                    {
+                        "name": "Jamón",
+                        "price": 300
+                    },
+                    {
+                        "name": "Queso",
+                        "price": 500
+                    }
+                ],
+                "desserts": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Casquito de guayaba con queso",
+                                "price": 600
+                            },
+                            {
+                                "name": "Mermelada de guayaba con queso",
+                                "price": 500
+                            },
+                            {
+                                "name": "Flan al caramelo",
+                                "price": 750
+                            },
+                            {
+                                "name": "Dulce de frutabomba en almíbar con queso",
+                                "price": 600
+                            },
+                            {
+                                "name": "Buñuelos de la abuela",
+                                "price": 450
+                            },
+                            {
+                                "name": "Copa de helado",
+                                "price": 750
+                            },
+                            {
+                                "name": "Copa Lolita",
+                                "price": 950
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "cocktails": [
+                                    {
+                                        "name": "Limonada Frappé",
+                                        "price": 550
+                                    },
+                                    {
+                                        "name": "Limonada Natural",
+                                        "price": 550
+                                    },
+                                    {
+                                        "name": "Limonada  Frescura",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Limonada de frutas",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Mojito Bodegón",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Cuba Libre Bodegón",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Cubata Bodegón",
+                                        "price": 750
+                                    },
+                                    {
+                                        "name": "Daiquirí frappé o natural",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Ron Collins",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Havana Special",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Canchánchara",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Mary  Pickford",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Martini",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Sangría",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "Caipirinha",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Caipirísima",
+                                        "price": 650
+                                    },
+                                    {
+                                        "name": "Caipiroska",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Margarita",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Gin Tonic Beefeater",
+                                        "price": 750
+                                    }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "Cervezas nacionales",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "Cervezas importadas",
+                                        "price": 400
+                                    },
+                                    {
+                                        "name": "Servicio Chelada",
+                                        "price": 200
+                                    },
+                                    {
+                                        "name": "Servicio  Michelada",
+                                        "price": 300
+                                    }
+                                ],
+                                "shots": [
+                                    {
+                                        "name": "Havana Club Anejo 3 anos",
+                                        "price": 350
+                                    },
+                                    {
+                                        "name": "Havana Club Anejo Especial",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "Havana Club Anejo Reserva",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Havana Club Anejo 7 anos",
+                                        "price": 580
+                                    },
+                                    {
+                                        "name": "Havana Club Smoky",
+                                        "price": 550
+                                    },
+                                    {
+                                        "name": "Havana Club Spiced",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Havana Club Selección de Maestros",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "Santiago Anejo 8 años",
+                                        "price": 900
+                                    },
+                                    {
+                                        "name": "Santiago Extra Dry",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Santiago Anejo 12 anos",
+                                        "price": 1650
+                                    },
+                                    {
+                                        "name": "Santiago 11 anos",
+                                        "price": 1600
+                                    },
+                                    {
+                                        "name": "Santero añejo 11 anos",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Santero Añejo 15 anos ",
+                                        "price": 900
+                                    },
+                                    {
+                                        "name": "Pacto Navío",
+                                        "price": 800
+                                    },
+                                    {
+                                        "name": "Cubay 10 anos",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Aguardiente",
+                                        "price": 200
+                                    },
+                                    {
+                                        "name": "Moutai de Luxe",
+                                        "price": 1200
+                                    },
+                                    {
+                                        "name": "Grappa del Castelo di banfi",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Pisco Barsol Acholado",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Ritual",
+                                        "price": 450
+                                    },
+                                    {
+                                        "name": "Vodka de la casa ",
+                                        "price": 500
+                                    },
+                                    {
+                                        "name": "Mezcal Señorío",
+                                        "price": 750
+                                    },
+                                    {
+                                        "name": "White Horse",
+                                        "price": 300
+                                    },
+                                    {
+                                        "name": "Jameson",
+                                        "price": 850
+                                    },
+                                    {
+                                        "name": "J&B Classic",
+                                        "price": 300
+                                    },
+                                    {
+                                        "name": "Ballantines Finest",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Johnnie Walker Red Label",
+                                        "price": 700
+                                    },
+                                    {
+                                        "name": "Johnnie Walker Black Label",
+                                        "price": 1700
+                                    },
+                                    {
+                                        "name": "Black and White",
+                                        "price": 350
+                                    },
+                                    {
+                                        "name": "Chivas Regal 12 anos",
+                                        "price": 1100
+                                    },
+                                    {
+                                        "name": "Chivas Regal Royal Salute 21 anos",
+                                        "price": 1100
+                                    },
+                                    {
+                                        "name": "Brandy Torres 5",
+                                        "price": 850
+                                    }
+                                ]
+                            }
+                        ],
+                        "natual_juices": [
+                            {
+                                "name": "Jugos de frutas naturales",
+                                "price": 300
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua natural",
+                                "price": 300
+                            },
+                            {
+                                "name": "Agua gaseada Ciego Montero",
+                                "price": 400
+                            },
+                            {
+                                "name": "Agua Tónica Ciego Montero",
+                                "price": 250
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Refrescos importados",
+                                "price": 350
+                            },
+                            {
+                                "name": "Malta importada",
+                                "price": 450
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "Expresso",
+                                "price": 200
+                            },
+                            {
+                                "name": "Americano",
+                                "price": 200
+                            },
+                            {
+                                "name": "Café con leche",
+                                "price": 350
+                            },
+                            {
+                                "name": "Cortadito",
+                                "price": 250
+                            },
+                            {
+                                "name": "Cappuccino",
+                                "price": 350
+                            },
+                            {
+                                "name": "Frappuccino",
+                                "price": 600
+                            }
+                        ]
+                    }
+                ]
             }
-        }    
+        }
     }
-} 
+}

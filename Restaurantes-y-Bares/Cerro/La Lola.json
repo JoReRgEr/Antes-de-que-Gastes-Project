@@ -1,440 +1,445 @@
 {
-    "municipality": "ce",
-    "name": "La Lola",
-    "address": "Calle Ayestarán entre San Pablo y Pedro Pérez",
-    "contacts": {
-        "phone": [
-            "+53 53654726"
-        ],
-        "website": null,
-        "facebook": null,
-        "instagram": null
-    },
-    "ratings": {},
-    "owner": "Particular",
-    "type": "Bar",
-    "specialty": "Cocteleria",
-    "hours": {
-        "monday": "1400_0200",
-        "tuesday": "1400_0200",
-        "wednesday": "1400_0200",
-        "thursday": "1400_0200",
-        "friday": "1400_0200",
-        "saturday": "1400_0200",
-        "sunday": "1400_0200"
-    },
-    "services": {
-        "parking": true,
-        "reservations": true,
-        "delivery": true,
-        "power plant": true
-    },
-    "payment_methods": [
-        "cup",
-        "mlc",
-        "usd"
+  "municipality": "ce",
+  "name": "La Lola",
+  "address": "Calle Ayestarán entre San Pablo y Pedro Pérez",
+  "contacts": {
+    "phone": [
+      "+53 53654726"
     ],
-    "menu_details": {
-        "kind_of_food": ["variada", "italiana", "criolla", "panes", "mexicana"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name": "Brusquetas",
-                      "price": 700
-                    },
-                    {
-                      "name": "Croquetas de jamón",
-                      "price": 600
-                    },
-                    {
-                      "name": "Papas fritas",
-                      "price": 550
-                    },
-                    {
-                      "name": "Papas gratinadas",
-                      "price": 800
-                    },
-                    {
-                      "name": "Tostón relleno de atún",
-                      "price": 1100
-                    },
-                    {
-                      "name": "Tostón relleno de jamón y queso",
-                      "price": 800
-                    },
-                    {
-                      "name": "Bolitas de queso",
-                      "price": 730
-                    },
-                    {
-                      "name": "Frituras de malanga",
-                      "price": 500
-                    },
-                    {
-                      "name": "Picadera Lalola",
-                      "price": 4000
-                    },
-                    {
-                      "name": "Picadera sencilla",
-                      "price": 1500
-                    },
-                    {
-                      "name": "Bocadillo de jamón y queso",
-                      "price": 500
-                    },
-                    {
-                      "name": "Sándwich de jamón y queso/papas",
-                      "price": 1200
-                    },
-                    {
-                      "name": "Sándwich cubano",
-                      "price": 1100
-                    },
-                    {
-                      "name": "Sándwich de jamón y queso",
-                      "price": 900
-                    }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Pizza napolitana",
-                      "price": 1200
-                    }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Canelones",
-                      "price": 1350
-                    },
-                    {
-                      "name": "Penne napolitano",
-                      "price": 1100
-                    },
-                    {
-                      "name": "Espagueti napolitano",
-                      "price": 1100
-                    },
-                    {
-                      "name": "Espagueti a la carbonara",
-                      "price": 1970
-                    }
-                  ]
-                }
-              ],
-              "tacos": [
-                {
-                  "courses": [
-                    {
-                      "name": "Tacos de carne",
-                      "price": 900
-                    }
-                  ]
-                }
-              ],
-              "breads": [
-                {
-                  "courses": [
-                    {
-                      "name": "Hamburguesa",
-                      "price": 1500
-                    }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Lonjas de cerdo",
-                      "price": 3500
-                    },
-                    {
-                      "name": "Nuggets de pollo",
-                      "price": 2000
-                    },
-                    {
-                      "name": "Masas de cerdo",
-                      "price": 1750
-                    }
-                  ]
-                }
-              ],
-              "additions": [
-                {
-                  "courses": [
-                    {
-                      "name": "Ají",
-                      "price": 150
-                    },
-                    {
-                      "name": "Chorizo",
-                      "price": 300
-                    },
-                    {
-                      "name": "Atún",
-                      "price": 600
-                    },
-                    {
-                      "name": "Jamón pierna",
-                      "price": 300
-                    },
-                    {
-                      "name": "Piña",
-                      "price": 150
-                    },
-                    {
-                      "name": "Cebolla",
-                      "price": 250
-                    },
-                    {
-                      "name": "Queso de cabra",
-                      "price": 600
-                    },
-                    {
-                      "name": "Queso Gouda",
-                      "price": 500
-                    },
-                    {
-                      "name": "Queso Parmesano",
-                      "price": 800
-                    },
-                    {
-                      "name": "Aceituna",
-                      "price": 500
-                    }
-                  ]
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                      {
-                        "cocktails": [
-                          {
-                            "name": "Piña Colada",
-                            "price": 700
-                          },
-                          {
-                            "name": "Ron Collins",
-                            "price": 450
-                          },
-                          {
-                            "name": "Sangría",
-                            "price": 600
-                          },
-                          {
-                            "name": "Screw Driver",
-                            "price": 475
-                          },
-                          {
-                            "name": "Daiquiri",
-                            "price": 350
-                          },
-                          {
-                            "name": "Gintonic",
-                            "price": 750
-                          },
-                          {
-                            "name": "John Collins",
-                            "price": 450
-                          },
-                          {
-                            "name": "Mojito",
-                            "price": 350
-                          },
-                          {
-                            "name": "Margarita",
-                            "price": 950
-                          },
-                          {
-                            "name": "Blue Hawai",
-                            "price": 550
-                          },
-                          {
-                            "name": "Blue Lagoon",
-                            "price": 550
-                          },
-                          {
-                            "name": "Caipirinha",
-                            "price": 350
-                          },
-                          {
-                            "name": "Caipirisima",
-                            "price": 350
-                          },
-                          {
-                            "name": "Caipiroska",
-                            "price": 600
-                          },
-                          {
-                            "name": "Cuba Libre",
-                            "price": 350
-                          },
-                          {
-                            "name": "Cubanito",
-                            "price": 450
-                          },
-                          {
-                            "name": "Cubata",
-                            "price": 400
-                          },
-                          {
-                            "name": "Chelada",
-                            "price": 150
-                          },
-                          {
-                            "name": "Michelada",
-                            "price": 350
-                          }
-                        ],
-                        "beers": [
-                          {
-                            "name": "Cerveza Bucanero lata",
-                            "price": 350
-                          },
-                          {
-                            "name": "Cerveza Heineken botella",
-                            "price": 574
-                          },
-                          {
-                            "name": "Cerveza Cristal lata",
-                            "price": 350
-                          },
-                          {
-                            "name": "Cerveza Cristal botella",
-                            "price": 420
-                          },
-                          {
-                            "name": "Cerveza Super Bock botella",
-                            "price": 370
-                          },
-                          {
-                            "name": "Cerveza Sol",
-                            "price": 480
-                          }
-                        ],
-                        "bottles": [
-                          {
-                            "name": "Botella de whisky Ballantines", 
-                            "price": 10000
-                          },
-                          {
-                            "name": "Botella de whisky Johnnie Walker Red Label", 
-                            "price": 13000
-                          },
-                          {
-                            "name": "Botella de whisky Johnnie Walker Red Label 1LT", 
-                            "price": 15000
-                          },
-                          {
-                            "name": "Botella de whisky Jamerson", 
-                            "price": 10000
-                          },
-                          {
-                            "name": "Botella de whisky Chivas Regal", 
-                            "price": 15000
-                          },
-                          {
-                            "name": "Botella Ron Havana Club Smokey", 
-                            "price": 5000
-                          },
-                          {
-                            "name": "Botella Ron Havana Club Reserva", 
-                            "price": 5000
-                          },
-                          {
-                            "name": "Whisky Chivas Regal 12 años (4.5L)", 
-                            "price": 125440
-                          }
-                        ]
-                      }
-                  ],
-                  "water": [
-                    {
-                      "name": "Agua natural Cool Heaven",
-                      "price": 350
-                    }
-                  ],
-                  "natual_juices": [
-                    {
-                      "name": "Limonada Frape", 
-                      "price": 450
-                    },
-                    {
-                      "name": "Jugo La Estancia", 
-                      "price": 350
-                    }
-                  ],
-                  "soft_drinks": [
-                    {
-                      "name": "Malteada",
-                      "price": 200
-                    },
-                    {
-                      "name": "Energizante",
-                      "price": 350
-                    },
-                    {
-                      "name": "Energizante Tigon Drink",
-                      "price": 350
-                    },
-                    {
-                      "name": "Kermato",
-                      "price": 580
-                    },
-                    {
-                      "name": "Malta Optimal",
-                      "price": 370
-                    },
-                    {
-                      "name": "Refresco naranja",
-                      "price": 300
-                    },
-                    {
-                      "name": "Refresco de limón",
-                      "price": 300
-                    },
-                    {
-                      "name": "Refresco cola",
-                      "price": 300
-                    },
-                    {
-                      "name": "Refresco",
-                      "price": 300
-                    },
-                    {
-                      "name": "Refresco Pepsi",
-                      "price": 350
-                    }
-                  ],
-                  "coffees": [
-                    {
-                      "name": "Café Bombom",
-                      "price": 350
-                    },
-                    {
-                      "name": "Café Cortadito",
-                      "price": 300
-                    },
-                    {
-                      "name": "Café Express",
-                      "price": 200
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {},
+  "owner": "Particular",
+  "type": "Bar",
+  "specialty": "Cocteleria",
+  "hours": {
+    "monday": "1400_0200",
+    "tuesday": "1400_0200",
+    "wednesday": "1400_0200",
+    "thursday": "1400_0200",
+    "friday": "1400_0200",
+    "saturday": "1400_0200",
+    "sunday": "1400_0200"
+  },
+  "services": {
+    "parking": true,
+    "reservations": true,
+    "delivery": true,
+    "power plant": true
+  },
+  "payment_methods": [
+    "cup",
+    "mlc",
+    "usd"
+  ],
+  "menu_details": {
+    "kind_of_food": [
+      "italiana",
+      "criolla",
+      "panes",
+      "mexicana"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "Brusquetas",
+                "price": 700
+              },
+              {
+                "name": "Croquetas de jamón",
+                "price": 600
+              },
+              {
+                "name": "Papas fritas",
+                "price": 550
+              },
+              {
+                "name": "Papas gratinadas",
+                "price": 800
+              },
+              {
+                "name": "Tostón relleno de atún",
+                "price": 1100
+              },
+              {
+                "name": "Tostón relleno de jamón y queso",
+                "price": 800
+              },
+              {
+                "name": "Bolitas de queso",
+                "price": 730
+              },
+              {
+                "name": "Frituras de malanga",
+                "price": 500
+              },
+              {
+                "name": "Picadera Lalola",
+                "price": 4000
+              },
+              {
+                "name": "Picadera sencilla",
+                "price": 1500
+              },
+              {
+                "name": "Bocadillo de jamón y queso",
+                "price": 500
+              },
+              {
+                "name": "Sándwich de jamón y queso/papas",
+                "price": 1200
+              },
+              {
+                "name": "Sándwich cubano",
+                "price": 1100
+              },
+              {
+                "name": "Sándwich de jamón y queso",
+                "price": 900
+              }
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": "Pizza napolitana",
+                "price": 1200
+              }
+            ]
+          }
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": "Canelones",
+                "price": 1350
+              },
+              {
+                "name": "Penne napolitano",
+                "price": 1100
+              },
+              {
+                "name": "Espagueti napolitano",
+                "price": 1100
+              },
+              {
+                "name": "Espagueti a la carbonara",
+                "price": 1970
+              }
+            ]
+          }
+        ],
+        "tacos": [
+          {
+            "courses": [
+              {
+                "name": "Tacos de carne",
+                "price": 900
+              }
+            ]
+          }
+        ],
+        "breads": [
+          {
+            "courses": [
+              {
+                "name": "Hamburguesa",
+                "price": 1500
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Lonjas de cerdo",
+                "price": 3500
+              },
+              {
+                "name": "Nuggets de pollo",
+                "price": 2000
+              },
+              {
+                "name": "Masas de cerdo",
+                "price": 1750
+              }
+            ]
+          }
+        ],
+        "additions": [
+          {
+            "courses": [
+              {
+                "name": "Ají",
+                "price": 150
+              },
+              {
+                "name": "Chorizo",
+                "price": 300
+              },
+              {
+                "name": "Atún",
+                "price": 600
+              },
+              {
+                "name": "Jamón pierna",
+                "price": 300
+              },
+              {
+                "name": "Piña",
+                "price": 150
+              },
+              {
+                "name": "Cebolla",
+                "price": 250
+              },
+              {
+                "name": "Queso de cabra",
+                "price": 600
+              },
+              {
+                "name": "Queso Gouda",
+                "price": 500
+              },
+              {
+                "name": "Queso Parmesano",
+                "price": 800
+              },
+              {
+                "name": "Aceituna",
+                "price": 500
+              }
+            ]
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "cocktails": [
+                  {
+                    "name": "Piña Colada",
+                    "price": 700
+                  },
+                  {
+                    "name": "Ron Collins",
+                    "price": 450
+                  },
+                  {
+                    "name": "Sangría",
+                    "price": 600
+                  },
+                  {
+                    "name": "Screw Driver",
+                    "price": 475
+                  },
+                  {
+                    "name": "Daiquiri",
+                    "price": 350
+                  },
+                  {
+                    "name": "Gintonic",
+                    "price": 750
+                  },
+                  {
+                    "name": "John Collins",
+                    "price": 450
+                  },
+                  {
+                    "name": "Mojito",
+                    "price": 350
+                  },
+                  {
+                    "name": "Margarita",
+                    "price": 950
+                  },
+                  {
+                    "name": "Blue Hawai",
+                    "price": 550
+                  },
+                  {
+                    "name": "Blue Lagoon",
+                    "price": 550
+                  },
+                  {
+                    "name": "Caipirinha",
+                    "price": 350
+                  },
+                  {
+                    "name": "Caipirisima",
+                    "price": 350
+                  },
+                  {
+                    "name": "Caipiroska",
+                    "price": 600
+                  },
+                  {
+                    "name": "Cuba Libre",
+                    "price": 350
+                  },
+                  {
+                    "name": "Cubanito",
+                    "price": 450
+                  },
+                  {
+                    "name": "Cubata",
+                    "price": 400
+                  },
+                  {
+                    "name": "Chelada",
+                    "price": 150
+                  },
+                  {
+                    "name": "Michelada",
+                    "price": 350
+                  }
+                ],
+                "beers": [
+                  {
+                    "name": "Cerveza Bucanero lata",
+                    "price": 350
+                  },
+                  {
+                    "name": "Cerveza Heineken botella",
+                    "price": 574
+                  },
+                  {
+                    "name": "Cerveza Cristal lata",
+                    "price": 350
+                  },
+                  {
+                    "name": "Cerveza Cristal botella",
+                    "price": 420
+                  },
+                  {
+                    "name": "Cerveza Super Bock botella",
+                    "price": 370
+                  },
+                  {
+                    "name": "Cerveza Sol",
+                    "price": 480
+                  }
+                ],
+                "bottles": [
+                  {
+                    "name": "Botella de whisky Ballantines",
+                    "price": 10000
+                  },
+                  {
+                    "name": "Botella de whisky Johnnie Walker Red Label",
+                    "price": 13000
+                  },
+                  {
+                    "name": "Botella de whisky Johnnie Walker Red Label 1LT",
+                    "price": 15000
+                  },
+                  {
+                    "name": "Botella de whisky Jamerson",
+                    "price": 10000
+                  },
+                  {
+                    "name": "Botella de whisky Chivas Regal",
+                    "price": 15000
+                  },
+                  {
+                    "name": "Botella Ron Havana Club Smokey",
+                    "price": 5000
+                  },
+                  {
+                    "name": "Botella Ron Havana Club Reserva",
+                    "price": 5000
+                  },
+                  {
+                    "name": "Whisky Chivas Regal 12 años (4.5L)",
+                    "price": 125440
+                  }
+                ]
+              }
+            ],
+            "water": [
+              {
+                "name": "Agua natural Cool Heaven",
+                "price": 350
+              }
+            ],
+            "natual_juices": [
+              {
+                "name": "Limonada Frape",
+                "price": 450
+              },
+              {
+                "name": "Jugo La Estancia",
+                "price": 350
+              }
+            ],
+            "soft_drinks": [
+              {
+                "name": "Malteada",
+                "price": 200
+              },
+              {
+                "name": "Energizante",
+                "price": 350
+              },
+              {
+                "name": "Energizante Tigon Drink",
+                "price": 350
+              },
+              {
+                "name": "Kermato",
+                "price": 580
+              },
+              {
+                "name": "Malta Optimal",
+                "price": 370
+              },
+              {
+                "name": "Refresco naranja",
+                "price": 300
+              },
+              {
+                "name": "Refresco de limón",
+                "price": 300
+              },
+              {
+                "name": "Refresco cola",
+                "price": 300
+              },
+              {
+                "name": "Refresco",
+                "price": 300
+              },
+              {
+                "name": "Refresco Pepsi",
+                "price": 350
+              }
+            ],
+            "coffees": [
+              {
+                "name": "Café Bombom",
+                "price": 350
+              },
+              {
+                "name": "Café Cortadito",
+                "price": 300
+              },
+              {
+                "name": "Café Express",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

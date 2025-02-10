@@ -1,104 +1,119 @@
 {
-    "general_info": {
-        "name":"La esquinita del Cotorro",
-        "township":"Cotorro",
-        "adress":"Avenida 71",
-        "local":"cafetería",
-        "open":"1000",
-        "close":"2000",
-        "days_of_week":["lunes","martes","miércoles","jueves","viernes","sábado","domingo"],
-        "sector":"privado",
-        "capability":24,
-        "social_network":["Facebook","Instagram"],
-        "years": 8
-        
-    },
-    "economy": {
-        "payment_methods":["efectivo","transferencia"],
-        "online_reservation":false,
-        "tips_included":false,
-        "delivery":false 
-    },
-    
-    "menu_details": {
-        "kind_of_food": ["variada", "criolla", "panes"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name":"tortilla mixta",
-                      "price":410
-                    },
-                    {
-                      "name":"tortilla de chorizo",
-                      "price":320
-                    },
-                    {
-                      "name":"tortilla de jamón",
-                      "price":320
-                    },
-                    {
-                      "name":"tortilla de queso blanco",
-                      "price":280
-                    },
-                    {
-                      "name":"tortilla natural",
-                      "price":220
-                    },
-                    {
-                      "name":"tostones",
-                      "price":200
-                    }
-                  ]
-                }
-              ],
-              "breads": [
-                {
-                  "courses": [
-                    {
-                      "name":"pan con jamón",
-                      "price":240
-                    },
-                    {
-                      "name":"pan con jamón y chorizo",
-                      "price":270
-                    },
-                    {
-                      "name":"pan con chorizo",
-                      "price":160
-                    },
-                    {
-                      "name":"hamburguesa esquinita plus",
-                      "price":580
-                    },
-                    {
-                      "name":"hamburguesa esquinita",
-                      "price":480
-                    },
-                    {
-                      "name":"hamburguesa doble",
-                      "price":380
-                    },
-                    {
-                      "name":"hamburguesa simple",
-                      "price":250
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
-    },
-    "social": {
-        "kids_seat":false,
-        "blackout_alternatives":false,
-        "entertainment":[],
-        "peak_hour":[],
-        "tourism":true,
-        "pets":false,
-        "bathroom":false,
-        "heated":false
+  "general_info": {
+    "name": "La esquinita del Cotorro",
+    "township": "Cotorro",
+    "adress": "Avenida 71",
+    "local": "cafetería",
+    "open": "1000",
+    "close": "2000",
+    "days_of_week": [
+      "lunes",
+      "martes",
+      "miércoles",
+      "jueves",
+      "viernes",
+      "sábado",
+      "domingo"
+    ],
+    "sector": "privado",
+    "capability": 24,
+    "social_network": [
+      "Facebook",
+      "Instagram"
+    ],
+    "years": 8
+  },
+  "economy": {
+    "payment_methods": [
+      "efectivo",
+      "transferencia"
+    ],
+    "online_reservation": false,
+    "tips_included": false,
+    "delivery": false
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "criolla",
+      "panes"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "tortilla mixta",
+                "price": 410
+              },
+              {
+                "name": "tortilla de chorizo",
+                "price": 320
+              },
+              {
+                "name": "tortilla de jamón",
+                "price": 320
+              },
+              {
+                "name": "tortilla de queso blanco",
+                "price": 280
+              },
+              {
+                "name": "tortilla natural",
+                "price": 220
+              },
+              {
+                "name": "tostones",
+                "price": 200
+              }
+            ]
+          }
+        ],
+        "breads": [
+          {
+            "courses": [
+              {
+                "name": "pan con jamón",
+                "price": 240
+              },
+              {
+                "name": "pan con jamón y chorizo",
+                "price": 270
+              },
+              {
+                "name": "pan con chorizo",
+                "price": 160
+              },
+              {
+                "name": "hamburguesa esquinita plus",
+                "price": 580
+              },
+              {
+                "name": "hamburguesa esquinita",
+                "price": 480
+              },
+              {
+                "name": "hamburguesa doble",
+                "price": 380
+              },
+              {
+                "name": "hamburguesa simple",
+                "price": 250
+              }
+            ]
+          }
+        ]
+      }
     }
+  },
+  "social": {
+    "kids_seat": false,
+    "blackout_alternatives": false,
+    "entertainment": [],
+    "peak_hour": [],
+    "tourism": true,
+    "pets": false,
+    "bathroom": false,
+    "heated": false
+  }
 }

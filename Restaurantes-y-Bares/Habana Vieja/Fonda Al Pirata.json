@@ -1,306 +1,349 @@
 {
-    "establishment": {
-      "classification": {
-        "type": ["restaurante"]
-      },
-      "name": "Fonda Al Pirata",
-      "type": ["Caribeña", "Cubana"],
-      "description": "Únete a la travesía. Este puerto ofrece una experiencia única con un ambiente agradable e informal. Disfruta de comida caribeña y cubana con opciones vegetarianas, veganas y sin gluten.",
-      "contact_info": {
-        "phone": {
-          "number": "5 2539750",
-          "type": "mobile"
-        },
-        "email": "alpiratasanignacio@gmail.com",
-        "website": "qr14334.buenacarta.com"
-      },
-      "opening_hours": {
-        "monday": {
-          "open": "08:00",
-          "close": "00:00"
-        },
-        "tuesday": {
-          "open": "08:00",
-          "close": "00:00"
-        },
-        "wednesday": {
-          "open": "08:00",
-          "close": "00:00"
-        },
-        "thursday": {
-          "open": "08:00",
-          "close": "00:00"
-        },
-        "friday": {
-          "open": "08:00",
-          "close": "00:00"
-        },
-        "saturday": {
-          "open": "08:00",
-          "close": "00:00"
-        },
-        "sunday": {
-          "open": "08:00",
-          "close": "00:00"
-        }
-      },
-      "address": "San Ignacio #76 e/ O'Reilly y Empedrado, Habana Vieja",
-      "municipality": "Habana Vieja",
-      "province": "La Habana",
-      "coordinates": {
-        "latitude": 0,
-        "longitude": 0
-      },
-      "social_media": {
-        "instagram": "https://www.instagram.com/fondaalpirata?igsh=cjBtN3BiaDExdGV3",
-        "facebook": null,
-        "whatsapp": null
-      },
-      "accepted_payment_methods": [],
-      "delivery_available": false,
-      "service_fee": {
-        "name": "Tarifa de 10%",
-        "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-        "applies": true
-      },
-      "features": {
-        "reservation_required": false,
-        "outdoor_seating": true,
-        "dine_in": true,
-        "takeaway": false,
-        "offers": ["Restaurante"],
-        "local_options": ["Desayunos", "Desayuno-almuerzo", "Almuerzo", "Cena", "Postres"],
-        "services": ["Sanitario", "Tiene bar"],
-        "ambience": ["Agradable", "Informal"],
-        "usual_customers": ["Grupos"],
-        "planning": [],
-        "children": null,
-        "pets": false,
-        "parking": null
-      },
-      "dietary_options": ["Opciones vegetarianas", "Opciones veganas", "Opciones sin gluten"],
-      "meals": ["Desayuno", "Comidas", "Cenas", "Brunch"],
-      "advantages": ["Capacidad", "Acceso para discapacitados", "Sirve alcohol", "Servicio de mesa"],
-      "highlights": ["Asientos al aire libre", "Aperitivos", "Agradable", "Informal", "Recomendable para ir en grupo"]
+  "establishment": {
+    "classification": {
+      "type": [
+        "restaurante"
+      ]
     },
-    "menu_details": {
-        "kind_of_food": ["variada", "europea", "americana", "italiana"],
-        "healthy_food_options": false,
-        "menu_card": {
-            "menu_sections": {
-              "breakfasts": [
-                {
-                  "courses": [
-                    {
-                      "name": "Desayuno Tradicional",
-                      "price": 2880
-                    },
-                    {
-                      "name": "Desayuno Vegetariano",
-                      "price": 2880
-                    },
-                    {
-                      "name": "Desayuno Vegano",
-                      "price": 2880
-                    }
-                  ]
-                }
-              ],
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name": "Tostadas Piratas",
-                      "price": 960
-                    },
-                    {
-                      "name": "Hummus y Vegetales",
-                      "price": 1920
-                    },
-                    {
-                      "name": "Tapas Piratas",
-                      "price": 1920
-                    },
-                    {
-                      "name": "Bolitas de queso",
-                      "price": 1920
-                    },
-                    {
-                      "name": "Bolitas de queso picantes",
-                      "price": 1920
-                    },
-                    {
-                      "name": "Ceviche",
-                      "price": 2240
-                    },
-                    {
-                      "name": "Cóctel de Langosta",
-                      "price": 2720
-                    },
-                    {
-                      "name": "Crudo de Pulpo",
-                      "price": 2880
-                    }
-                  ]
-                }
-              ],
-              "breads": [
-                {
-                  "courses": [
-                    {
-                      "name": "Hamburguesa Vegana",
-                      "price": 1440
-                    },
-                    {
-                      "name": "Sandwich Verde",
-                      "price": 1600
-                    },
-                    {
-                      "name": "Hamburguesa Barba Roja",
-                      "price": 2240
-                    },
-                    {
-                      "name": "Sandwich de Pechuga",
-                      "price": 2240
-                    },
-                    {
-                      "name": "Sandwich Mary Read",
-                      "price": 2240
-                    },
-                    {
-                      "name": "Club Sandwich Pollo",
-                      "price": 2560
-                    },
-                    {
-                      "name": "Club Sandwich Atún",
-                      "price": 2720
-                    },
-                    {
-                      "name": "Sandwich Abordaje",
-                      "price": 3040
-                    }
-                  ]
-                }
-              ],
-                "main_courses": [
-                    {
-                        "courses": [
-                          {
-                            "name": "Ensaladas Piratas de Corazón",
-                            "price": 1440
-                          },
-                          {
-                            "name": "Botija Pirata",
-                            "price": 1920
-                          },
-                          {
-                            "name": "Combinación Pirata",
-                            "price": 3200
-                          },
-                          {
-                            "name": "Galeón el Olones",
-                            "price": 3360
-                          },
-                          {
-                            "name": "Filete de Pescado",
-                            "price": 3840
-                          },
-                          {
-                            "name": "Pescado Entero",
-                            "price": 5120
-                          },
-                          {
-                            "name": "Langosta a su Gusto",
-                            "price": 6080
-                          }
-                        ]
-                    }
-                ],
-                "liquids": [
+    "name": "Fonda Al Pirata",
+    "type": [
+      "Caribeña",
+      "Cubana"
+    ],
+    "description": "Únete a la travesía. Este puerto ofrece una experiencia única con un ambiente agradable e informal. Disfruta de comida caribeña y cubana con opciones vegetarianas, veganas y sin gluten.",
+    "contact_info": {
+      "phone": {
+        "number": "5 2539750",
+        "type": "mobile"
+      },
+      "email": "alpiratasanignacio@gmail.com",
+      "website": "qr14334.buenacarta.com"
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "tuesday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "wednesday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "thursday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "friday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "saturday": {
+        "open": "08:00",
+        "close": "00:00"
+      },
+      "sunday": {
+        "open": "08:00",
+        "close": "00:00"
+      }
+    },
+    "address": "San Ignacio #76 e/ O'Reilly y Empedrado, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "instagram": "https://www.instagram.com/fondaalpirata?igsh=cjBtN3BiaDExdGV3",
+      "facebook": null,
+      "whatsapp": null
+    },
+    "accepted_payment_methods": [],
+    "delivery_available": false,
+    "service_fee": {
+      "name": "Tarifa de 10%",
+      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
+      "applies": true
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": true,
+      "dine_in": true,
+      "takeaway": false,
+      "offers": [
+        "Restaurante"
+      ],
+      "local_options": [
+        "Desayunos",
+        "Desayuno-almuerzo",
+        "Almuerzo",
+        "Cena",
+        "Postres"
+      ],
+      "services": [
+        "Sanitario",
+        "Tiene bar"
+      ],
+      "ambience": [
+        "Agradable",
+        "Informal"
+      ],
+      "usual_customers": [
+        "Grupos"
+      ],
+      "planning": [],
+      "children": null,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [
+      "Opciones vegetarianas",
+      "Opciones veganas",
+      "Opciones sin gluten"
+    ],
+    "meals": [
+      "Desayuno",
+      "Comidas",
+      "Cenas",
+      "Brunch"
+    ],
+    "advantages": [
+      "Capacidad",
+      "Acceso para discapacitados",
+      "Sirve alcohol",
+      "Servicio de mesa"
+    ],
+    "highlights": [
+      "Asientos al aire libre",
+      "Aperitivos",
+      "Agradable",
+      "Informal",
+      "Recomendable para ir en grupo"
+    ]
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "europea",
+      "americana",
+      "italiana"
+    ],
+    "healthy_food_options": false,
+    "menu_card": {
+      "menu_sections": {
+        "breakfasts": [
+          {
+            "courses": [
+              {
+                "name": "Desayuno Tradicional",
+                "price": 2880
+              },
+              {
+                "name": "Desayuno Vegetariano",
+                "price": 2880
+              },
+              {
+                "name": "Desayuno Vegano",
+                "price": 2880
+              }
+            ]
+          }
+        ],
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "Tostadas Piratas",
+                "price": 960
+              },
+              {
+                "name": "Hummus y Vegetales",
+                "price": 1920
+              },
+              {
+                "name": "Tapas Piratas",
+                "price": 1920
+              },
+              {
+                "name": "Bolitas de queso",
+                "price": 1920
+              },
+              {
+                "name": "Bolitas de queso picantes",
+                "price": 1920
+              },
+              {
+                "name": "Ceviche",
+                "price": 2240
+              },
+              {
+                "name": "Cóctel de Langosta",
+                "price": 2720
+              },
+              {
+                "name": "Crudo de Pulpo",
+                "price": 2880
+              }
+            ]
+          }
+        ],
+        "breads": [
+          {
+            "courses": [
+              {
+                "name": "Hamburguesa Vegana",
+                "price": 1440
+              },
+              {
+                "name": "Sandwich Verde",
+                "price": 1600
+              },
+              {
+                "name": "Hamburguesa Barba Roja",
+                "price": 2240
+              },
+              {
+                "name": "Sandwich de Pechuga",
+                "price": 2240
+              },
+              {
+                "name": "Sandwich Mary Read",
+                "price": 2240
+              },
+              {
+                "name": "Club Sandwich Pollo",
+                "price": 2560
+              },
+              {
+                "name": "Club Sandwich Atún",
+                "price": 2720
+              },
+              {
+                "name": "Sandwich Abordaje",
+                "price": 3040
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Ensaladas Piratas de Corazón",
+                "price": 1440
+              },
+              {
+                "name": "Botija Pirata",
+                "price": 1920
+              },
+              {
+                "name": "Combinación Pirata",
+                "price": 3200
+              },
+              {
+                "name": "Galeón el Olones",
+                "price": 3360
+              },
+              {
+                "name": "Filete de Pescado",
+                "price": 3840
+              },
+              {
+                "name": "Pescado Entero",
+                "price": 5120
+              },
+              {
+                "name": "Langosta a su Gusto",
+                "price": 6080
+              }
+            ]
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "cocktails": [
                   {
-                    "alcoholic_beverages": [
-                      {
-                        "cocktails": [
-                          {
-                            "name": "Coctelería",
-                            "price": 1104
-                          },
-                          {
-                            "name": "Cócteles Afrutados",
-                            "price": 1216
-                          },
-                          {
-                            "name": "Piña Colada",
-                            "price": 1440
-                          },
-                          {
-                            "name": "Sangría",
-                            "price": 1440
-                          },
-                          {
-                              "name": "Piña Colada",
-                              "price": 1280
-                          }
-                        ]
-                      }
-                    ],
-                    "natual_juices": [
-                      {
-                        "name": "Jugo Natural",
-                        "price": 640
-                      },
-                      {
-                        "name": "Limonada",
-                        "price": 640
-                      },
-                      {
-                        "name": "Limonada de Frutas",
-                        "price": 720
-                      }
-                    ],
-                    "coffees": [
-                      {
-                        "name": "Té",
-                        "price": 384
-                      },
-                      {
-                        "name": "Café expreso",
-                        "price": 480
-                      },
-                      {
-                        "name": "Café americano",
-                        "price": 480
-                      },
-                      {
-                        "name": "Cortadito",
-                        "price": 512
-                      },
-                      {
-                        "name": "Café Bombón",
-                        "price": 608
-                      },
-                      {
-                        "name": "Café expreso doble",
-                        "price": 640
-                      },
-                      {
-                        "name": "Café con leche",
-                        "price": 672
-                      },
-                      {
-                        "name": "Frappuccino",
-                        "price": 1232
-                      },
-                      {
-                        "name": "Frappuccino Mocca",
-                        "price": 1232
-                     
-                      }
-                    ]
+                    "name": "Coctelería",
+                    "price": 1104
+                  },
+                  {
+                    "name": "Cócteles Afrutados",
+                    "price": 1216
+                  },
+                  {
+                    "name": "Piña Colada",
+                    "price": 1440
+                  },
+                  {
+                    "name": "Sangría",
+                    "price": 1440
+                  },
+                  {
+                    "name": "Piña Colada",
+                    "price": 1280
                   }
                 ]
-            }
-        }    
+              }
+            ],
+            "natual_juices": [
+              {
+                "name": "Jugo Natural",
+                "price": 640
+              },
+              {
+                "name": "Limonada",
+                "price": 640
+              },
+              {
+                "name": "Limonada de Frutas",
+                "price": 720
+              }
+            ],
+            "coffees": [
+              {
+                "name": "Té",
+                "price": 384
+              },
+              {
+                "name": "Café expreso",
+                "price": 480
+              },
+              {
+                "name": "Café americano",
+                "price": 480
+              },
+              {
+                "name": "Cortadito",
+                "price": 512
+              },
+              {
+                "name": "Café Bombón",
+                "price": 608
+              },
+              {
+                "name": "Café expreso doble",
+                "price": 640
+              },
+              {
+                "name": "Café con leche",
+                "price": 672
+              },
+              {
+                "name": "Frappuccino",
+                "price": 1232
+              },
+              {
+                "name": "Frappuccino Mocca",
+                "price": 1232
+              }
+            ]
+          }
+        ]
+      }
     }
   }
-        
+}

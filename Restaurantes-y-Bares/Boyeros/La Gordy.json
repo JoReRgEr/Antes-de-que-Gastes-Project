@@ -36,28 +36,37 @@
             "closed": "21:00"
         },
         "sunday": {
-           "open": "11:00",
+            "open": "11:00",
             "closed": "21:00"
         }
     },
     "location_details": {
         "rating": {
             "google": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "tripadvisor": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "facebook": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             }
         },
@@ -66,22 +75,27 @@
         "festive_decorations": false,
         "home_uniform": "casual",
         "collaboration_for_events": false,
-        "type_of_concurrent_clients": ["grupos"],
+        "type_of_concurrent_clients": [
+            "grupos"
+        ],
         "energy_backup": false
     },
     "services": {
         "social_networks": {
-            "web_page": [ false,
+            "web_page": [
+                false,
                 {
                     "url": null
                 }
             ],
-            "facebook": [ false,
+            "facebook": [
+                false,
                 {
                     "url": null
                 }
             ],
-            "instagram": [ false,
+            "instagram": [
+                false,
                 {
                     "url": null
                 }
@@ -91,7 +105,7 @@
         "child_care": false,
         "disable_support": false,
         "wifi": false,
-        "parking":  false,
+        "parking": false,
         "delivery": false,
         "reserves": true,
         "rent_from_the_client": false,
@@ -103,12 +117,11 @@
     },
     "pay_meth": {
         "cash": true,
-        "transfer":
-            {
-                "transfermovil": true,
-                "visa": false,
-                "mastercard": false
-            },
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
         "currency": {
             "cup": true,
             "usd": false,
@@ -117,184 +130,185 @@
         },
         "10% charge": false
     },
-        
     "menu_details": {
-        "kind_of_food": ["variada", "criolla"],
+        "kind_of_food": [
+            "criolla"
+        ],
         "menu_card": {
             "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
+                "starters": [
                     {
-                      "name": "Tostones Criollos",
-                      "price": 350
-                  },
-                  {
-                      "name": "Fritura de Malanga",
-                      "price": 400
-                  },
-                  {
-                      "name": "Garbanzos Fritos",
-                      "price": 750
-                  },
-                  {
-                      "name": "Garbanzos Fritos La Gordy",
-                      "price": 800
-                  }
-                  ]
-                }
-              ],
-              "main_course": [
-                {
-                    "courses": [
-                      {
-                        "name": "Fajitas de Pollo Encebollada",
-                        "price": 950
-                    },
-                    {
-                        "name": "Fajitas de Pollo Empanadas",
-                        "price": 110
-                    },
-                    {
-                        "name": "Fajitas de Pollo Grille",
-                        "price": 950
-                    },
-                    {
-                        "name": "Pollo a la Piña",
-                        "price": 1100
-                    },
-                    {
-                        "name": "Pollo Deshuesado Empanado",
-                        "price": 1050
-                    },
-                    {
-                        "name": "Pollo Deshuesado Gratinado",
-                        "price": 1250
-                    },
-                    {
-                        "name": "Fajitas de Pechuga Encebolladas",
-                        "price": 1200
-                    },
-                    {
-                        "name": "Fajitas de Pechuga Empanadas",
-                        "price": 1350
-                    },
-                    {
-                        "name": "Pechuga de Pollo Grille",
-                        "price": 1200
-                    },
-                    {
-                        "name": "Pechuga de Pollo a la Piña",
-                        "price": 1300
-                    },
-                    {
-                        "name": "Pechuga de Pollo Empanada",
-                        "price": 1350
-                    },
-                    {
-                        "name": "Pechuga de Pollo Gratinada",
-                        "price": 1500
-                    },
-                    {
-                        "name": "Pechuga Gordon Blue",
-                        "price": 2000
-                    },
-                    {
-                        "name": "Bistec de Higado de Cerdo",
-                        "price": 800
-                    },
-                    {
-                        "name": "Higado de Cerdo a la Italiana",
-                        "price": 850
-                    },
-                    {
-                        "name": "Fricase de Cerdo",
-                        "price": 1200
-                    },
-                    {
-                        "name": "Fajitas de Cerdo Encebolladas",
-                        "price": 1200
-                    },
-                    {
-                        "name": "Fajitas de Cerdo Empanadas",
-                        "price": 1350
-                    },
-                    {
-                        "name": "Masa de Cerdo Fritas",
-                        "price": 1250
-                    },
-                    {
-                        "name": "Bistec de Cerdo Grille",
-                        "price": 1200
-                    },
-                    {
-                        "name": "Bistec de Cerdo a la Piña",
-                        "price": 1300
-                    },
-                    {
-                        "name": "Bistec de Cerdo Empanado",
-                        "price": 1350
-                    },
-                    {
-                        "name": "Bistec de Cerdo Gratinado",
-                        "price": 1500
-                    },
-                    {
-                        "name": "Bistec Uruguayo de Cerdo",
-                        "price": 2000
-                    },
-                    {
-                        "name": "Chuleta Ahumada de Cerdo",
-                        "price": 1300
-                    },
-                    {
-                        "name": "Chuleta Ahumada de Cerdo Gratinada",
-                        "price": 1500
-                    },
-                    {
-                        "name": "Eperlan de Pescado",
-                        "price": 1400
-                    },
-                    {
-                        "name": "Filete de Pescado Grille",
-                        "price": 1250
-                    },
-                    {
-                        "name": "Filete de Pescado Empanado",
-                        "price": 1400
-                    },
-                    {
-                        "name": "Filete de Pescado Gratinado",
-                        "price": 1800
-                    },
-                    {
-                        "name": "Filete Canciller",
-                        "price": 2000
-                    },
-                    {
-                        "name": "Ropa Vieja de Cordero",
-                        "price": 950
-                    },
-                    {
-                        "name": "Ropa Vieja de Res",
-                        "price": 1300
-                    },
-                    {
-                        "name": "Vaca Frita",
-                        "price": 1300
-                    },
-                    {
-                        "name": "Arooz Moro",
-                        "price": 400
-                    },
-                    {
-                        "name": "Arroz Frito",
-                        "price": null
+                        "courses": [
+                            {
+                                "name": "Tostones Criollos",
+                                "price": 350
+                            },
+                            {
+                                "name": "Fritura de Malanga",
+                                "price": 400
+                            },
+                            {
+                                "name": "Garbanzos Fritos",
+                                "price": 750
+                            },
+                            {
+                                "name": "Garbanzos Fritos La Gordy",
+                                "price": 800
+                            }
+                        ]
                     }
-                    ]
-                }
-              ]
+                ],
+                "main_course": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Fajitas de Pollo Encebollada",
+                                "price": 950
+                            },
+                            {
+                                "name": "Fajitas de Pollo Empanadas",
+                                "price": 110
+                            },
+                            {
+                                "name": "Fajitas de Pollo Grille",
+                                "price": 950
+                            },
+                            {
+                                "name": "Pollo a la Piña",
+                                "price": 1100
+                            },
+                            {
+                                "name": "Pollo Deshuesado Empanado",
+                                "price": 1050
+                            },
+                            {
+                                "name": "Pollo Deshuesado Gratinado",
+                                "price": 1250
+                            },
+                            {
+                                "name": "Fajitas de Pechuga Encebolladas",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Fajitas de Pechuga Empanadas",
+                                "price": 1350
+                            },
+                            {
+                                "name": "Pechuga de Pollo Grille",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Pechuga de Pollo a la Piña",
+                                "price": 1300
+                            },
+                            {
+                                "name": "Pechuga de Pollo Empanada",
+                                "price": 1350
+                            },
+                            {
+                                "name": "Pechuga de Pollo Gratinada",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Pechuga Gordon Blue",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Bistec de Higado de Cerdo",
+                                "price": 800
+                            },
+                            {
+                                "name": "Higado de Cerdo a la Italiana",
+                                "price": 850
+                            },
+                            {
+                                "name": "Fricase de Cerdo",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Fajitas de Cerdo Encebolladas",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Fajitas de Cerdo Empanadas",
+                                "price": 1350
+                            },
+                            {
+                                "name": "Masa de Cerdo Fritas",
+                                "price": 1250
+                            },
+                            {
+                                "name": "Bistec de Cerdo Grille",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Bistec de Cerdo a la Piña",
+                                "price": 1300
+                            },
+                            {
+                                "name": "Bistec de Cerdo Empanado",
+                                "price": 1350
+                            },
+                            {
+                                "name": "Bistec de Cerdo Gratinado",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Bistec Uruguayo de Cerdo",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Chuleta Ahumada de Cerdo",
+                                "price": 1300
+                            },
+                            {
+                                "name": "Chuleta Ahumada de Cerdo Gratinada",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Eperlan de Pescado",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Filete de Pescado Grille",
+                                "price": 1250
+                            },
+                            {
+                                "name": "Filete de Pescado Empanado",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Filete de Pescado Gratinado",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Filete Canciller",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Ropa Vieja de Cordero",
+                                "price": 950
+                            },
+                            {
+                                "name": "Ropa Vieja de Res",
+                                "price": 1300
+                            },
+                            {
+                                "name": "Vaca Frita",
+                                "price": 1300
+                            },
+                            {
+                                "name": "Arooz Moro",
+                                "price": 400
+                            },
+                            {
+                                "name": "Arroz Frito",
+                                "price": null
+                            }
+                        ]
+                    }
+                ]
             }
-        }    
+        }
     }
-    }
+}

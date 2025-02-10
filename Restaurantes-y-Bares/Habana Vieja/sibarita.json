@@ -1,10 +1,20 @@
 {
   "establishment": {
     "classification": {
-      "type": ["bar-restaurante"]
+      "type": [
+        "bar-restaurante"
+      ]
     },
     "name": "Sibarita",
-    "type": ["Caribeña", "Latina", "Bar", "Internacional", "Mediterránea", "Cubana", "Centroamericana"],
+    "type": [
+      "Caribeña",
+      "Latina",
+      "Bar",
+      "Internacional",
+      "Mediterránea",
+      "Cubana",
+      "Centroamericana"
+    ],
     "description": "Restaurante con terraza chill out, especializada en la coctelería Tiki y comida internacional, los mejores cócteles de la Habana!!!",
     "contact_info": {
       "phone": {
@@ -68,349 +78,381 @@
       "outdoor_seating": true,
       "dine_in": true,
       "takeaway": false,
-      "offers": ["Restaurante", "Bar"],
-      "local_options": ["Almuerzo", "Cena", "Postres"],
-      "services": ["Sanitario", "Tiene bar"],
-      "ambience": ["Agradable", "Informal"],
-      "usual_customers": ["Grupos"],
-      "planning": ["Se aceptan reservas"],
+      "offers": [
+        "Restaurante",
+        "Bar"
+      ],
+      "local_options": [
+        "Almuerzo",
+        "Cena",
+        "Postres"
+      ],
+      "services": [
+        "Sanitario",
+        "Tiene bar"
+      ],
+      "ambience": [
+        "Agradable",
+        "Informal"
+      ],
+      "usual_customers": [
+        "Grupos"
+      ],
+      "planning": [
+        "Se aceptan reservas"
+      ],
       "children": null,
       "pets": null,
       "parking": null
     },
     "dietary_options": [],
-    "meals": ["Comidas", "Cenas"],
-    "advantages": ["Reservas", "Capacidad", "Sirve alcohol", "Bar completo", "Servicio de mesa"],
-    "highlights": ["Aperitivos", "Buenos cócteles", "Agradable", "Informal", "Recomendable para ir en grupo"]
+    "meals": [
+      "Comidas",
+      "Cenas"
+    ],
+    "advantages": [
+      "Reservas",
+      "Capacidad",
+      "Sirve alcohol",
+      "Bar completo",
+      "Servicio de mesa"
+    ],
+    "highlights": [
+      "Aperitivos",
+      "Buenos cócteles",
+      "Agradable",
+      "Informal",
+      "Recomendable para ir en grupo"
+    ]
   },
   "menu_details": {
-      "kind_of_food": ["variada", "mediterranea", "griega"],
-      "menu_card": {
-          "menu_sections": {
-            "starters": [
+    "kind_of_food": [
+      "mediterranea",
+      "griega"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
               {
-                "courses": [
+                "name": "Tamal con salsa BBQ",
+                "price": 600
+              },
+              {
+                "name": "Selección del panadero",
+                "price": 600
+              },
+              {
+                "name": "Tostas de cangrejo",
+                "price": 800
+              },
+              {
+                "name": "Croquetas de la casa",
+                "price": 1200
+              },
+              {
+                "name": "Tartar de albacora",
+                "price": 1300
+              },
+              {
+                "name": "Ceviche Sibarita",
+                "price": 1300
+              },
+              {
+                "name": "Bruschettas Mix",
+                "price": 1350
+              },
+              {
+                "name": "Tacos de ropa vieja",
+                "price": 1700
+              },
+              {
+                "name": "Tacos de cerdo",
+                "price": 1600
+              },
+              {
+                "name": "Tataki de albacora",
+                "price": 1950
+              },
+              {
+                "name": "Tabla de jamón serrano, embutidos y queso",
+                "price": 2700
+              },
+              {
+                "name": "Tacos de camarón y bacón",
+                "price": 2950
+              },
+              {
+                "name": "Carpaccio de Res (Angus Prime)",
+                "price": 3500
+              },
+              {
+                "name": "Natural",
+                "price": 800
+              },
+              {
+                "name": "Chicken Little",
+                "price": 1650
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Ropa Vieja",
+                "price": 1950
+              },
+              {
+                "name": "Cerdo Teriyaki",
+                "price": 2350
+              },
+              {
+                "name": "Pollo Grillé",
+                "price": 2300
+              },
+              {
+                "name": "Solomillo de Cerdo",
+                "price": 2350
+              },
+              {
+                "name": "Pollo Kekou",
+                "price": 2750
+              },
+              {
+                "name": "Risotto Carbonara",
+                "price": 3100
+              },
+              {
+                "name": "Cordero del Chef",
+                "price": 3900
+              },
+              {
+                "name": "Rib Eye (350g)",
+                "price": 10000
+              },
+              {
+                "name": "Churrasco Australiano (300g)",
+                "price": 10800
+              },
+              {
+                "name": "New York (400g)",
+                "price": 11000
+              },
+              {
+                "name": "Entrecot de Res Español (450g)",
+                "price": 9800
+              },
+              {
+                "name": "Picaña (300g)",
+                "price": 11000
+              },
+              {
+                "name": "Pescado Grillé",
+                "price": 2150
+              },
+              {
+                "name": "Pasta de Salmón",
+                "price": 3100
+              },
+              {
+                "name": "Escalopinas de Pescado",
+                "price": 2850
+              },
+              {
+                "name": "Pasta Zakay",
+                "price": 3100
+              },
+              {
+                "name": "Camarón al Ajillo",
+                "price": 3900
+              },
+              {
+                "name": "Langosta al Cartouch",
+                "price": 3800
+              },
+              {
+                "name": "Pescado Entero Frito (3Lb)",
+                "price": 5800
+              },
+              {
+                "name": "Camarón Jumbo en costra de ajo y parmesano",
+                "price": 6350
+              },
+              {
+                "name": "Saltado de Pulpo",
+                "price": 6800
+              }
+            ]
+          }
+        ],
+        "breads": [
+          {
+            "courses": [
+              {
+                "name": "Burguerita (250g)",
+                "price": 4200
+              },
+              {
+                "name": "Burguerita Gold 24k",
+                "price": 12000
+              }
+            ]
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "cocktails": [
                   {
-                    "name": "Tamal con salsa BBQ",
-                    "price": 600
+                    "name": "Sibarazo",
+                    "price": 1500
                   },
                   {
-                    "name": "Selección del panadero",
-                    "price": 600
-                  },
-                  {
-                    "name": "Tostas de cangrejo",
-                    "price": 800
-                  },
-                  {
-                    "name": "Croquetas de la casa",
-                    "price": 1200
-                  },
-                  {
-                    "name": "Tartar de albacora",
+                    "name": "Mai-tai",
                     "price": 1300
                   },
                   {
-                    "name": "Ceviche Sibarita",
-                    "price": 1300
+                    "name": "Zombie",
+                    "price": 1450
                   },
                   {
-                    "name": "Bruschettas Mix",
-                    "price": 1350
-                  },
-                  {
-                    "name": "Tacos de ropa vieja",
-                    "price": 1700
-                  },
-                  {
-                    "name": "Tacos de cerdo",
+                    "name": "Blue Hawaii",
                     "price": 1600
                   },
                   {
-                    "name": "Tataki de albacora",
-                    "price": 1950
+                    "name": "Juanito",
+                    "price": 1600
                   },
                   {
-                    "name": "Tabla de jamón serrano, embutidos y queso",
-                    "price": 2700
+                    "name": "Aloha Havana",
+                    "price": 1550
                   },
                   {
-                    "name": "Tacos de camarón y bacón",
-                    "price": 2950
+                    "name": "San Tiki",
+                    "price": 1500
                   },
                   {
-                    "name": "Carpaccio de Res (Angus Prime)",
-                    "price": 3500
+                    "name": "Gran Kahuna",
+                    "price": 1500
                   },
                   {
-                    "name": "Natural",
-                    "price": 800
+                    "name": "El Popi",
+                    "price": 1300
                   },
                   {
-                    "name": "Chicken Little",
+                    "name": "Kala",
                     "price": 1650
-                  }
-                ]
-              }
-            ],
-            "main_courses": [
-              {
-                "courses": [
+                  },
                   {
-                    "name": "Ropa Vieja",
+                    "name": "Mojito",
+                    "price": 1400
+                  },
+                  {
+                    "name": "Daiquiri",
+                    "price": 1250
+                  },
+                  {
+                    "name": "Sangría",
+                    "price": 1600
+                  },
+                  {
+                    "name": "Caipiriña",
+                    "price": 1150
+                  },
+                  {
+                    "name": "Caipiroska",
+                    "price": 1250
+                  },
+                  {
+                    "name": "Piña Colada",
+                    "price": 1800
+                  },
+                  {
+                    "name": "Gin Tonic",
+                    "price": 1450
+                  },
+                  {
+                    "name": "Cubanito",
+                    "price": 1150
+                  },
+                  {
+                    "name": "Bloody Mary",
+                    "price": 1150
+                  },
+                  {
+                    "name": "Margarita",
+                    "price": 1350
+                  },
+                  {
+                    "name": "Martini",
+                    "price": 1450
+                  },
+                  {
+                    "name": "Cubalibre",
+                    "price": 1150
+                  },
+                  {
+                    "name": "Cubata",
+                    "price": 1250
+                  },
+                  {
+                    "name": "Sexy Mojito",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Exótico Daiquiri",
+                    "price": 1400
+                  },
+                  {
+                    "name": "Negroni Especiado",
+                    "price": 1750
+                  },
+                  {
+                    "name": "Cuban Old Fashion",
+                    "price": 1450
+                  },
+                  {
+                    "name": "MB",
+                    "price": 1450
+                  },
+                  {
+                    "name": "#528",
+                    "price": 1450
+                  },
+                  {
+                    "name": "Vodnilla",
+                    "price": 1400
+                  },
+                  {
+                    "name": "El Güero",
+                    "price": 1400
+                  },
+                  {
+                    "name": "Rich People",
+                    "price": 1550
+                  },
+                  {
+                    "name": "Cachucha",
+                    "price": 1450
+                  },
+                  {
+                    "name": "Maui",
+                    "price": 1550
+                  },
+                  {
+                    "name": "Éxtasis",
                     "price": 1950
-                  },
-                  {
-                    "name": "Cerdo Teriyaki",
-                    "price": 2350
-                  },
-                  {
-                    "name": "Pollo Grillé",
-                    "price": 2300
-                  },
-                  {
-                    "name": "Solomillo de Cerdo",
-                    "price": 2350
-                  },
-                  {
-                    "name": "Pollo Kekou",
-                    "price": 2750
-                  },
-                  {
-                    "name": "Risotto Carbonara",
-                    "price": 3100
-                  },
-                  {
-                    "name": "Cordero del Chef",
-                    "price": 3900
-                  },
-                  {
-                    "name": "Rib Eye (350g)",
-                    "price": 10000
-                  },
-                  {
-                    "name": "Churrasco Australiano (300g)",
-                    "price": 10800
-                  },
-                  {
-                    "name": "New York (400g)",
-                    "price": 11000
-                  },
-                  {
-                    "name": "Entrecot de Res Español (450g)",
-                    "price": 9800
-                  },
-                  {
-                    "name": "Picaña (300g)",
-                    "price": 11000
-                  },
-                  {
-                    "name": "Pescado Grillé",
-                    "price": 2150
-                  },
-                  {
-                    "name": "Pasta de Salmón",
-                    "price": 3100
-                  },
-                  {
-                    "name": "Escalopinas de Pescado",
-                    "price": 2850
-                  },
-                  {
-                    "name": "Pasta Zakay",
-                    "price": 3100
-                  },
-                  {
-                    "name": "Camarón al Ajillo",
-                    "price": 3900
-                  },
-                  {
-                    "name": "Langosta al Cartouch",
-                    "price": 3800
-                  },
-                  {
-                    "name": "Pescado Entero Frito (3Lb)",
-                    "price": 5800
-                  },
-                  {
-                    "name": "Camarón Jumbo en costra de ajo y parmesano",
-                    "price": 6350
-                  },
-                  {
-                    "name": "Saltado de Pulpo",
-                    "price": 6800
-                  }
-                ]
-              }
-            ],
-            "breads": [
-              {
-                "courses": [
-                  {
-                    "name": "Burguerita (250g)",
-                    "price": 4200
-                  },
-                  {
-                    "name": "Burguerita Gold 24k",
-                    "price": 12000
-                  }
-                ]
-              }
-            ],
-            "liquids": [
-              {
-                "alcoholic_beverages": [
-                  {
-                    "cocktails": [
-                      {
-                        "name": "Sibarazo",
-                        "price": 1500
-                      },
-                      {
-                        "name": "Mai-tai",
-                        "price": 1300
-                      },
-                      {
-                        "name": "Zombie",
-                        "price": 1450
-                      },
-                      {
-                        "name": "Blue Hawaii",
-                        "price": 1600
-                      },
-                      {
-                        "name": "Juanito",
-                        "price": 1600
-                      },
-                      {
-                        "name": "Aloha Havana",
-                        "price": 1550
-                      },
-                      {
-                        "name": "San Tiki",
-                        "price": 1500
-                      },
-                      {
-                        "name": "Gran Kahuna",
-                        "price": 1500
-                      },
-                      {
-                        "name": "El Popi",
-                        "price": 1300
-                      },
-                      {
-                        "name": "Kala",
-                        "price": 1650
-                      },
-                      {
-                        "name": "Mojito",
-                        "price": 1400
-                      },
-                      {
-                        "name": "Daiquiri",
-                        "price": 1250
-                      },
-                      {
-                        "name": "Sangría",
-                        "price": 1600
-                      },
-                      {
-                        "name": "Caipiriña",
-                        "price": 1150
-                      },
-                      {
-                        "name": "Caipiroska",
-                        "price": 1250
-                      },
-                      {
-                        "name": "Piña Colada",
-                        "price": 1800
-                      },
-                      {
-                        "name": "Gin Tonic",
-                        "price": 1450
-                      },
-                      {
-                        "name": "Cubanito",
-                        "price": 1150
-                      },
-                      {
-                        "name": "Bloody Mary",
-                        "price": 1150
-                      },
-                      {
-                        "name": "Margarita",
-                        "price": 1350
-                      },
-                      {
-                        "name": "Martini",
-                        "price": 1450
-                      },
-                      {
-                        "name": "Cubalibre",
-                        "price": 1150
-                      },
-                      {
-                        "name": "Cubata",
-                        "price": 1250
-                      },
-                      {
-                        "name": "Sexy Mojito",
-                        "price": 1500
-                      },
-                      {
-                        "name": "Exótico Daiquiri",
-                        "price": 1400
-                      },
-                      {
-                        "name": "Negroni Especiado",
-                        "price": 1750
-                      },
-                      {
-                        "name": "Cuban Old Fashion",
-                        "price": 1450
-                      },
-                      {
-                        "name": "MB",
-                        "price": 1450
-                      },
-                      {
-                        "name": "#528",
-                        "price": 1450
-                      },
-                      {
-                        "name": "Vodnilla",
-                        "price": 1400
-                      },
-                      {
-                        "name": "El Güero",
-                        "price": 1400
-                      },
-                      {
-                        "name": "Rich People",
-                        "price": 1550
-                      },
-                      {
-                        "name": "Cachucha",
-                        "price": 1450
-                      },
-                      {
-                        "name": "Maui",
-                        "price": 1550
-                      },
-                      {
-                        "name": "Éxtasis",
-                        "price": 1950
-                      }
-                    ]
                   }
                 ]
               }
             ]
           }
-      }    
+        ]
+      }
+    }
   }
-        }
-        
-
-   
+}

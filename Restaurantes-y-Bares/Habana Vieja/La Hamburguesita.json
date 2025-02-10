@@ -1,249 +1,278 @@
 {
-    "establishment": {
-      "classification": {
-        "type": ["restaurante"]
-      },
-      "name": "La Hamburguesita",
-      "type": ["Americana", "Comida rápida"],
-      "description": "Hamburgers... Hamburguesas",
-      "contact_info": {
-        "phone": {
-          "number": null,
-          "type": null
-        },
-        "email": null,
-        "website": null
-      },
-      "opening_hours": {
-        "monday": {
-          "open": "11:00",
-          "close": "23:00"
-        },
-        "tuesday": {
-          "open": "11:00",
-          "close": "23:00"
-        },
-        "wednesday": {
-          "open": "11:00",
-          "close": "23:00"
-        },
-        "thursday": {
-          "open": "11:00",
-          "close": "23:00"
-        },
-        "friday": {
-          "open": "11:00",
-          "close": "23:00"
-        },
-        "saturday": {
-          "open": "11:00",
-          "close": "23:00"
-        },
-        "sunday": {
-          "open": "11:00",
-          "close": "23:00"
-        }
-      },
-      "address": "Calle Cienfuegos entre Apodaca y Gloria, Habana Vieja",
-      "municipality": "Habana Vieja",
-      "province": "La Habana",
-      "coordinates": {
-        "latitude": 0,
-        "longitude": 0
-      },
-      "social_media": {
-        "instagram": "https://www.instagram.com/hamburguesitala?igsh=MTRob3FmdGF5bGlvYg==",
-        "facebook": null,
-        "whatsapp": null
-      },
-      "accepted_payment_methods": ["efectivo", "transferencia"],
-      "delivery_available": false,
-      "service_fee": {
-        "name": null,
-        "description": null,
-        "applies": false
-      },
-      "features": {
-        "reservation_required": false,
-        "outdoor_seating": false,
-        "dine_in": true,
-        "takeaway": true,
-        "offers": ["Hamburguesas"],
-        "local_options": ["Cena"],
-        "services": [],
-        "ambience": ["Informal"],
-        "usual_customers": ["Grupos", "Menores"],
-        "planning": [],
-        "children": true,
-        "pets": false,
-        "parking": null
-      },
-      "dietary_options": [],
-      "meals": ["Cena"],
-      "advantages": ["Para llevar", "Consumo en el lugar"],
-      "highlights": ["Informal", "Ideal para ir con niños", "Recomendable para ir en grupo"]
+  "establishment": {
+    "classification": {
+      "type": [
+        "restaurante"
+      ]
     },
-    "menu_details": {
-        "kind_of_food": ["variada", "europea", "americana", "criolla"],
-        "healthy_food_options": false,
-        "menu_card": {
-            "menu_sections": {
-              "breakfasts": [
-                {
-                  "courses": [
-                    {
-                      "name": "Croquetas",
-                      "price": 350
-                    },
-                    {
-                      "name": "Frituras de malanga",
-                      "price": 350
-                    },
-                    {
-                      "name": "Tostones hawaianos",
-                      "price": 400
-                    }
-                  ]
-                }
-              ],
-              "breads": [
-                {
-                  "courses": [
-                    {
-                      "name": "Pollo",
-                      "price": 450
-                    },
-                    {
-                      "name": "Jamón",
-                      "price": 400
-                    },
-                    {
-                      "name": "Queso",
-                      "price": 400
-                    },
-                    {
-                      "name": "Jamón y queso",
-                      "price": 500
-                    },
-                    {
-                      "name": "Atún",
-                      "price": 750
-                    },
-                    {
-                      "name": "Cubano",
-                      "price": 750
-                    },
-                    {
-                      "name": "Clásica",
-                      "price": 550
-                    },
-                    {
-                      "name": "Hawaiana",
-                      "price": 650
-                    },
-                    {
-                      "name": "Casa blanca",
-                      "price": 700
-                    },
-                    {
-                      "name": "Submarino",
-                      "price": 670
-                    },
-                    {
-                      "name": "Belleza habanera",
-                      "price": 700
-                    },
-                    {
-                      "name": "Locura cienfueguera",
-                      "price": 800
-                    },
-                    {
-                      "name": "Biplanta",
-                      "price": 850
-                    },
-                    {
-                      "name": "Cubana",
-                      "price": 950
-                    },
-                    {
-                      "name": "Milanesa",
-                      "price": 950
-                    }
-                  ]
-                }
-              ],
-                "liquids": [
+    "name": "La Hamburguesita",
+    "type": [
+      "Americana",
+      "Comida rápida"
+    ],
+    "description": "Hamburgers... Hamburguesas",
+    "contact_info": {
+      "phone": {
+        "number": null,
+        "type": null
+      },
+      "email": null,
+      "website": null
+    },
+    "opening_hours": {
+      "monday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "tuesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "wednesday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "thursday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "friday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "saturday": {
+        "open": "11:00",
+        "close": "23:00"
+      },
+      "sunday": {
+        "open": "11:00",
+        "close": "23:00"
+      }
+    },
+    "address": "Calle Cienfuegos entre Apodaca y Gloria, Habana Vieja",
+    "municipality": "Habana Vieja",
+    "province": "La Habana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social_media": {
+      "instagram": "https://www.instagram.com/hamburguesitala?igsh=MTRob3FmdGF5bGlvYg==",
+      "facebook": null,
+      "whatsapp": null
+    },
+    "accepted_payment_methods": [
+      "efectivo",
+      "transferencia"
+    ],
+    "delivery_available": false,
+    "service_fee": {
+      "name": null,
+      "description": null,
+      "applies": false
+    },
+    "features": {
+      "reservation_required": false,
+      "outdoor_seating": false,
+      "dine_in": true,
+      "takeaway": true,
+      "offers": [
+        "Hamburguesas"
+      ],
+      "local_options": [
+        "Cena"
+      ],
+      "services": [],
+      "ambience": [
+        "Informal"
+      ],
+      "usual_customers": [
+        "Grupos",
+        "Menores"
+      ],
+      "planning": [],
+      "children": true,
+      "pets": false,
+      "parking": null
+    },
+    "dietary_options": [],
+    "meals": [
+      "Cena"
+    ],
+    "advantages": [
+      "Para llevar",
+      "Consumo en el lugar"
+    ],
+    "highlights": [
+      "Informal",
+      "Ideal para ir con niños",
+      "Recomendable para ir en grupo"
+    ]
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "europea",
+      "americana",
+      "criolla"
+    ],
+    "healthy_food_options": false,
+    "menu_card": {
+      "menu_sections": {
+        "breakfasts": [
+          {
+            "courses": [
+              {
+                "name": "Croquetas",
+                "price": 350
+              },
+              {
+                "name": "Frituras de malanga",
+                "price": 350
+              },
+              {
+                "name": "Tostones hawaianos",
+                "price": 400
+              }
+            ]
+          }
+        ],
+        "breads": [
+          {
+            "courses": [
+              {
+                "name": "Pollo",
+                "price": 450
+              },
+              {
+                "name": "Jamón",
+                "price": 400
+              },
+              {
+                "name": "Queso",
+                "price": 400
+              },
+              {
+                "name": "Jamón y queso",
+                "price": 500
+              },
+              {
+                "name": "Atún",
+                "price": 750
+              },
+              {
+                "name": "Cubano",
+                "price": 750
+              },
+              {
+                "name": "Clásica",
+                "price": 550
+              },
+              {
+                "name": "Hawaiana",
+                "price": 650
+              },
+              {
+                "name": "Casa blanca",
+                "price": 700
+              },
+              {
+                "name": "Submarino",
+                "price": 670
+              },
+              {
+                "name": "Belleza habanera",
+                "price": 700
+              },
+              {
+                "name": "Locura cienfueguera",
+                "price": 800
+              },
+              {
+                "name": "Biplanta",
+                "price": 850
+              },
+              {
+                "name": "Cubana",
+                "price": 950
+              },
+              {
+                "name": "Milanesa",
+                "price": 950
+              }
+            ]
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "beers": [
                   {
-                    "alcoholic_beverages": [
-                      {
-                        "beers": [
-                          {
-                            "name": "Cervezas nacionales",
-                            "price": 280
-                          },
-                          {
-                            "name": "Cervezas importadas",
-                            "price": 250
-                          }
-                        ]
-                      }
-                    ],
-                    "water": [
-                      {
-                        "name": "Agua natural",
-                        "price": 150
-                      }
-                    ],
-                    "soft_drinks": [
-                      {
-                        "name": "Energizante",
-                        "price": 280
-                      },
-                      {
-                        "name": "Refresco nacional",
-                        "price": 250
-                      },
-                      {
-                        "name": "Refresco importado",
-                        "price": 280
-                      }
-                    ],
-                    "natual_juices": [
-                      {
-                        "name": "Jugos naturales",
-                        "price": 150
-                      },
-                      {
-                        "name": "Batidos de frutas",
-                        "price": 200
-                      },
-                      {
-                        "name": "Limonada frape",
-                        "price": 200
-                      },
-                      {
-                        "name": "Malteada",
-                        "price": 350
-                      },
-                      {
-                        "name": "Malta",
-                        "price": 280
-                      }
-                    ],
-                    "coffees": [
-                      {
-                        "name": "Cafe expreso",
-                        "price": 100
-                      },
-                      {
-                        "name": "Cafe bombom",
-                        "price": 150
-                      }
-                    ]
+                    "name": "Cervezas nacionales",
+                    "price": 280
+                  },
+                  {
+                    "name": "Cervezas importadas",
+                    "price": 250
                   }
                 ]
-            }
-        }    
+              }
+            ],
+            "water": [
+              {
+                "name": "Agua natural",
+                "price": 150
+              }
+            ],
+            "soft_drinks": [
+              {
+                "name": "Energizante",
+                "price": 280
+              },
+              {
+                "name": "Refresco nacional",
+                "price": 250
+              },
+              {
+                "name": "Refresco importado",
+                "price": 280
+              }
+            ],
+            "natual_juices": [
+              {
+                "name": "Jugos naturales",
+                "price": 150
+              },
+              {
+                "name": "Batidos de frutas",
+                "price": 200
+              },
+              {
+                "name": "Limonada frape",
+                "price": 200
+              },
+              {
+                "name": "Malteada",
+                "price": 350
+              },
+              {
+                "name": "Malta",
+                "price": 280
+              }
+            ],
+            "coffees": [
+              {
+                "name": "Cafe expreso",
+                "price": 100
+              },
+              {
+                "name": "Cafe bombom",
+                "price": 150
+              }
+            ]
+          }
+        ]
+      }
     }
   }
-    
+}

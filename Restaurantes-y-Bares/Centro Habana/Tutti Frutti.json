@@ -33,7 +33,9 @@
         "usd"
     ],
     "menu_details": {
-        "kind_of_food": ["variada"],
+        "kind_of_food": [
+            "criolla"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -43,22 +45,35 @@
                             {
                                 "name": "Desayuno completo",
                                 "price": 1200,
-                                "main_ingredients": ["variados"]
+                                "main_ingredients": [
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "Dulce de fruta",
                                 "price": 600,
-                                "main_ingredients": ["fruta"]
+                                "main_ingredients": [
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "Sándwiche Cubano",
                                 "price": 1200,
-                                "main_ingredients": ["harina", "cerdo", "jamon", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "cerdo",
+                                    "jamon",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Sándwiches Aguacate",
                                 "price": 1200,
-                                "main_ingredients": ["harina", "queso", "vegetales"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso",
+                                    "vegetales"
+                                ]
                             }
                         ]
                     }
@@ -182,6 +197,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

@@ -11,7 +11,12 @@
         }
     },
     "name": "Cafe Versalles",
-    "type_cuisine": ["cocteles","criolla","café","italiana"],
+    "type_cuisine": [
+        "cocteles",
+        "criolla",
+        "café",
+        "italiana"
+    ],
     "schedule": {
         "monday": {
             "opening": "09:00",
@@ -48,413 +53,423 @@
         "qualification_facebook": 5.0
     },
     "reservation_options": false,
-    "social_networks": ["Facebook","Instagram"],
-    "payment_options": ["Efectivo","Transfermovil"],
-    "service_details": ["A la carta"],
-    
+    "social_networks": [
+        "Facebook",
+        "Instagram"
+    ],
+    "payment_options": [
+        "Efectivo",
+        "Transfermovil"
+    ],
+    "service_details": [
+        "A la carta"
+    ],
     "menu_details": {
-        "kind_of_food": ["variada", "criolla", "italiana"],
+        "kind_of_food": [
+            "criolla",
+            "italiana"
+        ],
         "menu_card": {
             "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
+                "starters": [
                     {
-                      "name": "Ensalada Fría De Jamón",
-                      "price": 500.00
-                  },
-                  {
-                      "name": "Ensalada Fría De Atún",
-                      "price": 700.00
-                  },
-                  {
-                      "name": "Croquetas De La Casa",
-                      "price": 500.00
-                  },
-                  {
-                      "name": "Eperlan De Pescado",
-                      "price": 1600.00
-                  },
-                  {
-                      "name": "Fajitas De Pollo Empanado",
-                      "price": 1500.00
-                  },
-                  {
-                      "name": "Maripositas Chinas",
-                      "price": 700.00
-                  },
-                  {
-                      "name": "Ceviche De Pescado",
-                      "price": 1000.00
-                  },
-                  {
-                      "name": "Cesta Bananera",
-                      "price": 850.00
-                  },
-                  {
-                      "name": "Cóctel De Camarón",
-                      "price": 1200.00
-                  }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Pollo grille",
-                      "price": 1400.00
-                  },
-                  {
-                      "name": "Pollo cantones",
-                      "price": 2200.00
-                  },
-                  {
-                      "name": "Cordon bleu",
-                      "price": 2500.00
-                  },
-                  {
-                      "name": "Medio pollo al carbón con BBQ",
-                      "price": 2500.00
-                  },
-                  {
-                      "name": "Pescado versalles",
-                      "price": 2800.00
-                  },
-                  {
-                      "name": "Canciller",
-                      "price": 2800.00
-                  },
-                  {
-                      "name": "Montetoro",
-                      "price": 2200.00
-                  },
-                  {
-                      "name": "Filete grille",
-                      "price": 1600.00
-                  },
-                  {
-                      "name": "Camarón al gusto",
-                      "price": 2500.00
-                  },
-                  {
-                      "name": "Chuleta de cerdo al carbón con bbq 1 libra",
-                      "price": 3600.00
-                  },
-                  {
-                      "name": "Solomillo de cerdo al carbón con bbq 1 libra",
-                      "price": 3000.00
-                  },
-                  {
-                      "name": "Uruguayo de cerdo",
-                      "price": 2500.00
-                  },
-                  {
-                      "name": "Masa de cerdo frita 300 gr",
-                      "price": 2800.00
-                  },
-                  {
-                      "name": "Bistec de cerdo encebollado",
-                      "price": 1600.00
-                  }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Pizza Napoles",
-                      "price": 900.00
-                  },
-                  {
-                      "name": "Pizza queso gouda",
-                      "price": 1260.00
-                  },
-                  {
-                      "name": "Pizza jamón",
-                      "price": 1150.00
-                  },
-                  {
-                      "name": "Pizza chorizo",
-                      "price": 1250.00
-                  },
-                  {
-                      "name": "Pizza camarones",
-                      "price": 1700.00
-                  },
-                  {
-                      "name": "Pizza cebolla",
-                      "price": 1150.00
-                  },
-                  {
-                      "name": "Pizza aceituna",
-                      "price": 1200.00
-                  },
-                  {
-                      "name": "Pizza piña",
-                      "price": 1150.00
-                  },
-                  {
-                      "name": "Pizza atún",
-                      "price": 1250.00
-                  },
-                  {
-                      "name": "Pizza lomo ahumado",
-                      "price": 1250.00
-                  },
-                  {
-                      "name": "Pizza beicon",
-                      "price": 1300.00
-                  },
-                  {
-                      "name": "Pizza pimiento",
-                      "price": 1200.00
-                  }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Espaguetis",
-                      "price": 800.00
-                  },
-                  {
-                      "name": "Lazaña de Jamon",
-                      "price": 1200.00
-                  }
-                  ]
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                    {
-                      "shots": [
-                        {
-                          "name": "Ron selección de maestros",
-                          "price": 900.00
-                      },
-                      {
-                          "name": "Ron añejo especial",
-                          "price": 350.00
-                      },
-                      {
-                          "name": "Ron Santiago",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Ron cubay",
-                          "price": 350.00
-                      },
-                      {
-                          "name": "Ron 3 años",
-                          "price": 350.00
-                      },
-                      {
-                          "name": "Ron reserva",
-                          "price": 350.00
-                      },
-                      {
-                          "name": "Ron 7 años",
-                          "price": 350.00
-                      },
-                      {
-                          "name": "Tequila reposado",
-                          "price": 600.00
-                      },
-                      {
-                          "name": "Tequila olmega silver",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Whisky chivas regal",
-                          "price": 1000.00
-                      },
-                      {
-                          "name": "Whisky white label",
-                          "price": 350.00
-                      },
-                      {
-                          "name": "Whisky ballantines",
-                          "price": 450.00
-                      },
-                      {
-                          "name": "Whisky jack daniels",
-                          "price": 450.00
-                      },
-                      {
-                          "name": "Whisky jameson",
-                          "price": 450.00
-                      },
-                      {
-                          "name": "Vodka absolut",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Daiquiri",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Tinto verano",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Jack in black",
-                          "price": 600.00
-                      },
-                      {
-                          "name": "Bandera",
-                          "price": 600.00
-                      }
-                      ],
-                      "cocktails": [
-                        {
-                          "name": "Margarita",
-                          "price": 600.00
-                      },
-                      {
-                          "name": "Margarita blue",
-                          "price": 700.00
-                      },
-                      {
-                          "name": "Daiquiri frutas",
-                          "price": 600.00
-                      },
-                      {
-                          "name": "Daiquiri rebelde",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Cubanito",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Bloody mary",
-                          "price": 600.00
-                      },
-                      {
-                          "name": "Limonada frappe",
-                          "price": 250.00
-                      },
-                      {
-                          "name": "Limonasa clarete",
-                          "price": 400.00
-                      },
-                      {
-                          "name": "Sangría",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Piña colada",
-                          "price": 550.00
-                      },
-                      {
-                          "name": "Limonada frescura",
-                          "price": 350.00
-                      },
-                      {
-                          "name": "Cubata",
-                          "price": 700.00
-                      },
-                      {
-                          "name": "Cuba libre",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Mojito",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Ron collins",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Caipirissima",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Caipiroska",
-                          "price": 500.00
-                      },
-                      {
-                          "name": "Caipiroska vip",
-                          "price": 850.00
-                      },
-                      {
-                          "name": "Vodka tonic",
-                          "price": 850.00
-                      },
-                      {
-                          "name": "Gin tonic",
-                          "price": 700.00
-                      }
-                      ],
-                      "beers": [
-                        {
-                          "name": "Cerveza cristal",
-                          "price": 350.00
-                      },
-                      {
-                          "name": "Cerveza importada (heineken)",
-                          "price": 400.00
-                      },
-                      {
-                          "name": "Jarra de cerveza",
-                          "price": 550.00
-                      },
-                      {
-                          "name": "Tarro de cerveza",
-                          "price": 2500.00
-                      }
-                      ]
+                        "courses": [
+                            {
+                                "name": "Ensalada Fría De Jamón",
+                                "price": 500.00
+                            },
+                            {
+                                "name": "Ensalada Fría De Atún",
+                                "price": 700.00
+                            },
+                            {
+                                "name": "Croquetas De La Casa",
+                                "price": 500.00
+                            },
+                            {
+                                "name": "Eperlan De Pescado",
+                                "price": 1600.00
+                            },
+                            {
+                                "name": "Fajitas De Pollo Empanado",
+                                "price": 1500.00
+                            },
+                            {
+                                "name": "Maripositas Chinas",
+                                "price": 700.00
+                            },
+                            {
+                                "name": "Ceviche De Pescado",
+                                "price": 1000.00
+                            },
+                            {
+                                "name": "Cesta Bananera",
+                                "price": 850.00
+                            },
+                            {
+                                "name": "Cóctel De Camarón",
+                                "price": 1200.00
+                            }
+                        ]
                     }
-                  ],
-                  "water": [
+                ],
+                "main_courses": [
                     {
-                      "name": "Agua natural",
-                      "price": 200.00
-                  }
-                  ],
-                  "soft_drinks": [
+                        "courses": [
+                            {
+                                "name": "Pollo grille",
+                                "price": 1400.00
+                            },
+                            {
+                                "name": "Pollo cantones",
+                                "price": 2200.00
+                            },
+                            {
+                                "name": "Cordon bleu",
+                                "price": 2500.00
+                            },
+                            {
+                                "name": "Medio pollo al carbón con BBQ",
+                                "price": 2500.00
+                            },
+                            {
+                                "name": "Pescado versalles",
+                                "price": 2800.00
+                            },
+                            {
+                                "name": "Canciller",
+                                "price": 2800.00
+                            },
+                            {
+                                "name": "Montetoro",
+                                "price": 2200.00
+                            },
+                            {
+                                "name": "Filete grille",
+                                "price": 1600.00
+                            },
+                            {
+                                "name": "Camarón al gusto",
+                                "price": 2500.00
+                            },
+                            {
+                                "name": "Chuleta de cerdo al carbón con bbq 1 libra",
+                                "price": 3600.00
+                            },
+                            {
+                                "name": "Solomillo de cerdo al carbón con bbq 1 libra",
+                                "price": 3000.00
+                            },
+                            {
+                                "name": "Uruguayo de cerdo",
+                                "price": 2500.00
+                            },
+                            {
+                                "name": "Masa de cerdo frita 300 gr",
+                                "price": 2800.00
+                            },
+                            {
+                                "name": "Bistec de cerdo encebollado",
+                                "price": 1600.00
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
                     {
-                      "name": "Refresco importado",
-                      "price": 250.00
-                  },
-                  {
-                      "name": "Refresco nacional",
-                      "price": 250.00
-                  },
-                  {
-                      "name": "Malta",
-                      "price": 320.00
-                  }
-                  ],
-                  "natual_juices": [
+                        "courses": [
+                            {
+                                "name": "Pizza Napoles",
+                                "price": 900.00
+                            },
+                            {
+                                "name": "Pizza queso gouda",
+                                "price": 1260.00
+                            },
+                            {
+                                "name": "Pizza jamón",
+                                "price": 1150.00
+                            },
+                            {
+                                "name": "Pizza chorizo",
+                                "price": 1250.00
+                            },
+                            {
+                                "name": "Pizza camarones",
+                                "price": 1700.00
+                            },
+                            {
+                                "name": "Pizza cebolla",
+                                "price": 1150.00
+                            },
+                            {
+                                "name": "Pizza aceituna",
+                                "price": 1200.00
+                            },
+                            {
+                                "name": "Pizza piña",
+                                "price": 1150.00
+                            },
+                            {
+                                "name": "Pizza atún",
+                                "price": 1250.00
+                            },
+                            {
+                                "name": "Pizza lomo ahumado",
+                                "price": 1250.00
+                            },
+                            {
+                                "name": "Pizza beicon",
+                                "price": 1300.00
+                            },
+                            {
+                                "name": "Pizza pimiento",
+                                "price": 1200.00
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
                     {
-                      "name": "Jugos naturales",
-                      "price": 350.00
-                  }
-                  ],
-                  "coffees": [
+                        "courses": [
+                            {
+                                "name": "Espaguetis",
+                                "price": 800.00
+                            },
+                            {
+                                "name": "Lazaña de Jamon",
+                                "price": 1200.00
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
                     {
-                      "name": "Café expreso",
-                      "price": 100.00
-                  },
-                  {
-                      "name": "Café bombon",
-                      "price": 250.00
-                  },
-                  {
-                      "name": "Café cortado",
-                      "price": 200.00
-                  }
-                  ]
-                }
-              ]
+                        "alcoholic_beverages": [
+                            {
+                                "shots": [
+                                    {
+                                        "name": "Ron selección de maestros",
+                                        "price": 900.00
+                                    },
+                                    {
+                                        "name": "Ron añejo especial",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "Ron Santiago",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Ron cubay",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "Ron 3 años",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "Ron reserva",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "Ron 7 años",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "Tequila reposado",
+                                        "price": 600.00
+                                    },
+                                    {
+                                        "name": "Tequila olmega silver",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Whisky chivas regal",
+                                        "price": 1000.00
+                                    },
+                                    {
+                                        "name": "Whisky white label",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "Whisky ballantines",
+                                        "price": 450.00
+                                    },
+                                    {
+                                        "name": "Whisky jack daniels",
+                                        "price": 450.00
+                                    },
+                                    {
+                                        "name": "Whisky jameson",
+                                        "price": 450.00
+                                    },
+                                    {
+                                        "name": "Vodka absolut",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Daiquiri",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Tinto verano",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Jack in black",
+                                        "price": 600.00
+                                    },
+                                    {
+                                        "name": "Bandera",
+                                        "price": 600.00
+                                    }
+                                ],
+                                "cocktails": [
+                                    {
+                                        "name": "Margarita",
+                                        "price": 600.00
+                                    },
+                                    {
+                                        "name": "Margarita blue",
+                                        "price": 700.00
+                                    },
+                                    {
+                                        "name": "Daiquiri frutas",
+                                        "price": 600.00
+                                    },
+                                    {
+                                        "name": "Daiquiri rebelde",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Cubanito",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Bloody mary",
+                                        "price": 600.00
+                                    },
+                                    {
+                                        "name": "Limonada frappe",
+                                        "price": 250.00
+                                    },
+                                    {
+                                        "name": "Limonasa clarete",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Sangría",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Piña colada",
+                                        "price": 550.00
+                                    },
+                                    {
+                                        "name": "Limonada frescura",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "Cubata",
+                                        "price": 700.00
+                                    },
+                                    {
+                                        "name": "Cuba libre",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Mojito",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Ron collins",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Caipirissima",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Caipiroska",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Caipiroska vip",
+                                        "price": 850.00
+                                    },
+                                    {
+                                        "name": "Vodka tonic",
+                                        "price": 850.00
+                                    },
+                                    {
+                                        "name": "Gin tonic",
+                                        "price": 700.00
+                                    }
+                                ],
+                                "beers": [
+                                    {
+                                        "name": "Cerveza cristal",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "Cerveza importada (heineken)",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Jarra de cerveza",
+                                        "price": 550.00
+                                    },
+                                    {
+                                        "name": "Tarro de cerveza",
+                                        "price": 2500.00
+                                    }
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua natural",
+                                "price": 200.00
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Refresco importado",
+                                "price": 250.00
+                            },
+                            {
+                                "name": "Refresco nacional",
+                                "price": 250.00
+                            },
+                            {
+                                "name": "Malta",
+                                "price": 320.00
+                            }
+                        ],
+                        "natual_juices": [
+                            {
+                                "name": "Jugos naturales",
+                                "price": 350.00
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "Café expreso",
+                                "price": 100.00
+                            },
+                            {
+                                "name": "Café bombon",
+                                "price": 250.00
+                            },
+                            {
+                                "name": "Café cortado",
+                                "price": 200.00
+                            }
+                        ]
+                    }
+                ]
             }
-        }    
+        }
     }
 }

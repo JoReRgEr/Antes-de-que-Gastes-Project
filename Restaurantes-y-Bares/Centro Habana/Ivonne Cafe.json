@@ -31,7 +31,9 @@
         "cup"
     ],
     "menu_details": {
-        "kind_of_food": ["variada", "italiana"],
+        "kind_of_food": [
+            "italiana"
+        ],
         "healthy_food_options": false,
         "menu_card": {
             "menu_sections": {
@@ -41,12 +43,18 @@
                             {
                                 "name": "Espagueti Blanco",
                                 "price": 700,
-                                "main_ingredients": ["pasta", "queso"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Espagueti Gouda",
                                 "price": 850,
-                                "main_ingredients": ["pasta", "queso"]
+                                "main_ingredients": [
+                                    "pasta",
+                                    "queso"
+                                ]
                             }
                         ]
                     }
@@ -57,22 +65,34 @@
                             {
                                 "name": "Pizza  queso blanco",
                                 "price": 350,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Pizza Grande queso blanco",
                                 "price": 500,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Pizza Pequeña Gouda",
                                 "price": 600,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             },
                             {
                                 "name": "Pizza Grande Gouda",
                                 "price": 850,
-                                "main_ingredients": ["harina", "queso"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "queso"
+                                ]
                             }
                         ]
                     }
@@ -97,42 +117,61 @@
                             {
                                 "name": "Tartaleta",
                                 "price": 350,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "name": "Donut",
                                 "price": 170,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "name": "Coffee cake",
                                 "price": 160,
-                                "main_ingredients": ["harina", "leche"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche"
+                                ]
                             },
                             {
                                 "name": "Empanada",
                                 "price": 250,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "name": "Cangrejitos",
                                 "price": 250,
-                                "main_ingredients": ["harina", "fruta"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "fruta"
+                                ]
                             },
                             {
                                 "name": "Rollitos",
                                 "price": 200,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "name": "Pasteles",
                                 "price": 100,
-                                "main_ingredients": ["harina"]
+                                "main_ingredients": [
+                                    "harina"
+                                ]
                             },
                             {
                                 "name": "Cakes",
                                 "price": 4500,
-                                "main_ingredients": ["harina", "leche"]
+                                "main_ingredients": [
+                                    "harina",
+                                    "leche"
+                                ]
                             }
                         ]
                     }
@@ -143,9 +182,9 @@
                             {
                                 "beers": [
                                     {
-                                        "name": "Cervezas", 
+                                        "name": "Cervezas",
                                         "price": 300
-                                    } 
+                                    }
                                 ]
                             }
                         ],
@@ -204,6 +243,6 @@
                     }
                 ]
             }
-        }    
+        }
     }
 }

@@ -43,21 +43,31 @@
     "location_details": {
         "rating": {
             "google": {
-                    "stars": 3.4,
-                    "number_of_reviews": 9,
-                    "recurring_themes": [ ["comida", "precios"]
+                "stars": 3.4,
+                "number_of_reviews": 9,
+                "recurring_themes": [
+                    [
+                        "comida",
+                        "precios"
+                    ]
                 ]
             },
             "tripadvisor": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             },
             "facebook": {
-                    "stars": null,
-                    "number_of_reviews": null,
-                    "recurring_themes": [ [null]
+                "stars": null,
+                "number_of_reviews": null,
+                "recurring_themes": [
+                    [
+                        null
+                    ]
                 ]
             }
         },
@@ -66,22 +76,27 @@
         "festive_decorations": false,
         "home_uniform": "casual",
         "collaboration_for_events": false,
-        "type_of_concurrent_clients": ["grupos"],
+        "type_of_concurrent_clients": [
+            "grupos"
+        ],
         "energy_backup": false
     },
     "services": {
         "social_networks": {
-            "web_page": [ false,
+            "web_page": [
+                false,
                 {
                     "url": null
                 }
             ],
-            "facebook": [ false,
+            "facebook": [
+                false,
                 {
                     "url": null
                 }
             ],
-            "instagram": [ false,
+            "instagram": [
+                false,
                 {
                     "url": null
                 }
@@ -91,7 +106,7 @@
         "child_care": false,
         "disable_support": false,
         "wifi": false,
-        "parking":  false,
+        "parking": false,
         "delivery": false,
         "reserves": false,
         "rent_from_the_client": false,
@@ -103,12 +118,11 @@
     },
     "pay_meth": {
         "cash": true,
-        "transfer":
-            {
-                "transfermovil": true,
-                "visa": false,
-                "mastercard": false
-            },
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
         "currency": {
             "cup": true,
             "usd": false,
@@ -119,7 +133,9 @@
         "10% charge": false
     },
     "menu_details": {
-        "kind_of_food": ["variada"],
+        "kind_of_food": [
+            "criolla"
+        ],
         "healthy_food_options": true,
         "menu_card": {
             "menu_sections": {
@@ -129,12 +145,16 @@
                             {
                                 "name": "ensalada de estacion",
                                 "price": 200,
-                                "main_ingredients": ["vegetales"]
+                                "main_ingredients": [
+                                    "vegetales"
+                                ]
                             },
                             {
                                 "name": "papas fritas",
                                 "price": 150,
-                                "main_ingredients": ["vianda"]
+                                "main_ingredients": [
+                                    "vianda"
+                                ]
                             }
                         ]
                     }
@@ -145,27 +165,39 @@
                             {
                                 "name": "caldosa boulevard",
                                 "price": 200,
-                                "main_ingredients": ["grano", "vegetales", "variados"]
+                                "main_ingredients": [
+                                    "grano",
+                                    "vegetales",
+                                    "variados"
+                                ]
                             },
                             {
                                 "name": "arroz con subproductos",
                                 "price": 300,
-                                "main_ingredients": ["grano"]
+                                "main_ingredients": [
+                                    "grano"
+                                ]
                             },
                             {
                                 "name": "fajitas de cerdo",
                                 "price": 1350,
-                                "main_ingredients": ["cerdo"]
+                                "main_ingredients": [
+                                    "cerdo"
+                                ]
                             },
                             {
                                 "name": "fajitas de pollo",
                                 "price": 1300,
-                                "main_ingredients": ["pollo"]
+                                "main_ingredients": [
+                                    "pollo"
+                                ]
                             },
                             {
                                 "name": "filete de merluza",
                                 "price": 550,
-                                "main_ingredients": ["pescado"]
+                                "main_ingredients": [
+                                    "pescado"
+                                ]
                             }
                         ]
                     }
@@ -176,61 +208,61 @@
                             {
                                 "beers": [
                                     {
-                                        "name" : "cerveza importada",
-                                        "price" : 180
+                                        "name": "cerveza importada",
+                                        "price": 180
                                     }
                                 ],
                                 "wine_glass": [
                                     {
-                                        "name" : "vino tinto cabernet",
-                                        "price" : 1340
+                                        "name": "vino tinto cabernet",
+                                        "price": 1340
                                     }
                                 ],
                                 "shots": [
                                     {
-                                        "name" : "licor paso pondal",
-                                        "price" : 75
+                                        "name": "licor paso pondal",
+                                        "price": 75
                                     },
                                     {
-                                        "name" : "licor fenet blanca",
-                                        "price" : 75
+                                        "name": "licor fenet blanca",
+                                        "price": 75
                                     },
                                     {
-                                        "name" : "grappa carolina bianca",
-                                        "price" : 75
+                                        "name": "grappa carolina bianca",
+                                        "price": 75
                                     },
                                     {
-                                        "name" : "ron legendario añejo",
-                                        "price" : 90
+                                        "name": "ron legendario añejo",
+                                        "price": 90
                                     },
                                     {
-                                        "name" : "ron legendario dorado",
-                                        "price" : 100
+                                        "name": "ron legendario dorado",
+                                        "price": 100
                                     },
                                     {
-                                        "name" : "trago legendario ronse",
-                                        "price" : 75
+                                        "name": "trago legendario ronse",
+                                        "price": 75
                                     },
                                     {
-                                        "name" : "licor de cafe",
-                                        "price" : 75
+                                        "name": "licor de cafe",
+                                        "price": 75
                                     },
                                     {
-                                        "name" : "copa de vino blanco",
-                                        "price" : 145
+                                        "name": "copa de vino blanco",
+                                        "price": 145
                                     }
                                 ]
                             }
                         ],
                         "natural_juices": [
                             {
-                                "name" : "jugo de fruta",
-                                "price" : 100
+                                "name": "jugo de fruta",
+                                "price": 100
                             }
                         ]
                     }
                 ]
             }
-        }    
+        }
     }
 }

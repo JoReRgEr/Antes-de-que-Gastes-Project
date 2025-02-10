@@ -11,7 +11,12 @@
         }
     },
     "name": "Ruta 66",
-    "type_cuisine": ["criolla","hamburguesas", "pizzas","pastas"],
+    "type_cuisine": [
+        "criolla",
+        "hamburguesas",
+        "pizzas",
+        "pastas"
+    ],
     "schedule": {
         "monday": {
             "opening": null,
@@ -48,205 +53,214 @@
         "qualification_facebook": null
     },
     "reservation_options": false,
-    "social_networks": [null],
-    "payment_options": ["Transferencia","Efectivo"],
-    "service_details": [null],
-    
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "Transferencia",
+        "Efectivo"
+    ],
+    "service_details": [
+        null
+    ],
     "menu_details": {
-        "kind_of_food": ["variada", "italiana", "criolla"],
+        "kind_of_food": [
+            "italiana",
+            "criolla"
+        ],
         "menu_card": {
             "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
+                "starters": [
                     {
-                      "name": "Tostones rellenos de jamón y queso",
-                      "price": 1090.00
-                  },
-                  {
-                      "name": "Tostones rellenos de bolognesa",
-                      "price": 950.00
-                  },
-                  {
-                      "name": "Tostones rellenos de vegetales salteados y queso",
-                      "price": 910.00
-                  },
-                  {
-                      "name": "Garbanzos fritos",
-                      "price": 1900.00
-                  },
-                  {
-                      "name": "Ceviche de pescado",
-                      "price": 1500.00
-                  },
-                  {
-                      "name": "Frituras de malanga",
-                      "price": 595.00
-                  },
-                  {
-                      "name": "Croquetas",
-                      "price": 490.00
-                  },
-                  {
-                      "name": "Brosquetas",
-                      "price": 420.00
-                  },
-                  {
-                      "name": "Tamal",
-                      "price": 400.00
-                  }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": "Lomo ahumado (con gratinado de queso)",
-                      "price": 1850.00
-                  },
-                  {
-                      "name": "Lomo ahumado (con salsa de piña)",
-                      "price": 2000.00
-                  },
-                  {
-                      "name": "Enchilado de camarones",
-                      "price": 3300.00
-                  },
-                  {
-                      "name": "Camarones al ajillo",
-                      "price": 2950.00
-                  },
-                  {
-                      "name": "Camarones en salsa de frutas",
-                      "price": 2800.00
-                  },
-                  {
-                      "name": "Enchilado de pulpo",
-                      "price": 2690.00
-                  },
-                  {
-                      "name": "Pulpo al ajillo",
-                      "price": 2470.00
-                  },
-                  {
-                      "name": "Filete de pescado Route 66 (a la plancha gratinado con queso y camarón)",
-                      "price": 3550.00
-                  },
-                  {
-                      "name": "Monte toro a la francesa (a la plancha gratinado con queso)",
-                      "price": 2400.00
-                  },
-                  {
-                      "name": "Filete de pescado en salsa de frutas",
-                      "price": 2250.00
-                  },
-                  {
-                      "name": "Filete de pescado a la plancha",
-                      "price": 1800.00
-                  },
-                  {
-                      "name": "Arroz frito especial Route 66",
-                      "price": 2065.00
-                  },
-                  {
-                      "name": "Arroz frito",
-                      "price": 1280.00
-                  },
-                  {
-                      "name": "Arroz blanco",
-                      "price": 200.00
-                  },
-                  {
-                      "name": "Puré de malanga",
-                      "price": 335.00
-                  },
-                  {
-                      "name": "Ensalada mixta de estación",
-                      "price": 425.00
-                  },
-                  {
-                      "name": "Super Route 66 (Cerdo)",
-                      "price": 1965.00
-                  },
-                  {
-                      "name": "Castrol (Cerdo)",
-                      "price": 1255.00
-                  },
-                  {
-                      "name": "Texaco (Cerdo)",
-                      "price": 940.00
-                  }
-                  ]
-                }
-              ],
-              "pizzas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Pizza de queso gouda",
-                      "price": 850.00
-                  }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {
-                      "name": "Lasaña queso gouda",
-                      "price": 1420.00
-                  },
-                  {
-                      "name": "Espaguetis de queso gouda",
-                      "price": 1100.00
-                  }
-                  ]
-                }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                    {
-                      "beers": [
-                        {
-                          "name": "Cerveza importada",
-                          "price": 210.00
-                      }
-                      ],
-                      "wine_glass": [
-                        {
-                          "name": "Vino tinto",
-                          "price": 2200.00
-                      }
-                      ]
+                        "courses": [
+                            {
+                                "name": "Tostones rellenos de jamón y queso",
+                                "price": 1090.00
+                            },
+                            {
+                                "name": "Tostones rellenos de bolognesa",
+                                "price": 950.00
+                            },
+                            {
+                                "name": "Tostones rellenos de vegetales salteados y queso",
+                                "price": 910.00
+                            },
+                            {
+                                "name": "Garbanzos fritos",
+                                "price": 1900.00
+                            },
+                            {
+                                "name": "Ceviche de pescado",
+                                "price": 1500.00
+                            },
+                            {
+                                "name": "Frituras de malanga",
+                                "price": 595.00
+                            },
+                            {
+                                "name": "Croquetas",
+                                "price": 490.00
+                            },
+                            {
+                                "name": "Brosquetas",
+                                "price": 420.00
+                            },
+                            {
+                                "name": "Tamal",
+                                "price": 400.00
+                            }
+                        ]
                     }
-                  ],
-                  "water": [
+                ],
+                "main_courses": [
                     {
-                      "name": "Agua Mineral",
-                      "price": 190.00
-                  }
-                  ],
-                  "soft_drinks": [
+                        "courses": [
+                            {
+                                "name": "Lomo ahumado (con gratinado de queso)",
+                                "price": 1850.00
+                            },
+                            {
+                                "name": "Lomo ahumado (con salsa de piña)",
+                                "price": 2000.00
+                            },
+                            {
+                                "name": "Enchilado de camarones",
+                                "price": 3300.00
+                            },
+                            {
+                                "name": "Camarones al ajillo",
+                                "price": 2950.00
+                            },
+                            {
+                                "name": "Camarones en salsa de frutas",
+                                "price": 2800.00
+                            },
+                            {
+                                "name": "Enchilado de pulpo",
+                                "price": 2690.00
+                            },
+                            {
+                                "name": "Pulpo al ajillo",
+                                "price": 2470.00
+                            },
+                            {
+                                "name": "Filete de pescado Route 66 (a la plancha gratinado con queso y camarón)",
+                                "price": 3550.00
+                            },
+                            {
+                                "name": "Monte toro a la francesa (a la plancha gratinado con queso)",
+                                "price": 2400.00
+                            },
+                            {
+                                "name": "Filete de pescado en salsa de frutas",
+                                "price": 2250.00
+                            },
+                            {
+                                "name": "Filete de pescado a la plancha",
+                                "price": 1800.00
+                            },
+                            {
+                                "name": "Arroz frito especial Route 66",
+                                "price": 2065.00
+                            },
+                            {
+                                "name": "Arroz frito",
+                                "price": 1280.00
+                            },
+                            {
+                                "name": "Arroz blanco",
+                                "price": 200.00
+                            },
+                            {
+                                "name": "Puré de malanga",
+                                "price": 335.00
+                            },
+                            {
+                                "name": "Ensalada mixta de estación",
+                                "price": 425.00
+                            },
+                            {
+                                "name": "Super Route 66 (Cerdo)",
+                                "price": 1965.00
+                            },
+                            {
+                                "name": "Castrol (Cerdo)",
+                                "price": 1255.00
+                            },
+                            {
+                                "name": "Texaco (Cerdo)",
+                                "price": 940.00
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
                     {
-                      "name": "Refrescos importados",
-                      "price": 240.00
-                  },
-                  {
-                      "name": "Malta importada",
-                      "price": 250.00
-                  }
-                  ],
-                  "natual_juices": [
+                        "courses": [
+                            {
+                                "name": "Pizza de queso gouda",
+                                "price": 850.00
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
                     {
-                      "name": "Jugos importados",
-                      "price": 210.00
-                  }
-                  ]
-                }
-              ]
+                        "courses": [
+                            {
+                                "name": "Lasaña queso gouda",
+                                "price": 1420.00
+                            },
+                            {
+                                "name": "Espaguetis de queso gouda",
+                                "price": 1100.00
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "beers": [
+                                    {
+                                        "name": "Cerveza importada",
+                                        "price": 210.00
+                                    }
+                                ],
+                                "wine_glass": [
+                                    {
+                                        "name": "Vino tinto",
+                                        "price": 2200.00
+                                    }
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua Mineral",
+                                "price": 190.00
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Refrescos importados",
+                                "price": 240.00
+                            },
+                            {
+                                "name": "Malta importada",
+                                "price": 250.00
+                            }
+                        ],
+                        "natual_juices": [
+                            {
+                                "name": "Jugos importados",
+                                "price": 210.00
+                            }
+                        ]
+                    }
+                ]
             }
-        }    
+        }
     }
 }
