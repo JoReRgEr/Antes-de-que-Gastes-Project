@@ -1,0 +1,457 @@
+{
+    "ID": 1402,
+    "locality": {
+        "mun": "Regla",
+        "locator": {
+            "phones": {
+                "mobile": 56901253,
+                "landline": null
+            },
+            "plus_code": " 4MFC+QW5, Loredo, La Habana, Cuba"
+        }
+    },
+    "name": "La Nueva Guitarreta",
+    "type_cuisine": [
+        "internacional",
+        "cocteleria"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "24:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "Facebook",
+        "Instagram",
+        "WhatsApp"
+    ],
+    "payment_options": [
+        "Efectivo",
+        "Transfermovil"
+    ],
+    "service_details": [
+        "A la carta",
+        "Entretenimiento"
+    ],
+    "menu_details": {
+        "kind_of_food": [
+            "criolla",
+            "italiana"
+        ],
+        "menu_card": {
+            "menu_sections": {
+                "starters": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Ración de Yuca con Mojo",
+                                "price": 250.00
+                            },
+                            {
+                                "name": "Ensalada de Estación",
+                                "price": 150.00
+                            },
+                            {
+                                "name": "Tacos de Pollo",
+                                "price": 750.00
+                            },
+                            {
+                                "name": "Tacos de Cerdo",
+                                "price": 1000.00
+                            },
+                            {
+                                "name": "Tacos de Res",
+                                "price": 1200.00
+                            },
+                            {
+                                "name": "Fajitas de pollo",
+                                "price": 800.00
+                            },
+                            {
+                                "name": "Bolitas de Queso G",
+                                "price": 700.00
+                            },
+                            {
+                                "name": "Tostones Rellenos QB",
+                                "price": 600.00
+                            },
+                            {
+                                "name": "Tostones Rellenos QG",
+                                "price": 750.00
+                            },
+                            {
+                                "name": "Papas fritas con kétchup",
+                                "price": 500.00
+                            },
+                            {
+                                "name": "Papas fritas con Ketchup y QG",
+                                "price": 650.00
+                            },
+                            {
+                                "name": "Croquetas de la Abuela",
+                                "price": 350.00
+                            },
+                            {
+                                "name": "Croquetas Bechamel",
+                                "price": 650.00
+                            },
+                            {
+                                "name": "Mariopositas Chinas",
+                                "price": 400.00
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Arroz frito",
+                                "price": 1500.00
+                            },
+                            {
+                                "name": "Arroz Frito Especial",
+                                "price": 1800.00
+                            },
+                            {
+                                "name": "Camarones al Ajillo",
+                                "price": null
+                            },
+                            {
+                                "name": "Camarones Enchilados",
+                                "price": null
+                            },
+                            {
+                                "name": "Masas de Cerdo con Salsa Agridulce o Mojito Criollo",
+                                "price": null
+                            },
+                            {
+                                "name": "Escalope de Cerdo",
+                                "price": null
+                            },
+                            {
+                                "name": "Bistec de Cerdo",
+                                "price": null
+                            },
+                            {
+                                "name": "Ropa Vieja",
+                                "price": 1800.00
+                            },
+                            {
+                                "name": "Pechuga Empanada",
+                                "price": 1400.00
+                            },
+                            {
+                                "name": "Pechuga Milanesa",
+                                "price": 1500.00
+                            },
+                            {
+                                "name": "Pechuga Grillé",
+                                "price": 1600.00
+                            },
+                            {
+                                "name": "Pechuga Princesa",
+                                "price": 1750.00
+                            },
+                            {
+                                "name": "Ración de Arroz Moro",
+                                "price": 200.00
+                            },
+                            {
+                                "name": "Ración de Arroz Blanco",
+                                "price": 150.00
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Pizza de Queso Blanco",
+                                "price": 700.00
+                            },
+                            {
+                                "name": "Pizza de Queso Gouda",
+                                "price": 950.00
+                            },
+                            {
+                                "name": "Pizza Hawaiana QB",
+                                "price": 1000.00
+                            },
+                            {
+                                "name": "Pizza Hawaiana QG",
+                                "price": 1250.00
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Lasagna",
+                                "price": 1350.00
+                            },
+                            {
+                                "name": "Espaguetis de Queso Blanco",
+                                "price": 550.00
+                            },
+                            {
+                                "name": "Espaguetis de Queso Gouda",
+                                "price": 700.00
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "beers": [
+                                    {
+                                        "name": "Cerveza Importada",
+                                        "price": 200.00
+                                    },
+                                    {
+                                        "name": "Cerveza Importada",
+                                        "price": 250.00
+                                    },
+                                    {
+                                        "name": "Cerveza Nacional",
+                                        "price": 300.00
+                                    }
+                                ],
+                                "cocktails": [
+                                    {
+                                        "name": "Michelada",
+                                        "price": 250.00
+                                    },
+                                    {
+                                        "name": "Chelada",
+                                        "price": 150.00
+                                    },
+                                    {
+                                        "name": "Caipiroska",
+                                        "price": 450.00
+                                    },
+                                    {
+                                        "name": "Caipirisima",
+                                        "price": 450.00
+                                    },
+                                    {
+                                        "name": "Daiquiri",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Pantera Rosa",
+                                        "price": 650.00
+                                    },
+                                    {
+                                        "name": "Sangría",
+                                        "price": 500.00
+                                    },
+                                    {
+                                        "name": "Tinto Verano",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Long Island",
+                                        "price": 850.00
+                                    },
+                                    {
+                                        "name": "Screwdriver",
+                                        "price": 300.00
+                                    },
+                                    {
+                                        "name": "Gin Tonic Basic",
+                                        "price": 450.00
+                                    },
+                                    {
+                                        "name": "Gin Tonic c/ Beefeater",
+                                        "price": 600.00
+                                    },
+                                    {
+                                        "name": "VodkaTonic",
+                                        "price": 450.00
+                                    },
+                                    {
+                                        "name": "Cuba Libre",
+                                        "price": 250.00
+                                    },
+                                    {
+                                        "name": "Cubata",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "POCIÓN GUITARRETA",
+                                        "price": 800.00
+                                    }
+                                ],
+                                "shots": [
+                                    {
+                                        "name": "Ron Hav Club Añejo Especial",
+                                        "price": 300.00
+                                    },
+                                    {
+                                        "name": "Ron Hav Club Ritual",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "Ron Hav Club Añejo 7 años",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Crema Tequila de Fresa",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Crema de Ron Rua Vieja",
+                                        "price": 550.00
+                                    },
+                                    {
+                                        "name": "Crema de Whisky Bailey's",
+                                        "price": 800.00
+                                    },
+                                    {
+                                        "name": "Whisky JW Etiqueta Roja",
+                                        "price": 650.00
+                                    },
+                                    {
+                                        "name": "Whisky Ballantines",
+                                        "price": 600.00
+                                    },
+                                    {
+                                        "name": "Whisky Jameson",
+                                        "price": 550.00
+                                    },
+                                    {
+                                        "name": "Whisky Chivas Regal",
+                                        "price": 700.00
+                                    },
+                                    {
+                                        "name": "Whisky JB",
+                                        "price": 450.00
+                                    },
+                                    {
+                                        "name": "Whisky Chanceler",
+                                        "price": 200.00
+                                    },
+                                    {
+                                        "name": "Shot Tequila Olmeca Silver",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Shot Jagermeifter",
+                                        "price": 500.00
+                                    }
+                                ],
+                                "wine_glass": [
+                                    {
+                                        "name": "Copa de Vino Tinto Semidulce",
+                                        "price": 350.00
+                                    },
+                                    {
+                                        "name": "Copa de Vino Tinto Merlot",
+                                        "price": 400.00
+                                    },
+                                    {
+                                        "name": "Copa de Vino Tinto Cabernet Sauvignon",
+                                        "price": 450.00
+                                    },
+                                    {
+                                        "name": "Copa de Vino Tinto Tempranillo",
+                                        "price": 675.00
+                                    },
+                                    {
+                                        "name": "Copa de Vino Blanco",
+                                        "price": 350.00
+                                    }
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua Natural Importada",
+                                "price": 200.00
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Refresco de cola Importado",
+                                "price": 220.00
+                            },
+                            {
+                                "name": "Refresco de cola imp Pepsi",
+                                "price": 260.00
+                            },
+                            {
+                                "name": "Refresco de limón imp 7up",
+                                "price": 260.00
+                            },
+                            {
+                                "name": "Refresco de Naranja imp Fanta",
+                                "price": 260.00
+                            },
+                            {
+                                "name": "Refresco de Naranja Importado",
+                                "price": 260.00
+                            },
+                            {
+                                "name": "Refresco Mate",
+                                "price": 280.00
+                            },
+                            {
+                                "name": "Malta Nacional Bucanero",
+                                "price": 300.00
+                            },
+                            {
+                                "name": "Energizante Importado",
+                                "price": 300.00
+                            },
+                            {
+                                "name": "Energizante Importado",
+                                "price": 400.00
+                            },
+                            {
+                                "name": "Energizante Red Bull",
+                                "price": 500.00
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

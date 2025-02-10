@@ -1,0 +1,525 @@
+{
+    "Place": "Donde Albert",
+    "Location": [
+        {
+            "Address": "Calle Malecon entre More y Marcos, Cojimar",
+            "Municipality": "Habana del Este",
+            "Coordinates": "5P93+3XR"
+        }
+    ],
+    "Classification": "Restaurante",
+    "Specialization": "Cocina mixta",
+    "Ownership": "Privado",
+    "Schedule": [
+        {
+            "Opening": "10h00",
+            "Closing": "22h00",
+            "Days": [
+                "Lunes",
+                "Martes",
+                "Miercoles",
+                "Jueves",
+                "Viernes",
+                "Sabado",
+                "Domingo"
+            ]
+        }
+    ],
+    "Ratings": [
+        {
+            "Tripadvisor": null,
+            "Google Maps": 4.4
+        }
+    ],
+    "Reservations": false,
+    "Delivery": [
+        {
+            "Service existence": true,
+            "Delivery area": [
+                "Habana del Este",
+                "Guanabacoa"
+            ]
+        }
+    ],
+    "Phone number": "77668561 / 77668753",
+    "Accounts or website": [
+        {
+            "Facebook": "Cafe Donde Albert"
+        },
+        {
+            "Instagram": "@dondealbert_cafe"
+        },
+        {
+            "Website": null
+        },
+        {
+            "Email": null
+        }
+    ],
+    "Payment": [
+        {
+            "Method": [
+                "Transferencia",
+                "Efectivo"
+            ],
+            "Accepted currencies": [
+                "CUP",
+                "USD",
+                "EUR"
+            ]
+        }
+    ],
+    "Capacity": 40,
+    "Parking service": true,
+    "Wifi": false,
+    "Smoking area": true,
+    "menu_details": {
+        "kind_of_food": [
+            "criolla",
+            "italiana",
+            "panes"
+        ],
+        "menu_card": {
+            "menu_sections": {
+                "starters": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Frituras de malanga en salsa",
+                                "price": 180
+                            },
+                            {
+                                "name": "Croquetas de pescado",
+                                "price": 250
+                            },
+                            {
+                                "name": "Tostones rellenos",
+                                "price": 390
+                            },
+                            {
+                                "name": "Tostones naturales",
+                                "price": 200
+                            },
+                            {
+                                "name": "Crema Aurora",
+                                "price": 250
+                            },
+                            {
+                                "name": "Crema de queso",
+                                "price": 250
+                            },
+                            {
+                                "name": "Crema Virginia",
+                                "price": 250
+                            },
+                            {
+                                "name": "Crema mixta",
+                                "price": 290
+                            }
+                        ]
+                    }
+                ],
+                "breads": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Pan con hamburguesa",
+                                "price": 475
+                            },
+                            {
+                                "name": "Hamburguesa Paro Cardiaco",
+                                "price": 750
+                            },
+                            {
+                                "name": "Sandwich de pollo",
+                                "price": 290
+                            },
+                            {
+                                "name": "Sandwich de jamon y queso",
+                                "price": 490
+                            }
+                        ]
+                    }
+                ],
+                "tacos": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Tacos al pastor",
+                                "price": 495
+                            },
+                            {
+                                "name": "Tacos de cerdo",
+                                "price": 395
+                            },
+                            {
+                                "name": "Tacos de pollo",
+                                "price": 385
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Fajita de pollo",
+                                "price": 490
+                            },
+                            {
+                                "name": "Suprema de pollo",
+                                "price": 520
+                            },
+                            {
+                                "name": "Pollo chiflado con vianda frita",
+                                "price": 530
+                            },
+                            {
+                                "name": "Gordon Blue",
+                                "price": 680
+                            },
+                            {
+                                "name": "Chuleta de cerdo",
+                                "price": 780
+                            },
+                            {
+                                "name": "Lomo ahumado",
+                                "price": 750
+                            },
+                            {
+                                "name": "Bistec de cerdo grille",
+                                "price": 790
+                            },
+                            {
+                                "name": "Bistec uruguayo",
+                                "price": 940
+                            },
+                            {
+                                "name": "Higado a la italiana",
+                                "price": 650
+                            },
+                            {
+                                "name": "Higado al ajillo",
+                                "price": 620
+                            },
+                            {
+                                "name": "Bistec de higado",
+                                "price": 620
+                            },
+                            {
+                                "name": "Eperlan con vianda frita y salsa",
+                                "price": 780
+                            },
+                            {
+                                "name": "Filete de pescado",
+                                "price": 820
+                            },
+                            {
+                                "name": "Canciller",
+                                "price": 950
+                            },
+                            {
+                                "name": "Camaron rebosado",
+                                "price": 850
+                            },
+                            {
+                                "name": "Camaron al ajillo",
+                                "price": 880
+                            },
+                            {
+                                "name": "Camaron enchilado",
+                                "price": 880
+                            },
+                            {
+                                "name": "Camaron al vino con pina",
+                                "price": 960
+                            }
+                        ]
+                    }
+                ],
+                "rations": [
+                    {
+                        "name": "Ensalada de estacion",
+                        "price": 120
+                    },
+                    {
+                        "name": "Arroz blanco",
+                        "price": 80
+                    },
+                    {
+                        "name": "Congris",
+                        "price": 115
+                    },
+                    {
+                        "name": "Arroz salteado",
+                        "price": 120
+                    },
+                    {
+                        "name": "Empanado",
+                        "price": 30
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Pizza de queso",
+                                "price": 520
+                            },
+                            {
+                                "name": "Pizza de cebolla",
+                                "price": 620
+                            },
+                            {
+                                "name": "Pizza de jamon",
+                                "price": 790
+                            },
+                            {
+                                "name": "Pizza de chorizo",
+                                "price": 770
+                            },
+                            {
+                                "name": "Pizza Hawaiana",
+                                "price": 830
+                            },
+                            {
+                                "name": "Pizza Doble Queso",
+                                "price": 690
+                            },
+                            {
+                                "name": "Pizza Mixta",
+                                "price": 890
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": "lasagna",
+                                "price": 615
+                            },
+                            {
+                                "name": "spaghetti napolitano",
+                                "price": 600
+                            },
+                            {
+                                "name": "spaghetti de jamon",
+                                "price": 720
+                            },
+                            {
+                                "name": "spaghetti de chorizo",
+                                "price": 720
+                            },
+                            {
+                                "name": "spaghetti de atun",
+                                "price": 790
+                            }
+                        ]
+                    }
+                ],
+                "additions": [
+                    {
+                        "name": "Aros de cebolla",
+                        "price": 700
+                    },
+                    {
+                        "name": "Queso Gouda",
+                        "price": 160
+                    },
+                    {
+                        "name": "Chorizo",
+                        "price": 110
+                    },
+                    {
+                        "name": "Jamon",
+                        "price": 160
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "beers": [
+                                    {
+                                        "name": "Cerveza importada",
+                                        "price": 230
+                                    }
+                                ],
+                                "shots": [
+                                    {
+                                        "name": "Tequila",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "Vodka Absolut",
+                                        "price": 200
+                                    },
+                                    {
+                                        "name": "HC Especial",
+                                        "price": 100
+                                    },
+                                    {
+                                        "name": "HC Ritual",
+                                        "price": 100
+                                    },
+                                    {
+                                        "name": "HC Reserva",
+                                        "price": 175
+                                    },
+                                    {
+                                        "name": "HC 7 anos",
+                                        "price": 200
+                                    },
+                                    {
+                                        "name": "HC Seleccion de Maestro",
+                                        "price": 260
+                                    },
+                                    {
+                                        "name": "HC Anejo 15 anos",
+                                        "price": 600
+                                    },
+                                    {
+                                        "name": "Santiago Carta Blanca",
+                                        "price": 150
+                                    },
+                                    {
+                                        "name": "Santiago Extra Seco",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "Santiago 12 anos",
+                                        "price": 300
+                                    },
+                                    {
+                                        "name": "Pacto Navio",
+                                        "price": 400
+                                    }
+                                ],
+                                "cocktails": [
+                                    {
+                                        "name": "Mojito",
+                                        "price": 200
+                                    },
+                                    {
+                                        "name": "Daiquiri",
+                                        "price": 200
+                                    },
+                                    {
+                                        "name": "Gin Tonic",
+                                        "price": 200
+                                    },
+                                    {
+                                        "name": "Ron Collins",
+                                        "price": 200
+                                    },
+                                    {
+                                        "name": "Cuba Libre",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "Cubanito",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "Caipiroska",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "Sangria",
+                                        "price": 290
+                                    },
+                                    {
+                                        "name": "Pina colada virgen",
+                                        "price": 250
+                                    },
+                                    {
+                                        "name": "Pina colada",
+                                        "price": 350
+                                    }
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua",
+                                "price": 150
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Refresco de pomito",
+                                "price": 180
+                            },
+                            {
+                                "name": "Refresco importado",
+                                "price": 200
+                            },
+                            {
+                                "name": "Malta",
+                                "price": 240
+                            },
+                            {
+                                "name": "Time Flies",
+                                "price": 280
+                            },
+                            {
+                                "name": "Red Bull",
+                                "price": 280
+                            }
+                        ],
+                        "natural_juices": [
+                            {
+                                "name": "Limonada Frappe",
+                                "price": 80
+                            },
+                            {
+                                "name": "Limonada Frescura",
+                                "price": 90
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "Cafe Expresso",
+                                "price": 70
+                            },
+                            {
+                                "name": "Cafe Americano",
+                                "price": 70
+                            },
+                            {
+                                "name": "Cafe Cortadito",
+                                "price": 90
+                            },
+                            {
+                                "name": "Cappuccino",
+                                "price": 120
+                            },
+                            {
+                                "name": "Cafe Moccha",
+                                "price": 120
+                            },
+                            {
+                                "name": "Rocio de gallo",
+                                "price": 120
+                            },
+                            {
+                                "name": "Cafe Bombon",
+                                "price": 180
+                            },
+                            {
+                                "name": "Frappuccino",
+                                "price": 150
+                            },
+                            {
+                                "name": "Cafe Buen Dia",
+                                "price": 150
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

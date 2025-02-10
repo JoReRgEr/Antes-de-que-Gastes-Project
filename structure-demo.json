@@ -1,301 +1,237 @@
 {
-    "type_of_establishment": "restaurante",
-    "place_name": "VenaVento",
-    "property_type": "particular",
-    "address": {
-        "establishment_phone_number": null,
-        "email": null,
-        "city": "La Habana",
-        "district": "Boyeros",
-        "location": "Calle 10, esq. Vento",
-        "coordinates": "23.052005719313897, -82.3825931103242"
+  "type_of_establishment": "restaurante",
+  "place_name": "VenaVento",
+  "property_type": "particular",
+  "address": {
+    "establishment_phone_number": null,
+    "email": null,
+    "city": "La Habana",
+    "district": "Boyeros",
+    "location": "Calle 10, esq. Vento",
+    "coordinates": "23.052005719313897, -82.3825931103242"
+  },
+  "schedules": {
+    "monday": {
+      "open": "12:00",
+      "closed": "24:00"
     },
-    "schedules": {
-        "monday": {
-            "open": "12:00",
-            "closed": "24:00"
-        },
-        "tuesday": {
-            "open": "12:00",
-            "closed": "24:00"
-        },
-        "wednesday": {
-            "open": "12:00",
-            "closed": "24:00"
-        },
-        "thursday": {
-            "open": "12:00",
-            "closed": "24:00"
-        },
-        "friday": {
-            "open": "12:00",
-            "closed": "24:00"
-        },
-        "saturday": {
-            "open": "12:00",
-            "closed": "24:00"
-        },
-        "sunday": {
-           "open": "12:00",
-            "closed": "24:00"
-        }
+    "tuesday": {
+      "open": "12:00",
+      "closed": "24:00"
     },
-    "location_details": {
-        "rating": {
-            "google": {
-                    "stars": null,
-                    "number_of_reviews": null
-            },
-            "tripadvisor": {
-                    "stars": null,
-                    "number_of_reviews": null
-            },
-            "facebook": {
-                    "stars": null,
-                    "number_of_reviews": null
-            }
-        },
-        "establishment_capacity": "medio",
-        "decoration": "moderno",
-        "festive_decorations": false,
-        "home_uniform": "casual",
-        "collaboration_for_events": false,
-        "type_of_concurrent_clients": ["grupos"],
-        "energy_backup": true
+    "wednesday": {
+      "open": "12:00",
+      "closed": "24:00"
     },
-    "services": {
-        "social_networks": {
-            "web_page": [ false,
-                {
-                    "url": null
-                }
-            ],
-            "facebook": [ true,
-                {
-                    "url": "https://www.facebook.com/venaventohav/?locale=es_LA"
-                }
-            ],
-            "instagram": [ true,
-                {
-                    "url": "https://www.instagram.com/terraza_venavento_oficial/"
-                }
-            ],
-            "whatsapp": "52743762"
-        },
-        "child_care": false,
-        "disable_support": false,
-        "wifi": false,
-        "parking":  true,
-        "delivery": false,
-        "reserves": true,
-        "rent_from_the_client": false,
-        "vip_zone": false,
-        "catering": false,
-        "interactive_activities": false,
-        "sanitary": true,
-        "pet_friendly": false
+    "thursday": {
+      "open": "12:00",
+      "closed": "24:00"
     },
-    "pay_meth": {
-        "cash": true,
-        "transfer":
-            {
-                "transfermovil": true,
-                "visa": true,
-                "mastercard": true
-            },
-        "currency": {
-            "cup": true,
-            "usd": true,
-            "euro": true,
-            "mlc": true
-        },
-        "10% charge": true
+    "friday": {
+      "open": "12:00",
+      "closed": "24:00"
     },
-    "menu_details": {
-        "kind_of_food": ["criolla"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name": ["Ensalada Fria"],
-                    "price": 400
-                  },
-                    {
-                      "name": ["Coctel de Camarones"],
-                    "price": 950
-                  },
-                    {
-                      "name": ["Fritura de Malanga"],
-                    "price": 470
-                  },
-                    {
-                      "name": ["Toston con mojo"],
-                    "price": 470
-                  },
-                    {
-                      "name": ["Chicharritas"],
-                    "price": 380
-                  },
-                    {
-                      "name": ["Papa frita"],
-                    "price": 370
-                  },
-                    {
-                      "name": ["Toston Relleno"],
-                    "price": 700
-                  }
-                  ]
-                }
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {
-                      "name": ["Masa frita de Cerdo"],
-                    "price": 2030
-                  },
-                    {
-                      "name": ["Fricase de cerdo"],
-                    "price": 2030
-                  },
-                    {
-                      "name": ["Bistec de Cerdo Grille"],
-                    "price": 1400
-                  },
-                    {
-                      "name": ["Bistec de Cerdo Uruguayo"],
-                    "price": 2050
-                  },
-                    {
-                      "name": ["Bistec de Cerdo Empanado"],
-                    "price": 1600
-                  },
-                    {
-                      "name": ["Bistec de Cerdo al graten"],
-                    "price": 1600
-                  },
-                    {
-                      "name": ["Bistec de Cerdo a la reina"],
-                    "price": 1700
-                  },
-                    {
-                      "name": ["Vaca Frita"],
-                    "price": 2820
-                  },
-                    {
-                      "name": ["Ropa Vieja"],
-                    "price": 2850
-                  },
-                    {
-                      "name": ["Pechuga"],
-                    "price": 1440
-                  },
-                    {
-                      "name": ["Pechuga grille"],
-                    "price": 1530
-                  },
-                    {
-                      "name": ["Pechuga empanada"],
-                    "price": 1520
-                  },
-                    {
-                      "name": ["Pechuga al graten"],
-                    "price": 1580
-                  },
-                    {
-                      "name": ["Pechuga a la reina"],
-                    "price": 1780
-                  },
-                    {
-                      "name": ["Gordon Blue"],
-                    "price": 1600
-                  },
-                    {
-                      "name": ["Filete de Pescado Grille"],
-                    "price": 1800
-                  },
-                    {
-                      "name": ["Filete de Pescado Empanado"],
-                    "price": 1800
-                  },
-                    {
-                      "name": ["Filete de pescado al graten"],
-                    "price": 2000
-                  },
-                    {
-                      "name": ["Canciller"],
-                    "price": 2450
-                  },
-                    {
-                      "name": ["Filete Don Martin"],
-                    "price": 2000
-                  },
-                    {
-                      "name": ["Camaron Enchilado"],
-                    "price": 2000
-                  },
-                    {
-                      "name": ["Camaron al ajillo"],
-                    "price": 2100
-                  },
-                    {
-                      "name": ["Camaron Rebosado"],
-                    "price": 3600
-                  },
-                    {
-                      "name": ["Langosta al ajillo"],
-                    "price": 3650
-                  },
-                    {
-                      "name": ["Langosta Enchilado"],
-                    "price": 1810
-                  },
-                    {
-                      "name": ["Chilindron de Cordero"],
-                    "price": 900
-                  },
-                    {
-                      "name": ["Pan con Hamburguesa"],
-                    "price": 1280
-                  }
-                  ]
-                }
-              ],
-              "liquids": [
-                {
-                  "soft_drinks": [
-                    {
-                      "name": ["Refresco de Lata"],
-                    "price": 220
-                  },
-{
-  "name": ["Malta Caribia"],
-"price": 230
-},
-{
-  "name": ["Refresco Manzanita"],
-"price": 290
-},
-{
-  "name": ["Seven-up"],
-"price": 240
-},
-{
-  "name": ["Pinita"],
-"price": 225
-}
-                  ],
-                  "water": [
-                    {
-                      "name": "Agua", 
-                    "price": 180
-                  }
-                  ]
-                }
-              ]
-            }
-        }    
+    "saturday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "closed": "24:00"
     }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "tripadvisor": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "medio",
+    "decoration": "moderno",
+    "festive_decorations": false,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "grupos"
+    ],
+    "energy_backup": true
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        true,
+        {
+          "url": "https://www.facebook.com/venaventohav/?locale=es_LA"
+        }
+      ],
+      "instagram": [
+        true,
+        {
+          "url": "https://www.instagram.com/terraza_venavento_oficial/"
+        }
+      ],
+      "whatsapp": "52743762"
+    },
+    "child_care": false,
+    "disable_support": false,
+    "wifi": false,
+    "parking": true,
+    "delivery": false,
+    "reserves": true,
+    "rent_from_the_client": false,
+    "vip_zone": false,
+    "catering": false,
+    "interactive_activities": false,
+    "sanitary": true,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": true,
+      "mastercard": true
+    },
+    "currency": {
+      "cup": true,
+      "usd": true,
+      "euro": true,
+      "mlc": true
+    },
+    "10% charge": true
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "criolla",
+      "panes",
+      "italiana"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name":"Tostones naturales",
+            "price":200
+        },
+            {
+                "name":"Tostones en tapas",
+            "price":450
+        },
+            {
+                "name":"Croquetas",
+            "price":300
+        },
+            {
+                "name":"Pollo frito",
+            "price":550
+        },
+            {
+                "name":"Salchipapa",
+            "price":1200
+        },
+            {
+                "name":"Papas fritas",
+            "price":600
+        },
+            {
+                "name":"Super Picadera",
+            "price":1400
+        }
+            ]
+          }
+        ],
+        "breads": [
+          {
+            "courses": [
+              {
+                "name":"Tortipan",
+            "price":250
+        },
+            {
+                "name":"Hot Dog",
+            "price":300
+        },
+            {
+                "name":"Sandwich",
+            "price":350
+        },
+            {
+                "name":"Pan sencillo de cerdo",
+            "price":550
+        },
+            {
+                "name":"Super Pan de cerdo",
+            "price":1400
+        },
+            {
+                "name":"Hamburguesa sencilla",
+            "price":700
+        },
+            {
+                "name":"Super Hamburguesa",
+            "price":1600
+        }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name":"Lomo ahumado",
+            "price":750
+        },
+            {
+                "name":"Plato de pollo frito y guariciones",
+            "price":1050
+        },
+            {
+                "name":"Plato de bistec de cerdo y guarniciones",
+            "price":1200
+        }
+            ]
+          }
+        ],
+        "rations": [
+          {
+            "name":"Arroz blanco",
+        "price":100
+    },
+        {
+            "name":"Arroz moro",
+        "price":250
+    },
+        {
+            "name":"Vianda frita",
+        "price":250
+    },
+        {
+            "name":"Ensalada de estacion",
+        "price":250
+    },
+        {
+            "name":"Frijoles colorados",
+        "price":400
+    }
+        ]
+      }
+    }
+  }
 }

@@ -1,0 +1,556 @@
+{
+    "Place": "El Cojimero",
+    "Location": [
+        {
+            "Address": "#8644, calle Morro entre G y H, Cojimar",
+            "Municipality": "Habana del Este",
+            "Coordinates": "5P92+3R7"
+        }
+    ],
+    "Classification": "Restaurante",
+    "Specialization": "Cocina mixta",
+    "Ownership": "Privado",
+    "Schedule": [
+        {
+            "Opening": "12h30",
+            "Closing": "22h00",
+            "Days": [
+                "Miercoles",
+                "Jueves",
+                "Viernes",
+                "Sabado",
+                "Domingo"
+            ]
+        }
+    ],
+    "Ratings": [
+        {
+            "Tripadvisor": 4.5,
+            "Google Maps": 4.2
+        }
+    ],
+    "Reservations": true,
+    "Delivery": [
+        {
+            "Service existence": false,
+            "Delivery area": null
+        }
+    ],
+    "Phone number": "77666724 / 53877144",
+    "Accounts or website": [
+        {
+            "Facebook": "Comunidad 'El Cojimero'"
+        },
+        {
+            "Instagram": "@restaurante_el_cojimero"
+        },
+        {
+            "Website": null
+        },
+        {
+            "Email": null
+        }
+    ],
+    "Payment": [
+        {
+            "Method": [
+                "Transferencia",
+                "Efectivo"
+            ],
+            "Accepted currencies": [
+                "CUP",
+                "USD",
+                "EUR"
+            ]
+        }
+    ],
+    "Capacity": 50,
+    "Parking service": true,
+    "Wifi": false,
+    "Smoking area": true,
+    "menu_details": {
+        "kind_of_food": [
+            "criolla"
+        ],
+        "menu_card": {
+            "menu_sections": {
+                "starters": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Croquetas de dia",
+                                "price": 310
+                            },
+                            {
+                                "name": "Empanaditas rellenas",
+                                "price": 300
+                            },
+                            {
+                                "name": "Ensalada de pollo",
+                                "price": 390
+                            },
+                            {
+                                "name": "Frituras de malanga",
+                                "price": 300
+                            },
+                            {
+                                "name": "Tostones rellenos",
+                                "price": 400
+                            },
+                            {
+                                "name": "Tostones rellenos de atun",
+                                "price": 500
+                            },
+                            {
+                                "name": "Ensalada de atun",
+                                "price": 530
+                            },
+                            {
+                                "name": "Eperlan",
+                                "price": 420
+                            },
+                            {
+                                "name": "Ensalada de pulpo",
+                                "price": 700
+                            },
+                            {
+                                "name": "Ceviche casero",
+                                "price": 550
+                            },
+                            {
+                                "name": "Coctel de camaron",
+                                "price": 560
+                            },
+                            {
+                                "name": "Fajitas de cerdo empanadas",
+                                "price": 420
+                            },
+                            {
+                                "name": "Fajitas de pollo empanadas",
+                                "price": 420
+                            },
+                            {
+                                "name": "Tamal en cazuela",
+                                "price": 600
+                            },
+                            {
+                                "name": "Coctel de langosta",
+                                "price": 790
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Bistec de cerdo a la pina",
+                                "price": 1600
+                            },
+                            {
+                                "name": "Bistec uruguayo",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Lomo de cerdo a la francesa",
+                                "price": 1860
+                            },
+                            {
+                                "name": "Chilindron de cordero",
+                                "price": 1640
+                            },
+                            {
+                                "name": "Ropa vieja",
+                                "price": 1600
+                            },
+                            {
+                                "name": "Vaca frita",
+                                "price": 1650
+                            },
+                            {
+                                "name": "Higado a la italiana",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Bistec de higado",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Pechuga de pollo grille",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Pechuga de pollo al pimiento",
+                                "price": 1470
+                            },
+                            {
+                                "name": "Pechuga de pollo al queso",
+                                "price": 1700
+                            },
+                            {
+                                "name": "Pechuga de pollo hawaiana",
+                                "price": 1780
+                            },
+                            {
+                                "name": "Gordon Blue",
+                                "price": 1750
+                            },
+                            {
+                                "name": "Lomo de cerdo relleno",
+                                "price": 1990
+                            },
+                            {
+                                "name": "Costillas de cerdo al horno",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Carne de res con papas",
+                                "price": 2200
+                            },
+                            {
+                                "name": "Conejo estofado",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Bistec de res encebollado",
+                                "price": 1960
+                            },
+                            {
+                                "name": "Filete de cerdo a la miel-mostaza",
+                                "price": 2500
+                            },
+                            {
+                                "name": "Bistec de res en cazuela",
+                                "price": 1960
+                            },
+                            {
+                                "name": "Filete de pescado grille",
+                                "price": 1700
+                            },
+                            {
+                                "name": "Filete de pescado montado",
+                                "price": 2100
+                            },
+                            {
+                                "name": "Filete de pescado Canciller",
+                                "price": 2200
+                            },
+                            {
+                                "name": "Filete de pescado Montetoro",
+                                "price": 1990
+                            },
+                            {
+                                "name": "Filete de pescado gratinado",
+                                "price": 1990
+                            },
+                            {
+                                "name": "Filete de pescado Sote capricho",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Filete de pescado al olivo",
+                                "price": 1800
+                            },
+                            {
+                                "name": "Pargo asado",
+                                "price": 2000
+                            },
+                            {
+                                "name": "Camarones grile",
+                                "price": 1720
+                            },
+                            {
+                                "name": "Enchilado de camarones",
+                                "price": 1990
+                            },
+                            {
+                                "name": "Camarones al ajillo",
+                                "price": 1990
+                            },
+                            {
+                                "name": "Camarones empanados",
+                                "price": 1850
+                            },
+                            {
+                                "name": "Camarones grille con champinones",
+                                "price": 1990
+                            },
+                            {
+                                "name": "Enchilado de pulpo",
+                                "price": 2300
+                            },
+                            {
+                                "name": "Pulpo grille",
+                                "price": 2150
+                            },
+                            {
+                                "name": "Pulpo al ajillo",
+                                "price": 2150
+                            },
+                            {
+                                "name": "Filete de pescado montado con langosta",
+                                "price": 2500
+                            }
+                        ]
+                    }
+                ],
+                "liquids": [
+                    {
+                        "alcoholic_beverages": [
+                            {
+                                "beers": [
+                                    {
+                                        "name": "Cerveza nacional",
+                                        "Price": 300
+                                    },
+                                    {
+                                        "name": "Cerveza importada",
+                                        "Price": 260
+                                    }
+                                ],
+                                "cocktails": [
+                                    {
+                                        "name": "Alexander",
+                                        "Price": 650
+                                    },
+                                    {
+                                        "name": "Caipiroska",
+                                        "Price": 650
+                                    },
+                                    {
+                                        "name": "Caipiroska Absolut",
+                                        "Price": 850
+                                    },
+                                    {
+                                        "name": "Bloody Mary",
+                                        "Price": 650
+                                    },
+                                    {
+                                        "name": "Blue Lagoon",
+                                        "Price": 650
+                                    },
+                                    {
+                                        "name": "Sangria",
+                                        "Price": 650
+                                    },
+                                    {
+                                        "name": "Calimocho",
+                                        "Price": 650
+                                    },
+                                    {
+                                        "name": "Screw Driver",
+                                        "Price": 650
+                                    },
+                                    {
+                                        "name": "Screw Driver Absolut",
+                                        "Price": 850
+                                    },
+                                    {
+                                        "name": "Dry Martini",
+                                        "Price": 900
+                                    },
+                                    {
+                                        "name": "Margarita",
+                                        "Price": 700
+                                    },
+                                    {
+                                        "name": "Gin Tonic Clasico",
+                                        "Price": 800
+                                    },
+                                    {
+                                        "name": "Gin Tonic Premium",
+                                        "Price": 1300
+                                    },
+                                    {
+                                        "name": "Aquamenti",
+                                        "Price": 800
+                                    },
+                                    {
+                                        "name": "Daiquiri Mulata",
+                                        "Price": 800
+                                    },
+                                    {
+                                        "name": "Merlina",
+                                        "Price": 800
+                                    },
+                                    {
+                                        "name": "Purple Gin",
+                                        "Price": 800
+                                    },
+                                    {
+                                        "name": "Sex on the Beach",
+                                        "Price": 800
+                                    },
+                                    {
+                                        "name": "Rosita",
+                                        "Price": 800
+                                    },
+                                    {
+                                        "name": "Sahara",
+                                        "Price": 800
+                                    },
+                                    {
+                                        "name": "Blue Michelada",
+                                        "Price": 800
+                                    },
+                                    {
+                                        "name": "Malefica",
+                                        "Price": 800
+                                    },
+                                    {
+                                        "name": "Queen Charlotte",
+                                        "Price": 800
+                                    },
+                                    {
+                                        "name": "Devil's Margarita",
+                                        "Price": 800
+                                    },
+                                    {
+                                        "name": "Caipirinha",
+                                        "Price": 450
+                                    },
+                                    {
+                                        "name": "Mojito",
+                                        "Price": 450
+                                    },
+                                    {
+                                        "name": "Ron Collins",
+                                        "Price": 450
+                                    },
+                                    {
+                                        "name": "Cubata",
+                                        "Price": 450
+                                    },
+                                    {
+                                        "name": "Cuba Libre",
+                                        "Price": 450
+                                    },
+                                    {
+                                        "name": "Cubanito",
+                                        "Price": 450
+                                    },
+                                    {
+                                        "name": "Daiquiri Frappe",
+                                        "Price": 500
+                                    },
+                                    {
+                                        "name": "Daiquiri Blue",
+                                        "Price": 500
+                                    },
+                                    {
+                                        "name": "Daiquiri rebelde",
+                                        "Price": 500
+                                    },
+                                    {
+                                        "name": "Pina colada",
+                                        "Price": 650
+                                    },
+                                    {
+                                        "name": "Bello Monte",
+                                        "Price": 600
+                                    },
+                                    {
+                                        "name": "Cheladas nacionales",
+                                        "Price": 350
+                                    },
+                                    {
+                                        "name": "Cheladas importadas",
+                                        "Price": 300
+                                    },
+                                    {
+                                        "name": "Micheladas nacionales",
+                                        "Price": 500
+                                    },
+                                    {
+                                        "name": "Micheladas importadas",
+                                        "Price": 450
+                                    }
+                                ]
+                            }
+                        ],
+                        "water": [
+                            {
+                                "name": "Agua natural 500ml",
+                                "Price": 110
+                            },
+                            {
+                                "name": "Agua natural 1.5L",
+                                "Price": 300
+                            },
+                            {
+                                "name": "Agua gaseada nacional",
+                                "Price": 120
+                            },
+                            {
+                                "name": "Agua tonica nacional",
+                                "Price": 150
+                            },
+                            {
+                                "name": "Agua tonica importada",
+                                "Price": 250
+                            }
+                        ],
+                        "soft_drinks": [
+                            {
+                                "name": "Refrescos nacionales",
+                                "Price": 260
+                            },
+                            {
+                                "name": "Refrescos importados",
+                                "Price": 260
+                            },
+                            {
+                                "name": "Maltas",
+                                "Price": 290
+                            },
+                            {
+                                "name": "Energizantes",
+                                "Price": 270
+                            },
+                            {
+                                "name": "Tigon",
+                                "Price": 290
+                            }
+                        ],
+                        "natural_juices": [
+                            {
+                                "name": "Limonada natural",
+                                "Price": 300
+                            },
+                            {
+                                "name": "Jugos en conserva",
+                                "Price": 220
+                            },
+                            {
+                                "name": "Jugo El Cojimero",
+                                "Price": 100
+                            }
+                        ],
+                        "coffees": [
+                            {
+                                "name": "Cafe Expresso",
+                                "Price": 100
+                            },
+                            {
+                                "name": "Cafe Cortadito",
+                                "Price": 150
+                            },
+                            {
+                                "name": "Cafe Bombon",
+                                "Price": 190
+                            },
+                            {
+                                "name": "Cafe americano",
+                                "Price": 100
+                            },
+                            {
+                                "name": "Cappuccino",
+                                "Price": 250
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

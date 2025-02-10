@@ -1,0 +1,192 @@
+{
+    "Place": "Super Eddy's Burguer",
+    "Location": [
+        {
+            "Address": "La Curva, Zona 24, Alamar",
+            "Municipality": "Habana del Este",
+            "Coordinates": "5P9F+5V5"
+        }
+    ],
+    "Classification": "Cafeteria",
+    "Specialization": "Cocina criolla",
+    "Ownership": "Privado",
+    "Schedule": [
+        {
+            "Opening": null,
+            "Closing": null,
+            "Days": [
+                "Lunes",
+                "Martes",
+                "Miercoles",
+                "Jueves",
+                "Viernes",
+                "Sabado",
+                "Domingo"
+            ]
+        }
+    ],
+    "Ratings": [
+        {
+            "Tripadvisor": null,
+            "Google Maps": null
+        }
+    ],
+    "Reservations": false,
+    "Delivery": [
+        {
+            "Service existence": false,
+            "Delivery area": null
+        }
+    ],
+    "Phone number": "59179824",
+    "Accounts or website": [
+        {
+            "Facebook": null
+        },
+        {
+            "Instagram": null
+        },
+        {
+            "Website": null
+        },
+        {
+            "Email": null
+        }
+    ],
+    "Payment": [
+        {
+            "Method": [
+                "Transferencia",
+                "Efectivo"
+            ],
+            "Accepted currencies": [
+                "CUP",
+                "USD",
+                "EUR"
+            ]
+        }
+    ],
+    "Capacity": 20,
+    "Parking service": true,
+    "Wifi": false,
+    "Smoking area": true,
+    "menu_details": {
+        "kind_of_food": [
+            "criolla",
+            "panes",
+            "italiana"
+        ],
+        "menu_card": {
+            "menu_sections": {
+                "starters": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Tostones naturales",
+                                "price": 200
+                            },
+                            {
+                                "name": "Tostones en tapas",
+                                "price": 450
+                            },
+                            {
+                                "name": "Croquetas",
+                                "price": 300
+                            },
+                            {
+                                "name": "Pollo frito",
+                                "price": 550
+                            },
+                            {
+                                "name": "Salchipapa",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Papas fritas",
+                                "price": 600
+                            },
+                            {
+                                "name": "Super Picadera",
+                                "price": 1400
+                            }
+                        ]
+                    }
+                ],
+                "breads": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Tortipan",
+                                "price": 250
+                            },
+                            {
+                                "name": "Hot Dog",
+                                "price": 300
+                            },
+                            {
+                                "name": "Sandwich",
+                                "price": 350
+                            },
+                            {
+                                "name": "Pan sencillo de cerdo",
+                                "price": 550
+                            },
+                            {
+                                "name": "Super Pan de cerdo",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Hamburguesa sencilla",
+                                "price": 700
+                            },
+                            {
+                                "name": "Super Hamburguesa",
+                                "price": 1600
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": "Lomo ahumado",
+                                "price": 750
+                            },
+                            {
+                                "name": "Plato de pollo frito y guariciones",
+                                "price": 1050
+                            },
+                            {
+                                "name": "Plato de bistec de cerdo y guarniciones",
+                                "price": 1200
+                            }
+                        ]
+                    }
+                ],
+                "rations": [
+                    {
+                        "name": "Arroz blanco",
+                        "price": 100
+                    },
+                    {
+                        "name": "Arroz moro",
+                        "price": 250
+                    },
+                    {
+                        "name": "Vianda frita",
+                        "price": 250
+                    },
+                    {
+                        "name": "Ensalada de estacion",
+                        "price": 250
+                    },
+                    {
+                        "name": "Frijoles colorados",
+                        "price": 400
+                    }
+                ]
+            }
+        }
+    }
+}
