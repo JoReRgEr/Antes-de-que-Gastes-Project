@@ -44,30 +44,15 @@
     "rating": {
       "google": {
         "stars": 4.2,
-        "number_of_reviews": 11,
-        "recurring_themes": [
-          [
-            null
-          ]
-        ]
+        "number_of_reviews": 11
       },
       "tripadvisor": {
         "stars": null,
-        "number_of_reviews": null,
-        "recurring_themes": [
-          [
-            null
-          ]
-        ]
+        "number_of_reviews": null
       },
       "facebook": {
         "stars": null,
-        "number_of_reviews": null,
-        "recurring_themes": [
-          [
-            null
-          ]
-        ]
+        "number_of_reviews": null
       }
     },
     "establishment_capacity": "grande",

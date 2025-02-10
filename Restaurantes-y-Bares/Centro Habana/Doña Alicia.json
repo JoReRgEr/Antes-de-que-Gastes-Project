@@ -44,32 +44,15 @@
         "rating": {
             "google": {
                 "stars": 4.4,
-                "number_of_reviews": 299,
-                "recurring_themes": [
-                    [
-                        "servicio",
-                        "tecnologia"
-                    ]
-                ]
+                "number_of_reviews": 299
             },
             "tripadvisor": {
                 "stars": 5.0,
-                "number_of_reviews": 439,
-                "recurring_themes": [
-                    [
-                        "comida"
-                    ]
-                ]
+                "number_of_reviews": 439
             },
             "facebook": {
                 "stars": 4.5,
-                "number_of_reviews": 343,
-                "recurring_themes": [
-                    [
-                        "servicio",
-                        "domicilio"
-                    ]
-                ]
+                "number_of_reviews": 343
             }
         },
         "establishment_capacity": "grande",

@@ -44,30 +44,15 @@
         "rating": {
             "google": {
                 "stars": 5.0,
-                "number_of_reviews": 3,
-                "recurring_themes": [
-                    [
-                        "servicio"
-                    ]
-                ]
+                "number_of_reviews": 3
             },
             "tripadvisor": {
                 "stars": null,
-                "number_of_reviews": null,
-                "recurring_themes": [
-                    [
-                        null
-                    ]
-                ]
+                "number_of_reviews": null
             },
             "facebook": {
                 "stars": null,
-                "number_of_reviews": null,
-                "recurring_themes": [
-                    [
-                        null
-                    ]
-                ]
+                "number_of_reviews": null
             }
         },
         "establishment_capacity": "chico",

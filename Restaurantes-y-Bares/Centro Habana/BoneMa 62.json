@@ -44,32 +44,15 @@
         "rating": {
             "google": {
                 "stars": 4.4,
-                "number_of_reviews": 59,
-                "recurring_themes": [
-                    [
-                        "comida",
-                        "precios"
-                    ]
-                ]
+                "number_of_reviews": 59
             },
             "tripadvisor": {
                 "stars": null,
-                "number_of_reviews": null,
-                "recurring_themes": [
-                    [
-                        null
-                    ]
-                ]
+                "number_of_reviews": null
             },
             "facebook": {
                 "stars": 4.0,
-                "number_of_reviews": 29,
-                "recurring_themes": [
-                    [
-                        "servicio",
-                        "comida"
-                    ]
-                ]
+                "number_of_reviews": 29
             }
         },
         "establishment_capacity": "medio",

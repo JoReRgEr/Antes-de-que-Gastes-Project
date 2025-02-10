@@ -44,30 +44,15 @@
         "rating": {
             "google": {
                 "stars": null,
-                "number_of_reviews": null,
-                "recurring_themes": [
-                    [
-                        null
-                    ]
-                ]
+                "number_of_reviews": null
             },
             "tripadvisor": {
                 "stars": null,
-                "number_of_reviews": null,
-                "recurring_themes": [
-                    [
-                        null
-                    ]
-                ]
+                "number_of_reviews": null
             },
             "facebook": {
                 "stars": 4.0,
-                "number_of_reviews": 7,
-                "recurring_themes": [
-                    [
-                        "tamales"
-                    ]
-                ]
+                "number_of_reviews": 7
             }
         },
         "establishment_capacity": "grande",

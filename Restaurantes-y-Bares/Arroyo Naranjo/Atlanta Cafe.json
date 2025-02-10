@@ -44,31 +44,15 @@
         "rating": {
             "google": {
                 "stars": 4.0,
-                "number_of_reviews": 25,
-                "recurring_themes": [
-                    [
-                        "pizzas"
-                    ]
-                ]
+                "number_of_reviews": 25
             },
             "tripadvisor": {
                 "stars": null,
-                "number_of_reviews": null,
-                "recurring_themes": [
-                    [
-                        null
-                    ]
-                ]
+                "number_of_reviews": null
             },
             "facebook": {
                 "stars": 4.0,
-                "number_of_reviews": 35,
-                "recurring_themes": [
-                    [
-                        "pizzas",
-                        "servicio"
-                    ]
-                ]
+                "number_of_reviews": 35
             }
         },
         "establishment_capacity": "media",

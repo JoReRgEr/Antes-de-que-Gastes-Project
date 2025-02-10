@@ -44,32 +44,15 @@
     "rating": {
       "google": {
         "stars": 4.6,
-        "number_of_reviews": 56,
-        "recurring_themes": [
-          [
-            "ambiente",
-            "familia"
-          ]
-        ]
+        "number_of_reviews": 56
       },
       "tripadvisor": {
         "stars": 4.5,
-        "number_of_reviews": 37,
-        "recurring_themes": [
-          [
-            "servicio",
-            "familia"
-          ]
-        ]
+        "number_of_reviews": 37
       },
       "facebook": {
         "stars": null,
-        "number_of_reviews": null,
-        "recurring_themes": [
-          [
-            null
-          ]
-        ]
+        "number_of_reviews": null
       }
     },
     "establishment_capacity": "grande",
