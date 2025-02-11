@@ -1,70 +1,117 @@
 {
-    "Place": "Divino",
-    "Location": [
-        {
-            "Address": "#50, Calle Raquel entre Esperanza y Lindero, Mantilla",
-            "Municipality": "Arroyo Naranjo",
-            "Coordinates": null
-        }
-    ],
-    "Classification": "Restaurante",
-    "Specialization": "Cocina mixta",
-    "Property": "Privado",
-    "Schedule": [
-        {
-            "Opening": "12h00",
-            "Closing": "22h00",
-            "Days": [
-                "Viernes",
-                "Sabado",
-                "Domingo"
-            ]
-        }
-    ],
-    "Ratings": [
-        {
-            "Tripadvisor": 4.5,
-            "Google Maps": 4.4
-        }
-    ],
-    "Reservations": true,
-    "Delivery": [
-        {
-            "Service existence": false,
-            "Delivery area": null
-        }
-    ],
-    "Phone number": "55627175 / 63733055 / 76437734",
-    "Accounts or website": [
-        {
-            "Facebook": "DiVino"
+    "type_of_establishment": "restaurante",
+    "place_name": "Divino",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "76437734",
+        "email": "cubarestaurantedivino@gmail.com",
+        "district": "Arroyo Naranjo",
+        "location": "Calle Raquel No. 50 entre Esperanza y Lindero, Mantilla",
+        "coordinates": "23.060189344067673, -82.33652845021456"
+    },
+    "schedules": {
+        "monday": {
+            "open": null,
+            "closed": null
         },
-        {
-            "Instagram": "@restaurantedivino_official"
+        "tuesday": {
+            "open": null,
+            "closed": null
         },
-        {
-            "Website": "www.cubarestaurantedivino.com"
+        "wednesday": {
+            "open": null,
+            "closed": null
         },
-        {
-            "Email": "cubarestaurantedivino@gmail.com"
+        "thursday": {
+            "open": null,
+            "closed": null
+        },
+        "friday": {
+            "open": "12:00",
+            "closed": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "closed": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "closed": "24:00"
         }
-    ],
-    "Payment": [
-        {
-            "Method": [
-                "Efectivo"
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.4,
+                "number_of_reviews": 24
+            },
+            "tripadvisor": {
+                "stars": 4.5,
+                "number_of_reviews": 152
+            },
+            "facebook": {
+                "stars": 4.0,
+                "number_of_reviews": 339
+            }
+        },
+        "establishment_capacity": "grande",
+        "decoration": "rural",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos",
+            "familias"
+        ],
+        "energy_backup": null
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
             ],
-            "Accepted currencies": [
-                "CUP",
-                "USD",
-                "EUR"
-            ]
-        }
-    ],
-    "Capacity": 100,
-    "Parking": true,
-    "Wifi": false,
-    "Smoking area": true,
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/cubarestaurantedivino/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/explore/locations/418720891485060/divino/?locale=es"
+                }
+            ],
+            "whatsapp": "+53 63733055"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "wifi": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "rent_from_the_client": true,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla"

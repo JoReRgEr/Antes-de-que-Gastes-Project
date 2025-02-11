@@ -1,30 +1,30 @@
 {
     "type_of_establishment": "restaurante",
-    "place_name": "VenaVento",
+    "place_name": "Divino",
     "property_type": "particular",
     "address": {
-        "establishment_phone_number": null,
-        "email": null,
-        "district": "Boyeros",
-        "location": "Calle 10, esq. Vento",
-        "coordinates": "23.052005719313897, -82.3825931103242"
+        "establishment_phone_number": "76437734",
+        "email": "cubarestaurantedivino@gmail.com",
+        "district": "Arroyo Naranjo",
+        "location": "Calle Raquel No. 50 entre Esperanza y Lindero, Mantilla",
+        "coordinates": "23.060189344067673, -82.33652845021456"
     },
     "schedules": {
         "monday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": null,
+            "closed": null
         },
         "tuesday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": null,
+            "closed": null
         },
         "wednesday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": null,
+            "closed": null
         },
         "thursday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": null,
+            "closed": null
         },
         "friday": {
             "open": "12:00",
@@ -42,27 +42,28 @@
     "location_details": {
         "rating": {
             "google": {
-                "stars": null,
-                "number_of_reviews": null
+                "stars": 4.4,
+                "number_of_reviews": 24
             },
             "tripadvisor": {
-                "stars": null,
-                "number_of_reviews": null
+                "stars": 4.5,
+                "number_of_reviews": 152
             },
             "facebook": {
-                "stars": null,
-                "number_of_reviews": null
+                "stars": 4.0,
+                "number_of_reviews": 339
             }
         },
-        "establishment_capacity": "medio",
-        "decoration": "moderno",
+        "establishment_capacity": "grande",
+        "decoration": "rural",
         "festive_decorations": false,
         "home_uniform": "casual",
         "collaboration_for_events": false,
         "type_of_concurrent_clients": [
-            "grupos"
+            "grupos",
+            "familias"
         ],
-        "energy_backup": true
+        "energy_backup": null
     },
     "services": {
         "social_networks": {
@@ -75,16 +76,16 @@
             "facebook": [
                 true,
                 {
-                    "url": "https://www.facebook.com/venaventohav/?locale=es_LA"
+                    "url": "https://www.facebook.com/cubarestaurantedivino/?locale=es_LA"
                 }
             ],
             "instagram": [
                 true,
                 {
-                    "url": "https://www.instagram.com/terraza_venavento_oficial/"
+                    "url": "https://www.instagram.com/explore/locations/418720891485060/divino/?locale=es"
                 }
             ],
-            "whatsapp": "52743762"
+            "whatsapp": "+53 63733055"
         },
         "child_care": false,
         "disable_support": false,
@@ -92,7 +93,7 @@
         "parking": true,
         "delivery": false,
         "reserves": true,
-        "rent_from_the_client": false,
+        "rent_from_the_client": true,
         "vip_zone": false,
         "pet_friendly": false
     },
@@ -107,9 +108,9 @@
             "cup": true,
             "usd": true,
             "euro": true,
-            "mlc": true
+            "mlc": false
         },
-        "10% charge": true
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [
