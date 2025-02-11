@@ -89,9 +89,6 @@
         "reserves": false,
         "rent_from_the_client": false,
         "vip_zone": true,
-        "catering": false,
-        "interactive_activities": true,
-        "sanitary": true,
         "pet_friendly": false
     },
     "pay_meth": {
