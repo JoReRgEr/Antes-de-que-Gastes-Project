@@ -1,70 +1,115 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "Cohmar Cafe",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.136810792066857,
-        "longitude": -82.36139565096036
+    "place_name": "Cohmar Cafe",
+    "property_type": "estatal",
+    "address": {
+        "establishment_phone_number": false,
+        "email": null,
+        "district": "Centro Habana",
+        "location": "Boulevard de San Rafael, & Amistad",
+        "coordinates": "23.136720213737085, -82.36140641664494"
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": "63683372",
-        "facebook": false,
-        "instagram": "@comhar_cafe"
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1000",
-            "close": "2200"
+            "open": "10:00",
+            "closed": "22:00"
         },
         "tuesday": {
-            "open": "1000",
-            "close": "2200"
+            "open": "10:00",
+            "closed": "22:00"
         },
         "wednesday": {
-            "open": "1000",
-            "close": "2200"
+            "open": "10:00",
+            "closed": "22:00"
         },
         "thursday": {
-            "open": "1000",
-            "close": "2200"
+            "open": "10:00",
+            "closed": "22:00"
         },
         "friday": {
-            "open": "1000",
-            "close": "2200"
+            "open": "10:00",
+            "closed": "22:00"
         },
         "saturday": {
-            "open": "1000",
-            "close": "2200"
+            "open": "10:00",
+            "closed": "22:00"
         },
         "sunday": {
-            "open": "1000",
-            "close": "2200"
+            "open": "10:00",
+            "closed": "22:00"
         }
     },
-    "rating": 5.0,
-    "intake_capacity": "media",
-    "cuisine": [
-        "criolla",
-        "internacional",
-        "cubana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 5.0,
+                "number_of_reviews": 5
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "contemporaneo",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos"
+        ],
+        "energy_backup": false
+    },
     "services": {
-        "plant": false,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/comhar_cafe/"
+                }
+            ],
+            "whatsapp": "63683372"
+        },
         "child_care": false,
         "disable_support": false,
+        "wifi": false,
         "parking": false,
         "delivery": false,
         "reserves": false,
-        "takeaway": false,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

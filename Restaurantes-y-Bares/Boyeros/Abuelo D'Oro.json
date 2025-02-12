@@ -1,60 +1,117 @@
 {
-	"name": "Abuelo D'Oro",
-	"address": "Calzada Aldabo % 12 y 13, Aldabo, Boyeros",
-	"schedule": {
-		"monday": {
-			"open": "12:00",
-			"close": "24:00"
-		},
-		"tuesday": {
-			"open": "12:00",
-			"close": "24:00"
-		},
-		"wednesday": {
-			"open": "12:00",
-			"close": "24:00"
-		},
-		"thursday": {
-			"open": "12:00",
-			"close": "24:00"
-		},
-		"friday": {
-			"open": "12:00",
-			"close": "24:00"
-		},
-		"saturday": {
-			"open": "12:00",
-			"close": "24:00"
-		},
-		"sunday": {
-			"open": "12:00",
-			"close": "24:00"
-		}
-	},
-	"contacts": {
-		"phone_number": "76472100",
-		"mobile": null,
-		"website": "https://es.restaurantguru.com/El-abuelo-de-oro-Havana",
-		"instagram": "@abuelo_de_oro_cuba",
-		"facebook": "https://www.facebook.com/AbueloDOro?utm_source=restaurantguru&utm_medium=referral"
-	},
-	"type_establishment": "Restaurante",
-	"specialty": [
-		"Cubana",
-		"Internacional",
-		"Italiana"
-	],
-	"parking": true,
-	"reservations": true,
-	"payment_methods": {
-		"cash_national": true,
-		"digital_transfer_national": true,
-		"usd_cash": true,
-		"usd_transfer": true,
-		"mlc": true
-	},
-	"delivery_areas": true,
-	"power_generator": true,
+    "type_of_establishment": "restaurante",
+    "place_name": "Abuelo D'Oro",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "76472100",
+        "email": null,
+        "district": "Boyeros",
+        "location": "calzada Aldabó, entre 12 y 13, Aldabó",
+        "coordinates": "23.0579621417082, -82.38288867790928"
+    },
+    "schedules": {
+        "monday": {
+            "open": "12:00",
+            "closed": "24:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "closed": "24:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "closed": "24:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "closed": "24:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "closed": "24:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "closed": "24:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "closed": "24:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 3.1,
+                "number_of_reviews": 19
+            },
+            "tripadvisor": {
+                "stars": 5.0,
+                "number_of_reviews": 3
+            },
+            "facebook": {
+                "stars": 4.0,
+                "number_of_reviews": 33
+            }
+        },
+        "establishment_capacity": "grande",
+        "decoration": "rural",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": true,
+        "type_of_concurrent_clients": [
+            "grupos",
+            "familias"
+        ],
+        "energy_backup": true
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/AbueloDOro?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/abuelo_d_oro_cuba/?hl=es"
+                }
+            ],
+            "whatsapp": false
+        },
+        "child_care": false,
+        "disable_support": false,
+        "wifi": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "rent_from_the_client": true,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
 	"menu_details": {
 		"kind_of_food": [
 			"criolla",

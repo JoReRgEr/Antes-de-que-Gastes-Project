@@ -117,8 +117,7 @@
             "cup": true,
             "usd": false,
             "euro": false,
-            "mlc": false,
-            "others": false
+            "mlc": false
         },
         "10% charge": false
     },

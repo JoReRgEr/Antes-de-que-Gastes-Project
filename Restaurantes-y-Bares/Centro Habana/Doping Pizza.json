@@ -1,68 +1,115 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "Doping Pizza",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.13389533564469,
-        "longitude": -82.37685653415737
+    "place_name": "Doping Pizza",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": false,
+        "email": null,
+        "district": "Centro Habana",
+        "location": "Calle Zanja e/ Espada y San Francisco",
+        "coordinates": "23.133684648764174, -82.37692045439417"
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": "51260311",
-        "facebook": false,
-        "instagram": "@dopingpizzas"
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "tuesday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "wednesday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "thursday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "friday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "saturday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "sunday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         }
     },
-    "rating": 3.1,
-    "intake_capacity": "baja",
-    "cuisine": [
-        "italiana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 2.8,
+                "number_of_reviews": 13
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "pequeño",
+        "decoration": "contemporaneo",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos"
+        ],
+        "energy_backup": false
+    },
     "services": {
-        "plant": false,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/dopingpizzas/"
+                }
+            ],
+            "whatsapp": "51260311"
+        },
         "child_care": false,
         "disable_support": false,
+        "wifi": false,
         "parking": false,
-        "delivery": true,
+        "delivery": false,
         "reserves": false,
-        "takeaway": true,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

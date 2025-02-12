@@ -1,30 +1,30 @@
 {
     "type_of_establishment": "restaurante",
-    "place_name": "Divino",
+    "place_name": "Doping Pizza",
     "property_type": "particular",
     "address": {
-        "establishment_phone_number": "76437734",
-        "email": "cubarestaurantedivino@gmail.com",
-        "district": "Arroyo Naranjo",
-        "location": "Calle Raquel No. 50 entre Esperanza y Lindero, Mantilla",
-        "coordinates": "23.060189344067673, -82.33652845021456"
+        "establishment_phone_number": false,
+        "email": null,
+        "district": "Centro Habana",
+        "location": "Calle Zanja e/ Espada y San Francisco",
+        "coordinates": "23.133684648764174, -82.37692045439417"
     },
     "schedules": {
         "monday": {
-            "open": null,
-            "closed": null
+            "open": "12:00",
+            "closed": "24:00"
         },
         "tuesday": {
-            "open": null,
-            "closed": null
+            "open": "12:00",
+            "closed": "24:00"
         },
         "wednesday": {
-            "open": null,
-            "closed": null
+            "open": "12:00",
+            "closed": "24:00"
         },
         "thursday": {
-            "open": null,
-            "closed": null
+            "open": "12:00",
+            "closed": "24:00"
         },
         "friday": {
             "open": "12:00",
@@ -42,28 +42,27 @@
     "location_details": {
         "rating": {
             "google": {
-                "stars": 4.4,
-                "number_of_reviews": 24
+                "stars": 2.8,
+                "number_of_reviews": 13
             },
             "tripadvisor": {
-                "stars": 4.5,
-                "number_of_reviews": 152
+                "stars": null,
+                "number_of_reviews": null
             },
             "facebook": {
-                "stars": 4.0,
-                "number_of_reviews": 339
+                "stars": null,
+                "number_of_reviews": null
             }
         },
-        "establishment_capacity": "grande",
-        "decoration": "rural",
+        "establishment_capacity": "pequeño",
+        "decoration": "contemporaneo",
         "festive_decorations": false,
         "home_uniform": "casual",
         "collaboration_for_events": false,
         "type_of_concurrent_clients": [
-            "grupos",
-            "familias"
+            "grupos"
         ],
-        "energy_backup": null
+        "energy_backup": false
     },
     "services": {
         "social_networks": {
@@ -76,24 +75,24 @@
             "facebook": [
                 true,
                 {
-                    "url": "https://www.facebook.com/cubarestaurantedivino/?locale=es_LA"
+                    "url": null
                 }
             ],
             "instagram": [
                 true,
                 {
-                    "url": "https://www.instagram.com/explore/locations/418720891485060/divino/?locale=es"
+                    "url": "https://www.instagram.com/dopingpizzas/"
                 }
             ],
-            "whatsapp": "+53 63733055"
+            "whatsapp": "51260311"
         },
         "child_care": false,
         "disable_support": false,
         "wifi": false,
-        "parking": true,
+        "parking": false,
         "delivery": false,
-        "reserves": true,
-        "rent_from_the_client": true,
+        "reserves": false,
+        "rent_from_the_client": false,
         "vip_zone": false,
         "pet_friendly": false
     },
@@ -101,13 +100,13 @@
         "cash": true,
         "transfer": {
             "transfermovil": true,
-            "visa": true,
-            "mastercard": true
+            "visa": false,
+            "mastercard": false
         },
         "currency": {
             "cup": true,
-            "usd": true,
-            "euro": true,
+            "usd": false,
+            "euro": false,
             "mlc": false
         },
         "10% charge": false
