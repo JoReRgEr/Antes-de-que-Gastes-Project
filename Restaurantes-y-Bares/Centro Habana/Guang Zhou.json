@@ -1,41 +1,115 @@
 {
-    "municipality": "ch",
-    "name": "Guang Zhou",
-    "address": "Cuchillo entre San Nicolás y Rayo",
-    "contacts": {
-        "phone": [
-            "078615229"
+    "type_of_establishment": "restaurante",
+    "place_name": "Guang Zhou",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "78615229",
+        "district": "Centro Habana",
+        "location": "Cuchillo entre San Nicolás y Rayo",
+        "coordinates": "23.13491767165426, -82.36380388200992"
+    },
+    "schedules": {
+        "monday": {
+            "open": "11:00",
+            "closed": "00:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "closed": "00:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "closed": "00:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "closed": "00:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "closed": "00:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "closed": "00:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "closed": "00:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 3.1,
+                "number_of_reviews": 59
+            },
+            "tripadvisor": {
+                "stars": 4.0,
+                "number_of_reviews": 339
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "asiatica",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos",
+            "familias"
         ],
-        "website": null,
-        "facebook": null,
-        "instagram": null
-    },
-    "ratings": {
-        "google": 3.1
-    },
-    "owner": "Particular",
-    "type": "Restaurante",
-    "specialty": "Comida China",
-    "hours": {
-        "monday": "1100_0000",
-        "tuesday": "1100_0000",
-        "wednesday": "1100_0000",
-        "thursday": "1100_0000",
-        "friday": "1100_0000",
-        "saturday": "1100_0000",
-        "sunday": "1100_0000"
+        "energy_backup": false
     },
     "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/p/Restaurante-Guang-Zhou-100078340630145/?locale=ku_TR"
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": null
+        },
+        "child_care": false,
+        "disable_support": false,
         "parking": false,
-        "reservations": false,
         "delivery": false,
-        "power plant": false
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
     },
-    "payment_methods": [
-        "cup",
-        "mlc",
-        "usd"
-    ],
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "asiatica",

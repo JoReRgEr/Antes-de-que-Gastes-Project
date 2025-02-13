@@ -1,68 +1,113 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "Hamburgo",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.131235737365408,
-        "longitude": -82.37630082066377
+    "place_name": "Hamburgo",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Centro Habana",
+        "location": "Carlos III, Av. Salvador Allende",
+        "coordinates": "23.131274114568537, -82.3745486582241"
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": false,
-        "facebook": false,
-        "instagram": false
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "0900",
-            "close": "1900"
+            "open": "09:00",
+            "closed": "19:00"
         },
         "tuesday": {
-            "open": "0900",
-            "close": "1900"
+            "open": "09:00",
+            "closed": "19:00"
         },
         "wednesday": {
-            "open": "0900",
-            "close": "1900"
+            "open": "09:00",
+            "closed": "19:00"
         },
         "thursday": {
-            "open": "0900",
-            "close": "1900"
+            "open": "09:00",
+            "closed": "19:00"
         },
         "friday": {
-            "open": "0900",
-            "close": "1900"
+            "open": "09:00",
+            "closed": "19:00"
         },
         "saturday": {
-            "open": "0900",
-            "close": "1900"
+            "open": "09:00",
+            "closed": "19:00"
         },
         "sunday": {
-            "open": "0900",
-            "close": "1900"
+            "open": "09:00",
+            "closed": "19:00"
         }
     },
-    "rating": null,
-    "intake_capacity": "media",
-    "cuisine": [
-        "americana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 3.0,
+                "number_of_reviews": 7
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "chico",
+        "decoration": null,
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos"
+        ],
+        "energy_backup": false
+    },
     "services": {
-        "plant": false,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": null
+        },
         "child_care": true,
         "disable_support": true,
-        "parking": true,
+        "parking": false,
         "delivery": false,
         "reserves": false,
-        "takeaway": false,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

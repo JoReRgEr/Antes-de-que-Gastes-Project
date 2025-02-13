@@ -1,49 +1,48 @@
 {
     "type_of_establishment": "restaurante",
-    "place_name": "Doping Pizza",
+    "place_name": "Tutti Frutti",
     "property_type": "particular",
     "address": {
-        "establishment_phone_number": false,
-        "email": null,
+        "establishment_phone_number": null,
         "district": "Centro Habana",
-        "location": "Calle Zanja e/ Espada y San Francisco",
-        "coordinates": "23.133684648764174, -82.37692045439417"
+        "location": "San Lazaro entre San Fransico y Espada",
+        "coordinates": "23.138660923544478, -82.37740802546976"
     },
     "schedules": {
         "monday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "08:00",
+            "closed": "20:00"
         },
         "tuesday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "08:00",
+            "closed": "20:00"
         },
         "wednesday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "08:00",
+            "closed": "20:00"
         },
         "thursday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "08:00",
+            "closed": "20:00"
         },
         "friday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "08:00",
+            "closed": "20:00"
         },
         "saturday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "08:00",
+            "closed": "20:00"
         },
         "sunday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "08:00",
+            "closed": "20:00"
         }
     },
     "location_details": {
         "rating": {
             "google": {
-                "stars": 2.8,
-                "number_of_reviews": 13
+                "stars": 5.0,
+                "number_of_reviews": 7
             },
             "tripadvisor": {
                 "stars": null,
@@ -54,12 +53,13 @@
                 "number_of_reviews": null
             }
         },
-        "establishment_capacity": "pequeño",
-        "decoration": "contemporaneo",
+        "establishment_capacity": "chico",
+        "decoration": "tropical",
         "festive_decorations": false,
         "home_uniform": "casual",
         "collaboration_for_events": false,
         "type_of_concurrent_clients": [
+            "amistades",
             "grupos"
         ],
         "energy_backup": false
@@ -75,20 +75,19 @@
             "facebook": [
                 true,
                 {
-                    "url": null
+                    "url": "https://www.facebook.com/p/Tutti-Frutti-Cuba-61555832187428/"
                 }
             ],
             "instagram": [
                 true,
                 {
-                    "url": "https://www.instagram.com/dopingpizzas/"
+                    "url": "https://www.instagram.com/tuttifrutticuba/"
                 }
             ],
-            "whatsapp": "51260311"
+            "whatsapp": "58271438"
         },
         "child_care": false,
         "disable_support": false,
-        "wifi": false,
         "parking": false,
         "delivery": false,
         "reserves": false,
@@ -105,9 +104,9 @@
         },
         "currency": {
             "cup": true,
-            "usd": false,
+            "usd": true,
             "euro": false,
-            "mlc": false
+            "mlc": true
         },
         "10% charge": false
     },
@@ -311,7 +310,7 @@
                                         "price": 1900
                                     },
                                     {
-                                        "name": "Santiago 12 anos",
+                                        "name": "Santiago 13 anos",
                                         "price": 1900
                                     },
                                     {

@@ -1,71 +1,113 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "RicarDon",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.137414091589683,
-        "longitude": -82.36092696447452
+    "place_name": "RicarDon",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "78614325",
+        "district": "Centro Habana",
+        "location": "Entre Industria y San Miguel",
+        "coordinates": "23.137338546229067, -82.36092007382507"
     },
-    "contact": {
-        "phone_number": "78614325",
-        "e-mail": false,
-        "web_page": "https://ricardon.com",
-        "whatsapp": false,
-        "facebook": "RicarDon",
-        "instagram": "@restaurantericardon"
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "tuesday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "wednesday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "thursday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "friday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "saturday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "sunday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         }
     },
-    "rating": 5.0,
-    "intake_capacity": "media",
-    "cuisine": [
-        "caribeña",
-        "latina",
-        "mediterránea",
-        "cubana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.5,
+                "number_of_reviews": 138
+            },
+            "tripadvisor": {
+                "stars": 5.0,
+                "number_of_reviews": 383
+            },
+            "facebook": {
+                "stars": 4.9,
+                "number_of_reviews": 64
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "moderna",
+        "festive_decorations": true,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias"
+        ],
+        "energy_backup": true
+    },
     "services": {
-        "plant": true,
+        "social_networks": {
+            "web_page": [
+                true,
+                {
+                    "url": "https://ricardon.com/web/"
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/RestauranteRicarDon/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/restaurantericardon/?hl=es"
+                }
+            ],
+            "whatsapp": null
+        },
         "child_care": false,
         "disable_support": false,
         "parking": true,
         "delivery": true,
         "reserves": true,
-        "takeaway": true,
+        "rent_from_the_client": true,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": true
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

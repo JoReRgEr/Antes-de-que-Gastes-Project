@@ -1,70 +1,113 @@
 {
-    "type_of_establishment": "bar - restaurante",
-    "name": "El Bleko",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.141509790555908,
-        "longitude": -82.374230422513
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "El Bleko",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Centro Habana",
+        "location": "Vapor y Hornos, 63 entre Marina",
+        "coordinates": "23.14144471636761, -82.37414987116448"
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": "50985368",
-        "facebook": "El Bleko",
-        "instagram": "@blecohavana"
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1300",
-            "close": "0200"
+            "open": "13:00",
+            "closed": "02:00"
         },
         "tuesday": {
-            "open": "1300",
-            "close": "0200"
+            "open": "13:00",
+            "closed": "02:00"
         },
         "wednesday": {
-            "open": "1300",
-            "close": "0200"
+            "open": "13:00",
+            "closed": "02:00"
         },
         "thursday": {
-            "open": "1300",
-            "close": "0200"
+            "open": "13:00",
+            "closed": "02:00"
         },
         "friday": {
-            "open": "1300",
-            "close": "0200"
+            "open": "13:00",
+            "closed": "02:00"
         },
         "saturday": {
-            "open": "1300",
-            "close": "0200"
+            "open": "13:00",
+            "closed": "02:00"
         },
         "sunday": {
-            "open": "1300",
-            "close": "0200"
+            "open": "13:00",
+            "closed": "02:00"
         }
     },
-    "rating": 3.5,
-    "intake_capacity": "media",
-    "cuisine": [
-        "caribeña",
-        "italiana",
-        "criolla"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.3,
+                "number_of_reviews": 155
+            },
+            "tripadvisor": {
+                "stars": 4.0,
+                "number_of_reviews": 27
+            },
+            "facebook": {
+                "stars": 5.0,
+                "number_of_reviews": 7
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "bohemio",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": true,
+        "type_of_concurrent_clients": [
+            "grupos"
+        ],
+        "energy_backup": false
+    },
     "services": {
-        "plant": false,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/elbleko/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/blecohavana/?hl=es"
+                }
+            ],
+            "whatsapp": "50985368"
+        },
         "child_care": false,
         "disable_support": false,
         "parking": false,
         "delivery": false,
         "reserves": false,
-        "takeaway": false,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

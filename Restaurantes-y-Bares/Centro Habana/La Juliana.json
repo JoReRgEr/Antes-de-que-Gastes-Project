@@ -1,70 +1,114 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "La Juliana",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.135543401312233,
-        "longitude": -82.3644565648407
+    "place_name": "La Juliana",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "78636786",
+        "district": "Centro Habana",
+        "location": "Calle Zanja esquina San Nicolás",
+        "coordinates": "23.135454628081156, -82.3644190067467"
     },
-    "contact": {
-        "phone_number": "78661823",
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": "58356065",
-        "facebook": "La Juliana",
-        "instagram": "@lajulianarestaurant"
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1000",
-            "close": "2400"
+            "open": "10:00",
+            "closed": "24:00"
         },
         "tuesday": {
-            "open": "1000",
-            "close": "2300"
+            "open": "10:00",
+            "closed": "24:00"
         },
         "wednesday": {
-            "open": "1000",
-            "close": "2300"
+            "open": "10:00",
+            "closed": "24:00"
         },
         "thursday": {
-            "open": "1000",
-            "close": "2300"
+            "open": "10:00",
+            "closed": "24:00"
         },
         "friday": {
-            "open": "1000",
-            "close": "2400"
+            "open": "10:00",
+            "closed": "24:00"
         },
         "saturday": {
-            "open": "1000",
-            "close": "2400"
+            "open": "10:00",
+            "closed": "24:00"
         },
         "sunday": {
-            "open": "1000",
-            "close": "2400"
+            "open": "10:00",
+            "closed": "24:00"
         }
     },
-    "rating": 4.5,
-    "intake_capacity": "media",
-    "cuisine": [
-        "caribeña",
-        "latina",
-        "cubana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.2,
+                "number_of_reviews": 169
+            },
+            "tripadvisor": {
+                "stars": 4.5,
+                "number_of_reviews": 130
+            },
+            "facebook": {
+                "stars": 3.8,
+                "number_of_reviews": 977
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "contemporanea",
+        "festive_decorations": true,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos",
+            "familias"
+        ],
+        "energy_backup": true
+    },
     "services": {
-        "plant": true,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/restaurantlajuliana/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/lajulianarestaurant/?hl=es"
+                }
+            ],
+            "whatsapp": "58356065"
+        },
         "child_care": true,
-        "disable_support": false,
+        "disable_support": true,
         "parking": false,
         "delivery": true,
         "reserves": false,
-        "takeaway": true,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

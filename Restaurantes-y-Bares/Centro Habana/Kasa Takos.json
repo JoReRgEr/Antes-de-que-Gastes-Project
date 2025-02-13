@@ -1,70 +1,113 @@
 {
-    "type_of_establishment": "bar - restaurante",
-    "name": "Kasa Takos",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.139644726614794,
-        "longitude": -82.3755633828391
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "Kasa Takos",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Centro Habana",
+        "location": "Hospital y Aramburu, 966 entre San Lazaro",
+        "coordinates": "23.13928685997097, -82.37562214963357"
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": "kasatakos@gmail.com",
-        "web_page": "https://beacons.ai/kasatakos",
-        "whatsapp": "50122113",
-        "facebook": "KasaTakos",
-        "instagram": "@kasatakos_havana"
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1200",
-            "close": "0030"
+            "open": "12:00",
+            "closed": "00:00"
         },
         "tuesday": {
-            "open": "1200",
-            "close": "0030"
+            "open": "12:00",
+            "closed": "00:00"
         },
         "wednesday": {
-            "open": "1200",
-            "close": "0030"
+            "open": "12:00",
+            "closed": "00:00"
         },
         "thursday": {
-            "open": "1200",
-            "close": "0030"
+            "open": "12:00",
+            "closed": "00:00"
         },
         "friday": {
-            "open": "1200",
-            "close": "0030"
+            "open": "12:00",
+            "closed": "00:00"
         },
         "saturday": {
-            "open": "1200",
-            "close": "0030"
+            "open": "12:00",
+            "closed": "00:00"
         },
         "sunday": {
-            "open": "1200",
-            "close": "0030"
+            "open": "12:00",
+            "closed": "00:00"
         }
     },
-    "rating": 4.4,
-    "intake_capacity": "alta",
-    "cuisine": [
-        "caribeña",
-        "mexicana",
-        "cubana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.4,
+                "number_of_reviews": 32
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "grande",
+        "decoration": "mexicana",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos"
+        ],
+        "energy_backup": true
+    },
     "services": {
-        "plant": true,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/KasaTakos/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/kasatakos_havana/"
+                }
+            ],
+            "whatsapp": "50122113"
+        },
         "child_care": false,
         "disable_support": false,
         "parking": false,
         "delivery": false,
         "reserves": false,
-        "takeaway": false,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

@@ -1,37 +1,115 @@
 {
-    "municipality": "ch",
-    "name": "Tutti Frutti",
-    "address": "San Lazaro entre San Fransico y Espada",
-    "contacts": {
-        "phone": [],
-        "website": null,
-        "facebook": null,
-        "instagram": null
+    "type_of_establishment": "restaurante",
+    "place_name": "Tutti Frutti",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Centro Habana",
+        "location": "San Lazaro entre San Fransico y Espada",
+        "coordinates": "23.138660923544478, -82.37740802546976"
     },
-    "ratings": {},
-    "owner": "Particular",
-    "type": "Restaurante",
-    "specialty": "Desayunos",
-    "hours": {
-        "monday": "0800_2000",
-        "tuesday": "0800_2000",
-        "wednesday": "0800_2000",
-        "thursday": "0800_2000",
-        "friday": "0800_2000",
-        "saturday": "0800_2000",
-        "sunday": "0800_2000"
+    "schedules": {
+        "monday": {
+            "open": "08:00",
+            "closed": "20:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "closed": "20:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "closed": "20:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "closed": "20:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "closed": "20:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "closed": "20:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "closed": "20:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 5.0,
+                "number_of_reviews": 7
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "chico",
+        "decoration": "tropical",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades",
+            "grupos"
+        ],
+        "energy_backup": false
     },
     "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/p/Tutti-Frutti-Cuba-61555832187428/"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/tuttifrutticuba/"
+                }
+            ],
+            "whatsapp": "58271438"
+        },
+        "child_care": false,
+        "disable_support": false,
         "parking": false,
-        "reservations": false,
         "delivery": false,
-        "power plant": false
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
     },
-    "payment_methods": [
-        "cup",
-        "mlc",
-        "usd"
-    ],
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla"

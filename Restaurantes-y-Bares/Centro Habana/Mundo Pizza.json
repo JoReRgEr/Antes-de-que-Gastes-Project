@@ -1,66 +1,114 @@
 {
     "type_of_establishment": "restaurante",
     "place_name": "Mundo Pizza",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.13771148492377,
-        "longitude": -82.36400171839173
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Centro Habana",
+        "location": "C. San Nicolás 309 entre Neptuno y San Miguel",
+        "coordinates": "23.139211885587688, -82.36362409084649"
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": "53372715",
-        "facebook": "Mundo Pizza",
-        "instagram": "@mundopizza_habana"
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1200",
-            "close": "2200"
+            "open": "12:00",
+            "closed": "22:00"
         },
         "tuesday": {
-            "open": "1200",
-            "close": "2200"
+            "open": "12:00",
+            "closed": "22:00"
         },
         "wednesday": {
-            "open": "1200",
-            "close": "2200"
+            "open": "12:00",
+            "closed": "22:00"
         },
         "thursday": {
-            "open": "1200",
-            "close": "2200"
+            "open": "12:00",
+            "closed": "22:00"
         },
         "friday": {
-            "open": "1200",
-            "close": "2200"
+            "open": "12:00",
+            "closed": "22:00"
         },
         "saturday": {
-            "open": "1200",
-            "close": "2200"
+            "open": "12:00",
+            "closed": "22:00"
         },
         "sunday": {
-            "open": "1200",
-            "close": "2200"
+            "open": "12:00",
+            "closed": "22:00"
         }
     },
-    "rating": 4.5,
-    "intake_capacity": "media",
-    "cuisine": "italiana",
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.5,
+                "number_of_reviews": 51
+            },
+            "tripadvisor": {
+                "stars": 4.5,
+                "number_of_reviews": 137
+            },
+            "facebook": {
+                "stars": 4.0,
+                "number_of_reviews": 30
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "urbana",
+        "festive_decorations": false,
+        "home_uniform": "formal",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos",
+            "amistades"
+        ],
+        "energy_backup": false
+    },
     "services": {
-        "plant": null,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/Mundopizza.habana/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/mundopizza_habana/?hl=es"
+                }
+            ],
+            "whatsapp": "53372715"
+        },
         "child_care": false,
         "disable_support": false,
         "parking": true,
         "delivery": true,
         "reserves": true,
-        "takeaway": true,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

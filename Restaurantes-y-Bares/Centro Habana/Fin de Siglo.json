@@ -1,70 +1,114 @@
 {
-    "type_of_establishment": "bar - restaurante",
-    "name": "Fin de Siglo",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.136227081972006,
-        "longitude": -82.36206873376179
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "Fin de Siglo",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "78613090",
+        "district": "Centro Habana",
+        "location": "Águila",
+        "coordinates": "23.136029115363574, -82.36214894153741"
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": "59529982",
-        "facebook": "Fin de Siglo",
-        "instagram": false
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1000",
-            "close": "2200"
+            "open": "10:00",
+            "closed": "22:00"
         },
         "tuesday": {
-            "open": "1000",
-            "close": "2200"
+            "open": "10:00",
+            "closed": "22:00"
         },
         "wednesday": {
-            "open": "1000",
-            "close": "2200"
+            "open": "10:00",
+            "closed": "22:00"
         },
         "thursday": {
-            "open": "1000",
-            "close": "2200"
+            "open": "10:00",
+            "closed": "22:00"
         },
         "friday": {
-            "open": "1000",
-            "close": "0300"
+            "open": "10:00",
+            "closed": "22:00"
         },
         "saturday": {
-            "open": "1000",
-            "close": "0300"
+            "open": "10:00",
+            "closed": "22:00"
         },
         "sunday": {
-            "open": "1000",
-            "close": "0300"
+            "open": "10:00",
+            "closed": "22:00"
         }
     },
-    "rating": 5.0,
-    "intake_capacity": "media",
-    "cuisine": [
-        "cocteleria",
-        "cubana",
-        "italiana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": true,
+        "type_of_concurrent_clients": [
+            "grupos",
+            "familias"
+        ],
+        "energy_backup": false
+    },
     "services": {
-        "plant": false,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/findesiglobar/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": "59529982"
+        },
         "child_care": false,
         "disable_support": false,
         "parking": false,
         "delivery": false,
         "reserves": false,
-        "takeaway": false,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": true
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

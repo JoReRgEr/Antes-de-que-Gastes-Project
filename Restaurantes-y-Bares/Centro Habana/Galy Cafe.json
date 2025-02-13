@@ -1,71 +1,114 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "Galy Cafe",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.13605979859447,
-        "longitude": -82.36264764949895
+    "place_name": "Galy Cafe",
+    "property_type": "estatal",
+    "address": {
+        "establishment_phone_number": "78634580",
+        "district": "Centro Habana",
+        "location": "San Martin",
+        "coordinates": "23.13605979859447, -82.36264764949895"
     },
-    "contact": {
-        "phone_number": "78634580",
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": false,
-        "facebook": "GalyCafé",
-        "instagram": false
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1100",
-            "close": "2300"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "tuesday": {
-            "open": "1100",
-            "close": "2300"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "wednesday": {
-            "open": "1100",
-            "close": "2300"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "thursday": {
-            "open": "1100",
-            "close": "2300"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "friday": {
-            "open": "1100",
-            "close": "2300"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "saturday": {
-            "open": "1100",
-            "close": "2400"
+            "open": "11:00",
+            "closed": "24:00"
         },
         "sunday": {
-            "open": "1100",
-            "close": "2400"
+            "open": "11:00",
+            "closed": "24:00"
         }
     },
-    "rating": 4.5,
-    "intake_capacity": "media",
-    "cuisine": [
-        "caribeña",
-        "latina",
-        "internacional",
-        "cubana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.3,
+                "number_of_reviews": 93
+            },
+            "tripadvisor": {
+                "stars": 4.5,
+                "number_of_reviews": 55
+            },
+            "facebook": {
+                "stars": 3.5,
+                "number_of_reviews": 431
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos",
+            "familias"
+        ],
+        "energy_backup": false
+    },
     "services": {
-        "plant": false,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/galycafe.habana/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": null
+        },
         "child_care": false,
         "disable_support": true,
         "parking": false,
         "delivery": false,
         "reserves": false,
-        "takeaway": true,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

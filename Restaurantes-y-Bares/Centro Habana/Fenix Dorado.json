@@ -1,35 +1,115 @@
 {
-    "municipality": "ch",
-    "name": "Fenix Dorado",
-    "address": "Cuchillo entre San Nicolás y Rayo",
-    "contacts": {
-        "phone": [],
-        "website": null,
-        "facebook": null,
-        "instagram": null
+    "type_of_establishment": "restaurante",
+    "place_name": "Fenix Dorado",
+    "property_type": "estatal",
+    "address": {
+        "establishment_phone_number": "78664088",
+        "district": "Centro Habana",
+        "location": "Cuchillo entre San Nicolás y Rayo",
+        "coordinates": null
     },
-    "ratings": {
-        "tripadvisor": 3.5
+    "schedules": {
+        "monday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "closed": "23:00"
+        }
     },
-    "owner": "Particular",
-    "type": "Restaurante",
-    "specialty": "Comida China",
-    "hours": {
-        "monday": "1100_2300",
-        "tuesday": "1100_2300",
-        "wednesday": "1100_2300",
-        "thursday": "1100_2300",
-        "friday": "1100_2300",
-        "saturday": "1100_2300",
-        "sunday": "1100_2300"
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": 3.5,
+                "number_of_reviews": 18
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "asiatica",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos",
+            "familias"
+        ],
+        "energy_backup": false
     },
     "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/explore/locations/199513926903533/fenix-dorado/"
+                }
+            ],
+            "whatsapp": null
+        },
+        "child_care": false,
+        "disable_support": false,
         "parking": false,
-        "reservations": false,
         "delivery": false,
-        "power plant": false
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
     },
-    "payment_methods": [],
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "italiana",

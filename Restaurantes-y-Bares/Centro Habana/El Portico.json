@@ -1,68 +1,113 @@
 {
-    "type_of_establishment": "bar - restaurante",
-    "name": "El Portico",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.13385424944992,
-        "longitude": -82.36160649338726
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "El Portico",
+    "property_type": "estatal",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Centro Habana",
+        "location": "Dragones",
+        "coordinates": "23.133554517107815, -82.36159355838238"
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": false,
-        "facebook": false,
-        "instagram": false
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": false,
-            "close": false
+            "open": "00:00",
+            "closed": "24:00"
         },
         "tuesday": {
-            "open": "0000",
-            "close": "2400"
+            "open": "00:00",
+            "closed": "24:00"
         },
         "wednesday": {
-            "open": "0000",
-            "close": "2400"
+            "open": "00:00",
+            "closed": "24:00"
         },
         "thursday": {
-            "open": "0000",
-            "close": "2400"
+            "open": "00:00",
+            "closed": "24:00"
         },
         "friday": {
-            "open": "0000",
-            "close": "2400"
+            "open": "00:00",
+            "closed": "24:00"
         },
         "saturday": {
-            "open": "0000",
-            "close": "2400"
+            "open": "00:00",
+            "closed": "24:00"
         },
         "sunday": {
-            "open": "0000",
-            "close": "2400"
+            "open": "00:00",
+            "closed": "24:00"
         }
     },
-    "rating": 5.0,
-    "intake_capacity": "media",
-    "cuisine": [
-        "cubana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "contemporaneo",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos"
+        ],
+        "energy_backup": false
+    },
     "services": {
-        "plant": false,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": null
+        },
         "child_care": false,
         "disable_support": false,
         "parking": false,
         "delivery": false,
         "reserves": false,
-        "takeaway": false,
-        "vip_zone": true,
-        "interactive_act": false
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

@@ -1,38 +1,114 @@
 {
-    "municipality": "ch",
-    "name": "La Fransesa",
-    "address": "Prado entre San Rafael y Neptuno",
-    "contacts": {
-        "phone": [],
-        "website": null,
-        "facebook": null,
-        "instagram": null
+    "type_of_establishment": "bar",
+    "place_name": "La Fransesa",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Centro Habana",
+        "location": "Prado entre San Rafael y Neptuno",
+        "coordinates": null
     },
-    "ratings": {},
-    "owner": "Particular",
-    "type": "Bar",
-    "specialty": "Tapas",
-    "hours": {
-        "monday": "0800_1200",
-        "tuesday": "0800_1200",
-        "wednesday": "0800_1200",
-        "thursday": "0800_1200",
-        "friday": "0800_1200",
-        "saturday": "0800_1200",
-        "sunday": "0800_1200"
+    "schedules": {
+        "monday": {
+            "open": "08:00",
+            "closed": "00:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "closed": "00:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "closed": "00:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "closed": "00:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "closed": "00:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "closed": "00:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "closed": "00:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "europea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos"
+        ],
+        "energy_backup": false
     },
     "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/lafrancesahavanavieja/"
+                }
+            ],
+            "whatsapp": null
+        },
+        "child_care": false,
+        "disable_support": false,
         "parking": false,
-        "reservations": false,
         "delivery": false,
-        "power plant": false
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
     },
-    "payment_methods": [
-        "cup",
-        "mlc",
-        "usd",
-        "eur"
-    ],
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "americana",

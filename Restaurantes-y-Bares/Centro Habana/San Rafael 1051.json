@@ -1,69 +1,113 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "San Rafael 1051",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.11380465355718,
-        "longitude": -82.36663315102301
+    "place_name": "San Rafael 1051",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Centro Habana",
+        "location": "San Rafael e/ Infanta y San Francisco",
+        "coordinates": "23.13560462644637, -82.37745261941653"
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": false,
-        "web_page": "https://sanrafael1051.carrta.app",
-        "whatsapp": "58058576",
-        "facebook": "san_rafael1051",
-        "instagram": "@san_rafael1051"
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "tuesday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "wednesday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "thursday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "friday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "saturday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "sunday": {
-            "open": "1200",
-            "close": "2400"
+            "open": "12:00",
+            "closed": "24:00"
         }
     },
-    "rating": 4.5,
-    "intake_capacity": "baja",
-    "cuisine": [
-        "americana",
-        "internacional"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 3.7,
+                "number_of_reviews": 55
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": 4.8,
+                "number_of_reviews": 12
+            }
+        },
+        "establishment_capacity": "chico",
+        "decoration": "moderno",
+        "festive_decorations": true,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades"
+        ],
+        "energy_backup": true
+    },
     "services": {
-        "plant": true,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/p/san_rafael1051-100086661883981/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/san_rafael1051/?hl=es"
+                }
+            ],
+            "whatsapp": "58058576"
+        },
         "child_care": false,
-        "disable_support": true,
+        "disable_support": false,
         "parking": false,
         "delivery": false,
         "reserves": true,
-        "takeaway": true,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

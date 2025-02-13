@@ -1,41 +1,115 @@
 {
-    "municipality": "ch",
-    "name": "El Biky",
-    "address": "Infanta Nº412 e/ San Lázaro y Concordia",
-    "contacts": {
-        "phone": [
-            "(+53) 7870 6515"
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "El Biky",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "78706515",
+        "district": "Centro Habana",
+        "location": "Infanta Nº412 entre San Lázaro y Concordia",
+        "coordinates": "23.13802073599738, -82.37851844914492"
+    },
+    "schedules": {
+        "monday": {
+            "open": "08:00",
+            "closed": "23:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "closed": "23:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "closed": "23:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "closed": "23:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "closed": "23:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "closed": "23:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "closed": "23:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.5,
+                "number_of_reviews": 701
+            },
+            "tripadvisor": {
+                "stars": 4.5,
+                "number_of_reviews": 904
+            },
+            "facebook": {
+                "stars": 3.5,
+                "number_of_reviews": 1472
+            }
+        },
+        "establishment_capacity": "grande",
+        "decoration": "moderno",
+        "festive_decorations": true,
+        "home_uniform": "formal",
+        "collaboration_for_events": true,
+        "type_of_concurrent_clients": [
+            "grupos",
+            "familias"
         ],
-        "website": "elbiky.com",
-        "facebook": null,
-        "instagram": null
-    },
-    "ratings": {
-        "tripadvisor": 4.5
-    },
-    "owner": "Particular",
-    "type": "Restaurante",
-    "specialty": "Comida Caribeña",
-    "hours": {
-        "monday": "0800_2300",
-        "tuesday": "0800_2300",
-        "wednesday": "0800_2300",
-        "thursday": "0800_2300",
-        "friday": "0800_2300",
-        "saturday": "0800_2300",
-        "sunday": "0800_2300"
+        "energy_backup": true
     },
     "services": {
+        "social_networks": {
+            "web_page": [
+                true,
+                {
+                    "url": "https://www.elbiky.com/"
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/elbiky/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/restaurantelbikyhabana/?hl=es"
+                }
+            ],
+            "whatsapp": null
+        },
+        "child_care": true,
+        "disable_support": false,
         "parking": true,
-        "reservations": true,
         "delivery": true,
-        "power plant": true
+        "reserves": true,
+        "rent_from_the_client": false,
+        "vip_zone": true,
+        "pet_friendly": false
     },
-    "payment_methods": [
-        "mlc",
-        "usd",
-        "cup"
-    ],
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": true
+        },
+        "10% charge": true
+    },
     "menu_details": {
         "kind_of_food": [
             "mexicana",

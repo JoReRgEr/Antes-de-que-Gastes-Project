@@ -1,35 +1,114 @@
 {
-    "municipality": "ch",
-    "name": "Ivonne Cafe",
-    "address": "San Lazaro entre Espada y Hospital",
-    "contacts": {
-        "phone": [],
-        "website": null,
-        "facebook": null,
-        "instagram": null
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "Ivonne Cafe",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Centro Habana",
+        "location": "San Lazaro entre Espada y Hospital",
+        "coordinates": "23.13875350806499, -82.37659287108775"
     },
-    "ratings": {},
-    "owner": "Particular",
-    "type": "Bar-Restaurante",
-    "specialty": "",
-    "hours": {
-        "monday": "0900_2200",
-        "tuesday": "0900_2200",
-        "wednesday": "0900_2200",
-        "thursday": "0900_2200",
-        "friday": "0900_2200",
-        "saturday": "0900_2200",
-        "sunday": "0900_2200"
+    "schedules": {
+        "monday": {
+            "open": "09:00",
+            "closed": "22:00"
+        },
+        "tuesday": {
+            "open": "09:00",
+            "closed": "22:00"
+        },
+        "wednesday": {
+            "open": "09:00",
+            "closed": "22:00"
+        },
+        "thursday": {
+            "open": "09:00",
+            "closed": "22:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "closed": "22:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "closed": "22:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "closed": "22:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "chico",
+        "decoration": null,
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos"
+        ],
+        "energy_backup": true
     },
     "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": null
+        },
+        "child_care": false,
+        "disable_support": false,
         "parking": false,
-        "reservations": false,
         "delivery": false,
-        "power plant": true
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
     },
-    "payment_methods": [
-        "cup"
-    ],
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "italiana"

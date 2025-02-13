@@ -1,40 +1,114 @@
 {
-    "municipality": "ch",
-    "name": "El cuarto de Tula",
-    "address": "San Lazaro entre San Fransico y Espada",
-    "contacts": {
-        "phone": [],
-        "website": null,
-        "facebook": null,
-        "instagram": null
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "El Cuarto de Tula",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "78731177",
+        "district": "Centro Habana",
+        "location": "San Lazaro entre San Fransico y Espada",
+        "coordinates": "23.138477523208845, -82.37729797059556"
     },
-    "ratings": {
-        "tripadvisor": 4.5
+    "schedules": {
+        "monday": {
+            "open": "08:00",
+            "closed": "23:00"
+        },
+        "tuesday": {
+            "open": "08:00",
+            "closed": "23:00"
+        },
+        "wednesday": {
+            "open": "08:00",
+            "closed": "23:00"
+        },
+        "thursday": {
+            "open": "08:00",
+            "closed": "23:00"
+        },
+        "friday": {
+            "open": "08:00",
+            "closed": "23:00"
+        },
+        "saturday": {
+            "open": "08:00",
+            "closed": "23:00"
+        },
+        "sunday": {
+            "open": "08:00",
+            "closed": "23:00"
+        }
     },
-    "owner": "Particular",
-    "type": "Bar-Restaurante",
-    "specialty": "Comida Internacional",
-    "hours": {
-        "monday": "0800_2300",
-        "tuesday": "0800_2300",
-        "wednesday": "0800_2300",
-        "thursday": "0800_2300",
-        "friday": "0800_2300",
-        "saturday": "0800_2300",
-        "sunday": "0800_2300"
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.6,
+                "number_of_reviews": 62
+            },
+            "tripadvisor": {
+                "stars": 4.5,
+                "number_of_reviews": 88
+            },
+            "facebook": {
+                "stars": 5.0,
+                "number_of_reviews": 6
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "bohemio",
+        "festive_decorations": true,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "grupos"
+        ],
+        "energy_backup": true
     },
     "services": {
+        "social_networks": {
+            "web_page": [
+                true,
+                {
+                    "url": "https://www.elcuartodetula.com/"
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/elcuartodetulaa/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/elcuartodetula__/?hl=es"
+                }
+            ],
+            "whatsapp": "52975700"
+        },
+        "child_care": false,
+        "disable_support": false,
         "parking": false,
-        "reservations": false,
         "delivery": false,
-        "power plant": true
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
     },
-    "payment_methods": [
-        "cup",
-        "mlc",
-        "usd",
-        "bitcoin"
-    ],
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "italiana",

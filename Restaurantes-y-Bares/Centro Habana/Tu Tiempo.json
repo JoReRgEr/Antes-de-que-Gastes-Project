@@ -1,66 +1,114 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "Tu Tiempo",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.1401557660662, 
-        "longitude": -82.37586279184762
+    "place_name": "Tu Tiempo",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "78737259",
+        "district": "Centro Habana",
+        "location": "Esquina entre Jovellar y Hospital",
+        "coordinates": "23.139864749559205, -82.3759647085996"
     },
-    "contact": {
-        "phone_number": "78737259",
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": "52701451",
-        "facebook": false,
-        "instagram": false
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "0800",
-            "close": "2000"
+            "open": "08:00",
+            "closed": "20:00"
         },
         "tuesday": {
-            "open": "0800",
-            "close": "2000"
+            "open": "08:00",
+            "closed": "20:00"
         },
         "wednesday": {
-            "open": "0800",
-            "close": "2000"
+            "open": "08:00",
+            "closed": "20:00"
         },
         "thursday": {
-            "open": "0800",
-            "close": "2000"
+            "open": "08:00",
+            "closed": "20:00"
         },
         "friday": {
-            "open": "0800",
-            "close": "2000"
+            "open": "08:00",
+            "closed": "20:00"
         },
         "saturday": {
-            "open": "0800",
-            "close": "2000"
+            "open": "08:00",
+            "closed": "20:00"
         },
         "sunday": {
-            "open": "0800",
-            "close": "2000"
+            "open": "08:00",
+            "closed": "20:00"
         }
     },
-    "rating": 4.6,
-    "intake_capacity": "baja",
-    "cuisine": ["cubana"],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.6,
+                "number_of_reviews": 28
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "chico",
+        "decoration": "urbana",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades",
+            "grupos"
+        ],
+        "energy_backup": true
+    },
     "services": {
-        "plant": true,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": "52701451"
+        },
         "child_care": false,
         "disable_support": false,
         "parking": false,
         "delivery": true,
         "reserves": false,
-        "takeaway": true,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
     },
     "menu": {
         "breakfasts": false,

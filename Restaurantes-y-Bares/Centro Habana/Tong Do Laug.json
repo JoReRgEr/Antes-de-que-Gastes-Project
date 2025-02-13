@@ -1,39 +1,114 @@
 {
-    "municipality": "ch",
-    "name": "Tong Do Laug",
-    "address": "Cuchillo entre San Nicolás y Rayo",
-    "contacts": {
-        "phone": [
-            "+53 55100355"
-        ],
-        "website": null,
-        "facebook": null,
-        "instagram": null
+    "type_of_establishment": "restaurante",
+    "place_name": "Tong Do Laug",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "78646854",
+        "district": "Centro Habana",
+        "location": "Calle Cuchillo, entre Rayo y, San Nicolas",
+        "coordinates": "23.13479993527456, -82.36376517405881"
     },
-    "ratings": {},
-    "owner": "Particular",
-    "type": "Restaurante",
-    "specialty": "Comida China",
-    "hours": {
-        "monday": "1000_2100",
-        "tuesday": "1000_2100",
-        "wednesday": "1000_2100",
-        "thursday": "1000_2100",
-        "friday": "1000_2100",
-        "saturday": "1000_2100",
-        "sunday": "1000_2100"
+    "schedules": {
+        "monday": {
+            "open": "10:00",
+            "closed": "21:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "closed": "21:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "closed": "21:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "closed": "21:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "closed": "21:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "closed": "21:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "closed": "21:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 2.8,
+                "number_of_reviews": 5
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": 3.8,
+                "number_of_reviews": 10
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "asiatica",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades"
+        ],
+        "energy_backup": false
     },
     "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/p/Tong-Po-Laug-100070349940126/"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/explore/locations/1539032762979891/tong-po-laug/"
+                }
+            ],
+            "whatsapp": "55100355"
+        },
+        "child_care": false,
+        "disable_support": false,
         "parking": false,
-        "reservations": false,
         "delivery": false,
-        "power plant": false
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
     },
-    "payment_methods": [
-        "cup",
-        "mlc",
-        "usd"
-    ],
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla",

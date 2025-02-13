@@ -1,69 +1,114 @@
 {
-    "type_of_establishment": "bar - restaurante",
-    "name": "Pedros Bar",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.136930631399565,
-        "longitude": -82.36181409182808
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "Pedros Bar",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Centro Habana",
+        "location": "Entre Amistad y Blvd. de San Rafael",
+        "coordinates": "23.136753882245703, -82.36186051934749"
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": "5510666",
-        "facebook": "Pedro's Bar",
-        "instagram": "@pedrosbar_boulevard"
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1400",
-            "close": "0200"
+            "open": "14:00",
+            "closed": "02:00"
         },
         "tuesday": {
-            "open": "1400",
-            "close": "0200"
+            "open": "14:00",
+            "closed": "02:00"
         },
         "wednesday": {
-            "open": "1400",
-            "close": "0200"
+            "open": "14:00",
+            "closed": "02:00"
         },
         "thursday": {
-            "open": "1400",
-            "close": "0200"
+            "open": "14:00",
+            "closed": "02:00"
         },
         "friday": {
-            "open": "1400",
-            "close": "0200"
+            "open": "14:00",
+            "closed": "02:00"
         },
         "saturday": {
-            "open": "1400",
-            "close": "0200"
+            "open": "14:00",
+            "closed": "02:00"
         },
         "sunday": {
-            "open": "1400",
-            "close": "0200"
+            "open": "14:00",
+            "closed": "02:00"
         }
     },
-    "rating": 5.0,
-    "intake_capacity": "media",
-    "cuisine": [
-        "cocteleria",
-        "italiana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "urbana",
+        "festive_decorations": true,
+        "home_uniform": "casual",
+        "collaboration_for_events": true,
+        "type_of_concurrent_clients": [
+            "grupos",
+            "amistades"
+        ],
+        "energy_backup": false
+    },
     "services": {
-        "plant": false,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/p/Pedros-BAR-100070236661259/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/pedrosbar_boulevard/?__d=1%2F"
+                }
+            ],
+            "whatsapp": "53019925"
+        },
         "child_care": false,
         "disable_support": false,
         "parking": false,
         "delivery": false,
         "reserves": true,
-        "takeaway": false,
+        "rent_from_the_client": true,
         "vip_zone": true,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

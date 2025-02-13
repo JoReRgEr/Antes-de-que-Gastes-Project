@@ -1,68 +1,114 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "Mimosa",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.134370150762123,
-        "longitude": -82.3682591198702
+    "place_name": "Mimosa",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "78671790",
+        "district": "Centro Habana",
+        "location": "Salud 317, entre Escobar y Gervasio",
+        "coordinates": "23.133566990069856, -82.368055238264"
     },
-    "contact": {
-        "phone_number": "78671790",
-        "e-mail": "mercadomimosa2024@gmail.com",
-        "web_page": "https://mercadomimosa.com/",
-        "whatsapp": "59705636",
-        "facebook": "La Mimosa",
-        "instagram": "@restaurantemimosa"
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1200",
-            "close": "2300"
+            "open": "12:00",
+            "closed": "23:00"
         },
         "tuesday": {
-            "open": "1200",
-            "close": "2300"
+            "open": "12:00",
+            "closed": "23:00"
         },
         "wednesday": {
-            "open": "1200",
-            "close": "2300"
+            "open": "12:00",
+            "closed": "23:00"
         },
         "thursday": {
-            "open": "1200",
-            "close": "2300"
+            "open": "12:00",
+            "closed": "23:00"
         },
         "friday": {
-            "open": "1200",
-            "close": "2300"
+            "open": "12:00",
+            "closed": "23:00"
         },
         "saturday": {
-            "open": "1200",
-            "close": "2300"
+            "open": "12:00",
+            "closed": "23:00"
         },
         "sunday": {
-            "open": "1200",
-            "close": "2300"
+            "open": "12:00",
+            "closed": "23:00"
         }
     },
-    "rating": 4.4,
-    "intake_capacity": "alta",
-    "cuisine": [
-        "italiana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.4,
+                "number_of_reviews": 240
+            },
+            "tripadvisor": {
+                "stars": 4.0,
+                "number_of_reviews": 203
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "grande",
+        "decoration": "contemporanea",
+        "festive_decorations": true,
+        "home_uniform": "formal",
+        "collaboration_for_events": true,
+        "type_of_concurrent_clients": [
+            "grupos",
+            "familias"
+        ],
+        "energy_backup": false
+    },
     "services": {
-        "plant": false,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/groups/1939137983061178/"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/explore/locations/100297235947516/la-mimosa/nearby/?__d=1"
+                }
+            ],
+            "whatsapp": "59705636"
+        },
         "child_care": true,
         "disable_support": true,
         "parking": true,
         "delivery": true,
-        "reserves": false,
-        "takeaway": true,
+        "reserves": true,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": true
+        },
+        "10% charge": true
     },
     "menu_details": {
         "kind_of_food": [

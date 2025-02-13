@@ -1,68 +1,113 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "Salchipizza",
-    "district": "Centro Habana",
-    "coordinates": {
-        "latitude": 23.13412923367649,
-        "longitude": -82.37826298998031
+    "place_name": "Salchipizza",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Centro Habana",
+        "location": "Calle Infanta, entre Zanja y Valle",
+        "coordinates": "23.133936311119633, -82.37835493214415"
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": false,
-        "facebook": "Salchipizza",
-        "instagram": "@salchipizza"
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": false,
-            "close": false
+            "open": null,
+            "closed": null
         },
         "tuesday": {
-            "open": "1300",
-            "close": "2300"
+            "open": "13:00",
+            "closed": "23:00"
         },
         "wednesday": {
-            "open": "1300",
-            "close": "2300"
+            "open": "13:00",
+            "closed": "23:00"
         },
         "thursday": {
-            "open": "1300",
-            "close": "2300"
+            "open": "13:00",
+            "closed": "23:00"
         },
         "friday": {
-            "open": "1300",
-            "close": "2300"
+            "open": "13:00",
+            "closed": "23:00"
         },
         "saturday": {
-            "open": "1300",
-            "close": "2300"
+            "open": "13:00",
+            "closed": "23:00"
         },
         "sunday": {
-            "open": false,
-            "close": false
+            "open": null,
+            "closed": null
         }
     },
-    "rating": 4.2,
-    "intake_capacity": "media",
-    "cuisine": [
-        "cubana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.2,
+                "number_of_reviews": 13
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias"
+        ],
+        "energy_backup": true
+    },
     "services": {
-        "plant": true,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/salchipizza/?hl=es"
+                }
+            ],
+            "whatsapp": null
+        },
         "child_care": true,
         "disable_support": true,
         "parking": false,
         "delivery": false,
         "reserves": true,
-        "takeaway": false,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [
