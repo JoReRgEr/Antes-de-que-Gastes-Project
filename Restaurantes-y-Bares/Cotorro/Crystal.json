@@ -1,74 +1,116 @@
 {
-  "name": "Crystal",
-  "address": "Avenida 101 entre 18 y 20 centro cotorro",
-  "schedule": {
-    "monday": {
-      "open": "11:00",
-      "close": "24:00"
-    },
-    "tuesday": {
-      "open": "11:00",
-      "close": "24:00"
-    },
-    "wednesday": {
-      "open": "11:00",
-      "close": "24:00"
-    },
-    "thursday": {
-      "open": "11:00",
-      "close": "24:00"
-    },
-    "friday": {
-      "open": "11:00",
-      "close": "24:00"
-    },
-    "saturday": {
-      "open": "11:00",
-      "close": "24:00"
-    },
-    "sunday": {
-      "open": "11:00",
-      "close": "24:00"
-    }
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Crystal",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "76823333",
+      "district": "Cotorro",
+      "location": "Avenida 101 entre 18 y 20 Centro",
+      "coordinates": "23.03810838521302, -82.40503655767105"
   },
-  "phone_number": "76823333",
-  "website": {
-    "website": null,
-    "instagram": "@cafecrystalcuba",
-    "facebook": "Restaurante Cafe Crystal"
+  "schedules": {
+      "monday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "tuesday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "wednesday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "thursday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "friday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "saturday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "sunday": {
+          "open": "11:00",
+          "closed": "24:00"
+      }
   },
-  "classification": "Categoría del restaurante (ej: Casual, Lujo, Familiar)",
-  "type_establishment": "bar-cafe-restaurante",
-  "specialty": "bar-cafe-restaurante",
-  "parking": true,
-  "reservations": true,
-  "payment_methods": {
-    "cash_national": true,
-    "digital_transfer_national": true,
-    "usd_cash": true,
-    "usd_transfer": true,
-    "mlc": true
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.0,
+              "number_of_reviews": 2
+          },
+          "tripadvisor": {
+              "stars": 5.0,
+              "number_of_reviews": 4
+          },
+          "facebook": {
+              "stars": 4.5,
+              "number_of_reviews": 8
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "moderna",
+      "festive_decorations": true,
+      "home_uniform": "casual",
+      "collaboration_for_events": true,
+      "type_of_concurrent_clients": [
+          "grupos",
+          "parejas",
+          "amistades"
+      ],
+      "energy_backup": true
   },
-  "free_wifi": false,
-  "delivery_areas": [
-    "Arroyo Naranjo",
-    "Boyeros",
-    "Centro Habana",
-    "Cerro",
-    "Cotorro",
-    "Diez de Octubre",
-    "Guanabacoa",
-    "Habana del Este",
-    "Habana Vieja",
-    "La Lisa",
-    "Marianao",
-    "Playa",
-    "Plaza de la Revolución",
-    "Regla",
-    "San Miguel del Padrón"
-  ],
-  "power_generator": "Sí",
-  "capacity": "mucha",
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/CafeCrystalHabanaCuba/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/crystalbar_havana/"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": true,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": true,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": true
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",
@@ -493,6 +535,5 @@
         ]
       }
     }
-  },
-  "service_charge_percentage": 10
+  }
 }

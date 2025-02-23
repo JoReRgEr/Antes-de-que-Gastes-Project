@@ -1,39 +1,114 @@
 {
-  "municipality": "ce",
-  "name": "Rico Rico",
-  "address": "Calle Ayestarán entre Perfecto Lacoste y Aranguren",
-  "contacts": {
-    "phone": [
-      "78701632"
-    ],
-    "website": null,
-    "facebook": "RicoRicopizzeria",
-    "instagram": "@ricoricopizzeria"
+  "type_of_establishment": "restaurante",
+  "place_name": "Rico Rico",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78701632",
+      "district": "Cerro",
+      "location": "Calle Ayestarán entre Perfecto Lacoste y Aranguren",
+      "coordinates": "23.124555417492857, -82.38046351447126"
   },
-  "ratings": {
-    "google": 2.4
+  "schedules": {
+      "monday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "tuesday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "saturday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "09:00",
+          "closed": "23:00"
+      }
   },
-  "owner": "particular",
-  "type": "Restaurante",
-  "specialty": "Comida Italiana",
-  "hours": {
-    "monday": "0900_2300",
-    "tuesday": "0900_2300",
-    "wednesday": "0900_2300",
-    "thursday": "0900_2300",
-    "friday": "0900_2300",
-    "saturday": "0900_2300",
-    "sunday": "0900_2300"
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "pequeña",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "grupos"
+      ],
+      "energy_backup": false
   },
   "services": {
-    "parking": true,
-    "reservations": false,
-    "delivery": true,
-    "power plant": false
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/RicoRicopizzeria/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/ricoricopizzeria/"
+              }
+          ],
+          "whatsapp": "51483086"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": true,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
   },
-  "payment_methods": [
-    "cup"
-  ],
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

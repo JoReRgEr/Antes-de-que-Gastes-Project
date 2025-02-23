@@ -1,39 +1,115 @@
 {
-  "municipality": "ce",
-  "name": "La Lola",
-  "address": "Calle Ayestarán entre San Pablo y Pedro Pérez",
-  "contacts": {
-    "phone": [
-      "+53 53654726"
-    ],
-    "website": null,
-    "facebook": null,
-    "instagram": null
+  "type_of_establishment": "bar",
+  "place_name": "La Lola",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Cerro",
+      "location": "Calle Ayestarán entre San Pablo y Pedro Pérez",
+      "coordinates": "23.11993588380902, -82.3831706253682"
   },
-  "ratings": {},
-  "owner": "Particular",
-  "type": "Bar",
-  "specialty": "Cocteleria",
-  "hours": {
-    "monday": "1400_0200",
-    "tuesday": "1400_0200",
-    "wednesday": "1400_0200",
-    "thursday": "1400_0200",
-    "friday": "1400_0200",
-    "saturday": "1400_0200",
-    "sunday": "1400_0200"
+  "schedules": {
+      "monday": {
+          "open": "14:00",
+          "closed": "02:00"
+      },
+      "tuesday": {
+          "open": "14:00",
+          "closed": "02:00"
+      },
+      "wednesday": {
+          "open": "14:00",
+          "closed": "02:00"
+      },
+      "thursday": {
+          "open": "14:00",
+          "closed": "02:00"
+      },
+      "friday": {
+          "open": "14:00",
+          "closed": "02:00"
+      },
+      "saturday": {
+          "open": "14:00",
+          "closed": "02:00"
+      },
+      "sunday": {
+          "open": "14:00",
+          "closed": "02:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "medio",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "amistades",
+          "grupos"
+      ],
+      "energy_backup": true
   },
   "services": {
-    "parking": true,
-    "reservations": true,
-    "delivery": true,
-    "power plant": true
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": "53654726"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": true,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
   },
-  "payment_methods": [
-    "cup",
-    "mlc",
-    "usd"
-  ],
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": false,
+          "mlc": true
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "italiana",

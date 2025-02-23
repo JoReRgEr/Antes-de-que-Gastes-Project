@@ -1,35 +1,114 @@
 {
-    "municipality": "ce",
-    "name": "Shapuseros",
-    "address": "Calzada de Ayestarán entre San Pedro y Ayuntamineto",
-    "contacts": {
-        "phone": [],
-        "website": null,
-        "facebook": null,
-        "instagram": null
-    },
-    "ratings": {},
-    "owner": "particular",
-    "type": "Restaurante",
-    "specialty": "Hamburgusera",
-    "hours": {
-        "monday": "0900_2100",
-        "tuesday": "0900_2100",
-        "wednesday": "0900_2100",
-        "thursday": "0900_2100",
-        "friday": "0900_2100",
-        "saturday": "0900_2100",
-        "sunday": "0900_2100"
-    },
-    "services": {
-        "parking": false,
-        "reservations": false,
-        "delivery": false,
-        "power plant": true
-    },
-    "payment_methods": [
-        "cup"
-    ],
+  "type_of_establishment": "restaurante",
+  "place_name": "Shapuseros",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Cerro",
+      "location": "Calzada de Ayestarán entre San Pedro y Ayuntamineto",
+      "coordinates": "23.117533251719724, -82.38463503743588"
+  },
+  "schedules": {
+      "monday": {
+          "open": "09:00",
+          "closed": "21:00"
+      },
+      "tuesday": {
+          "open": "09:00",
+          "closed": "21:00"
+      },
+      "wednesday": {
+          "open": "09:00",
+          "closed": "21:00"
+      },
+      "thursday": {
+          "open": "09:00",
+          "closed": "21:00"
+      },
+      "friday": {
+          "open": "09:00",
+          "closed": "21:00"
+      },
+      "saturday": {
+          "open": "09:00",
+          "closed": "21:00"
+      },
+      "sunday": {
+          "open": "09:00",
+          "closed": "21:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews":null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "mediana",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "grupos"
+      ],
+      "energy_backup": true
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/shapuseros/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
     "menu_details": {
         "kind_of_food": ["panes"],
         "menu_card": {

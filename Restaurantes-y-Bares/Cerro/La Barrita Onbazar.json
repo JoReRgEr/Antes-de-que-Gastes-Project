@@ -1,39 +1,115 @@
 {
-  "municipality": "ce",
-  "name": "La Barrita Onbazar",
-  "address": "Amenida entre Cruz del Pader e Infanta",
-  "contacts": {
-    "phone": [
-      "+53 54494741"
-    ],
-    "website": "labarrita.onbazar.net",
-    "facebook": null,
-    "instagram": "la_barrita_onbazar"
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "La Barrita Onbazar",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Cerro",
+      "location": "Amenida entre Cruz del Pader e Infanta",
+      "coordinates": "23.121859189805168, -82.37396295859824"
   },
-  "ratings": {},
-  "owner": "Particular",
-  "type": "Bar-Restaurante",
-  "specialty": "Pizzeria",
-  "hours": {
-    "monday": "0900_2300",
-    "tuesday": "0900_2300",
-    "wednesday": "0900_2300",
-    "thursday": "0900_2300",
-    "friday": "0900_0100",
-    "saturday": "0900_0100",
-    "sunday": "0900_0100"
+  "schedules": {
+      "monday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "tuesday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "09:00",
+          "closed": "01:00"
+      },
+      "saturday": {
+          "open": "09:00",
+          "closed": "01:00"
+      },
+      "sunday": {
+          "open": "09:00",
+          "closed": "01:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 5.0,
+              "number_of_reviews": 5
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "medio",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "grupos"
+      ],
+      "energy_backup": true
   },
   "services": {
-    "parking": true,
-    "reservations": true,
-    "delivery": true,
-    "power plant": true
+      "social_networks": {
+          "web_page": [
+              true,
+              {
+                  "url": "https://labarrita.onbazar.net/"
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/profile.php?id=61550764100168"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/la_barrita_onbazar/"
+              }
+          ],
+          "whatsapp": "54494741"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": true,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
   },
-  "payment_methods": [
-    "cup",
-    "usd",
-    "mlc"
-  ],
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": false,
+          "mlc": true
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "italiana",

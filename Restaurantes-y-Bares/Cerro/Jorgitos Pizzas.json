@@ -1,42 +1,115 @@
 {
-  "municipality": "ce",
-  "name": "Jorgitos Pizzas",
-  "address": "Pedroso entre Infanta y Cruz del Pader",
-  "contacts": {
-    "phone": [
-      "+53 54031349",
-      "78780156"
-    ],
-    "website": null,
-    "facebook": null,
-    "instagram": null
+  "type_of_establishment": "restaurante",
+  "place_name": "Jorgitos Pizzas",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78780156",
+      "district": "Cerro",
+      "location": "Cruz del Pader entre Pedrosa y Amenidares",
+      "coordinates": "23.12081453546643, -82.37357283526991"
   },
-  "ratings": {
-    "google": 4
+  "schedules": {
+      "monday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "tuesday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "saturday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "11:00",
+          "closed": "23:00"
+      }
   },
-  "owner": "Particular",
-  "type": "Restaurante",
-  "specialty": "Pizzeria",
-  "hours": {
-    "monday": "1100_2300",
-    "tuesday": "1100_2300",
-    "wednesday": "1100_2300",
-    "thursday": "1100_2300",
-    "friday": "1100_2300",
-    "saturday": "1100_2300",
-    "sunday": "1100_2300"
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.0,
+              "number_of_reviews": 4
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "chico",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
+      ],
+      "energy_backup": false
   },
   "services": {
-    "parking": false,
-    "reservations": false,
-    "delivery": true,
-    "power plant": false
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/jorgitospizza/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/jorgitospizza/"
+              }
+          ],
+          "whatsapp": "54031349"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": true,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
   },
-  "payment_methods": [
-    "cup",
-    "usd",
-    "mlc"
-  ],
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": false,
+          "mlc": true
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "italiana",

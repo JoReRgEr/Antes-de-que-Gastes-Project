@@ -1,35 +1,114 @@
 {
-  "municipality": "ce",
-  "name": "El Rápido",
-  "address": "Cruz del Pader entre Pedrosa y Amenidares",
-  "contacts": {
-    "phone": [],
-    "website": null,
-    "facebook": null,
-    "instagram": null
+  "type_of_establishment": "restaurante",
+  "place_name": "El Rapido",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Cerro",
+      "location": "Cruz del Pader entre Pedrosa y Amenidares",
+      "coordinates": null
   },
-  "ratings": {},
-  "owner": "Particular",
-  "type": "Restaurante",
-  "specialty": "",
-  "hours": {
-    "monday": "0730_1930",
-    "tuesday": "0730_1930",
-    "wednesday": "0730_1930",
-    "thursday": "0730_1930",
-    "friday": "0730_1930",
-    "saturday": "0730_1930",
-    "sunday": "0730_1930"
+  "schedules": {
+      "monday": {
+          "open": "07:30",
+          "closed": "19:30"
+      },
+      "tuesday": {
+          "open": "07:30",
+          "closed": "19:30"
+      },
+      "wednesday": {
+          "open": "07:30",
+          "closed": "19:30"
+      },
+      "thursday": {
+          "open": "07:30",
+          "closed": "19:30"
+      },
+      "friday": {
+          "open": "07:30",
+          "closed": "19:30"
+      },
+      "saturday": {
+          "open": "07:30",
+          "closed": "19:30"
+      },
+      "sunday": {
+          "open": "07:30",
+          "closed": "19:30"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "chico",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          null
+      ],
+      "energy_backup": false
   },
   "services": {
-    "parking": false,
-    "reservations": false,
-    "delivery": false,
-    "power plant": false
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
   },
-  "payment_methods": [
-    "cup"
-  ],
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": false,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "italiana",

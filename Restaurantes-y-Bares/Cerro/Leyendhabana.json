@@ -1,41 +1,116 @@
 {
-  "municipality": "ce",
-  "name": "Leyendhabana",
-  "address": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre",
-  "contacts": {
-    "phone": [
-      "78781332"
-    ],
-    "website": "leyendhabana.com",
-    "facebook": null,
-    "instagram": "@restaurante.leyendhabana"
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Leyendhabana",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78781332",
+      "district": "Cerro",
+      "location": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre",
+      "coordinates": "23.119304341610807, -82.3719263134934"
   },
-  "ratings": {
-    "google": 4.6,
-    "tripadvisor": 4.5
+  "schedules": {
+      "monday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "tuesday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "saturday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "12:00",
+          "closed": "23:00"
+      }
   },
-  "owner": "Particular",
-  "type": "Bar-Restaurante",
-  "specialty": "Comida Caribeña",
-  "hours": {
-    "monday": "1200_2300",
-    "tuesday": "1200_2300",
-    "wednesday": "1200_2300",
-    "thursday": "1200_2300",
-    "friday": "1200_2300",
-    "saturday": "1200_2300",
-    "sunday": "1200_2300"
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.6,
+              "number_of_reviews": 23
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 28
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "medio",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "formal",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "amistades",
+          "familias",
+          "parejas"
+      ],
+      "energy_backup": true
   },
   "services": {
-    "parking": true,
-    "reservations": true,
-    "delivery": false,
-    "power plant": true
+      "social_networks": {
+          "web_page": [
+              true,
+              {
+                  "url": "https://leyendhabana.com/"
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "restaurante.leyendhabana"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": false,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
   },
-  "payment_methods": [
-    "usd",
-    "eur"
-  ],
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": false,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": false,
+          "usd": true,
+          "euro": false,
+          "mlc": true
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

@@ -1,107 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "Restaurante"
-      ]
-    },
-    "name": "Brutal Habana",
-    "type": "Hamburguesería",
-    "description": "Brutal Habana es un lugar agradable en familia, perfecto para disfrutar con niños. Ubicado en Infanta esquina Calle Universidad, Cerro, La Habana, ofrece una experiencia gastronómica única.",
-    "contact_info": {
-      "phone": {
-        "number": "050989151",
-        "type": "mobile"
-      },
-      "email": null,
-      "website": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "restaurante",
+  "place_name": "Brutal Habana",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Cerro",
+      "location": "Infanta esquina Calle Universidad",
+      "coordinates": "23.1206254280541, -82.37258145797361"
+  },
+  "schedules": {
       "monday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "00:00"
       },
       "tuesday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "00:00"
       },
       "wednesday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "00:00"
       },
       "thursday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "00:00"
       },
       "friday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "00:00"
       },
       "saturday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "00:00"
       },
       "sunday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "00:00"
       }
-    },
-    "address": "Infanta esquina Calle Universidad, Cerro, La Habana",
-    "municipality": "Cerro",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": null,
-      "longitude": null
-    },
-    "social_media": {
-      "facebook": null,
-      "instagram": "https://www.instagram.com/brutal_habana?igsh=aGtpOXVkdnlpaTA="
-    },
-    "accepted_payment_methods": [
-      "Efectivo",
-      "Transferencia"
-    ],
-    "delivery_available": null,
-    "service_fee": {
-      "name": "Servicio 10%",
-      "description": "Se cobra un 10% adicional por el servicio.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": true,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Comida Americana"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 3.0,
+              "number_of_reviews": 6
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "medio",
+      "decoration": "moderna",
+      "festive_decorations": true,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "amistades",
+          "grupos"
       ],
-      "local_options": [],
-      "services": [
-        "Sanitario"
-      ],
-      "ambience": [
-        "Agradable",
-        "Familiar"
-      ],
-      "usual_customers": [
-        "Familias"
-      ],
-      "planning": [],
-      "children": true,
-      "pets": null,
-      "parking": null
-    },
-    "dietary_options": [],
-    "meals": [
-      "Almuerzo",
-      "Cena"
-    ],
-    "advantages": [
-      "Perfecto para familias"
-    ],
-    "highlights": [
-      "Ambiente acogedor"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/brutal_habana/?hl=es"
+              }
+          ],
+          "whatsapp": "50989151"
+      },
+      "child_care": true,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": false,
+          "mlc": true
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

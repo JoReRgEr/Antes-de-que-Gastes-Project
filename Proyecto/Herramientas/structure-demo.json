@@ -1,68 +1,69 @@
 {
-    "type_of_establishment": "restaurante",
-    "place_name": "Tutti Frutti",
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "Crystal",
     "property_type": "particular",
     "address": {
-        "establishment_phone_number": null,
-        "district": "Centro Habana",
-        "location": "San Lazaro entre San Fransico y Espada",
-        "coordinates": "23.138660923544478, -82.37740802546976"
+        "establishment_phone_number": "76823333",
+        "district": "Cotorro",
+        "location": "Avenida 101 entre 18 y 20 Centro",
+        "coordinates": "23.03810838521302, -82.40503655767105"
     },
     "schedules": {
         "monday": {
-            "open": "08:00",
-            "closed": "20:00"
+            "open": "11:00",
+            "closed": "24:00"
         },
         "tuesday": {
-            "open": "08:00",
-            "closed": "20:00"
+            "open": "11:00",
+            "closed": "24:00"
         },
         "wednesday": {
-            "open": "08:00",
-            "closed": "20:00"
+            "open": "11:00",
+            "closed": "24:00"
         },
         "thursday": {
-            "open": "08:00",
-            "closed": "20:00"
+            "open": "11:00",
+            "closed": "24:00"
         },
         "friday": {
-            "open": "08:00",
-            "closed": "20:00"
+            "open": "11:00",
+            "closed": "24:00"
         },
         "saturday": {
-            "open": "08:00",
-            "closed": "20:00"
+            "open": "11:00",
+            "closed": "24:00"
         },
         "sunday": {
-            "open": "08:00",
-            "closed": "20:00"
+            "open": "11:00",
+            "closed": "24:00"
         }
     },
     "location_details": {
         "rating": {
             "google": {
-                "stars": 5.0,
-                "number_of_reviews": 7
+                "stars": 4.0,
+                "number_of_reviews": 2
             },
             "tripadvisor": {
-                "stars": null,
-                "number_of_reviews": null
+                "stars": 5.0,
+                "number_of_reviews": 4
             },
             "facebook": {
-                "stars": null,
-                "number_of_reviews": null
+                "stars": 4.5,
+                "number_of_reviews": 8
             }
         },
-        "establishment_capacity": "chico",
-        "decoration": "tropical",
-        "festive_decorations": false,
+        "establishment_capacity": "grande",
+        "decoration": "moderna",
+        "festive_decorations": true,
         "home_uniform": "casual",
-        "collaboration_for_events": false,
+        "collaboration_for_events": true,
         "type_of_concurrent_clients": [
-            "amistades",
-            "grupos"
+            "grupos",
+            "parejas",
+            "amistades"
         ],
-        "energy_backup": false
+        "energy_backup": true
     },
     "services": {
         "social_networks": {
@@ -75,40 +76,40 @@
             "facebook": [
                 true,
                 {
-                    "url": "https://www.facebook.com/p/Tutti-Frutti-Cuba-61555832187428/"
+                    "url": "https://www.facebook.com/CafeCrystalHabanaCuba/?locale=es_LA"
                 }
             ],
             "instagram": [
                 true,
                 {
-                    "url": "https://www.instagram.com/tuttifrutticuba/"
+                    "url": "https://www.instagram.com/crystalbar_havana/"
                 }
             ],
-            "whatsapp": "58271438"
+            "whatsapp": null
         },
         "child_care": false,
         "disable_support": false,
-        "parking": false,
-        "delivery": false,
-        "reserves": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
         "rent_from_the_client": false,
-        "vip_zone": false,
+        "vip_zone": true,
         "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
         "transfer": {
             "transfermovil": true,
-            "visa": false,
-            "mastercard": false
+            "visa": true,
+            "mastercard": true
         },
         "currency": {
             "cup": true,
             "usd": true,
-            "euro": false,
+            "euro": true,
             "mlc": true
         },
-        "10% charge": false
+        "10% charge": true
     },
     "menu_details": {
         "kind_of_food": [

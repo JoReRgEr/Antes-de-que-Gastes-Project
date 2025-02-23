@@ -1,37 +1,115 @@
 {
-  "municipality": "ce",
-  "name": "La Casona del Cerro",
-  "address": "Calzada del Cerro entre Alzobispo y Peñón",
-  "contacts": {
-    "phone": [],
-    "website": null,
-    "facebook": null,
-    "instagram": null
+  "type_of_establishment": "restaurante",
+  "place_name": "La Casona del Cerro",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Cerro",
+      "location": "Calzada del Cerro entre Alzobispo y Peñón",
+      "coordinates": "23.10904117975181, -82.38273260889017"
   },
-  "ratings": {},
-  "owner": "Particular",
-  "type": "Restaurante",
-  "specialty": "Comida Criolla",
-  "hours": {
-    "monday": "1000_2200",
-    "tuesday": "1000_2200",
-    "wednesday": "1000_2200",
-    "thursday": "1000_2200",
-    "friday": "1000_2200",
-    "saturday": "1000_2200",
-    "sunday": "1000_1400"
+  "schedules": {
+      "monday": {
+          "open": "10:00",
+          "closed": "22:00"
+      },
+      "tuesday": {
+          "open": "10:00",
+          "closed": "22:00"
+      },
+      "wednesday": {
+          "open": "10:00",
+          "closed": "22:00"
+      },
+      "thursday": {
+          "open": "10:00",
+          "closed": "22:00"
+      },
+      "friday": {
+          "open": "10:00",
+          "closed": "22:00"
+      },
+      "saturday": {
+          "open": "10:00",
+          "closed": "22:00"
+      },
+      "sunday": {
+          "open": "10:00",
+          "closed": "14:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "medio",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "grupos"
+      ],
+      "energy_backup": false
   },
   "services": {
-    "parking": false,
-    "reservations": false,
-    "delivery": false,
-    "power plant": false
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
   },
-  "payment_methods": [
-    "cup",
-    "usd",
-    "mlc"
-  ],
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": false,
+          "mlc": true
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "italiana",
