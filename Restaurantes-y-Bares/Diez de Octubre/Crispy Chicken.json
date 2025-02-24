@@ -1,77 +1,114 @@
 {
-    "Place": "Crispy Chicken",
-    "Location": [
-        {
-            "Address": "Avenida de Acosta y Juan Delgado, Monaco",
-            "Municipality": "10 de Octubre",
-            "Coordinates": null
-        }
-    ],
-    "Classification": "Cafeteria",
-    "Specialization": "Cocina rapida",
-    "Property": "Privado",
-    "Schedule": [
-        {
-            "Opening": "11h00",
-            "Closing": "23h00",
-            "Days": [
-                "Lunes",
-                "Martes",
-                "Miercoles",
-                "Jueves",
-                "Viernes",
-                "Sabado",
-                "Domingo"
-            ]
-        }
-    ],
-    "Ratings": [
-        {
-            "Tripadvisor": null,
-            "Google Maps": null
-        }
-    ],
-    "Reservations": false,
-    "Delivery": [
-        {
-            "Service existence": true,
-            "Delivery area": [
-                "La Habana"
-            ]
-        }
-    ],
-    "Phone number": "50763525",
-    "Accounts or website": [
-        {
-            "Facebook": "Crispy Chicken"
+    "type_of_establishment": "restaurante",
+    "place_name": "Crispy Chicken",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Diez de Octubre",
+        "location": "Avenida de Acosta y Juan Delgado, Monaco",
+        "coordinates": null
+    },
+    "schedules": {
+        "monday": {
+            "open": "11:00",
+            "closed": "22:00"
         },
-        {
-            "Instagram": "@crispy.chicken.monaco"
+        "tuesday": {
+            "open": "11:00",
+            "closed": "22:00"
         },
-        {
-            "Website": null
+        "wednesday": {
+            "open": "11:00",
+            "closed": "22:00"
         },
-        {
-            "Email": null
+        "thursday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "closed": "22:00"
         }
-    ],
-    "Payment": [
-        {
-            "Method": [
-                "Tarjeta",
-                "Efectivo"
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "chica",
+        "decoration": "moderna",
+        "festive_decorations": true,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades"
+        ],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
             ],
-            "Accepted currencies": [
-                "CUP",
-                "USD",
-                "EUR"
-            ]
-        }
-    ],
-    "Capacity": 10,
-    "Parking": true,
-    "Wifi": false,
-    "Smoking area": true,
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/crispy.chicken.monaco/p/C_RWUoHAnw0/"
+                }
+            ],
+            "whatsapp": "50763525"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla"

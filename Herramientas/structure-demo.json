@@ -1,69 +1,69 @@
 {
-    "type_of_establishment": "bar-restaurante",
-    "place_name": "Crystal",
-    "property_type": "particular",
+    "type_of_establishment": "bar",
+    "place_name": "Secret Garden",
+    "property_type": "estatal",
     "address": {
-        "establishment_phone_number": "76823333",
-        "district": "Cotorro",
-        "location": "Avenida 101 entre 18 y 20 Centro",
-        "coordinates": "23.03810838521302, -82.40503655767105"
+        "establishment_phone_number": "76388121",
+        "district": "Diez de Octubre",
+        "location": "Calzada de 10 de Octubre #417 entre Calzada de Luyanó y San Nicolás",
+        "coordinates": "23.10835554803962, -82.36550236580503"
     },
     "schedules": {
         "monday": {
-            "open": "11:00",
-            "closed": "24:00"
+            "open": "12:00",
+            "closed": "03:00"
         },
         "tuesday": {
-            "open": "11:00",
-            "closed": "24:00"
+            "open": "12:00",
+            "closed": "03:00"
         },
         "wednesday": {
-            "open": "11:00",
-            "closed": "24:00"
+            "open": "12:00",
+            "closed": "03:00"
         },
         "thursday": {
-            "open": "11:00",
-            "closed": "24:00"
+            "open": "12:00",
+            "closed": "03:00"
         },
         "friday": {
-            "open": "11:00",
-            "closed": "24:00"
+            "open": "12:00",
+            "closed": "03:00"
         },
         "saturday": {
-            "open": "11:00",
-            "closed": "24:00"
+            "open": "12:00",
+            "closed": "03:00"
         },
         "sunday": {
-            "open": "11:00",
-            "closed": "24:00"
+            "open": "12:00",
+            "closed": "03:00"
         }
     },
     "location_details": {
         "rating": {
             "google": {
-                "stars": 4.0,
-                "number_of_reviews": 2
+                "stars": null,
+                "number_of_reviews": null
             },
             "tripadvisor": {
-                "stars": 5.0,
-                "number_of_reviews": 4
+                "stars": null,
+                "number_of_reviews": null
             },
             "facebook": {
-                "stars": 4.5,
-                "number_of_reviews": 8
+                "stars": null,
+                "number_of_reviews": null
             }
         },
-        "establishment_capacity": "grande",
-        "decoration": "moderna",
-        "festive_decorations": true,
+        "establishment_capacity": "medio",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
         "home_uniform": "casual",
-        "collaboration_for_events": true,
+        "collaboration_for_events": false,
         "type_of_concurrent_clients": [
-            "grupos",
+            "amistades",
             "parejas",
-            "amistades"
+            "familias"
         ],
-        "energy_backup": true
+        "energy_backup": false
     },
     "services": {
         "social_networks": {
@@ -76,24 +76,24 @@
             "facebook": [
                 true,
                 {
-                    "url": "https://www.facebook.com/CafeCrystalHabanaCuba/?locale=es_LA"
+                    "url": "https://www.facebook.com/p/BAR-Pacto-Secreto-100091382520199/"
                 }
             ],
             "instagram": [
                 true,
                 {
-                    "url": "https://www.instagram.com/crystalbar_havana/"
+                    "url": "https://www.instagram.com/explore/locations/101467729574313/barpacto-secreto/?next=%2Fmuretta_ilha%2Ftagged%2F"
                 }
             ],
             "whatsapp": null
         },
         "child_care": false,
         "disable_support": false,
-        "parking": true,
-        "delivery": true,
+        "parking": false,
+        "delivery": false,
         "reserves": true,
         "rent_from_the_client": false,
-        "vip_zone": true,
+        "vip_zone": false,
         "pet_friendly": false
     },
     "pay_meth": {
@@ -109,7 +109,7 @@
             "euro": true,
             "mlc": true
         },
-        "10% charge": true
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

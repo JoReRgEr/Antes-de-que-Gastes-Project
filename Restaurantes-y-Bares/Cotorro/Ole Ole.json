@@ -1,0 +1,524 @@
+{
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Ole Ole",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Cotorro",
+      "location": "1 esquina 46 y 48, Loteria",
+      "coordinates": "23.04381910926311, -82.25333571534212"
+  },
+  "schedules": {
+      "monday": {
+          "open": "09:00",
+          "closed": "24:00"
+      },
+      "tuesday": {
+          "open": "09:00",
+          "closed": "24:00"
+      },
+      "wednesday": {
+          "open": "09:00",
+          "closed": "24:00"
+      },
+      "thursday": {
+          "open": "09:00",
+          "closed": "24:00"
+      },
+      "friday": {
+          "open": null,
+          "closed": null
+      },
+      "saturday": {
+          "open": "09:00",
+          "closed": "24:00"
+      },
+      "sunday": {
+          "open": "09:00",
+          "closed": "24:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.4,
+              "number_of_reviews": 10 
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "amistades",
+          "familias"
+      ],
+      "energy_backup": true
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/p/OleOle-Bar-Restaurante-Cafeter%C3%ADa-100083721687989/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/explore/locations/101153272698994/oleole-bar-restaurante-cafeteria/"
+              }
+          ],
+          "whatsapp": "58447932"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": false,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "criolla"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "Crema de vegetales",
+                "price": 450
+              },
+              {
+                "name": "Coctel de mariscos",
+                "price": 1700
+              },
+              {
+                "name": "Croquetas de la casa",
+                "price": 1200
+              },
+              {
+                "name": "Tostones rellenos mixtos",
+                "price": 1500
+              },
+              {
+                "name": "Canapes agridulces de jamon y queso con pina",
+                "price": 1200
+              },
+              {
+                "name": "Pulpo sobre boniato a lass brasas y salsa de pimiento",
+                "price": 2500
+              },
+              {
+                "name": "Surtido Divino",
+                "price": 1800
+              }
+            ]
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Pollo a la Campesina",
+                "price": 1800
+              },
+              {
+                "name": "Cerdo ahumado al mangle rojo",
+                "price": 2880
+              },
+              {
+                "name": "Langosta marinera",
+                "price": 3000
+              },
+              {
+                "name": "Pinchos de camaron aromatizados con aceite de trufa",
+                "price": 3200
+              },
+              {
+                "name": "Suprema de pollo a la mostaza",
+                "price": 1950
+              },
+              {
+                "name": "Pulpo a la gallega",
+                "price": 4500
+              },
+              {
+                "name": "Reino del Mar",
+                "price": 9500
+              },
+              {
+                "name": "Arroz a la cubana",
+                "price": 1500
+              }
+            ]
+          }
+        ],
+        "desserts": [
+          {
+            "courses": [
+              {
+                "name": "Mousse de limon",
+                "price": 1000
+              },
+              {
+                "name": "Mousse de fruto del bosque",
+                "price": 1000
+              },
+              {
+                "name": "Copa de helado",
+                "price": 1300
+              },
+              {
+                "name": "Flan de la casa",
+                "price": 600
+              }
+            ]
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "beers": [
+                  {
+                    "name": "Cerveza importada",
+                    "price": 350
+                  },
+                  {
+                    "name": "Cerveza nacional",
+                    "price": 500
+                  },
+                  {
+                    "name": "Cubetazo",
+                    "price": 3000
+                  }
+                ],
+                "wine_glass": [
+                  {
+                    "name": "Copa de vino tinto",
+                    "price": 700
+                  }
+                ],
+                "cocktails": [
+                  {
+                    "name": "Mojito",
+                    "price": 800
+                  },
+                  {
+                    "name": "Cubata",
+                    "price": 750
+                  },
+                  {
+                    "name": "Daiquiri frappe",
+                    "price": 700
+                  },
+                  {
+                    "name": "Pina Colada",
+                    "price": 800
+                  },
+                  {
+                    "name": "Margarita",
+                    "price": 700
+                  },
+                  {
+                    "name": "Sangria espanola",
+                    "price": 800
+                  },
+                  {
+                    "name": "Sangria Asturiana",
+                    "price": 850
+                  },
+                  {
+                    "name": "Caipiroska",
+                    "price": 700
+                  },
+                  {
+                    "name": "Ron Collins",
+                    "price": 500
+                  },
+                  {
+                    "name": "Long Island",
+                    "price": 1000
+                  },
+                  {
+                    "name": "Screwdriver",
+                    "price": 700
+                  },
+                  {
+                    "name": "Michelada",
+                    "price": 400
+                  },
+                  {
+                    "name": "Chelada",
+                    "price": 400
+                  }
+                ],
+                "shots": [
+                  {
+                    "name": "Olmeca Silver",
+                    "price": 400
+                  },
+                  {
+                    "name": "Olmeca Reposado",
+                    "price": 500
+                  },
+                  {
+                    "name": "Santiago Carta Blanca",
+                    "price": 900
+                  },
+                  {
+                    "name": "Santiago 8 anos",
+                    "price": 1200
+                  },
+                  {
+                    "name": "Santiago 11 anos",
+                    "price": 1900
+                  },
+                  {
+                    "name": "Santiago 13 anos",
+                    "price": 1900
+                  },
+                  {
+                    "name": "Havana Club 7 anos",
+                    "price": 600
+                  },
+                  {
+                    "name": "Havana Club Pacto Navio",
+                    "price": 1900
+                  },
+                  {
+                    "name": "Havana Club Smoky",
+                    "price": 700
+                  },
+                  {
+                    "name": "Havana Club Spiced",
+                    "price": 700
+                  },
+                  {
+                    "name": "Havana Club Ritual",
+                    "price": 450
+                  },
+                  {
+                    "name": "Cubay 10 anos",
+                    "price": 850
+                  },
+                  {
+                    "name": "Barcelo",
+                    "price": 400
+                  },
+                  {
+                    "name": "Barcelo Gran Anejo",
+                    "price": 500
+                  },
+                  {
+                    "name": "Legendario Rose",
+                    "price": 350
+                  },
+                  {
+                    "name": "Pazo Pondal",
+                    "price": 250
+                  },
+                  {
+                    "name": "Anis del Mono",
+                    "price": 380
+                  },
+                  {
+                    "name": "Anisado Pastis",
+                    "price": 350
+                  },
+                  {
+                    "name": "Baileys",
+                    "price": 800
+                  },
+                  {
+                    "name": "Crema Ruavieja de chocolate",
+                    "price": 600
+                  },
+                  {
+                    "name": "Crema Ruavieja de arroz",
+                    "price": 600
+                  },
+                  {
+                    "name": "Jaggermeister",
+                    "price": 700
+                  },
+                  {
+                    "name": "J.B",
+                    "price": 500
+                  },
+                  {
+                    "name": "J.W Gold",
+                    "price": 2500
+                  },
+                  {
+                    "name": "J.W Red Label",
+                    "price": 1000
+                  },
+                  {
+                    "name": "Jameson",
+                    "price": 500
+                  },
+                  {
+                    "name": "Ballantine's",
+                    "price": 500
+                  },
+                  {
+                    "name": "Glen Scalan",
+                    "price": 850
+                  },
+                  {
+                    "name": "Pisco Mosto Verde",
+                    "price": 400
+                  },
+                  {
+                    "name": "Grappa Chanti",
+                    "price": 350
+                  },
+                  {
+                    "name": "Grappa Prosecco",
+                    "price": 350
+                  },
+                  {
+                    "name": "Gavi di Gavi",
+                    "price": 350
+                  },
+                  {
+                    "name": "Vodka Wiborowa",
+                    "price": 650
+                  },
+                  {
+                    "name": "Beefeater",
+                    "price": 750
+                  },
+                  {
+                    "name": "Gin MG",
+                    "price": 650
+                  },
+                  {
+                    "name": "Gin MG Rose",
+                    "price": 700
+                  },
+                  {
+                    "name": "Tanqueray #10",
+                    "price": 1500
+                  },
+                  {
+                    "name": "Gin Master",
+                    "price": 800
+                  },
+                  {
+                    "name": "Q Rose",
+                    "price": 600
+                  }
+                ]
+              }
+            ],
+            "water": [
+              {
+                "name": "Agua natural",
+                "price": 200
+              }
+            ],
+            "soft_drinks": [
+              {
+                "name": "Refresco",
+                "price": 400
+              }
+            ],
+            "natural_juices": [
+              {
+                "name": "Limonada natural",
+                "price": 600
+              },
+              {
+                "name": "Limonada Fresh",
+                "price": 700
+              },
+              {
+                "name": "Limonada frappe",
+                "price": 600
+              },
+              {
+                "name": "Jugo natural",
+                "price": 250
+              }
+            ],
+            "coffees": [
+              {
+                "name": "Cafe Expresso",
+                "price": 250
+              },
+              {
+                "name": "Cafe Tradicional",
+                "price": 150
+              },
+              {
+                "name": "Cafe Cortado",
+                "price": 250
+              },
+              {
+                "name": "Cafe con leche",
+                "price": 350
+              },
+              {
+                "name": "Cappuccino",
+                "price": 400
+              },
+              {
+                "name": "Cafe bombon",
+                "price": 500
+              },
+              {
+                "name": "Cafe Americano",
+                "price": 200
+              },
+              {
+                "name": "Cafe al ron cubano",
+                "price": 300
+              },
+              {
+                "name": "Te",
+                "price": 200
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

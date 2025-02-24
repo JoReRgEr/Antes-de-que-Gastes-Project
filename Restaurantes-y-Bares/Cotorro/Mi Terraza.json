@@ -1,48 +1,48 @@
 {
-    "type_of_establishment": "restaurante",
-    "place_name": "Ole Ole",
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "Mi Terraza",
     "property_type": "particular",
     "address": {
-        "establishment_phone_number": null,
+        "establishment_phone_number": "76822381",
         "district": "Cotorro",
-        "location": "Avenida 101 Esquina 16 Centro Cotorro",
-        "coordinates": "23.097932253762593, -82.28412852883551"
+        "location": "Calle 71 % 24 y 26, Las Brisas",
+        "coordinates": null
     },
     "schedules": {
         "monday": {
-            "open": "10:00",
-            "closed": "22:00"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "tuesday": {
-            "open": "10:00",
-            "closed": "22:00"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "wednesday": {
-            "open": "10:00",
-            "closed": "22:00"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "thursday": {
-            "open": "10:00",
-            "closed": "22:00"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "friday": {
-            "open": "10:00",
-            "closed": "22:00"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "saturday": {
-            "open": "10:00",
-            "closed": "22:00"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "sunday": {
-            "open": "10:00",
-            "closed": "22:00"
+            "open": "11:00",
+            "closed": "23:00"
         }
     },
     "location_details": {
         "rating": {
             "google": {
-                "stars": 5.0,
-                "number_of_reviews": 6
+                "stars": null,
+                "number_of_reviews": null
             },
             "tripadvisor": {
                 "stars": null,
@@ -53,15 +53,16 @@
                 "number_of_reviews": null
             }
         },
-        "establishment_capacity": "chica",
+        "establishment_capacity": "media",
         "decoration": "contemporanea",
         "festive_decorations": false,
         "home_uniform": "casual",
         "collaboration_for_events": false,
         "type_of_concurrent_clients": [
-            "amistades"
+            "amistades",
+            "familias"
         ],
-        "energy_backup": false
+        "energy_backup": true
     },
     "services": {
         "social_networks": {
@@ -78,34 +79,34 @@
                 }
             ],
             "instagram": [
-                true,
+                false,
                 {
-                    "url": "https://www.instagram.com/pal.karajo/"
+                    "url": null
                 }
             ],
             "whatsapp": null
         },
         "child_care": false,
         "disable_support": false,
-        "parking": false,
+        "parking": true,
         "delivery": true,
         "reserves": true,
         "rent_from_the_client": false,
         "vip_zone": false,
-        "pet_friendly": true
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
         "transfer": {
             "transfermovil": true,
-            "visa": false,
-            "mastercard": false
+            "visa": true,
+            "mastercard": true
         },
         "currency": {
             "cup": true,
-            "usd": false,
-            "euro": false,
-            "mlc": false
+            "usd": true,
+            "euro": true,
+            "mlc": true
         },
         "10% charge": false
     },
@@ -520,4 +521,4 @@
             }
         }
     }
-}
+  }

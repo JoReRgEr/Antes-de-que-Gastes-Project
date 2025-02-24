@@ -1,36 +1,113 @@
 {
-  "general_info": {
-    "name": "La esquinita del Cotorro",
-    "township": "Cotorro",
-    "adress": "Avenida 71",
-    "local": "cafetería",
-    "open": "1000",
-    "close": "2000",
-    "days_of_week": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado",
-      "domingo"
-    ],
-    "sector": "privado",
-    "capability": 24,
-    "social_network": [
-      "Facebook",
-      "Instagram"
-    ],
-    "years": 8
+  "type_of_establishment": "restaurante",
+  "place_name": "El Desafío",
+  "property_type": "particular",
+  "address": {
+    "establishment_phone_number": null,
+    "district": "Cotorro",
+    "location": "Avenida 71",
+    "coordinates": "23.044960116868975, -82.26868167301316"
   },
-  "economy": {
-    "payment_methods": [
-      "efectivo",
-      "transferencia"
+  "schedules": {
+    "monday": {
+      "open": "10:00",
+      "closed": "20:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "closed": "20:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "closed": "20:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "closed": "20:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "closed": "20:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "closed": "20:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "closed": "20:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": 4.0,
+        "number_of_reviews": 2
+      },
+      "tripadvisor": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "medio",
+    "decoration": "contemporanea",
+    "festive_decorations": false,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "amistades"
     ],
-    "online_reservation": false,
-    "tips_included": false,
-    "delivery": false
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        true,
+        {
+          "url": "https://www.facebook.com/laesquinita.delcotorro.5/"
+        }
+      ],
+      "instagram": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "whatsapp": null
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": false,
+    "delivery": false,
+    "reserves": false,
+    "rent_from_the_client": false,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": false
+    },
+    "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [
@@ -105,15 +182,5 @@
         ]
       }
     }
-  },
-  "social": {
-    "kids_seat": false,
-    "blackout_alternatives": false,
-    "entertainment": [],
-    "peak_hour": [],
-    "tourism": true,
-    "pets": false,
-    "bathroom": false,
-    "heated": false
   }
 }

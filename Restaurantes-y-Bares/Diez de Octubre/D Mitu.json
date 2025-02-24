@@ -1,78 +1,115 @@
 {
-    "Place": "D'Mitu",
-    "Location": [
-        {
-            "Address": "#64, Calle 1ra entre Gertrudis y Lagueruela, La Vibora",
-            "Municipality": "10 de Octubre",
-            "Coordinates": null
-        }
-    ],
-    "Classification": "Pizzeria",
-    "Specialization": "Cocina italiana",
-    "Ownership": "Privado",
-    "Schedule": [
-        {
-            "Opening": "10h00",
-            "Closing": "22h00",
-            "Days": [
-                "Lunes",
-                "Martes",
-                "Miercoles",
-                "Jueves",
-                "Viernes",
-                "Sabado",
-                "Domingo"
-            ]
-        }
-    ],
-    "Ratings": [
-        {
-            "Tripadvisor": null,
-            "Google Maps": 2.5
-        }
-    ],
-    "Reservations": true,
-    "Delivery": [
-        {
-            "Service existence": true,
-            "Delivery area": [
-                "La Habana"
-            ]
-        }
-    ],
-    "Phone number": "53578505 / 76988258",
-    "Accounts or website": [
-        {
-            "Facebook": "D'Mytu"
+    "type_of_establishment": "restaurante",
+    "place_name": "D'Mitu",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Diez de Octubre",
+        "location": "#64, Calle 1ra entre Gertrudis y Lagueruela, La Vibora",
+        "coordinates": "23.086448679028873, -82.36498397301315"
+    },
+    "schedules": {
+        "monday": {
+            "open": "11:00",
+            "closed": "22:00"
         },
-        {
-            "Instagram": "@d_mitu.restaurante"
+        "tuesday": {
+            "open": "11:00",
+            "closed": "22:00"
         },
-        {
-            "Website": null
+        "wednesday": {
+            "open": "11:00",
+            "closed": "22:00"
         },
-        {
-            "Email": "mgabanchomoreno@gmail.com"
+        "thursday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "closed": "22:00"
         }
-    ],
-    "Payment": [
-        {
-            "Method": [
-                "Tarjeta",
-                "Efectivo"
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 2.5,
+                "number_of_reviews": 13
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": 3.0,
+                "number_of_reviews": 15
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades",
+            "familias"
+        ],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
             ],
-            "Accepted currencies": [
-                "CUP",
-                "USD",
-                "EUR",
-                "Otras"
-            ]
-        }
-    ],
-    "Capacity": 16,
-    "Parking service": true,
-    "Wifi": false,
-    "Smoking area": false,
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/dmitu.restaurante/"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/d_mitu.restaurante/"
+                }
+            ],
+            "whatsapp": "53578505"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla"

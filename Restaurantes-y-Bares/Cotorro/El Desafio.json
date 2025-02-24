@@ -1,60 +1,115 @@
 {
-  "name": "El Desafío",
-  "address": "calle 58 número 6712 % 67 y 69, Cotorro",
-  "schedule": {
-    "monday": {
-      "open": "12:00",
-      "close": "22:00"
-    },
-    "tuesday": {
-      "open": "12:00",
-      "close": "22:00"
-    },
-    "wednesday": {
-      "open": "12:00",
-      "close": "22:00"
-    },
-    "thursday": {
-      "open": "12:00",
-      "close": "22:00"
-    },
-    "friday": {
-      "open": "12:00",
-      "close": "22:00"
-    },
-    "saturday": {
-      "open": "12:00",
-      "close": "22:00"
-    },
-    "sunday": {
-      "open": "12:00",
-      "close": "22:00"
-    }
+  "type_of_establishment": "restaurante",
+  "place_name": "El Desafío",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Cotorro",
+      "location": "calle 58 número 6712 % 67 y 69",
+      "coordinates": "23.044485326746187, -82.24844315767105"
   },
-  "phone_number": "+5363510685",
-  "website": {
-    "website": null,
-    "instagram": null,
-    "facebook": null
+  "schedules": {
+      "monday": {
+          "open": "12:00",
+          "closed": "22:00"
+      },
+      "tuesday": {
+          "open": "12:00",
+          "closed": "22:00"
+      },
+      "wednesday": {
+          "open": "12:00",
+          "closed": "22:00"
+      },
+      "thursday": {
+          "open": "12:00",
+          "closed": "22:00"
+      },
+      "friday": {
+          "open": "12:00",
+          "closed": "22:00"
+      },
+      "saturday": {
+          "open": "12:00",
+          "closed": "22:00"
+      },
+      "sunday": {
+          "open": "12:00",
+          "closed": "22:00"
+      }
   },
-  "classification": "Categoría del restaurante (ej: Casual, Lujo, Familiar)",
-  "type_establishment": "restaurante",
-  "specialty": "cubana",
-  "parking": true,
-  "reservations": false,
-  "payment_methods": {
-    "cash_national": true,
-    "digital_transfer_national": true,
-    "usd_cash": true,
-    "usd_transfer": true,
-    "mlc": true
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.6,
+              "number_of_reviews": 18
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "rural",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
+      ],
+      "energy_backup": true
   },
-  "free_wifi": false,
-  "delivery_areas": [
-    null
-  ],
-  "power_generator": "Sí",
-  "capacity": "mucha",
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/groups/385360142105063/"
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": "63510685"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla"
@@ -217,6 +272,5 @@
         ]
       }
     }
-  },
-  "service_charge_percentage": 0
+  }
 }

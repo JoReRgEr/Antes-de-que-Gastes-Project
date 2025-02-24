@@ -1,74 +1,114 @@
 {
-  "name": "Don Omar",
-  "address": "Calle 22A % 65 y 63, reparto América, Cotorro",
-  "schedule": {
-    "monday": {
-      "open": "HH:mm",
-      "close": "HH:mm"
-    },
-    "tuesday": {
-      "open": "HH:mm",
-      "close": "HH:mm"
-    },
-    "wednesday": {
-      "open": "HH:mm",
-      "close": "HH:mm"
-    },
-    "thursday": {
-      "open": "HH:mm",
-      "close": "HH:mm"
-    },
-    "friday": {
-      "open": "HH:mm",
-      "close": "HH:mm"
-    },
-    "saturday": {
-      "open": "HH:mm",
-      "close": "HH:mm"
-    },
-    "sunday": {
-      "open": "HH:mm",
-      "close": "HH:mm"
-    }
+  "type_of_establishment": "restaurante",
+  "place_name": "Don Omar",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "76820340",
+      "district": "Cotorro",
+      "location": "Calle 22A % 65 y 63, reparto América",
+      "coordinates": "23.04986355579828, -82.26520912083552"
   },
-  "phone_number": "76820340",
-  "website": {
-    "website": null,
-    "instagram": null,
-    "facebook": null
+  "schedules": {
+      "monday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "tuesday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "saturday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "11:00",
+          "closed": "23:00"
+      }
   },
-  "classification": "Categoría del restaurante (ej: Casual, Lujo, Familiar)",
-  "type_establishment": "restaurante",
-  "specialty": "cubana",
-  "parking": false,
-  "reservations": true,
-  "payment_methods": {
-    "cash_national": true,
-    "digital_transfer_national": true,
-    "usd_cash": true,
-    "usd_transfer": true,
-    "mlc": true
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 3.7,
+              "number_of_reviews": 6
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias"
+      ],
+      "energy_backup": true
   },
-  "free_wifi": false,
-  "delivery_areas": [
-    "Arroyo Naranjo",
-    "Boyeros",
-    "Centro Habana",
-    "Cerro",
-    "Cotorro",
-    "10 de Octubre",
-    "Guanabacoa",
-    "Habana del Este",
-    "Habana Vieja",
-    "La Lisa",
-    "Marianao",
-    "Playa",
-    "Plaza de la Revolucion",
-    "Regla",
-    "San Miguel del Padron"
-  ],
-  "power_generator": "Sí",
-  "capacity": "mucha",
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": true,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",
@@ -674,6 +714,5 @@
         ]
       }
     }
-  },
-  "service_charge_percentage": 5
+  }
 }

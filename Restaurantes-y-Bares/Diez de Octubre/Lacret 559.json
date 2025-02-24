@@ -1,70 +1,115 @@
 {
-    "ID": 602,
-    "locality": {
-        "mun": "Diez de Octubre",
-        "locator": {
-            "phones": {
-                "mobile": 52906422,
-                "landline": null
-            },
-            "plus_code": "4J2G+J2P, 10 de Octubre, La Habana"
-        }
+    "type_of_establishment": "bar",
+    "place_name": "Lacret 559",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Diez de Octubre",
+        "location": null,
+        "coordinates": "23.09077489394309, -82.3715385620052"
     },
-    "name": "Lacret 559",
-    "type_cuisine": [
-        "Cocina creativa",
-        "Internacional"
-    ],
-    "schedule": {
+    "schedules": {
         "monday": {
-            "opening": "12:00",
-            "closing": "23:00"
+            "open": "12:00",
+            "closed": "23:00"
         },
         "tuesday": {
-            "opening": "12:00",
-            "closing": "23:00"
+            "open": "12:00",
+            "closed": "23:00"
         },
         "wednesday": {
-            "opening": "12:00",
-            "closing": "23:00"
+            "open": "12:00",
+            "closed": "23:00"
         },
         "thursday": {
-            "opening": "12:00",
-            "closing": "23:00"
+            "open": "12:00",
+            "closed": "23:00"
         },
         "friday": {
-            "opening": "12:00",
-            "closing": "23:00"
+            "open": "12:00",
+            "closed": "23:00"
         },
         "saturday": {
-            "opening": "12:00",
-            "closing": "23:00"
+            "open": "12:00",
+            "closed": "23:00"
         },
         "sunday": {
-            "opening": "12:00",
-            "closing": "23:00"
+            "open": "12:00",
+            "closed": "23:00"
         }
     },
-    "quality": {
-        "qualification_google": 4.3,
-        "qualification_tripadvisor": 5.0,
-        "qualification_facebook": 4.0
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.2,
+                "number_of_reviews": 23
+            },
+            "tripadvisor": {
+                "stars": 5.0,
+                "number_of_reviews": 13
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "urbana",
+        "festive_decorations": true,
+        "home_uniform": "formal",
+        "collaboration_for_events": true,
+        "type_of_concurrent_clients": [
+            "amistades",
+            "parejas"
+        ],
+        "energy_backup": false
     },
-    "reservation_options": true,
-    "social_networks": [
-        "Facebook",
-        "Instagram"
-    ],
-    "payment_options": [
-        "Efectivo",
-        "Transfermovil"
-    ],
-    "service_details": [
-        "A la carta",
-        "A domicilio",
-        "Música Grabada",
-        "Área de fumadores"
-    ],
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/groups/668530103730054/"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/bar_lacret559/"
+                }
+            ],
+            "whatsapp": "52906422"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": true,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "mexicana",

@@ -1,84 +1,115 @@
 {
-    "Place": "El Monakeno",
-    "Location": [
-        {
-            "Address": "Avenida Mayia Rodriguez entre Acosta y O'Farril",
-            "Municipality": "10 de Octubre",
-            "Coordinates": "3JQC+XMX"
-        }
-    ],
-    "Classification": "Restaurante",
-    "Specialization": "Cocina rapida",
-    "Property": "Privado",
-    "Schedule": [
-        {
-            "Opening": "12h00",
-            "Closing": "00h00",
-            "Days": [
-                "Lunes",
-                "Martes",
-                "Miercoles",
-                "Jueves"
-            ]
+    "type_of_establishment": "restaurante",
+    "place_name": "D'Mitu",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Diez de Octubre",
+        "location": "Avenida Mayia Rodriguez entre Acosta y O'Farril",
+        "coordinates": null
+    },
+    "schedules": {
+        "monday": {
+            "open": "12:00",
+            "closed": "24:00"
         },
-        {
-            "Opening": "12h00",
-            "Closing": "02h00",
-            "Days": [
-                "Viernes",
-                "Sabado",
-                "Domingo"
-            ]
-        }
-    ],
-    "Ratings": [
-        {
-            "Tripadvisor": null,
-            "Google Maps": 3.8
-        }
-    ],
-    "Reservations": true,
-    "Delivery": [
-        {
-            "Service existence": true,
-            "Delivery area": [
-                "La Habana"
-            ]
-        }
-    ],
-    "Phone number": "63444454",
-    "Accounts or website": [
-        {
-            "Facebook": "MONAKENO"
+        "tuesday": {
+            "open": "12:00",
+            "closed": "24:00"
         },
-        {
-            "Instagram": "@el_monakeno"
+        "wednesday": {
+            "open": "12:00",
+            "closed": "24:00"
         },
-        {
-            "Website": null
+        "thursday": {
+            "open": "12:00",
+            "closed": "24:00"
         },
-        {
-            "Email": null
+        "friday": {
+            "open": null,
+            "closed": null
+        },
+        "saturday": {
+            "open": null,
+            "closed": null
+        },
+        "sunday": {
+            "open": null,
+            "closed": null
         }
-    ],
-    "Payment": [
-        {
-            "Method": [
-                "Tarjeta",
-                "Efectivo"
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades",
+            "familias"
+        ],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
             ],
-            "Accepted currencies": [
-                "CUP",
-                "USD",
-                "EUR",
-                "MLC"
-            ]
-        }
-    ],
-    "Capacity": 40,
-    "Parking": true,
-    "Wifi": false,
-    "Smoking area": true,
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/el_monakeno/"
+                }
+            ],
+            "whatsapp": "63444454"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla",

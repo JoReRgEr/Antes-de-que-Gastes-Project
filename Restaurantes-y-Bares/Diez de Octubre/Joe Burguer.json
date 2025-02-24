@@ -1,23 +1,115 @@
 {
-    "Place":"Joe's Burguer",
-    "Address":"Esquina Mayia Rodriguez y Aranguren",
-    "Municipality":"10 de octubre",
-    "Classification":"Cafe-Restaurant",
-    "Specialization":"Hamburgueseria",
-    "Property":"Privado",
-    "Schedule":"08h00 -22h00 (Lunes -Jueves), 08h00 - 23h00 (Viernes - Domingo)",
-    "Ratings":"3.6 (Google Maps)",
-    "Reservations":"No",
-    "Delivery":"Ture",
-    "Delivery area":"10 de Octubre",
-    "Phone":"Null",
-    "Accounts or website":"joes_burguer00 (Instagram)",
-    "Payment method":"Tarjeta o efectivo (MN)",
-    "Capacity":20,
-    "Parking":"True",
-    "Wifi":"False",
-    "Smoking area":"True",
-    
+  "type_of_establishment": "restaurante",
+  "place_name": "Joe's Burguer",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Diez de Octubre",
+      "location": "Esquina Mayia Rodriguez y Aranguren",
+      "coordinates": "23.088145870631433, -82.37783318651668"
+  },
+  "schedules": {
+      "monday": {
+          "open": "08:00",
+          "closed": "22:00"
+      },
+      "tuesday": {
+          "open": "08:00",
+          "closed": "22:00"
+      },
+      "wednesday": {
+          "open": "08:00",
+          "closed": "22:00"
+      },
+      "thursday": {
+          "open": "08:00",
+          "closed": "22:00"
+      },
+      "friday": {
+          "open": "08:00",
+          "closed": "22:00"
+      },
+      "saturday": {
+          "open": "08:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "08:00",
+          "closed": "23:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 3.7,
+              "number_of_reviews": 32
+          },
+          "tripadvisor": {
+              "stars": 3.5,
+              "number_of_reviews": 3
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "amistades",
+          "familias"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/joes_burguer00/?hl=es"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": true,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
     "menu_details": {
         "kind_of_food": ["panes"],
         "menu_card": {

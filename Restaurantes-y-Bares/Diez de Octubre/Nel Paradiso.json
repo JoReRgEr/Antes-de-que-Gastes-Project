@@ -1,75 +1,115 @@
 {
-    "ID": 601,
-    "locality": {
-        "mun": "Diez de Octubre",
-        "locator": {
-            "phones": {
-                "mobile": 52953716,
-                "landline": 76967579
-            },
-            "plus_code": "3JQQ+JXX, La Habana"
-        }
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "Nel Paradiso",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "76967579",
+        "district": "Diez de Octubre",
+        "location": null,
+        "coordinates": "23.089187225259842, -82.36001565940546"
     },
-    "name": "Nel Paradiso",
-    "type_cuisine": [
-        "Internacional",
-        "Bar",
-        "Criolla"
-    ],
-    "schedule": {
+    "schedules": {
         "monday": {
-            "opening": "11:00",
-            "closing": "23:30"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "tuesday": {
-            "opening": "11:00",
-            "closing": "23:30"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "wednesday": {
-            "opening": "11:00",
-            "closing": "23:30"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "thursday": {
-            "opening": "11:00",
-            "closing": "23:30"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "friday": {
-            "opening": "11:00",
-            "closing": "23:30"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "saturday": {
-            "opening": "11:00",
-            "closing": "23:30"
+            "open": "11:00",
+            "closed": "23:00"
         },
         "sunday": {
-            "opening": "11:00",
-            "closing": "23:30"
+            "open": "11:00",
+            "closed": "23:00"
         }
     },
-    "quality": {
-        "qualification_google": 3.7,
-        "qualification_tripadvisor": null,
-        "qualification_facebook": 4.7
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 3.6,
+                "number_of_reviews": 24
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": 4.8,
+                "number_of_reviews": 15
+            }
+        },
+        "establishment_capacity": "medio",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades",
+            "parejas"
+        ],
+        "energy_backup": false
     },
-    "reservation_options": true,
-    "social_networks": [
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-    ],
-    "payment_options": [
-        "Transfermovil",
-        "Efectivo",
-        "Euro",
-        "USD",
-        "Pago desde el exterior"
-    ],
-    "service_details": [
-        "Guardería",
-        "Wifi",
-        "A la carta",
-        "A domicilio"
-    ],
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/NELPARADISORESTAURANTE/"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/nelparadiso/"
+                }
+            ],
+            "whatsapp": "52953716"
+        },
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": true,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla",

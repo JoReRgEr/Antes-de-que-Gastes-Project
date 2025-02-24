@@ -1,75 +1,114 @@
 {
-    "Place": "Kimera",
-    "Location": [
-        {
-            "Address": "#311, Calle Lacret entre Juan Bruno Zallas y Cortina, Santos Suarez",
-            "Municipality": "10 de Octubre",
-            "Coordinates": null
-        }
-    ],
-    "Classification": "Bar-Cafeteria",
-    "Specialization": "Cocina mixta",
-    "Property": "Privado",
-    "Schedule": [
-        {
-            "Opening": "12h00",
-            "Closing": "01h00",
-            "Days": [
-                "Lunes",
-                "Martes",
-                "Miercoles",
-                "Jueves",
-                "Viernes",
-                "Sabado",
-                "Domingo"
-            ]
-        }
-    ],
-    "Ratings": [
-        {
-            "Tripadvisor": 4.5,
-            "Google Maps": 4.8
-        }
-    ],
-    "Reservations": false,
-    "Delivery": [
-        {
-            "Service existence": false,
-            "Delivery area": null
-        }
-    ],
-    "Phone number": "52667701 / 76419083",
-    "Accounts or website": [
-        {
-            "Facebook": null
+    "type_of_establishment": "bar",
+    "place_name": "Kimera",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Diez de Octubre",
+        "location": "#311, Calle Lacret entre Juan Bruno Zallas y Cortina, Santos Suarez",
+        "coordinates": "23.09995829830645, -82.36981810938452"
+    },
+    "schedules": {
+        "monday": {
+            "open": "12:00",
+            "closed": "01:00"
         },
-        {
-            "Instagram": "@kimera.bar.cafeteria"
+        "tuesday": {
+            "open": "12:00",
+            "closed": "01:00"
         },
-        {
-            "Website": null
+        "wednesday": {
+            "open": "12:00",
+            "closed": "01:00"
         },
-        {
-            "Email": null
+        "thursday": {
+            "open": "12:00",
+            "closed": "01:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "closed": "01:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "closed": "01:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "closed": "01:00"
         }
-    ],
-    "Payment": [
-        {
-            "Method": [
-                "Tarjeta",
-                "Efectivo"
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.8,
+                "number_of_reviews": 6
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades"
+        ],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
             ],
-            "Accepted currencies": [
-                "CUP",
-                "USD",
-                "EUR"
-            ]
-        }
-    ],
-    "Capacity": 25,
-    "Parking": false,
-    "Wifi": false,
-    "Smoking area": true,
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": "52667701"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": true,
+            "mastercard": true
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla",

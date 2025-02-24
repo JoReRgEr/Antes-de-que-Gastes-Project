@@ -1,24 +1,114 @@
 {
-    "general_info": {
-        "name":"El Bache",
-        "township":"Cotorro",
-        "adress":"Calle 30 entre 95 y 97,Las Brisas",
-        "local":"cafetería",
-        "open":"1030",
-        "close":"2230",
-        "days_of_week":["lunes","martes","miércoles","jueves","viernes"],
-        "sector":"privado",
-        "capability":30,
-        "social_network":["Facebook","Instagram"],
-        "years":15
-        
-    },
-    "economy": {
-        "payment_methods":["efectivo","transferencia"],
-        "online_reservation":true,
-        "tips_included":true,
-        "delivery":true
-    },
+  "type_of_establishment": "restaurante",
+  "place_name": "El Bache",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Cotorro",
+      "location": "Calle 30 entre 95 y 97,Las Brisas",
+      "coordinates": "23.04301178371183, -82.26296085582236"
+  },
+  "schedules": {
+      "monday": {
+          "open": "10:00",
+          "closed": "22:00"
+      },
+      "tuesday": {
+          "open": "10:00",
+          "closed": "22:00"
+      },
+      "wednesday": {
+          "open": "10:00",
+          "closed": "22:00"
+      },
+      "thursday": {
+          "open": "10:00",
+          "closed": "22:00"
+      },
+      "friday": {
+          "open": "10:00",
+          "closed": "22:00"
+      },
+      "saturday": {
+          "open": "10:00",
+          "closed": "22:00"
+      },
+      "sunday": {
+          "open": "10:00",
+          "closed": "22:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/p/Pizzer%C3%ADa-El-Bache-100093594582229/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/_elbache/"
+              }
+          ],
+          "whatsapp": "54703920"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": true,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": true
+      },
+      "10% charge": false
+  },
     "menu_details": {
             "kind_of_food": ["italiana"],
             "menu_card": {
@@ -119,15 +209,5 @@
                   ]
                 }
             }    
-        },
-    "social": {
-        "kids_seat":false,
-        "blackout_alternatives":true,
-        "entertainment":[],
-        "peak_hour":["comida"],
-        "tourism":false,
-        "pets":false,
-        "bathroom":true,
-        "heated":false
-    }
+        }
 }

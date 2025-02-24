@@ -1,60 +1,116 @@
 {
-  "name": "La Rosa De Ortega",
-  "address": "Patrocinio #252 esq. a Juan Bruno Zayas, Diez de Octubre",
-  "schedule": {
-    "monday": {
-      "open": "07:30",
-      "close": "23:00"
-    },
-    "tuesday": {
-      "open": "07:30",
-      "close": "23:00"
-    },
-    "wednesday": {
-      "open": "07:30",
-      "close": "23:00"
-    },
-    "thursday": {
-      "open": "07:30",
-      "close": "23:00"
-    },
-    "friday": {
-      "open": "07:30",
-      "close": "23:00"
-    },
-    "saturday": {
-      "open": "07:30",
-      "close": "23:00"
-    },
-    "sunday": {
-      "open": "07:30",
-      "close": "23:00"
-    }
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "La Rosa De Ortega",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "76414329",
+      "district": "Diez de Octubre",
+      "location": "Patrocinio #252 esq. a Juan Bruno Zayas",
+      "coordinates": "23.09077489394309, -82.3715385620052"
   },
-  "contacts": {
-    "phone_number": "76414329",
-    "mobile": "52464574",
-    "website": null,
-    "instagram": "@la_rosa_de_ortega",
-    "facebook": "https://www.facebook.com/profile.php?id=100063861950954"
+  "schedules": {
+      "monday": {
+          "open": "07:00",
+          "closed": "23:00"
+      },
+      "tuesday": {
+          "open": "07:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "07:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "07:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "07:00",
+          "closed": "23:00"
+      },
+      "saturday": {
+          "open": "07:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "07:00",
+          "closed": "23:00"
+      }
   },
-  "type_establishment": "Cafetería-Restaurante",
-  "specialty": [
-    "internacional"
-  ],
-  "parking": true,
-  "reservations": false,
-  "payment_methods": {
-    "cash_national": true,
-    "digital_transfer_national": true,
-    "usd_cash": true,
-    "usd_transfer": true,
-    "mlc": true
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.8,
+              "number_of_reviews": 56
+          },
+          "tripadvisor": {
+              "stars": 5.0,
+              "number_of_reviews": 636
+          },
+          "facebook": {
+              "stars": 5.0,
+              "number_of_reviews": 48
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "contemporanea",
+      "festive_decorations": true,
+      "home_uniform": "formal",
+      "collaboration_for_events": true,
+      "type_of_concurrent_clients": [
+          "amistades",
+          "familias",
+          "parejas"
+      ],
+      "energy_backup": true
   },
-  "delivery_areas": [
-    null
-  ],
-  "power_generator": true,
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/La.Rosa.de.Ortega/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/la_rosa_de_ortega/?hl=es"
+              }
+          ],
+          "whatsapp": "52464574"
+      },
+      "child_care": true,
+      "disable_support": true,
+      "parking": true,
+      "delivery": false,
+      "reserves": true,
+      "rent_from_the_client": true,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",
@@ -288,6 +344,5 @@
         ]
       }
     }
-  },
-  "service_charge_percentage": 0
+  }
 }
