@@ -1,69 +1,114 @@
 {
-    "ID": 701,
-    "locality": {
-        "mun": "Guanabacoa",
-        "locator": {
-            "phones": {
-                "mobile": "52411618",
-                "landline": "77974262"
-            },
-            "plus_code": "4MCR+RR9, Cruz Verde, La Habana"
-        }
+    "type_of_establishment": "restaurante",
+    "place_name": "Polo",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "77974262",
+        "district": "Guanabacoa",
+        "location": null,
+        "coordinates": null
     },
-    "name": "Polo",
-    "type_cuisine": [
-        "pizzas",
-        "criolla",
-        "pastas"
-    ],
-    "schedule": {
+    "schedules": {
         "monday": {
-            "opening": "12:00",
-            "closing": "00:00"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "tuesday": {
-            "opening": "12:00",
-            "closing": "00:00"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "wednesday": {
-            "opening": "12:00",
-            "closing": "00:00"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "thursday": {
-            "opening": "12:00",
-            "closing": "00:00"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "friday": {
-            "opening": "12:00",
-            "closing": "00:00"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "saturday": {
-            "opening": "12:00",
-            "closing": "00:00"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "sunday": {
-            "opening": "12:00",
-            "closing": "00:00"
+            "open": "12:00",
+            "closed": "24:00"
         }
     },
-    "quality": {
-        "qualification_google": 5.0,
-        "qualification_tripadvisor": null,
-        "qualification_facebook": null
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades"
+        ],
+        "energy_backup": false
     },
-    "reservation_options": true,
-    "social_networks": [
-        "Facebook",
-        "WhatsApp",
-        "Instagram"
-    ],
-    "payment_options": [
-        "Transfermóvil",
-        "Efectivo"
-    ],
-    "service_details": [
-        "A la carta"
-    ],
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": "52411618"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "italiana",

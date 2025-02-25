@@ -1,22 +1,115 @@
 {
-  "Place": "Kopas",
-  "Address": "Esquina de 5ta Avenida, #482, Guanabo",
-  "Municipality": "Habana del Este",
-  "Classification": "Bar-Restaurant",
-  "Specialization": "Comida mixta",
-  "Property": "Privado",
-  "Schedule": "10h00 - 23h30 (Todos los dias)",
-  "Ratings": "4.3 (Google Maps)",
-  "Reservations": "True",
-  "Delivery": "True",
-  "Delivery area": "Habana del Este",
-  "Phone": "51566616",
-  "Accounts or website": "hopas_bar_restaurant (Instagram)",
-  "Payment method": "Tarjeta o efectivo (MN o moneda extranjera)",
-  "Capacity": 50,
-  "Parking": "True",
-  "Wifi": "False",
-  "Smoking area": "True",
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Kopas",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "77636363",
+      "district": "Habana del Este",
+      "location": "Esquina de 5ta Avenida, #482, Guanabo",
+      "coordinates": null
+  },
+  "schedules": {
+      "monday": {
+          "open": "10:00",
+          "closed": "23:00"
+      },
+      "tuesday": {
+          "open": "10:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "10:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "10:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "10:00",
+          "closed": "23:00"
+      },
+      "saturday": {
+          "open": "10:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "10:00",
+          "closed": "23:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.3,
+              "number_of_reviews": 23
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "amistades",
+          "parejas"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

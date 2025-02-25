@@ -1,22 +1,116 @@
 {
-  "Place": "Los Doce Apostoles",
-  "Address": "Complejo Morro Cabana,Via Monumental",
-  "Municipality": "Habana Del Este",
-  "Classification": "Bar-Restaurant",
-  "Specialization": "Criolla",
-  "Property": "Estatal",
-  "Schedule": "12h00 - 24h00 (Todos los dias)",
-  "Ratings": "3.5 (Tripadvisor) / 3.7 (Google Maps)",
-  "Reservations": "True",
-  "Delivery": "False",
-  "Delivery area": "False",
-  "Phone": "77937733",
-  "Accounts or website": "Restaurante Doce Apostoles (Facebook)",
-  "Payment method": "Tarjeta (MN o MLC)",
-  "Capacity": 60,
-  "Parking": "True",
-  "Wifi": "False",
-  "Smoking area": "True",
+  "type_of_establishment": "restaurante",
+  "place_name": "Los Doce Apostoles",
+  "property_type": "estatal",
+  "address": {
+    "establishment_phone_number": "77937733",
+    "district": "Habana del Este",
+    "location": "Complejo Morro Cabana, Via Monumental",
+    "coordinates": "23.14990493149994, -82.35611737301316"
+  },
+  "schedules": {
+    "monday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "tuesday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "wednesday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "thursday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "friday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "closed": "24:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": 3.7,
+        "number_of_reviews": 45
+      },
+      "tripadvisor": {
+        "stars": 3.5,
+        "number_of_reviews": 27
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "grande",
+    "decoration": "contemporanea",
+    "festive_decorations": false,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "parejas",
+      "amistades",
+      "familias"
+    ],
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        true,
+        {
+          "url": "https://www.facebook.com/p/Restaurante-Doce-Apostoles-100064256432610/?locale=es_LA"
+        }
+      ],
+      "instagram": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "whatsapp": null
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": true,
+    "delivery": false,
+    "reserves": false,
+    "rent_from_the_client": false,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": true
+    },
+    "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla"

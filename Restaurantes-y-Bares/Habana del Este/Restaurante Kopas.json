@@ -1,432 +1,516 @@
 {
-  "Restaurants": {
-    "Restaurante_Kopas": {
-      "Province": "La Habana",
-      "Municipality": "La Habana del Este",
-      "Location": "esquina, 5ta Avenida, 482, La Habana",
-      "Stars": {
-        "Social network": "Google",
-        "url": "https://g.co/kgs/SChQC1g",
-        "total": 4.3,
-        "date": "20241130"
+  "type_of_establishment": "restaurante",
+  "place_name": "Restaurante Kopas",
+  "property_type": "particular",
+  "address": {
+    "establishment_phone_number": "77665522",
+    "district": "Habana del Este",
+    "location": "Esquina, 5ta Avenida, 482, Guanabo",
+    "coordinates": "23.16921539295931, -82.30218448650658"
+  },
+  "schedules": {
+    "monday": {
+      "open": "10:00",
+      "closed": "23:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "closed": "23:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "closed": "23:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "closed": "23:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "closed": "23:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "closed": "23:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "closed": "23:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": 4.1,
+        "number_of_reviews": 17
       },
-      "schedules": "Apertura 10:00am y Cierre 11:00pm",
-      "Days of the week": "Todos",
-      "Type of food or specialty": "Parrilladas",
-      "Most popular food": "Bistec de Cerdo Princesa",
-      "Facilities": {
-        "Pets": true,
-        "Wheelchair ramp": true,
-        "infant stool": true,
-        "Smoking area": true,
-        "Parking": false,
-        "Home service": true,
-        "Payment type": "Efectivo y Transferencia"
+      "tripadvisor": {
+        "stars": null,
+        "number_of_reviews": null
       },
-      "Capacity": 100,
-      "menu_details": {
-        "kind_of_food": [
-          "criolla",
-          "italiana"
-        ],
-        "menu_card": {
-          "menu_sections": {
-            "main_courses": [
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "grande",
+    "decoration": "contemporanea",
+    "festive_decorations": true,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "amistades",
+      "parejas"
+    ],
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        true,
+        {
+          "url": "https://www.facebook.com/p/kopas_bar_restaurant-100087473140367/?locale=ca_ES"
+        }
+      ],
+      "instagram": [
+        true,
+        {
+          "url": "https://www.instagram.com/kopas_bar_restaurant/"
+        }
+      ],
+      "whatsapp": "51566616"
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": true,
+    "delivery": false,
+    "reserves": true,
+    "rent_from_the_client": false,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": false
+    },
+    "10% charge": false
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "criolla",
+      "italiana"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "main_courses": [
+          {
+            "courses": [
               {
-                "courses": [
-                  {
-                    "name": "Brocheta de Res",
-                    "price": 1950
-                  },
-                  {
-                    "name": "Brocheta de Pollo y Cerdo",
-                    "price": 1950
-                  },
-                  {
-                    "name": "Brocheta de Camaron",
-                    "price": 2100
-                  },
-                  {
-                    "name": "Brocheta de Cerdo",
-                    "price": 1850
-                  },
-                  {
-                    "name": "Brocheta de Pollo",
-                    "price": 1550
-                  },
-                  {
-                    "name": "Chuleta de Cerdo al Carbon",
-                    "price": 1975
-                  },
-                  {
-                    "name": "Chuleta de Cerdo al Grill en Salsa Chimichurri",
-                    "price": 1975
-                  },
-                  {
-                    "name": "Bistec de Pollo Grille",
-                    "price": 1350
-                  },
-                  {
-                    "name": "Fajitas de Pollo a la Piña y Miel",
-                    "price": 1375
-                  },
-                  {
-                    "name": "Fajitas de Pollo Empanada",
-                    "price": 1550
-                  },
-                  {
-                    "name": "Pechuga de Pollo en Salsa de Jengibre y Ajonjoli",
-                    "price": 1450
-                  },
-                  {
-                    "name": "Pollo a la Crema",
-                    "price": 1650
-                  },
-                  {
-                    "name": "Pollo al Ajo y Vino Blanco",
-                    "price": 1450
-                  },
-                  {
-                    "name": "Pollo a la Parmesana",
-                    "price": 1650
-                  },
-                  {
-                    "name": "Pollo al Limon y al Oregano",
-                    "price": 1450
-                  },
-                  {
-                    "name": "Pollo Caribeño",
-                    "price": 2100
-                  },
-                  {
-                    "name": "Pollo Cordon Blue",
-                    "price": 2250
-                  },
-                  {
-                    "name": "Pollo Princesa",
-                    "price": 1750
-                  },
-                  {
-                    "name": "Bistec de Cerdo Encebollado",
-                    "price": 1650
-                  },
-                  {
-                    "name": "Bistec de Cerdo Princesa",
-                    "price": 2000
-                  },
-                  {
-                    "name": "Escalope de Cerdo",
-                    "price": 2250
-                  },
-                  {
-                    "name": "Fajitas de Cerdo a la Piña y Miel",
-                    "price": 1875
-                  },
-                  {
-                    "name": "Lomo de Cerdo Ahumado con Salsa Agridulce",
-                    "price": 1875
-                  },
-                  {
-                    "name": "Lomo de Cerdo Ahumado con Salsa Basbecue",
-                    "price": 1850
-                  },
-                  {
-                    "name": "Lomo de Cerdo Ahumado Encebollado",
-                    "price": 1775
-                  },
-                  {
-                    "name": "Lomo de Cerdo Encebollado",
-                    "price": 1750
-                  },
-                  {
-                    "name": "Lomo de Cerdo en Salsa Roquefort",
-                    "price": 1975
-                  },
-                  {
-                    "name": "Masa de Res en Cazuela",
-                    "price": 1875
-                  },
-                  {
-                    "name": "Camaron Empanado",
-                    "price": 2300
-                  },
-                  {
-                    "name": "Camaron Enchilado",
-                    "price": 2300
-                  },
-                  {
-                    "name": "Camarones al Ajillo",
-                    "price": 2200
-                  },
-                  {
-                    "name": "Camaron Grille",
-                    "price": 2000
-                  },
-                  {
-                    "name": "Camaron Tropical",
-                    "price": 3250
-                  },
-                  {
-                    "name": "Dados de Pescado al Ajillo",
-                    "price": 1850
-                  },
-                  {
-                    "name": "Filete de Pescado al Estilo Kopas",
-                    "price": 2750
-                  },
-                  {
-                    "name": "Filete de Pescado al Olivo",
-                    "price": 1750
-                  },
-                  {
-                    "name": "Filete de Pescado Empanado",
-                    "price": 2100
-                  },
-                  {
-                    "name": "Filete de Pescado en Salsa de Limon",
-                    "price": 1975
-                  },
-                  {
-                    "name": "Filete de Pescado Grille",
-                    "price": 1475
-                  },
-                  {
-                    "name": "Filete de Pescado Montetoro",
-                    "price": 2450
-                  },
-                  {
-                    "name": "Filete de Pescado Princesa",
-                    "price": 2150
-                  },
-                  {
-                    "name": "Filete de Pescado Canciller",
-                    "price": 2550
-                  },
-                  {
-                    "name": "Filete de Pescado Costa Sur",
-                    "price": 2650
-                  },
-                  {
-                    "name": "Rueda de Albacora a la Veracruz",
-                    "price": 1995
-                  },
-                  {
-                    "name": "Arroz Frito Especial",
-                    "price": 1750
-                  },
-                  {
-                    "name": "Paella Mixta",
-                    "price": 2850
-                  },
-                  {
-                    "name": "Tres Reyes",
-                    "price": 1950
-                  }
-                ]
-              }
-            ],
-            "pizzas": [
-              {
-                "courses": [
-                  {
-                    "name": "Calzone Mixto",
-                    "price": 1975
-                  },
-                  {
-                    "name": "Focaccia",
-                    "price": 790
-                  },
-                  {
-                    "name": "Pizza Aceitunas",
-                    "price": 1590
-                  },
-                  {
-                    "name": "Pizza Caballo",
-                    "price": 1975
-                  },
-                  {
-                    "name": "Pizza de Atun",
-                    "price": 1975
-                  },
-                  {
-                    "name": "Pizza de Bacon",
-                    "price": 1850
-                  },
-                  {
-                    "name": "Pizza de Camaron",
-                    "price": 1995
-                  },
-                  {
-                    "name": "Pizza de Cebolla",
-                    "price": 1250
-                  },
-                  {
-                    "name": "Pizza de Chorizo",
-                    "price": 1550
-                  },
-                  {
-                    "name": "Pizza de Jamon",
-                    "price": 1650
-                  },
-                  {
-                    "name": "Pizza de Pimiento",
-                    "price": 1250
-                  },
-                  {
-                    "name": "Pizza Diablo",
-                    "price": 1850
-                  },
-                  {
-                    "name": "Pizza Hawaiana",
-                    "price": 1700
-                  },
-                  {
-                    "name": "Pizza Jamon Serrano",
-                    "price": 2700
-                  },
-                  {
-                    "name": "Pizza Kopas",
-                    "price": 2200
-                  },
-                  {
-                    "name": "Pizza Margarita",
-                    "price": 1500
-                  },
-                  {
-                    "name": "Pizza Marinera",
-                    "price": 2575
-                  },
-                  {
-                    "name": "Pizza Mixta",
-                    "price": 2000
-                  },
-                  {
-                    "name": "Pizza Napolitana",
-                    "price": 1275
-                  },
-                  {
-                    "name": "Pizza Ropa Vieja",
-                    "price": 2000
-                  },
-                  {
-                    "name": "Pizza Vegetariana",
-                    "price": 1650
-                  },
-                  {
-                    "name": "Pizza Vikinga",
-                    "price": 2000
-                  }
-                ]
-              }
-            ],
-            "pastas": [
-              {
-                "courses": [
-                  {
-                    "name": "Pasta a la Carbonara",
-                    "price": 1100
-                  },
-                  {
-                    "name": "Pasta Amatriciana",
-                    "price": 1300
-                  },
-                  {
-                    "name": "Pasta de Atun",
-                    "price": 1450
-                  },
-                  {
-                    "name": "Pasta de Camaron",
-                    "price": 1550
-                  },
-                  {
-                    "name": "Pasta de Jamon",
-                    "price": 1275
-                  },
-                  {
-                    "name": "Pasta Napolitana",
-                    "price": 975
-                  }
-                ]
-              }
-            ],
-            "rations": [
-              {
-                "name": "Arroz Blanco",
-                "price": 250
+                "name": "Brocheta de Res",
+                "price": 1950
               },
               {
-                "name": "Arroz Moro",
-                "price": 300
+                "name": "Brocheta de Pollo y Cerdo",
+                "price": 1950
               },
               {
-                "name": "Arroz Pilaf",
-                "price": 350
+                "name": "Brocheta de Camaron",
+                "price": 2100
               },
               {
-                "name": "Ensalada Estacion",
-                "price": 400
+                "name": "Brocheta de Cerdo",
+                "price": 1850
               },
               {
-                "name": "Rodajas de Pan",
-                "price": 250
+                "name": "Brocheta de Pollo",
+                "price": 1550
               },
               {
-                "name": "Tostones Naturales",
-                "price": 475
+                "name": "Chuleta de Cerdo al Carbon",
+                "price": 1975
               },
               {
-                "name": "Vianda Frita",
-                "price": 450
+                "name": "Chuleta de Cerdo al Grill en Salsa Chimichurri",
+                "price": 1975
               },
               {
-                "name": "Vianda Hervida",
-                "price": 350
-              }
-            ],
-            "liquids": [
+                "name": "Bistec de Pollo Grille",
+                "price": 1350
+              },
               {
-                "coffees": [
-                  {
-                    "name": "Affogato",
-                    "price": 325
-                  },
-                  {
-                    "name": "Cafe Americano",
-                    "price": 150
-                  },
-                  {
-                    "name": "Cafe Bombon",
-                    "price": 375
-                  },
-                  {
-                    "name": "Cafe Capuccino",
-                    "price": 350
-                  },
-                  {
-                    "name": "Cafe con Leche",
-                    "price": 350
-                  },
-                  {
-                    "name": "Cafe Cortado",
-                    "price": 175
-                  },
-                  {
-                    "name": "Cafe Expreso",
-                    "price": 150
-                  },
-                  {
-                    "name": "Cafe Frapuccino",
-                    "price": 375
-                  },
-                  {
-                    "name": "Leche con Chocolate",
-                    "price": 375
-                  }
-                ]
+                "name": "Fajitas de Pollo a la Piña y Miel",
+                "price": 1375
+              },
+              {
+                "name": "Fajitas de Pollo Empanada",
+                "price": 1550
+              },
+              {
+                "name": "Pechuga de Pollo en Salsa de Jengibre y Ajonjoli",
+                "price": 1450
+              },
+              {
+                "name": "Pollo a la Crema",
+                "price": 1650
+              },
+              {
+                "name": "Pollo al Ajo y Vino Blanco",
+                "price": 1450
+              },
+              {
+                "name": "Pollo a la Parmesana",
+                "price": 1650
+              },
+              {
+                "name": "Pollo al Limon y al Oregano",
+                "price": 1450
+              },
+              {
+                "name": "Pollo Caribeño",
+                "price": 2100
+              },
+              {
+                "name": "Pollo Cordon Blue",
+                "price": 2250
+              },
+              {
+                "name": "Pollo Princesa",
+                "price": 1750
+              },
+              {
+                "name": "Bistec de Cerdo Encebollado",
+                "price": 1650
+              },
+              {
+                "name": "Bistec de Cerdo Princesa",
+                "price": 2000
+              },
+              {
+                "name": "Escalope de Cerdo",
+                "price": 2250
+              },
+              {
+                "name": "Fajitas de Cerdo a la Piña y Miel",
+                "price": 1875
+              },
+              {
+                "name": "Lomo de Cerdo Ahumado con Salsa Agridulce",
+                "price": 1875
+              },
+              {
+                "name": "Lomo de Cerdo Ahumado con Salsa Basbecue",
+                "price": 1850
+              },
+              {
+                "name": "Lomo de Cerdo Ahumado Encebollado",
+                "price": 1775
+              },
+              {
+                "name": "Lomo de Cerdo Encebollado",
+                "price": 1750
+              },
+              {
+                "name": "Lomo de Cerdo en Salsa Roquefort",
+                "price": 1975
+              },
+              {
+                "name": "Masa de Res en Cazuela",
+                "price": 1875
+              },
+              {
+                "name": "Camaron Empanado",
+                "price": 2300
+              },
+              {
+                "name": "Camaron Enchilado",
+                "price": 2300
+              },
+              {
+                "name": "Camarones al Ajillo",
+                "price": 2200
+              },
+              {
+                "name": "Camaron Grille",
+                "price": 2000
+              },
+              {
+                "name": "Camaron Tropical",
+                "price": 3250
+              },
+              {
+                "name": "Dados de Pescado al Ajillo",
+                "price": 1850
+              },
+              {
+                "name": "Filete de Pescado al Estilo Kopas",
+                "price": 2750
+              },
+              {
+                "name": "Filete de Pescado al Olivo",
+                "price": 1750
+              },
+              {
+                "name": "Filete de Pescado Empanado",
+                "price": 2100
+              },
+              {
+                "name": "Filete de Pescado en Salsa de Limon",
+                "price": 1975
+              },
+              {
+                "name": "Filete de Pescado Grille",
+                "price": 1475
+              },
+              {
+                "name": "Filete de Pescado Montetoro",
+                "price": 2450
+              },
+              {
+                "name": "Filete de Pescado Princesa",
+                "price": 2150
+              },
+              {
+                "name": "Filete de Pescado Canciller",
+                "price": 2550
+              },
+              {
+                "name": "Filete de Pescado Costa Sur",
+                "price": 2650
+              },
+              {
+                "name": "Rueda de Albacora a la Veracruz",
+                "price": 1995
+              },
+              {
+                "name": "Arroz Frito Especial",
+                "price": 1750
+              },
+              {
+                "name": "Paella Mixta",
+                "price": 2850
+              },
+              {
+                "name": "Tres Reyes",
+                "price": 1950
               }
             ]
           }
-        }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": "Calzone Mixto",
+                "price": 1975
+              },
+              {
+                "name": "Focaccia",
+                "price": 790
+              },
+              {
+                "name": "Pizza Aceitunas",
+                "price": 1590
+              },
+              {
+                "name": "Pizza Caballo",
+                "price": 1975
+              },
+              {
+                "name": "Pizza de Atun",
+                "price": 1975
+              },
+              {
+                "name": "Pizza de Bacon",
+                "price": 1850
+              },
+              {
+                "name": "Pizza de Camaron",
+                "price": 1995
+              },
+              {
+                "name": "Pizza de Cebolla",
+                "price": 1250
+              },
+              {
+                "name": "Pizza de Chorizo",
+                "price": 1550
+              },
+              {
+                "name": "Pizza de Jamon",
+                "price": 1650
+              },
+              {
+                "name": "Pizza de Pimiento",
+                "price": 1250
+              },
+              {
+                "name": "Pizza Diablo",
+                "price": 1850
+              },
+              {
+                "name": "Pizza Hawaiana",
+                "price": 1700
+              },
+              {
+                "name": "Pizza Jamon Serrano",
+                "price": 2700
+              },
+              {
+                "name": "Pizza Kopas",
+                "price": 2200
+              },
+              {
+                "name": "Pizza Margarita",
+                "price": 1500
+              },
+              {
+                "name": "Pizza Marinera",
+                "price": 2575
+              },
+              {
+                "name": "Pizza Mixta",
+                "price": 2000
+              },
+              {
+                "name": "Pizza Napolitana",
+                "price": 1275
+              },
+              {
+                "name": "Pizza Ropa Vieja",
+                "price": 2000
+              },
+              {
+                "name": "Pizza Vegetariana",
+                "price": 1650
+              },
+              {
+                "name": "Pizza Vikinga",
+                "price": 2000
+              }
+            ]
+          }
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": "Pasta a la Carbonara",
+                "price": 1100
+              },
+              {
+                "name": "Pasta Amatriciana",
+                "price": 1300
+              },
+              {
+                "name": "Pasta de Atun",
+                "price": 1450
+              },
+              {
+                "name": "Pasta de Camaron",
+                "price": 1550
+              },
+              {
+                "name": "Pasta de Jamon",
+                "price": 1275
+              },
+              {
+                "name": "Pasta Napolitana",
+                "price": 975
+              }
+            ]
+          }
+        ],
+        "rations": [
+          {
+            "name": "Arroz Blanco",
+            "price": 250
+          },
+          {
+            "name": "Arroz Moro",
+            "price": 300
+          },
+          {
+            "name": "Arroz Pilaf",
+            "price": 350
+          },
+          {
+            "name": "Ensalada Estacion",
+            "price": 400
+          },
+          {
+            "name": "Rodajas de Pan",
+            "price": 250
+          },
+          {
+            "name": "Tostones Naturales",
+            "price": 475
+          },
+          {
+            "name": "Vianda Frita",
+            "price": 450
+          },
+          {
+            "name": "Vianda Hervida",
+            "price": 350
+          }
+        ],
+        "liquids": [
+          {
+            "coffees": [
+              {
+                "name": "Affogato",
+                "price": 325
+              },
+              {
+                "name": "Cafe Americano",
+                "price": 150
+              },
+              {
+                "name": "Cafe Bombon",
+                "price": 375
+              },
+              {
+                "name": "Cafe Capuccino",
+                "price": 350
+              },
+              {
+                "name": "Cafe con Leche",
+                "price": 350
+              },
+              {
+                "name": "Cafe Cortado",
+                "price": 175
+              },
+              {
+                "name": "Cafe Expreso",
+                "price": 150
+              },
+              {
+                "name": "Cafe Frapuccino",
+                "price": 375
+              },
+              {
+                "name": "Leche con Chocolate",
+                "price": 375
+              }
+            ]
+          }
+        ]
       }
     }
   }

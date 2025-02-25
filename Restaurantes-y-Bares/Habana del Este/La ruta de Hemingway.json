@@ -1,22 +1,115 @@
 {
-  "Place": "La ruta de Hemingway",
-  "Address": "Calle Real entre Victoria y Marcos, Cojimar",
-  "Municipality": "Habana del Este",
-  "Classification": "Bar-Restaurant",
-  "Specialization": "Comida mixta",
-  "Property": "Privado",
-  "Schedule": "12h00 - 23h00 (Todos los dias)",
-  "Ratings": "3.7 (Google Maps)",
-  "Reservations": "True",
-  "Delivery": "False",
-  "Delivery area": "False",
-  "Phone": "50813470",
-  "Accounts or website": "larutadehemingway.godaddysites.com",
-  "Payment method": "Tarjeta o efectivo (MN)",
-  "Capacity": 30,
-  "Parking": "False",
-  "Wifi": "Falsr",
-  "Smoking area": "True",
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "La ruta de Hemingway",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "77937809",
+      "district": "Habana del Este",
+      "location": "Calle Real entre Victoria y Marcos, Cojimar",
+      "coordinates": null
+  },
+  "schedules": {
+      "monday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "tuesday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "wednesday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "thursday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "friday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "saturday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "sunday": {
+          "open": "12:00",
+          "closed": "24:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 3.7,
+              "number_of_reviews": 8
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "contemporanea",
+      "festive_decorations": true,
+      "home_uniform": "casual",
+      "collaboration_for_events": true,
+      "type_of_concurrent_clients": [
+          "familias",
+          "parejas"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": "50813470"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

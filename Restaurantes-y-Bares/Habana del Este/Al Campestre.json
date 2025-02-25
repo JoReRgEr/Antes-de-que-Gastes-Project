@@ -1,22 +1,116 @@
 {
-  "Place": "Al Campestre",
-  "Address": "El Intermitente, Via  Blanca, Alamar",
-  "Municipality": "Habana del Este",
-  "Classification": "Parrillada-Restaurant",
-  "Specialization": "Comida mixta",
-  "Property": "Privado",
-  "Schedule": "09h00 - 23h00 (Todos los dias)",
-  "Ratings": "3.4 (Google Maps)",
-  "Reservations": "True",
-  "Delivery": "True",
-  "Delivery area": "Habana del Este, Guanabacoa",
-  "Phone": "58893858/53236469",
-  "Accounts or website": "Alcampestre. (Facebook)/ alcampestre (Instagram)",
-  "Payment method": "Tarjeta o efectivo (MN o moneda extranjera)",
-  "Capacity": 70,
-  "Parking": "True",
-  "Wifi": "False",
-  "Smoking area": "True",
+  "type_of_establishment": "restaurante",
+  "place_name": "Al Campestre",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana del Este",
+      "location": "El Intermitente, Via Blanca, Alamar",
+      "coordinates": "23.155297217049615, -82.2708506"
+  },
+  "schedules": {
+      "monday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "tuesday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "saturday": {
+          "open": "09:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "09:00",
+          "closed": "23:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 3.5,
+              "number_of_reviews": 47
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": 3.0,
+              "number_of_reviews": 6
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "rural",
+      "festive_decorations": true,
+      "home_uniform": "casual",
+      "collaboration_for_events": true,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "familias",
+          "amistades"
+      ],
+      "energy_backup": true
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/alCampestre/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/alcampestre/"
+              }
+          ],
+          "whatsapp": "58893858"
+      },
+      "child_care": true,
+      "disable_support": false,
+      "parking": true,
+      "delivery": true,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": false,
+          "mlc": true
+      },
+      "10% charge": true
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

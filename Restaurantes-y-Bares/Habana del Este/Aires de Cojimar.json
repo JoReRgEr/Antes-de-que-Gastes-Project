@@ -1,21 +1,115 @@
 {
-  "Place": "Aires de Cojimar",
-  "Address": "Pezuela #3e05 entre RUA y Espartero, Cojimar",
-  "Municipality": "Habana del Este",
-  "Classification": "Bar-Restaurante",
-  "Specialization": "Comida mixta",
-  "Property": "Privado",
-  "Schedule": "12h00 - 00h00",
-  "Ratings": "4.5 (Tripadvisor) / 4.3 (Google Maps)",
-  "Reservations": "True",
-  "Delivery": "False",
-  "Phone": "77666890 / 58385050",
-  "Accounts or website": "aires_decojimar (Instagram) / Aires de Cojimar (Facebook)",
-  "Payment method": "Tarjeta o efectivo (MN)",
-  "Capacity": 15,
-  "Parking": "True",
-  "Wifi": "False",
-  "Smoking area": "True",
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Aires de Cojimar",
+  "property_type": "particular",
+  "address": {
+    "establishment_phone_number": "77666890",
+    "district": "Habana del Este",
+    "location": "Pezuela #3e05 entre RUA y Espartero, Cojimar",
+    "coordinates": "23.12175664098506, -82.29618754417764"
+  },
+  "schedules": {
+    "monday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "tuesday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "wednesday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "thursday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "friday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "closed": "24:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": 4.4,
+        "number_of_reviews": 13
+      },
+      "tripadvisor": {
+        "stars": 4.5,
+        "number_of_reviews": 13
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "media",
+    "decoration": "nautica",
+    "festive_decorations": false,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "parejas",
+      "familias"
+    ],
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        true,
+        {
+          "url": "https://www.facebook.com/groups/750679669616425/"
+        }
+      ],
+      "instagram": [
+        true,
+        {
+          "url": "https://www.instagram.com/aires_decojimar/"
+        }
+      ],
+      "whatsapp": "58385050"
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": false,
+    "delivery": false,
+    "reserves": true,
+    "rent_from_the_client": false,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": false
+    },
+    "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

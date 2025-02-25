@@ -1,75 +1,116 @@
 {
-    "Place": "Super Eddy's Burguer",
-    "Location": [
-        {
-            "Address": "La Curva, Zona 24, Alamar",
-            "Municipality": "Habana del Este",
-            "Coordinates": "5P9F+5V5"
-        }
-    ],
-    "Classification": "Cafeteria",
-    "Specialization": "Cocina criolla",
-    "Ownership": "Privado",
-    "Schedule": [
-        {
-            "Opening": null,
-            "Closing": null,
-            "Days": [
-                "Lunes",
-                "Martes",
-                "Miercoles",
-                "Jueves",
-                "Viernes",
-                "Sabado",
-                "Domingo"
-            ]
-        }
-    ],
-    "Ratings": [
-        {
-            "Tripadvisor": null,
-            "Google Maps": null
-        }
-    ],
-    "Reservations": false,
-    "Delivery": [
-        {
-            "Service existence": false,
-            "Delivery area": null
-        }
-    ],
-    "Phone number": "59179824",
-    "Accounts or website": [
-        {
-            "Facebook": null
+    "type_of_establishment": "restaurante",
+    "place_name": "Super Eddys Burguer",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Habana del Este",
+        "location": "La Curva, Zona 24, Alamar",
+        "coordinates": "23.167897426327034, -82.27527794715809"
+    },
+    "schedules": {
+        "monday": {
+            "open": "09:00",
+            "closed": "22:00"
         },
-        {
-            "Instagram": null
+        "tuesday": {
+            "open": "09:00",
+            "closed": "22:00"
         },
-        {
-            "Website": null
+        "wednesday": {
+            "open": "09:00",
+            "closed": "22:00"
         },
-        {
-            "Email": null
+        "thursday": {
+            "open": "09:00",
+            "closed": "22:00"
+        },
+        "friday": {
+            "open": "09:00",
+            "closed": "22:00"
+        },
+        "saturday": {
+            "open": "09:00",
+            "closed": "22:00"
+        },
+        "sunday": {
+            "open": "09:00",
+            "closed": "22:00"
         }
-    ],
-    "Payment": [
-        {
-            "Method": [
-                "Transferencia",
-                "Efectivo"
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "chico",
+        "decoration": "contemporanea",
+        "festive_decorations": true,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades",
+            "parejas",
+            "familias"
+        ],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
             ],
-            "Accepted currencies": [
-                "CUP",
-                "USD",
-                "EUR"
-            ]
-        }
-    ],
-    "Capacity": 20,
-    "Parking service": true,
-    "Wifi": false,
-    "Smoking area": true,
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/explore/locations/116298708022321/super-eddys-burger/"
+                }
+            ],
+            "whatsapp": "59179824"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla",

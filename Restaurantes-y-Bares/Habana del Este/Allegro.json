@@ -1,22 +1,115 @@
 {
-  "Place": "Allegro",
-  "Address": "Paseo de la Villa, Villa Panamericana",
-  "Municipality": "Habana del Este",
-  "Classification": "Restaurant",
-  "Specialization": "Comida italiana",
-  "Property": "Estatal",
-  "Schedule": "12h00 - 21h00",
-  "Ratings": "4.0 (Google Maps)",
-  "Reservations": "False",
-  "Delivery": "False",
-  "Delivery area": "False",
-  "Phone": "7661010",
-  "Accounts or website": "False",
-  "Payment method": "Tarjeta o efectivo (MN)",
-  "Capacity": 20,
-  "Parking": "False",
-  "Wifi": "False",
-  "Smoking area": "True",
+  "type_of_establishment": "estatal",
+  "place_name": "Allegro",
+  "property_type": "particular",
+  "address": {
+    "establishment_phone_number": "7661010",
+    "district": "Habana del Este",
+    "location": "Paseo de la Villa, Villa Panamericana",
+    "coordinates": "23.160434924116327, -82.30719927564486"
+  },
+  "schedules": {
+    "monday": {
+      "open": "12:00",
+      "closed": "21:00"
+    },
+    "tuesday": {
+      "open": "12:00",
+      "closed": "21:00"
+    },
+    "wednesday": {
+      "open": "12:00",
+      "closed": "21:00"
+    },
+    "thursday": {
+      "open": "12:00",
+      "closed": "21:00"
+    },
+    "friday": {
+      "open": "12:00",
+      "closed": "21:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "closed": "21:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "closed": "21:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": 4.0,
+        "number_of_reviews": 9
+      },
+      "tripadvisor": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "media",
+    "decoration": "contemporanea",
+    "festive_decorations": false,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "parejas",
+      "amistades"
+    ],
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "instagram": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "whatsapp": null
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": false,
+    "delivery": false,
+    "reserves": false,
+    "rent_from_the_client": false,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": true
+    },
+    "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "italiana"

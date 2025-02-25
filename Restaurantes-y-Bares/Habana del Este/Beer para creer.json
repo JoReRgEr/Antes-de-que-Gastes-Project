@@ -1,22 +1,115 @@
 {
-  "Place": "Beer para creer",
-  "Address": "Centro comercial Falcon, Alamar",
-  "Municipality": "Habana del Este",
-  "Classification": "Bar-Cafeteria",
-  "Specialization": "Comida mixta",
-  "Property": "Privado",
-  "Schedule": "10h00 - 21h00 (Todos los dias)",
-  "Ratings": "Null",
-  "Reservations": "False",
-  "Delivery": "False",
-  "Delivery area": "False",
-  "Phone": "Null",
-  "Accounts or website": "Null",
-  "Payment method": "Tarjeta o efectivo (MN o moneda extranjera)",
-  "Capacity": 15,
-  "Parking": "True",
-  "Wifi": "False",
-  "Smoking area": "True",
+  "type_of_establishment": "particular",
+  "place_name": "Beer para creer",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana del Este",
+      "location": "Centro comercial Falcon, Alamar",
+      "coordinates": null
+  },
+  "schedules": {
+      "monday": {
+          "open": "10:00",
+          "closed": "21:00"
+      },
+      "tuesday": {
+          "open": "10:00",
+          "closed": "21:00"
+      },
+      "wednesday": {
+          "open": "10:00",
+          "closed": "21:00"
+      },
+      "thursday": {
+          "open": "10:00",
+          "closed": "21:00"
+      },
+      "friday": {
+          "open": "10:00",
+          "closed": "21:00"
+      },
+      "saturday": {
+          "open": "10:00",
+          "closed": "21:00"
+      },
+      "sunday": {
+          "open": "10:00",
+          "closed": "21:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "chica",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "italiana",

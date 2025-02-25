@@ -1,78 +1,115 @@
 {
-    "Place": "Donde Albert",
-    "Location": [
-        {
-            "Address": "Calle Malecon entre More y Marcos, Cojimar",
-            "Municipality": "Habana del Este",
-            "Coordinates": "5P93+3XR"
-        }
-    ],
-    "Classification": "Restaurante",
-    "Specialization": "Cocina mixta",
-    "Ownership": "Privado",
-    "Schedule": [
-        {
-            "Opening": "10h00",
-            "Closing": "22h00",
-            "Days": [
-                "Lunes",
-                "Martes",
-                "Miercoles",
-                "Jueves",
-                "Viernes",
-                "Sabado",
-                "Domingo"
-            ]
-        }
-    ],
-    "Ratings": [
-        {
-            "Tripadvisor": null,
-            "Google Maps": 4.4
-        }
-    ],
-    "Reservations": false,
-    "Delivery": [
-        {
-            "Service existence": true,
-            "Delivery area": [
-                "Habana del Este",
-                "Guanabacoa"
-            ]
-        }
-    ],
-    "Phone number": "77668561 / 77668753",
-    "Accounts or website": [
-        {
-            "Facebook": "Cafe Donde Albert"
+    "type_of_establishment": "restaurante",
+    "place_name": "Donde Albert",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "77668561",
+        "district": "Habana del Este",
+        "location": "Calle Malecon entre More y Marcos, Cojimar",
+        "coordinates": null
+    },
+    "schedules": {
+        "monday": {
+            "open": "10:00",
+            "closed": "22:00"
         },
-        {
-            "Instagram": "@dondealbert_cafe"
+        "tuesday": {
+            "open": "10:00",
+            "closed": "22:00"
         },
-        {
-            "Website": null
+        "wednesday": {
+            "open": "10:00",
+            "closed": "22:00"
         },
-        {
-            "Email": null
+        "thursday": {
+            "open": "10:00",
+            "closed": "22:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "closed": "22:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "closed": "22:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "closed": "22:00"
         }
-    ],
-    "Payment": [
-        {
-            "Method": [
-                "Transferencia",
-                "Efectivo"
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.4,
+                "number_of_reviews": 23
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "grande",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "parejas",
+            "amistades"
+        ],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
             ],
-            "Accepted currencies": [
-                "CUP",
-                "USD",
-                "EUR"
-            ]
-        }
-    ],
-    "Capacity": 40,
-    "Parking service": true,
-    "Wifi": false,
-    "Smoking area": true,
+            "facebook": [
+                true,
+                {
+                    "url": "Cafe Donde Albert"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/dondealbert_cafe/"
+                }
+            ],
+            "whatsapp": null
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla",

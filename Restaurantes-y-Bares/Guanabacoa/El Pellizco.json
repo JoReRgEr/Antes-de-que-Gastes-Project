@@ -1,65 +1,116 @@
 {
-  "ID": 708,
-  "locality": {
-    "mun": "Guanabacoa",
-    "locator": {
-      "phones": {
-        "mobile": null,
-        "landline": null
+  "type_of_establishment": "restaurante",
+  "place_name": "El Pellizco",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Guanabacoa",
+      "location": null,
+      "coordinates": null
+  },
+  "schedules": {
+      "monday": {
+          "open": "11:00",
+          "closed": "24:00"
       },
-      "plus_code": "3Q5F+6C6, La Habana"
-    }
+      "tuesday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "wednesday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "thursday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "friday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "saturday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "sunday": {
+          "open": "11:00",
+          "closed": "24:00"
+      }
   },
-  "name": "El Pellizco",
-  "type_cuisine": [
-    "criolla"
-  ],
-  "schedule": {
-    "monday": {
-      "opening": "11:00",
-      "closing": "24:00"
-    },
-    "tuesday": {
-      "opening": "11:00",
-      "closing": "24:00"
-    },
-    "wednesday": {
-      "opening": "11:00",
-      "closing": "24:00"
-    },
-    "thursday": {
-      "opening": "11:00",
-      "closing": "24:00"
-    },
-    "friday": {
-      "opening": "11:00",
-      "closing": "24:00"
-    },
-    "saturday": {
-      "opening": "11:00",
-      "closing": "24:00"
-    },
-    "sunday": {
-      "opening": "11:00",
-      "closing": "24:00"
-    }
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "rural",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "amistades",
+          "parejas",
+          "familias"
+      ],
+      "energy_backup": true
   },
-  "quality": {
-    "qualification_google": 3.6,
-    "qualification_tripadvisor": null,
-    "qualification_facebook": null
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/explore/locations/690805761062352/ranchon-el-pellizco/?next=%2Fm00dsky%2F&hl=es-la"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
   },
-  "reservation_options": false,
-  "social_networks": [
-    "Instagram"
-  ],
-  "payment_options": [
-    "Transfermóvil",
-    "Efectivo"
-  ],
-  "service_details": [
-    null
-  ],
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

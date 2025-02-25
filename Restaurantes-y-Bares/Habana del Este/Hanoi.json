@@ -1,22 +1,115 @@
 {
-  "Place": "Ranchon Hanoi",
-  "Address": "Parque Hanoi, zona 6, Alamar",
-  "Municipality": "Habana del Este",
-  "Classification": "Restaurante",
-  "Specialization": "Comida mixta",
-  "Property": "Estatal",
-  "Schedule": "12h00 - 23h00 (Martes - Domingo)",
-  "Ratings": "4.0 (Tripadvisor) / 4.4 (Google Maps)",
-  "Reservations": "False",
-  "Delivery": "True",
-  "Delivery area": "Habana del Este",
-  "Phone": "77630542",
-  "Accounts or website": "Null",
-  "Payment method": "Tarjeta o efectivo (MN)",
-  "Capacity": 30,
-  "Parking": "True",
-  "Wifi": "False",
-  "Smoking area": "True",
+  "type_of_establishment": "restaurante",
+  "place_name": "Ranchon Hanoi",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "77630542",
+      "district": "Habana del Este",
+      "location": "Parque Hanoi, zona 6, Alamar",
+      "coordinates": null
+  },
+  "schedules": {
+      "monday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "tuesday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "saturday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "12:00",
+          "closed": "23:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.0,
+              "number_of_reviews": 18
+          },
+          "tripadvisor": {
+              "stars": 4.4,
+              "number_of_reviews": 10
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "rural",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "parejas"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": true,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

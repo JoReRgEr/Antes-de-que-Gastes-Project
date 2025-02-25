@@ -1,22 +1,115 @@
 {
-  "Place": "Jackafe",
-  "Address": "Calle 164B, #3B01, Esquina 3ra B, Mercado de los Rusos, zona 1, Alamar",
-  "Municipality": "Habana del Este",
-  "Classification": "Bar-Restaurant",
-  "Specialization": "Comida mixta",
-  "Property": "Privado",
-  "Schedule": "12h00 - 09h00 (Todos los dias)",
-  "Ratings": "4.9 (Google Maps)",
-  "Reservations": "True",
-  "Delivery": "True",
-  "Delivery area": "Habana del Este, Guanabacoa",
-  "Phone": "77636363",
-  "Accounts or website": "JacKafe (Facebook)",
-  "Payment method": "Tarjeta o efectivo (MN o moneda extranjera)",
-  "Capacity": 40,
-  "Parking": "True",
-  "Wifi": "False",
-  "Smoking area": "True",
+  "type_of_establishment": "bar",
+  "place_name": "Jackafe",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "77636363",
+      "district": "Habana del Este",
+      "location": "Calle 164B, #3B01, Esquina 3ra B, Mercado de los Rusos, zona 1, Alamar",
+      "coordinates": null
+  },
+  "schedules": {
+      "monday": {
+          "open": "12:00",
+          "closed": "21:00"
+      },
+      "tuesday": {
+          "open": "12:00",
+          "closed": "21:00"
+      },
+      "wednesday": {
+          "open": "12:00",
+          "closed": "21:00"
+      },
+      "thursday": {
+          "open": "12:00",
+          "closed": "21:00"
+      },
+      "friday": {
+          "open": "12:00",
+          "closed": "21:00"
+      },
+      "saturday": {
+          "open": "12:00",
+          "closed": "21:00"
+      },
+      "sunday": {
+          "open": "12:00",
+          "closed": "21:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.0,
+              "number_of_reviews": 34
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "moderna",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "amistades",
+          "parejas"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "JacKafe"
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

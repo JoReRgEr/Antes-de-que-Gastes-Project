@@ -1,73 +1,116 @@
 {
-    "Place": "El Cojimero",
-    "Location": [
-        {
-            "Address": "#8644, calle Morro entre G y H, Cojimar",
-            "Municipality": "Habana del Este",
-            "Coordinates": "5P92+3R7"
-        }
-    ],
-    "Classification": "Restaurante",
-    "Specialization": "Cocina mixta",
-    "Ownership": "Privado",
-    "Schedule": [
-        {
-            "Opening": "12h30",
-            "Closing": "22h00",
-            "Days": [
-                "Miercoles",
-                "Jueves",
-                "Viernes",
-                "Sabado",
-                "Domingo"
-            ]
-        }
-    ],
-    "Ratings": [
-        {
-            "Tripadvisor": 4.5,
-            "Google Maps": 4.2
-        }
-    ],
-    "Reservations": true,
-    "Delivery": [
-        {
-            "Service existence": false,
-            "Delivery area": null
-        }
-    ],
-    "Phone number": "77666724 / 53877144",
-    "Accounts or website": [
-        {
-            "Facebook": "Comunidad 'El Cojimero'"
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "El Cojimero",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "77666724",
+        "district": "Habana del Este",
+        "location": "#8644, calle Morro entre G y H, Cojimar",
+        "coordinates": null
+    },
+    "schedules": {
+        "monday": {
+            "open": null,
+            "closed": null
         },
-        {
-            "Instagram": "@restaurante_el_cojimero"
+        "tuesday": {
+            "open": null,
+            "closed": null
         },
-        {
-            "Website": null
+        "wednesday": {
+            "open": "12:30",
+            "closed": "22:00"
         },
-        {
-            "Email": null
+        "thursday": {
+            "open": "12:30",
+            "closed": "22:00"
+        },
+        "friday": {
+            "open": "12:30",
+            "closed": "22:00"
+        },
+        "saturday": {
+            "open": "12:30",
+            "closed": "22:00"
+        },
+        "sunday": {
+            "open": "12:30",
+            "closed": "22:00"
         }
-    ],
-    "Payment": [
-        {
-            "Method": [
-                "Transferencia",
-                "Efectivo"
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.2,
+                "number_of_reviews": 34
+            },
+            "tripadvisor": {
+                "stars": 4.5,
+                "number_of_reviews": 22
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "grande",
+        "decoration": "de epoca",
+        "festive_decorations": true,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "amistades",
+            "parejas"
+        ],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
             ],
-            "Accepted currencies": [
-                "CUP",
-                "USD",
-                "EUR"
-            ]
-        }
-    ],
-    "Capacity": 50,
-    "Parking service": true,
-    "Wifi": false,
-    "Smoking area": true,
+            "facebook": [
+                true,
+                {
+                    "url": "Comunidad 'El Cojimero'"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "@restaurante_el_cojimero"
+                }
+            ],
+            "whatsapp": null
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": false,
+            "mlc": true
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla"

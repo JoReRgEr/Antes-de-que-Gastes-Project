@@ -1,68 +1,114 @@
 {
-    "ID": 707,
-    "locality": {
-        "mun": "Guanabacoa",
-        "locator": {
-            "phones": {
-                "mobile": "52833863",
-                "landline": null
-            },
-            "plus_code": "4MMV+VFW, 9, La Habana"
-        }
+    "type_of_establishment": "restaurante",
+    "place_name": "Ruta 66",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Guanabacoa",
+        "location": null,
+        "coordinates": "23.13493618802298, -82.30626398465787"
     },
-    "name": "Ruta 66",
-    "type_cuisine": [
-        "criolla",
-        "hamburguesas",
-        "pizzas",
-        "pastas"
-    ],
-    "schedule": {
+    "schedules": {
         "monday": {
-            "opening": null,
-            "closing": null
+            "open": "12:00",
+            "closed": "21:30"
         },
         "tuesday": {
-            "opening": "12:00",
-            "closing": "21:30"
+            "open": "12:00",
+            "closed": "21:30"
         },
         "wednesday": {
-            "opening": "12:00",
-            "closing": "21:30"
+            "open": "12:00",
+            "closed": "21:30"
         },
         "thursday": {
-            "opening": "12:00",
-            "closing": "21:30"
+            "open": "12:00",
+            "closed": "21:30"
         },
         "friday": {
-            "opening": "12:00",
-            "closing": "21:30"
+            "open": "12:00",
+            "closed": "21:30"
         },
         "saturday": {
-            "opening": "12:00",
-            "closing": "21:30"
+            "open": "12:00",
+            "closed": "21:30"
         },
         "sunday": {
-            "opening": "12:00",
-            "closing": "21:30"
+            "open": "12:00",
+            "closed": "21:30"
         }
     },
-    "quality": {
-        "qualification_google": null,
-        "qualification_tripadvisor": null,
-        "qualification_facebook": null
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": 5.0,
+                "number_of_reviews": 7
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades"
+        ],
+        "energy_backup": false
     },
-    "reservation_options": false,
-    "social_networks": [
-        null
-    ],
-    "payment_options": [
-        "Transferencia",
-        "Efectivo"
-    ],
-    "service_details": [
-        null
-    ],
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/p/No-oficial-Route-66-100068664067045/"
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": "52833863"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "italiana",

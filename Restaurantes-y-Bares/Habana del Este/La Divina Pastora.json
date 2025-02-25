@@ -1,22 +1,115 @@
 {
-  "Place": "La Divina Pastora",
-  "Address": "Complejo Morro Cabana, Via Monumental",
-  "Municipality": "Habana del Este",
-  "Classification": "Restaurant",
-  "Specialization": "Comida cubana estilizada (nativa)",
-  "Property": "Estatal",
-  "Schedule": "12h00 - 24h00 (Todos los dias)",
-  "Ratings": "4.0 (Tripadvisor) / 3.7 (Google Maps)",
-  "Reservations": "True",
-  "Delivery": "False",
-  "Delivery area": "False",
-  "Phone": "77937809",
-  "Accounts or website": "La Divina Pastora (Facebook)",
-  "Payment method": "Tarjeta (MN o MLC)",
-  "Capacity": 100,
-  "Parking": "True",
-  "Wifi": "False",
-  "Smoking area": "True",
+  "type_of_establishment": "restaurante",
+  "place_name": "La Divina Pastora",
+  "property_type": "estatal",
+  "address": {
+      "establishment_phone_number": "77937809",
+      "district": "Habana del Este",
+      "location": "Complejo Morro Cabana, Via Monumental",
+      "coordinates": null
+  },
+  "schedules": {
+      "monday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "tuesday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "wednesday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "thursday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "friday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "saturday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "sunday": {
+          "open": "12:00",
+          "closed": "24:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 3.7,
+              "number_of_reviews": 109
+          },
+          "tripadvisor": {
+              "stars": 4.0,
+              "number_of_reviews": 173
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "contemporanea",
+      "festive_decorations": true,
+      "home_uniform": "casual",
+      "collaboration_for_events": true,
+      "type_of_concurrent_clients": [
+          "familias",
+          "parejas"
+      ],
+      "energy_backup": true
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "La Divina Pastora"
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": true,
+      "disable_support": true,
+      "parking": true,
+      "delivery": true,
+      "reserves": true,
+      "rent_from_the_client": true,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

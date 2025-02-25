@@ -1,22 +1,115 @@
 {
-  "Place": "El Ajiaco",
-  "Address": "esquina de calle Los Pinos y Cuba, Cojimar",
-  "Municipality": "Habana del Este",
-  "Classification": "Restaurant",
-  "Specialization": "Criolla",
-  "Property": "Privado",
-  "Schedule": "12h00 - 00h00 (Todos los dias)",
-  "Ratings": "5.0 (Tripadvisor) / 4.6 (Google Maps)",
-  "Reservations": "True",
-  "Delivery": "True",
-  "Delivery area": "Habana del Este, Guanabacoa",
-  "Phone": "77650514",
-  "Accounts or website": "Null",
-  "Payment method": "Tarjeta o efectivo (MN o moneda extranjera)",
-  "Capacity": "20",
-  "Parking": "True",
-  "Wifi": "False",
-  "Smoking area": "True",
+  "type_of_establishment": "restaurante",
+  "place_name": "El Ajiaco",
+  "property_type": "particular",
+  "address": {
+    "establishment_phone_number": "77650514",
+    "district": "Habana del Este",
+    "location": "esquina de calle Los Pinos y Cuba, Cojimar",
+    "coordinates": null
+  },
+  "schedules": {
+    "monday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "tuesday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "wednesday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "thursday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "friday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "closed": "24:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "closed": "24:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": 3.9,
+        "number_of_reviews": 12
+      },
+      "tripadvisor": {
+        "stars": 5.0,
+        "number_of_reviews": 21
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "media",
+    "decoration": "nautica",
+    "festive_decorations": false,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "familias",
+      "amistades"
+    ],
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "instagram": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "whatsapp": null
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": true,
+    "delivery": false,
+    "reserves": false,
+    "rent_from_the_client": false,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": true,
+      "euro": false,
+      "mlc": true
+    },
+    "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",
