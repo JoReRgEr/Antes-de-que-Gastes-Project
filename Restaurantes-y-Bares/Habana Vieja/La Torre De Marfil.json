@@ -1,130 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "restaurante"
-      ]
-    },
-    "name": "La Torre De Marfil",
-    "type": [
-      "China",
-      "Caribeña",
-      "Mediterránea",
-      "Cubana"
-    ],
-    "description": "Recientemente re-inauguramos este restaurante, ahora administrado por una compañía privada. Ofrecemos comida cubana, internacional y la carta cuenta con toques de la comida oriental, haciendo honor al primer restaurante de comida asiática en la Habana que radicó aquí. La Torre de Marfil es ideal para grupos grandes, con una capacidad de hasta 120 personas, banquetes y celebraciones. Pero también ofrece un ambiente familiar, para grupos más pequeños, amigos, familia, o simplemente clientes que quieran disfrutar del buen sabor de la cocina insular, en un ambiente agradable con música en vivo, y un servicio de primera. Su ubicación es perfecta en el centro histórico de la Habana Vieja, así que ya sea que necesite una bebida refrescante, un plato ligero o una cena festín, aquí lo podrá encontrar.",
-    "contact_info": {
-      "phone": {
-        "number": "052667604",
-        "type": "mobile"
-      },
-      "email": null,
-      "website": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "restaurante",
+  "place_name": "La Republica",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana Vieja",
+      "location": "Calle Mercaderes entre Obispo y Obrapia",
+      "coordinates": "23.139225713357806, -82.35008075582238"
+  },
+  "schedules": {
       "monday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       },
       "tuesday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       },
       "wednesday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       },
       "thursday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       },
       "friday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       },
       "saturday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       },
       "sunday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       }
-    },
-    "address": "Calle Mercaderes entre Obispo y Obrapia, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": null,
-      "instagram": null,
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": true,
-      "outdoor_seating": false,
-      "dine_in": true,
-      "takeaway": false,
-      "offers": [
-        "Restaurante",
-        "Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.9,
+              "number_of_reviews": 15
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 17
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "parejas"
       ],
-      "local_options": [
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": true,
-      "pets": false,
-      "parking": null
-    },
-    "dietary_options": [],
-    "meals": [
-      "Comidas",
-      "Cenas",
-      "Bebidas"
-    ],
-    "advantages": [
-      "Reservas",
-      "Restaurante privado",
-      "Capacidad",
-      "Sirve alcohol",
-      "Vino y cerveza",
-      "Servicio de mesa",
-      "Música en directo"
-    ],
-    "highlights": [
-      "Aperitivos",
-      "Buenos cócteles",
-      "Agradable",
-      "Informal",
-      "Ideal para ir con niños",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/LaTorreDeMarfilHabana/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/la.torre.de.marfil.habana/"
+              }
+          ],
+          "whatsapp": "52667604"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

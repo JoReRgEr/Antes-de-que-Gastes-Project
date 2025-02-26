@@ -1,140 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "bar-restaurante"
-      ]
-    },
-    "name": "Habana 5 Rooftop",
-    "type": "Nacional e Internacional",
-    "description": "Restaurante de Cocina Nacional e Internacional, coctelería de autor. Ofrecemos desayunos, almuerzos y cenas. Excelente vista a La Bahía de La Habana, música en vivo y ambientación.",
-    "contact_info": {
-      "phone": {
-        "number": "055519987",
-        "type": [
-          "mobile"
-        ]
-      },
-      "mobile": null,
-      "email": null,
-      "website": null,
-      "whatsapp": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Habana 5 Rooftop",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana Vieja",
+      "location": "Calle Habana entre Peña Pobre y Av. Bélgica",
+      "coordinates": "23.143764306176827, -82.35561263068422"
+  },
+  "schedules": {
       "monday": {
-        "open": "09:00",
-        "close": "02:00"
+          "open": "09:00",
+          "closed": "02:00"
       },
       "tuesday": {
-        "open": "09:00",
-        "close": "02:00"
+          "open": "09:00",
+          "closed": "02:00"
       },
       "wednesday": {
-        "open": "09:00",
-        "close": "02:00"
+          "open": "09:00",
+          "closed": "02:00"
       },
       "thursday": {
-        "open": "09:00",
-        "close": "02:00"
+          "open": "09:00",
+          "closed": "02:00"
       },
       "friday": {
-        "open": "09:00",
-        "close": "02:00"
+          "open": "09:00",
+          "closed": "02:00"
       },
       "saturday": {
-        "open": "09:00",
-        "close": "02:00"
+          "open": "09:00",
+          "closed": "02:00"
       },
       "sunday": {
-        "open": "09:00",
-        "close": "02:00"
+          "open": "09:00",
+          "closed": "02:00"
       }
-    },
-    "address": "Calle Habana entre Peña Pobre y Av. Bélgica, Habana Vieja",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": null,
-      "instagram": null,
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [
-      "Pagos digitales"
-    ],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": true,
-      "outdoor_seating": true,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante",
-        "Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.5,
+              "number_of_reviews": 126
+          },
+          "tripadvisor": {
+              "stars": 5.0,
+              "number_of_reviews": 19
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "medio",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades"
       ],
-      "local_options": [
-        "Desayunos",
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": null,
-      "pets": true,
-      "parking": [
-        "Aparcamiento en la calle",
-        "Estacionamiento gratuito en la calle"
-      ]
-    },
-    "dietary_options": [],
-    "meals": [
-      "Desayuno",
-      "Comidas",
-      "Cenas",
-      "Brunch",
-      "Abierto hasta tarde",
-      "Bebidas"
-    ],
-    "advantages": [
-      "Reservas",
-      "Terraza exterior",
-      "Restaurante privado",
-      "Capacidad",
-      "Sirve alcohol",
-      "Vino y cerveza",
-      "Servicio de mesa",
-      "Música en directo",
-      "Frente a una costa o ribera",
-      "Admite perros",
-      "Estilo familiar"
-    ],
-    "highlights": [
-      "Asientos al aire libre",
-      "Aperitivos",
-      "Buenos cócteles",
-      "Agradable",
-      "Informal",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              true,
+              {
+                  "url": "https://www.habana5rooftop.com/"
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/habana5rooftop/?hl=es"
+              }
+          ],
+          "whatsapp": "55519987"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

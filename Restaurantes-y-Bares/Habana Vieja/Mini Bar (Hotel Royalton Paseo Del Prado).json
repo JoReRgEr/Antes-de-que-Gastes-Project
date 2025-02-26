@@ -1,98 +1,115 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "Hotel"
-      ]
-    },
-    "name": "Mini Bar (Hotel Royalton Paseo Del Prado)",
-    "description": "Mini bar del Hotel Royalton Paseo Del Prado ubicado en Prado y Malecón, Habana Vieja.",
-    "contact_info": {
-      "phone": null,
-      "email": null,
-      "website": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "bar",
+  "place_name": "Mini Bar (Hotel Royalton Paseo Del Prado)",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana Vieja",
+      "location": "Prado y Malecón",
+      "coordinates": "23.14556061167238, -82.3584210674671"
+  },
+  "schedules": {
       "monday": {
-        "open": "00:00",
-        "close": "23:59"
+          "open": "00:00",
+          "closed": "24:00"
       },
       "tuesday": {
-        "open": "00:00",
-        "close": "23:59"
+          "open": "00:00",
+          "closed": "24:00"
       },
       "wednesday": {
-        "open": "00:00",
-        "close": "23:59"
+          "open": "00:00",
+          "closed": "24:00"
       },
       "thursday": {
-        "open": "00:00",
-        "close": "23:59"
+          "open": "00:00",
+          "closed": "24:00"
       },
       "friday": {
-        "open": "00:00",
-        "close": "23:59"
+          "open": "00:00",
+          "closed": "24:00"
       },
       "saturday": {
-        "open": "00:00",
-        "close": "23:59"
+          "open": "00:00",
+          "closed": "24:00"
       },
       "sunday": {
-        "open": "00:00",
-        "close": "23:59"
+          "open": "00:00",
+          "closed": "24:00"
       }
-    },
-    "address": "Prado y Malecón, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": null,
-      "instagram": null,
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [
-      "Crédito"
-    ],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "10% por servicios prestados",
-      "description": "Se adiciona el 10% a su cuenta por servicios prestados.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": false,
-      "dine_in": false,
-      "takeaway": false,
-      "offers": [
-        "Mini Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.2,
+              "number_of_reviews": 305
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": 4.8,
+              "number_of_reviews": 15
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "moderna",
+      "festive_decorations": true,
+      "home_uniform": "casual",
+      "collaboration_for_events": true,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades",
+          "familias"
       ],
-      "local_options": [],
-      "services": [],
-      "ambience": [
-        "Casual"
-      ],
-      "usual_customers": [
-        "Huéspedes del hotel"
-      ],
-      "planning": [],
-      "children": null,
-      "pets": null,
-      "parking": null
-    },
-    "dietary_options": [],
-    "meals": [],
-    "advantages": [
-      "Sirve alcohol",
-      "Agua y refrescos"
-    ],
-    "highlights": [
-      "Mini Bar en habitación"
-    ]
+      "energy_backup": true
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              true,
+              {
+                  "url": "https://www.royaltonresorts.com/resorts/habana/dining-drinks/restaurants"
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/RoyaltonHabana/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/royaltonhabana/?hl=es"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

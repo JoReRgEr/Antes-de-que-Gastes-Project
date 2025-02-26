@@ -1,127 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "Bar-Restaurante"
-      ]
-    },
-    "name": "Ley Seca",
-    "type": [
-      "Caribeña",
-      "Pub",
-      "Cubana"
-    ],
-    "description": "Un lugar para bailar, disfrutar de buenos cócteles y comida en el bar. Ambiente agradable e informal, ideal para ir en grupo.",
-    "contact_info": {
-      "phone": {
-        "number": "+53 5668.5088",
-        "type": "mobile"
-      },
-      "email": null,
-      "website": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Ley Seca",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana Vieja",
+      "location": "Calle Habana #416 entre Obispo y Obrapía",
+      "coordinates": "23.13828824902692, -82.35353922883552"
+  },
+  "schedules": {
       "monday": {
-        "open": "11:30",
-        "close": "04:00"
+          "open": "11:30",
+          "closed": "04:00"
       },
       "tuesday": {
-        "open": "11:30",
-        "close": "04:00"
+          "open": "11:30",
+          "closed": "04:00"
       },
       "wednesday": {
-        "open": "11:30",
-        "close": "04:00"
+          "open": "11:30",
+          "closed": "04:00"
       },
       "thursday": {
-        "open": "11:30",
-        "close": "04:00"
+          "open": "11:30",
+          "closed": "04:00"
       },
       "friday": {
-        "open": "11:30",
-        "close": "04:00"
+          "open": "11:30",
+          "closed": "04:00"
       },
       "saturday": {
-        "open": "11:30",
-        "close": "04:00"
+          "open": "11:30",
+          "closed": "04:00"
       },
       "sunday": {
-        "open": "11:30",
-        "close": "04:00"
+          "open": "11:30",
+          "closed": "04:00"
       }
-    },
-    "address": "Calle Habana #416 entre Obispo y Obrapía, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "instagram": "https://www.instagram.com/ley_seca_speakeasyhabana?igsh=MjZoaGF5ZGhnM3dw",
-      "facebook": "https://m.facebook.com/61559397838059/",
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "Tarifa de 10%",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": false,
-      "dine_in": true,
-      "takeaway": false,
-      "offers": [
-        "Bar",
-        "Comida en el bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 3.2,
+              "number_of_reviews": 88
+          },
+          "tripadvisor": {
+              "stars": 4.0,
+              "number_of_reviews": 30
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "moderna",
+      "festive_decorations": true,
+      "home_uniform": "casual",
+      "collaboration_for_events": true,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades"
       ],
-      "local_options": [
-        "Comidas",
-        "Cenas",
-        "Abierto hasta tarde",
-        "Bebidas"
-      ],
-      "services": [
-        "Sanitario"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": null,
-      "pets": false,
-      "parking": null
-    },
-    "dietary_options": [],
-    "meals": [
-      "Comidas",
-      "Cenas",
-      "Abierto hasta tarde",
-      "Bebidas"
-    ],
-    "advantages": [
-      "Capacidad",
-      "Sirve alcohol",
-      "Bar completo",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Lugar para bailar",
-      "Comida en el bar",
-      "Buenos cócteles",
-      "Agradable",
-      "Informal",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/p/speakeasy-Bar-Ley-seca-La-Habana-vieja-61559397838059/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/ley_seca_speakeasyhabana/?hl=es"
+              }
+          ],
+          "whatsapp": "56685088"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

@@ -1,143 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "restaurante",
-        "bar"
-      ]
-    },
-    "name": "Kilometro Zero",
-    "type": [
-      "Caribeña",
-      "Latina",
-      "Bar",
-      "Internacional",
-      "Cubana",
-      "Centroamericana"
-    ],
-    "description": "Restaurante Bar Kilometro Zero a solo unos metros del Capitolio de La Habana.",
-    "contact_info": {
-      "phone": {
-        "number": "+53 5 9710666",
-        "type": "mobile"
-      },
-      "email": null,
-      "website": "https://kilometrozerocuba.com/en-us/"
-    },
-    "opening_hours": {
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Kilometro Zero",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana Vieja",
+      "location": "Monserrate No. 437 esq. Teniente Rey",
+      "coordinates": null
+  },
+  "schedules": {
       "monday": {
-        "open": "08:00",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       },
       "tuesday": {
-        "open": "08:00",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       },
       "wednesday": {
-        "open": "08:00",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       },
       "thursday": {
-        "open": "08:00",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       },
       "friday": {
-        "open": "08:00",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       },
       "saturday": {
-        "open": "08:00",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       },
       "sunday": {
-        "open": "08:00",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       }
-    },
-    "address": "Monserrate No. 437 esq. Teniente Rey, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "instagram": "https://www.instagram.com/kilometrozeropaladar?igsh=MWVwbXdueGNmaGhlcg==",
-      "facebook": null,
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "10% Local Tax",
-      "description": "+10% local tax applies.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": false,
-      "dine_in": true,
-      "takeaway": false,
-      "offers": [
-        "Restaurante",
-        "Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 439
+          },
+          "facebook": {
+              "stars": 4.5,
+              "number_of_reviews": 26
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
       ],
-      "local_options": [
-        "Comidas",
-        "Cenas",
-        "Brunch",
-        "Abierto hasta tarde",
-        "Bebidas"
-      ],
-      "services": [
-        "Reservas",
-        "Capacidad",
-        "Televisión",
-        "Acceso para discapacitados",
-        "Sirve alcohol",
-        "Bar completo",
-        "Servicio de mesa",
-        "Música en directo"
-      ],
-      "ambience": [
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [],
-      "children": true,
-      "pets": false,
-      "parking": null
-    },
-    "dietary_options": [
-      "Opciones vegetarianas",
-      "Opciones veganas"
-    ],
-    "meals": [
-      "Comidas",
-      "Cenas",
-      "Brunch",
-      "Abierto hasta tarde",
-      "Bebidas"
-    ],
-    "advantages": [
-      "Reservas",
-      "Capacidad",
-      "Televisión",
-      "Acceso para discapacitados",
-      "Sirve alcohol",
-      "Bar completo",
-      "Servicio de mesa",
-      "Música en directo"
-    ],
-    "highlights": [
-      "Restaurante Bar a unos metros del Capitolio",
-      "Happy Hours 4-7pm",
-      "Cubetazo",
-      "Cocteles clásicos 2x1",
-      "Cerveza Cristal(bot) 6x 3000.00"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              true,
+              {
+                  "url": "https://kilometrozerocuba.com/es/"
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/kilometrozeropaladar/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/kilometrozeropaladar/?hl=es"
+              }
+          ],
+          "whatsapp": "59710666"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": false
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

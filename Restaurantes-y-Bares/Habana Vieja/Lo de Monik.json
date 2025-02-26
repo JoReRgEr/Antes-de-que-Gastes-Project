@@ -1,129 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "bar-restaurante"
-      ]
-    },
-    "name": "Lo de Monik",
-    "description": "Bar-restaurante con asientos al aire libre, ubicado en Compostela, esquina Chacón, Habana Vieja.",
-    "contact_info": {
-      "phone": {
-        "number": "052811595",
-        "type": "mobile"
-      },
-      "email": null,
-      "website": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Lo de Monik",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana Vieja",
+      "location": "Compostela, esquina Chacón",
+      "coordinates": "23.141365375560888, -82.35550920674555"
+  },
+  "schedules": {
       "monday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       },
       "tuesday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       },
       "wednesday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       },
       "thursday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       },
       "friday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       },
       "saturday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       },
       "sunday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       }
-    },
-    "address": "Compostela, esquina Chacón, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": null,
-      "instagram": null,
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": true,
-      "outdoor_seating": true,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante",
-        "Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.7,
+              "number_of_reviews": 239
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 429
+          },
+          "facebook": {
+              "stars": 5.0,
+              "number_of_reviews": 23
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "moderna",
+      "festive_decorations": true,
+      "home_uniform": "casual",
+      "collaboration_for_events": true,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades"
       ],
-      "local_options": [
-        "Desayunos",
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": null,
-      "pets": null,
-      "parking": null
-    },
-    "dietary_options": [
-      "Opciones vegetarianas",
-      "Opciones veganas",
-      "Opciones sin gluten"
-    ],
-    "meals": [
-      "Desayuno",
-      "Comidas",
-      "Cenas",
-      "Brunch"
-    ],
-    "advantages": [
-      "Para llevar",
-      "Reservas",
-      "Capacidad",
-      "Sirve alcohol",
-      "Bar completo",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Asientos al aire libre",
-      "Aperitivos",
-      "Buenos cócteles",
-      "Agradable",
-      "Informal",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/lodemonik/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/lodemonik_restaurants/"
+              }
+          ],
+          "whatsapp": "52811595"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

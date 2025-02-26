@@ -1,128 +1,115 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "restaurante"
-      ]
-    },
-    "name": "Fonda Al Pirata",
-    "type": [
-      "Caribeña",
-      "Cubana"
-    ],
-    "description": "Únete a la travesía. Este puerto ofrece una experiencia única con un ambiente agradable e informal. Disfruta de comida caribeña y cubana con opciones vegetarianas, veganas y sin gluten.",
-    "contact_info": {
-      "phone": {
-        "number": "5 2539750",
-        "type": "mobile"
-      },
-      "email": "alpiratasanignacio@gmail.com",
-      "website": "qr14334.buenacarta.com"
-    },
-    "opening_hours": {
+  "type_of_establishment": "restaurante",
+  "place_name": "Fonda Al Pirata",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana Vieja",
+      "location": "San Ignacio #76 e/ O'Reilly y Empedrado",
+      "coordinates": "23.14049757699774, -82.35169322698685"
+  },
+  "schedules": {
       "monday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       },
       "tuesday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       },
       "wednesday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       },
       "thursday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       },
       "friday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       },
       "saturday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       },
       "sunday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       }
-    },
-    "address": "San Ignacio #76 e/ O'Reilly y Empedrado, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "instagram": "https://www.instagram.com/fondaalpirata?igsh=cjBtN3BiaDExdGV3",
-      "facebook": null,
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "Tarifa de 10%",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": true,
-      "dine_in": true,
-      "takeaway": false,
-      "offers": [
-        "Restaurante"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.4,
+              "number_of_reviews": 308
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 134
+          },
+          "facebook": {
+              "stars": 4.1,
+              "number_of_reviews": 86
+          }
+      },
+      "establishment_capacity": "medio",
+      "decoration": "tematica",
+      "festive_decorations": true,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades",
+          "familias"
       ],
-      "local_options": [
-        "Desayunos",
-        "Desayuno-almuerzo",
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [],
-      "children": null,
-      "pets": false,
-      "parking": null
-    },
-    "dietary_options": [
-      "Opciones vegetarianas",
-      "Opciones veganas",
-      "Opciones sin gluten"
-    ],
-    "meals": [
-      "Desayuno",
-      "Comidas",
-      "Cenas",
-      "Brunch"
-    ],
-    "advantages": [
-      "Capacidad",
-      "Acceso para discapacitados",
-      "Sirve alcohol",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Asientos al aire libre",
-      "Aperitivos",
-      "Agradable",
-      "Informal",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/ALPIRATA1/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/fondaalpirata/?hl=es"
+              }
+          ],
+          "whatsapp": "52539750"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

@@ -1,133 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "restaurante"
-      ]
-    },
-    "name": "Yarini",
-    "type": [
-      "Internacional",
-      "Cubana"
-    ],
-    "description": "En medio de la zona portuaria habanera, en el barrio San Isidro, se encuentra el restaurante Yarini Habana, un espacio de estilo contemporáneo que pretende ofrecer un ambiente diferente y de desconexión. La cuidada iluminación, la vegetación tropical abundante y la exótica mezcla de sonidos intentan inmortalizar una experiencia única en la ciudad. Nuestra cocina recrea sabores cubanos e internacionales para adentrarse en un concepto de gustos mixtos, definidos por una preparación rigurosa, de excelencia. La carta exhibe una coctelería de autor que complementa el sabor del plato escogido y recrea la frescura y el erotismo tropical. Yarini trae al recuerdo a la personalidad que afamó a esa barrida en la Cuba de inicios del siglo XX: el conocido joven, político y proxeneta isleño Alberto Yarini Ponce de León. Leyenda que ha permanecido en el imaginario popular cubano, del cual el músico cubano Gerardo Taylor, dijo: “(...) cuando se dice San Isidro, hay que decir Yarini”.",
-    "contact_info": {
-      "phone": {
-        "number": "+53 5 8979835",
-        "type": "mobile"
-      },
-      "email": "info@yarinihabana.com",
-      "website": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "restaurante",
+  "place_name": "Yarini",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana Vieja",
+      "location": "Calle San Isidro #214 entre Picota y Compostela",
+      "coordinates": "23.135923454634224, -82.3571276"
+  },
+  "schedules": {
       "monday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "tuesday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "wednesday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "thursday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "friday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "saturday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "sunday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       }
-    },
-    "address": "Calle San Isidro #214 entre Picota y Compostela, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "hashtag": "#yarinihabana",
-      "facebook": null,
-      "instagram": null,
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [],
-    "delivery_available": true,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": true,
-      "outdoor_seating": true,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante",
-        "Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.3,
+              "number_of_reviews": 160
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 84
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
       ],
-      "local_options": [
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar"
-      ],
-      "ambience": [
-        "Agradable"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": null,
-      "pets": false,
-      "parking": [
-        "Estacionamiento gratuito en la calle",
-        "Estacionamiento accesible para personas en silla de ruedas"
-      ]
-    },
-    "dietary_options": [],
-    "meals": [
-      "Comidas",
-      "Cenas",
-      "Abierto hasta tarde",
-      "Bebidas"
-    ],
-    "advantages": [
-      "Para llevar",
-      "Reservas",
-      "Terraza exterior",
-      "Capacidad",
-      "Aparcamiento en la calle",
-      "Sirve alcohol",
-      "Bar completo",
-      "Pagos digitales",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Asientos al aire libre",
-      "Aperitivos",
-      "Buenos cócteles",
-      "Agradable",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              true,
+              {
+                  "url": "https://yarinihabana.com/"
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/yarinihabana/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/yarinihabana/?hl=es"
+              }
+          ],
+          "whatsapp": "58979835"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

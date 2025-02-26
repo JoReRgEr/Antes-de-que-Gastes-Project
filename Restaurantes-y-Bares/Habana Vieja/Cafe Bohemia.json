@@ -1,140 +1,115 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "restaurante"
-      ]
-    },
-    "name": "Cafe Bohemia",
-    "type": [
-      "Latina",
-      "Saludable",
-      "Cubana"
-    ],
-    "description": "El bar Restaurante Bohemia ofrece una variada coctelería, tapas, y dulces. Ubicado en la planta baja del majestuoso Palacio del Conde de Lombillo, se encuentra decorado con portadas de números de la revista Bohemia.",
-    "contact_info": {
-      "phone": {
-        "number": "+53 5 4031568",
-        "type": "mobile"
-      },
-      "email": "annalisa.gallina78@gmail.com",
-      "website": "https://www.havanabohemia.com/?fbclid=PAZXh0bgNhZW0CMTEAAaZfdC42A_xW3vKEhflH7fuNicWLPKj7CRNRWwJ7QMvMfz5eZPclZM_wXy0_aem_lFcK0zHOafgVrnYQpGOsnw"
-    },
-    "opening_hours": {
+  "type_of_establishment": "restaurante",
+  "place_name": "Cafe Bohemia",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78603722",
+      "district": "Habana Vieja",
+      "location": "San Ignacio entre Teniente Rey y Mercaderes, Plaza Vieja",
+      "coordinates": "23.13616792074401, -82.35038873553911"
+  },
+  "schedules": {
       "monday": {
-        "open": "08:00",
-        "close": "22:00"
+          "open": "08:00",
+          "closed": "22:00"
       },
       "tuesday": {
-        "open": "08:00",
-        "close": "22:00"
+          "open": "08:00",
+          "closed": "22:00"
       },
       "wednesday": {
-        "open": "08:00",
-        "close": "22:00"
+          "open": "08:00",
+          "closed": "22:00"
       },
       "thursday": {
-        "open": "08:00",
-        "close": "22:00"
+          "open": "08:00",
+          "closed": "22:00"
       },
       "friday": {
-        "open": "08:00",
-        "close": "22:00"
+          "open": "08:00",
+          "closed": "22:00"
       },
       "saturday": {
-        "open": "08:00",
-        "close": "22:00"
+          "open": "08:00",
+          "closed": "22:00"
       },
       "sunday": {
-        "open": "08:00",
-        "close": "22:00"
+          "open": "08:00",
+          "closed": "22:00"
       }
-    },
-    "address": "San Ignacio entre Teniente Rey y Mercaderes, Plaza Vieja, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "instagram": "https://www.instagram.com/cafebohemiaplaza?igsh=MXJnM2ZmcGthdTl3cA==",
-      "facebook": null,
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [
-      "efectivo",
-      "transferencia"
-    ],
-    "delivery_available": true,
-    "service_fee": {
-      "name": "Sin tarifa de servicio",
-      "description": "No se cobra tarifa de servicio adicional.",
-      "applies": false
-    },
-    "features": {
-      "reservation_required": true,
-      "outdoor_seating": true,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Café",
-        "Bistrot"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.4,
+              "number_of_reviews": 158
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 575
+          },
+          "facebook": {
+              "stars": 4.5,
+              "number_of_reviews": 39
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "formal",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades",
+          "familias"
       ],
-      "local_options": [
-        "Desayuno",
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": null,
-      "pets": false,
-      "parking": null
-    },
-    "dietary_options": [
-      "Opciones vegetarianas",
-      "Opciones veganas",
-      "Opciones sin gluten"
-    ],
-    "meals": [
-      "Desayuno",
-      "Comidas",
-      "Cenas",
-      "Brunch",
-      "Abierto hasta tarde",
-      "Bebidas"
-    ],
-    "advantages": [
-      "Para llevar",
-      "Terraza exterior",
-      "Capacidad",
-      "Acceso para discapacitados",
-      "Sirve alcohol",
-      "Bar completo",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Asientos al aire libre",
-      "Aperitivos",
-      "Buenos cócteles",
-      "Agradable",
-      "Informal",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/cafebohemiahavana/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/cafebohemiahavana/?hl=es"
+              }
+          ],
+          "whatsapp": "54031568"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

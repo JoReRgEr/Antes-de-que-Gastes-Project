@@ -1,134 +1,115 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "bar-restaurante"
-      ]
-    },
-    "name": "ChaChaCha",
-    "type": "Internacional, Fusión, Cubana",
-    "description": "Bar Restaurante en La Habana Vieja con una propuesta culinaria que fusiona la comida cubana tradicional.",
-    "contact_info": {
-      "phone": {
-        "number": "078672450",
-        "type": [
-          "mobile"
-        ]
-      },
-      "mobile": null,
-      "email": null,
-      "website": null,
-      "whatsapp": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "ChaChaCha",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78672450",
+      "district": "Habana Vieja",
+      "location": "Monserrate # 159 e/ Tejadillo y Chacón",
+      "coordinates": "23.14081844833104, -82.35652946627219"
+  },
+  "schedules": {
       "monday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "tuesday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "wednesday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "thursday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "friday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "saturday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "sunday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       }
-    },
-    "address": "Monserrate # 159 e/ Tejadillo y Chacón, Habana Vieja",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": null,
-      "instagram": null,
-      "whatsapp": null,
-      "hashtag": "#LaHabana"
-    },
-    "accepted_payment_methods": [],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": false,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante",
-        "Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.4,
+              "number_of_reviews": 563
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 266
+          },
+          "facebook": {
+              "stars": 4.8,
+              "number_of_reviews": 255
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "de epoca",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades",
+          "familias"
       ],
-      "local_options": [
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar",
-        "Música en directo"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": null,
-      "pets": null,
-      "parking": [
-        "Hay suficiente espacio",
-        "Estacionamiento gratuito",
-        "Estacionamiento pagado en la calle"
-      ]
-    },
-    "dietary_options": [
-      "Opciones vegetarianas",
-      "Opciones veganas"
-    ],
-    "meals": [
-      "Comidas",
-      "Cenas"
-    ],
-    "advantages": [
-      "Reservas",
-      "Capacidad",
-      "Aparcamiento en la calle",
-      "Sirve alcohol",
-      "Bar completo",
-      "Servicio de mesa",
-      "Para llevar"
-    ],
-    "highlights": [
-      "Aperitivos",
-      "Buenos cócteles",
-      "Agradable",
-      "Informal",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/chachachahavana"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/chachacha.havana/?hl=es"
+              }
+          ],
+          "whatsapp": "51968888"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

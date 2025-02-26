@@ -1,129 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "bar-restaurant"
-      ]
-    },
-    "name": "JAMA Asian Food",
-    "type": "Japonesa, Sushi, Asiática",
-    "description": "Restaurante de comida asiática con un toque original de Japón, especializado en sushi y otras delicias asiáticas. Ubicado en el corazón de La Habana Vieja.",
-    "contact_info": {
-      "phone": [
-        {
-          "number": "+53 52970745",
-          "type": "mobile"
-        }
-      ],
-      "mobile": null,
-      "email": null,
-      "website": null,
-      "whatsapp": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "JAMA Asian Food",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana Vieja",
+      "location": "Calle Aguiar No 251 B entre OReilly y Empedrado",
+      "coordinates": "23.139992055683997, -82.35326120734373"
+  },
+  "schedules": {
       "monday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "tuesday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "wednesday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "thursday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "friday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "saturday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "sunday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       }
-    },
-    "address": "Calle Aguiar No 251 B entre O’Reilly y Empedrado, Habana Vieja",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "accepted_payment_methods": [
-      "cash",
-      "bank_transfer"
-    ],
-    "delivery_available": true,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": false,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante",
-        "Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.4,
+              "number_of_reviews": 130
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 140
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "asiatica",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades"
       ],
-      "local_options": [
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": false,
-      "parking": null
-    },
-    "dietary_options": [
-      "Opciones vegetarianas",
-      "Opciones veganas",
-      "Opciones sin gluten"
-    ],
-    "meals": [
-      "Comidas",
-      "Cenas"
-    ],
-    "advantages": [
-      "Para llevar",
-      "Reservas",
-      "Capacidad",
-      "Sirve alcohol",
-      "Bar completo",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Aperitivos",
-      "Buenos cócteles",
-      "Agradable",
-      "Informal",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/jama_asianfood/?hl=es"
+              }
+          ],
+          "whatsapp": "52970745"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

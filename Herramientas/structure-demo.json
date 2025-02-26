@@ -1,52 +1,52 @@
 {
     "type_of_establishment": "restaurante",
-    "place_name": "Trattoria Zia Cecilia",
+    "place_name": "Yarini",
     "property_type": "particular",
     "address": {
-        "establishment_phone_number": "77964229",
-        "district": "Habana del Este",
-        "location": "#503, Calle 482 entre 5ta Avenida y 5ta D, Guanabo",
-        "coordinates": "23.169506481347895, -82.13714819697186"
+        "establishment_phone_number": null,
+        "district": "Habana Vieja",
+        "location": "Calle San Isidro #214 entre Picota y Compostela",
+        "coordinates": "23.135923454634224, -82.3571276"
     },
     "schedules": {
         "monday": {
             "open": "12:00",
-            "closed": "23:00"
+            "closed": "24:00"
         },
         "tuesday": {
             "open": "12:00",
-            "closed": "23:00"
+            "closed": "24:00"
         },
         "wednesday": {
             "open": "12:00",
-            "closed": "23:00"
+            "closed": "24:00"
         },
         "thursday": {
             "open": "12:00",
-            "closed": "23:00"
+            "closed": "24:00"
         },
         "friday": {
             "open": "12:00",
-            "closed": "23:00"
+            "closed": "24:00"
         },
         "saturday": {
             "open": "12:00",
-            "closed": "23:00"
+            "closed": "24:00"
         },
         "sunday": {
             "open": "12:00",
-            "closed": "23:00"
+            "closed": "24:00"
         }
     },
     "location_details": {
         "rating": {
             "google": {
-                "stars": 4.2,
-                "number_of_reviews": 27
+                "stars": 4.3,
+                "number_of_reviews": 160
             },
             "tripadvisor": {
-                "stars": null,
-                "number_of_reviews": null
+                "stars": 4.5,
+                "number_of_reviews": 84
             },
             "facebook": {
                 "stars": null,
@@ -54,43 +54,43 @@
             }
         },
         "establishment_capacity": "media",
-        "decoration": "nautica",
+        "decoration": "contemporanea",
         "festive_decorations": false,
         "home_uniform": "casual",
         "collaboration_for_events": false,
         "type_of_concurrent_clients": [
             "familias",
-            "parejas"
+            "amistades"
         ],
         "energy_backup": false
     },
     "services": {
         "social_networks": {
             "web_page": [
-                false,
+                true,
                 {
-                    "url": null
+                    "url": "https://yarinihabana.com/"
                 }
             ],
             "facebook": [
                 true,
                 {
-                    "url": "Trattoriaziacecilias"
+                    "url": "https://www.facebook.com/yarinihabana/?locale=es_LA"
                 }
             ],
             "instagram": [
                 true,
                 {
-                    "url": "@trattoriaziacecilias"
+                    "url": "https://www.instagram.com/yarinihabana/?hl=es"
                 }
             ],
-            "whatsapp": "54600285"
+            "whatsapp": "58979835"
         },
         "child_care": false,
         "disable_support": false,
-        "parking": true,
+        "parking": false,
         "delivery": false,
-        "reserves": false,
+        "reserves": true,
         "rent_from_the_client": false,
         "vip_zone": false,
         "pet_friendly": false
@@ -105,7 +105,7 @@
         "currency": {
             "cup": true,
             "usd": true,
-            "euro": true,
+            "euro": false,
             "mlc": false
         },
         "10% charge": false

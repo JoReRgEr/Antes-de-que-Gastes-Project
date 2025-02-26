@@ -1,129 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "bar-restaurant"
-      ]
-    },
-    "name": "Planh Enoteca & Restaurante Mithai",
-    "type": [
-      "Asiática",
-      "Internacional",
-      "Tailandesa"
-    ],
-    "description": "Disfruta de las experiencias que PlanH tiene para ti! La primera enoteca de Cuba con la más amplia colección de vinos en el país (más de 12 países representados y 240 tipos) que fusionan armónicamente con la carta menú de MiThai, nuestro Restaurante de comida tailandesa único en la isla. Catas de vinos, maridajes, Habanos, conciertos en vivo, realización de eventos (cenas, eventos personalizados, privados, corporativos) con el ambiente elegante y acogedor del espacio, hacen de nuestro local un lugar placentero y diferente en La Habana.",
-    "contact_info": {
-      "phone": [
-        {
-          "number": "78616212",
-          "type": "landline"
-        },
-        {
-          "number": "+53 53867350",
-          "type": "mobile"
-        }
-      ],
-      "email": null,
-      "website": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Mythos",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78616212",
+      "district": "Habana Vieja",
+      "location": "Prado 308 entre Ánimas y Virtudes",
+      "coordinates": "23.139538478585713, -82.35935558465792"
+  },
+  "schedules": {
       "monday": {
-        "open": "Closed",
-        "close": "Closed"
+          "open": "11:30",
+          "closed": "24:00"
       },
       "tuesday": {
-        "open": "11:30",
-        "close": "00:00"
+          "open": "11:30",
+          "closed": "24:00"
       },
       "wednesday": {
-        "open": "11:30",
-        "close": "00:00"
+          "open": "11:30",
+          "closed": "24:00"
       },
       "thursday": {
-        "open": "11:30",
-        "close": "00:00"
+          "open": "11:30",
+          "closed": "24:00"
       },
       "friday": {
-        "open": "11:30",
-        "close": "00:00"
+          "open": "11:30",
+          "closed": "24:00"
       },
       "saturday": {
-        "open": "11:30",
-        "close": "00:00"
+          "open": "11:30",
+          "closed": "24:00"
       },
       "sunday": {
-        "open": "11:30",
-        "close": "00:00"
+          "open": "11:30",
+          "closed": "24:00"
       }
-    },
-    "address": "Prado 308 entre Ánimas y Virtudes, Habana Vieja, La Habana",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": "",
-      "instagram": "",
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [
-      "cash",
-      "bank_transfer"
-    ],
-    "delivery_available": true,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "A standard service fee applied to the bill.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": false,
-      "dine_in": true,
-      "takeaway": false,
-      "offers": [
-        "Restaurante",
-        "Bar",
-        "Eventos"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.9,
+              "number_of_reviews": 22
+          },
+          "tripadvisor": {
+              "stars": 5.0,
+              "number_of_reviews": 10
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": true,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades"
       ],
-      "local_options": [
-        "Consumo en el lugar"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": false,
-      "pets": null,
-      "parking": null
-    },
-    "dietary_options": [],
-    "meals": [],
-    "advantages": [
-      "Reservas",
-      "Capacidad",
-      "Sirve alcohol",
-      "Bar completo",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Aperitivos",
-      "Agradable",
-      "Informal",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/enotecahabanaPLANH/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/explore/locations/103230035967234/planh-enoteca-delicatessen/"
+              }
+          ],
+          "whatsapp": "53867350"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

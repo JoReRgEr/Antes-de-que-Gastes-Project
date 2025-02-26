@@ -1,132 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "bar-restaurante"
-      ]
-    },
-    "name": "Teniente Rey 360",
-    "type": [
-      "Caribeña",
-      "Latina",
-      "Marisco",
-      "Cubana",
-      "Sudamericana",
-      "Centroamericana"
-    ],
-    "description": "El bar-restaurante especializado en comida cubana, las mejores ofertas, excelente relación calidad y precio. A solo unos pasos del Capitolio, visítanos.",
-    "contact_info": {
-      "phone": {
-        "number": "7 8602916",
-        "type": "landline"
-      },
-      "email": null,
-      "website": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Teniente Rey 360",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78602916",
+      "district": "Habana Vieja",
+      "location": "Calle Teniente Rey #360 entre Aguacate y Villegas",
+      "coordinates": "23.13611278633494, -82.35495234232896"
+  },
+  "schedules": {
       "monday": {
-        "open": "11:00",
-        "close": "21:30"
+          "open": "11:00",
+          "closed": "21:30"
       },
       "tuesday": {
-        "open": "11:00",
-        "close": "21:30"
+          "open": "11:00",
+          "closed": "21:30"
       },
       "wednesday": {
-        "open": "11:00",
-        "close": "21:30"
+          "open": "11:00",
+          "closed": "21:30"
       },
       "thursday": {
-        "open": "11:00",
-        "close": "21:30"
+          "open": "11:00",
+          "closed": "21:30"
       },
       "friday": {
-        "open": "11:00",
-        "close": "21:30"
+          "open": "11:00",
+          "closed": "21:30"
       },
       "saturday": {
-        "open": "11:00",
-        "close": "21:30"
+          "open": "11:00",
+          "closed": "21:30"
       },
       "sunday": {
-        "open": "11:00",
-        "close": "21:30"
+          "open": "11:00",
+          "closed": "21:30"
       }
-    },
-    "address": "Calle Teniente Rey #360 entre Aguacate y Villegas, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "instagram": "https://www.instagram.com/teniente_rey360",
-      "facebook": null,
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": false,
-      "dine_in": true,
-      "takeaway": false,
-      "offers": [
-        "Restaurante",
-        "Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.6,
+              "number_of_reviews": 122
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 132
+          },
+          "facebook": {
+              "stars": 4.8,
+              "number_of_reviews": 20
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "de epoca",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
       ],
-      "local_options": [
-        "Comidas",
-        "Cenas",
-        "Brunch"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar",
-        "Televisión",
-        "Acceso para discapacitados"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": null,
-      "pets": null,
-      "parking": null
-    },
-    "dietary_options": [
-      "Opciones vegetarianas"
-    ],
-    "meals": [
-      "Comidas",
-      "Cenas",
-      "Brunch"
-    ],
-    "advantages": [
-      "Reservas",
-      "Capacidad",
-      "Sirve alcohol",
-      "Bar completo",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Aperitivos",
-      "Agradable",
-      "Informal",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/tenienterey360"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/explore/locations/833627543471077/teniente-rey-360/"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": false
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

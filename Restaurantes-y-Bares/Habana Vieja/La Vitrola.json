@@ -1,157 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "restaurante"
-      ]
-    },
-    "name": "La Vitrola",
-    "type": [
-      "Americana",
-      "Caribeña",
-      "Latina",
-      "Bar",
-      "Cubana",
-      "Centroamericana"
-    ],
-    "description": "Este lugar nos hace viajar al pasado: vitrolas, bicicletas colgantes, imágenes de otras épocas convocan a miles de sensaciones mientras se degusta las delicias salidas de la cocina. En una de las esquinas de la Plaza Vieja La Vitrola encanta con sus sonidos desde bien entrada la mañana, con sus sabrosos desayunos, hasta la medianoche. La memoria y el sabor en una esquina de La Habana Vieja.",
-    "contact_info": {
-      "phone": [
-        {
-          "number": "(+53) 78018264",
-          "type": "landline"
-        },
-        {
-          "number": "(+53) 59518899",
-          "type": "mobile"
-        },
-        {
-          "number": "(+53) 52945995",
-          "type": "mobile"
-        }
-      ],
-      "email": null,
-      "website": "http://www.lavitrolacuba.com"
-    },
-    "opening_hours": {
+  "type_of_establishment": "restaurante",
+  "place_name": "La Vitrola",
+  "property_type": "estatal",
+  "address": {
+      "establishment_phone_number": "78018264",
+      "district": "Habana Vieja",
+      "location": "Muralla No.151 e/ San Ignacio y Cuba",
+      "coordinates": "23.135578144886285, -82.35020058956918"
+  },
+  "schedules": {
       "monday": {
-        "open": "08:30",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       },
       "tuesday": {
-        "open": "08:30",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       },
       "wednesday": {
-        "open": "08:30",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       },
       "thursday": {
-        "open": "08:30",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       },
       "friday": {
-        "open": "08:30",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       },
       "saturday": {
-        "open": "08:30",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       },
       "sunday": {
-        "open": "08:30",
-        "close": "02:00"
+          "open": "08:00",
+          "closed": "02:00"
       }
-    },
-    "address": "Muralla No.151 e/ San Ignacio y Cuba, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": "https://m.facebook.com/lavitrolacuba/",
-      "instagram": "https://www.instagram.com/lavitrolaa?igsh=MWZ3a2E5Y3Exd3BwbQ==",
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [
-      "efectivo",
-      "transferencia"
-    ],
-    "delivery_available": true,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": true,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante",
-        "Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.1,
+              "number_of_reviews": 899
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 1574
+          },
+          "facebook": {
+              "stars": 3.9,
+              "number_of_reviews": 1572
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "de epoca",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
       ],
-      "local_options": [
-        "Desayunos",
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": null,
-      "pets": false,
-      "parking": [
-        "Estacionamiento gratuito en la calle"
-      ]
-    },
-    "dietary_options": [
-      "Opciones vegetarianas",
-      "Opciones veganas"
-    ],
-    "meals": [
-      "Desayuno",
-      "Comidas",
-      "Cenas",
-      "Brunch",
-      "Abierto hasta tarde",
-      "Bebidas"
-    ],
-    "advantages": [
-      "Reservas",
-      "Terraza exterior",
-      "Capacidad",
-      "Tronas disponibles",
-      "Acceso para discapacitados",
-      "Sirve alcohol",
-      "Bar completo",
-      "Vino y cerveza",
-      "Servicio de mesa",
-      "Música en directo"
-    ],
-    "highlights": [
-      "Asientos al aire libre",
-      "Aperitivos",
-      "Buenos cócteles",
-      "Agradable",
-      "Informal",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/lavitrolacuba/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/lavitrolaa/?hl=es"
+              }
+          ],
+          "whatsapp": "59518899"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

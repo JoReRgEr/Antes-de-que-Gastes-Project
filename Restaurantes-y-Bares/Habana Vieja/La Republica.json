@@ -1,126 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "restaurante"
-      ]
-    },
-    "name": "La Republica",
-    "description": "Restaurante italiano con una amplia gama de platos, bebidas y una atmósfera acogedora.",
-    "contact_info": {
-      "phone": [
-        {
-          "number": "(07) 860080",
-          "type": "landline"
-        }
-      ],
-      "mobile": null,
-      "email": null,
-      "website": null,
-      "whatsapp": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "restaurante",
+  "place_name": "La Republica",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "7860080",
+      "district": "Habana Vieja",
+      "location": "Calle Cuba #90 esquina Chacón",
+      "coordinates": "23.14205624673696, -82.35350864232896"
+  },
+  "schedules": {
       "monday": {
-        "open": "12:00",
-        "close": "22:00"
+          "open": "12:00",
+          "closed": "22:00"
       },
       "tuesday": {
-        "open": "12:00",
-        "close": "22:00"
+          "open": "12:00",
+          "closed": "22:00"
       },
       "wednesday": {
-        "open": "12:00",
-        "close": "22:00"
+          "open": "12:00",
+          "closed": "22:00"
       },
       "thursday": {
-        "open": "12:00",
-        "close": "22:00"
+          "open": "12:00",
+          "closed": "22:00"
       },
       "friday": {
-        "open": "12:00",
-        "close": "22:00"
+          "open": "12:00",
+          "closed": "22:00"
       },
       "saturday": {
-        "open": "12:00",
-        "close": "22:00"
+          "open": "12:00",
+          "closed": "22:00"
       },
       "sunday": {
-        "open": "12:00",
-        "close": "22:00"
+          "open": "12:00",
+          "closed": "22:00"
       }
-    },
-    "address": "Calle Cuba #90 esquina Chacón, Habana Vieja",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "accepted_payment_methods": [
-      "Solo efectivo"
-    ],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "Sin cargo adicional",
-      "description": "No se cobra un 10% adicional por el servicio.",
-      "applies": false
-    },
-    "features": {
-      "reservation_required": true,
-      "outdoor_seating": false,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.6,
+              "number_of_reviews": 19
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 8
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
       ],
-      "local_options": [
-        "Comidas",
-        "Cenas",
-        "Bebidas"
-      ],
-      "services": [
-        "Sanitario",
-        "Wifi gratuito"
-      ],
-      "ambience": [
-        "Casual",
-        "Acogedor"
-      ],
-      "usual_customers": [
-        "Grupos",
-        "Familias"
-      ],
-      "planning": [
-        "Reservas"
-      ],
-      "children": true,
-      "pets": null,
-      "parking": null
-    },
-    "dietary_options": [],
-    "meals": [
-      "Comidas",
-      "Cenas",
-      "Bebidas"
-    ],
-    "advantages": [
-      "Reservas",
-      "Restaurante privado",
-      "Acceso para discapacitados",
-      "Sirve alcohol",
-      "Vino y cerveza",
-      "Wifi gratuito",
-      "Restaurantes de no fumadores"
-    ],
-    "highlights": [
-      "Platos pequeños",
-      "Acogedor",
-      "Casual",
-      "Bueno para niños",
-      "Bueno para grupos"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/italiancuisine_la_republica/"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

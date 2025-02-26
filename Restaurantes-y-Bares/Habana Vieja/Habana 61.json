@@ -1,129 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "bar-restaurante"
-      ]
-    },
-    "name": "Habana 61",
-    "type": "Marisco, Internacional, Saludable, Cubana",
-    "description": "Ya desde el inicio el restaurante - bar Habana 61 le puede sorprender por su ambiente moderno enclavado en el mismo centro del casco histórico de la Habana Vieja y es que estamos llenos de contrastes que van de lo tradicional a lo contemporáneo. En nuestra carta se incluyen platos de la cocina cubana tradicional como la ropa vieja, cerdo asado, enchilado de camarones, frituras de malanga o croquetas de la casa. De la cocina contemporánea ofrecemos entre otros: cordero al vino tinto con especias orientales, cerdo a la crema de limón, pescado en salsa verde con crema de leche y solomillo a los cuatro sabores, todos estos resultados de la creatividad de nuestro chef. Para cerrar, postres novedosos como cascos de guayaba con queso y sopa de hierba buena o pudín de coco con salsa de curry. Además contamos con una amplia carta de vinos y cocteles variados. Nuestro servicio es exquisito, será atendido por personas educadas, amistosas y que dominan varios idiomas. Visítenos y saldrá complacido!",
-    "contact_info": {
-      "phone": {
-        "number": "+53 7-8016433",
-        "type": [
-          "landline"
-        ]
-      },
-      "mobile": null,
-      "email": null,
-      "website": null,
-      "whatsapp": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Habana 61",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78016433",
+      "district": "Habana Vieja",
+      "location": "Calle Habana #61 entre Peña Pobre y Cuarteles",
+      "coordinates": "23.142410353245264, -82.35506682883553"
+  },
+  "schedules": {
       "monday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "tuesday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "wednesday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "thursday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "friday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "saturday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       },
       "sunday": {
-        "open": "12:00",
-        "close": "00:00"
+          "open": "12:00",
+          "closed": "24:00"
       }
-    },
-    "address": "Calle Habana #61 entre Peña Pobre y Cuarteles, Habana Vieja",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": null,
-      "instagram": null,
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [
-      "Solo efectivo"
-    ],
-    "delivery_available": true,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": true,
-      "outdoor_seating": false,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante",
-        "Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.6,
+              "number_of_reviews": 391
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 2363
+          },
+          "facebook": {
+              "stars": 4.4,
+              "number_of_reviews": 216
+          }
+      },
+      "establishment_capacity": "chica",
+      "decoration": "moderna",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades"
       ],
-      "local_options": [
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": null,
-      "pets": null,
-      "parking": null
-    },
-    "dietary_options": [],
-    "meals": [
-      "Comidas",
-      "Cenas",
-      "Bebidas"
-    ],
-    "advantages": [
-      "Reservas",
-      "Capacidad",
-      "Sirve alcohol",
-      "Bar completo",
-      "Vino y cerveza",
-      "Solo efectivo",
-      "Servicio de mesa",
-      "Estilo familiar"
-    ],
-    "highlights": [
-      "Aperitivos",
-      "Buenos cócteles",
-      "Agradable",
-      "Informal",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/Habana61/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/habana61restaurante/"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

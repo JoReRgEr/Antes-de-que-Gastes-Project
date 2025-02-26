@@ -1,114 +1,115 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "restaurante"
-      ]
-    },
-    "name": "El Rincón De Las Letras",
-    "type": [
-      "Caribeña",
-      "Cubana"
-    ],
-    "description": "Comida criolla e internacional",
-    "contact_info": {
-      "phone": {
-        "number": "78014746",
-        "type": "landline"
-      },
-      "email": null,
-      "website": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "restaurante",
+  "place_name": "El Rincón De Las Letras",
+  "property_type": "estatal",
+  "address": {
+      "establishment_phone_number": "78014746",
+      "district": "Habana Vieja",
+      "location": "Calle Villegas #206 entre Obispo y Obrapia",
+      "coordinates": "23.137893483780076, -82.3559756085996"
+  },
+  "schedules": {
       "monday": {
-        "open": "08:30",
-        "close": "23:00"
+          "open": "08:00",
+          "closed": "23:00"
       },
       "tuesday": {
-        "open": "08:30",
-        "close": "23:00"
+          "open": "08:00",
+          "closed": "23:00"
       },
       "wednesday": {
-        "open": "08:30",
-        "close": "23:00"
+          "open": "08:00",
+          "closed": "23:00"
       },
       "thursday": {
-        "open": "08:30",
-        "close": "23:00"
+          "open": "08:00",
+          "closed": "23:00"
       },
       "friday": {
-        "open": "08:30",
-        "close": "23:00"
+          "open": "08:00",
+          "closed": "23:00"
       },
       "saturday": {
-        "open": "08:30",
-        "close": "23:00"
+          "open": "08:00",
+          "closed": "23:00"
       },
       "sunday": {
-        "open": "08:30",
-        "close": "23:00"
+          "open": "08:00",
+          "closed": "23:00"
       }
-    },
-    "address": "Calle Villegas #206 entre Obispo y Obrapia, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "instagram": "https://www.instagram.com/elrincondelasletras.lahabana?igsh=MWxramZlY3NjNDR6ZQ==",
-      "facebook": null,
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "Tarifa de servicio 10%",
-      "description": "Se incluye un 10% del servicio en la cuenta.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": false,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 2.0,
+              "number_of_reviews": 6
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades",
+          "familias"
       ],
-      "local_options": [
-        "Desayuno",
-        "Comidas",
-        "Cenas"
-      ],
-      "services": [],
-      "ambience": [
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos",
-        "Menores"
-      ],
-      "planning": [],
-      "children": true,
-      "pets": false,
-      "parking": null
-    },
-    "dietary_options": [],
-    "meals": [
-      "Desayuno",
-      "Comidas",
-      "Cenas"
-    ],
-    "advantages": [
-      "Para llevar",
-      "Consumo en el lugar"
-    ],
-    "highlights": [
-      "Informal",
-      "Ideal para ir con niños",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/groups/795413271120855/posts/1505369316791910/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/elrincondelasletras.lahabana/"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

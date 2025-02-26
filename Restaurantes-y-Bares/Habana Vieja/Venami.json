@@ -1,128 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "restaurante"
-      ]
-    },
-    "name": "Venami",
-    "type": [
-      "Italiana",
-      "Pizza",
-      "Mediterránea",
-      "Europea"
-    ],
-    "description": "En una calle de mil historias, donde la gente viene y va, a veces sin mirar, la invitación está hecha: Venamí. El restaurante propone pastas frescas y pizzas que el equipo intenta elaborar al más perfecto estilo italiano. Además de un servicio personalizado y con estilo propio, el cliente tiene la posibilidad de observar desde su mesa la confección del plato elegido. El slogan de la casa se convierte en apuesta: Venamí una vez y volverás siempre.",
-    "contact_info": {
-      "phone": {
-        "number": "(07) 8605156",
-        "type": "landline"
-      },
-      "email": null,
-      "website": "http://venamihabana.com"
-    },
-    "opening_hours": {
+  "type_of_establishment": "restaurante",
+  "place_name": "Venami",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78605156",
+      "district": "Habana Vieja",
+      "location": "Monserrate #435 e/ Teniente Rey y Lamparilla",
+      "coordinates": "23.135923454634224, -82.3571276"
+  },
+  "schedules": {
       "monday": {
-        "open": "11:30",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       },
       "tuesday": {
-        "open": "11:30",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       },
       "wednesday": {
-        "open": "11:30",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       },
       "thursday": {
-        "open": "11:30",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       },
       "friday": {
-        "open": "11:30",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       },
       "saturday": {
-        "open": "11:30",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       },
       "sunday": {
-        "open": "11:30",
-        "close": "23:00"
+          "open": "11:30",
+          "closed": "23:00"
       }
-    },
-    "address": "Monserrate #435 e/ Teniente Rey y Lamparilla, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "instagram": "https://www.instagram.com/venami_habana?igsh=MWh3a25mb3B2NmMxcw==",
-      "facebook": "https://m.facebook.com/100066988458475/?profile_tab_item_selected=about",
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": false,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.7,
+              "number_of_reviews": 151
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 223
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
       ],
-      "local_options": [
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": true,
-      "pets": false,
-      "parking": null
-    },
-    "dietary_options": [
-      "Opciones vegetarianas",
-      "Opciones veganas"
-    ],
-    "meals": [
-      "Comidas",
-      "Cenas",
-      "Abierto hasta tarde"
-    ],
-    "advantages": [
-      "Para llevar",
-      "Capacidad",
-      "Acceso para discapacitados",
-      "Sirve alcohol",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Aperitivos",
-      "Agradable",
-      "Informal",
-      "Ideal para ir con niños",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/p/Venami-pizzas-y-pastas-100066988458475/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/explore/locations/222364168216020/venami-la-habana/"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": false
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

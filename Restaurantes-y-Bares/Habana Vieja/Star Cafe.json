@@ -1,151 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "restaurante"
-      ]
-    },
-    "name": "Star Cafe",
-    "type": [
-      "Bar",
-      "Pizza",
-      "Café",
-      "Internacional",
-      "Pub",
-      "Cubana"
-    ],
-    "description": "Local acogedor en la Habana Vieja…café y no solo",
-    "contact_info": {
-      "phone": {
-        "number": null,
-        "type": null
-      },
-      "email": null,
-      "website": "https://m.facebook.com/starcafecuba/"
-    },
-    "opening_hours": {
+  "type_of_establishment": "restaurante",
+  "place_name": "Star Cafe",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78672450",
+      "district": "Habana Vieja",
+      "location": "Calle Compostela 13 e/Chacón y Cuarteles",
+      "coordinates": "23.138286312290756, -82.35715980184871"
+  },
+  "schedules": {
       "monday": {
-        "open": "07:00",
-        "close": "02:00"
+          "open": "07:00",
+          "closed": "02:00"
       },
       "tuesday": {
-        "open": "07:00",
-        "close": "02:00"
+          "open": "07:00",
+          "closed": "02:00"
       },
       "wednesday": {
-        "open": "07:00",
-        "close": "02:00"
+          "open": "07:00",
+          "closed": "02:00"
       },
       "thursday": {
-        "open": "07:00",
-        "close": "02:00"
+          "open": "07:00",
+          "closed": "02:00"
       },
       "friday": {
-        "open": "07:00",
-        "close": "02:00"
+          "open": "07:00",
+          "closed": "02:00"
       },
       "saturday": {
-        "open": "07:00",
-        "close": "02:00"
+          "open": "07:00",
+          "closed": "02:00"
       },
       "sunday": {
-        "open": "07:00",
-        "close": "02:00"
+          "open": "07:00",
+          "closed": "02:00"
       }
-    },
-    "address": "Calle Compostela 13 e/Chacón y Cuarteles, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "instagram": "https://www.instagram.com/starcafe_cuba?igsh=MXc1NnFlMmZubGZnag==",
-      "facebook": "https://m.facebook.com/starcafecuba/",
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [
-      "efectivo",
-      "transferencia"
-    ],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "Tarifa de servicio 10%",
-      "description": "Se cobra un 10% de los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": true,
-      "outdoor_seating": true,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Café",
-        "Bar completo"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.3,
+              "number_of_reviews": 118
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 64
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades"
       ],
-      "local_options": [
-        "Desayuno",
-        "Brunch",
-        "Almuerzo",
-        "Cena",
-        "Postre"
-      ],
-      "services": [
-        "Aseos",
-        "Bar en el lugar"
-      ],
-      "ambience": [
-        "Informal",
-        "Acogedor"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Acepta reservas"
-      ],
-      "children": null,
-      "pets": true,
-      "parking": "Hay mucho aparcamiento"
-    },
-    "dietary_options": [],
-    "meals": [
-      "Desayuno",
-      "Comidas",
-      "Cenas",
-      "Brunch",
-      "Abierto hasta tarde",
-      "Bebidas"
-    ],
-    "advantages": [
-      "Para llevar",
-      "Reservas",
-      "Terraza exterior",
-      "Capacidad",
-      "Aparcamiento disponible",
-      "Aparcamiento en la calle",
-      "Aparcacoches",
-      "Televisión",
-      "Acceso para discapacitados",
-      "Sirve alcohol",
-      "Vino y cerveza",
-      "Pagos digitales",
-      "Wifi gratuito",
-      "Servicio de mesa",
-      "Música en directo",
-      "Lleva tu propia bebida",
-      "Admite perros"
-    ],
-    "highlights": [
-      "Asientos al aire libre",
-      "Platos pequeños",
-      "Grandes cócteles",
-      "Acogedor",
-      "Informal",
-      "Bueno para grupos",
-      "Música en directo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/starcafecuba/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/starcafe_cuba/?hl=es"
+              }
+          ],
+          "whatsapp": "63965030"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

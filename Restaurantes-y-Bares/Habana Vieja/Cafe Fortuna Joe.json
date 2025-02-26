@@ -1,127 +1,115 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "Bar",
-        "Café",
-        "Cubana"
-      ]
-    },
-    "name": "Cafe Fortuna Joe",
-    "description": "Un lugar acogedor y casual en La Habana Vieja que ofrece una variedad de bebidas y platos pequeños.",
-    "contact_info": {
-      "phone": {
-        "number": "(07) 860080",
-        "type": [
-          "landline"
-        ]
-      },
-      "email": null,
-      "website": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Cafe Del Angel",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "7860080",
+      "district": "Habana Vieja",
+      "location": "Aguiar 64 e/ Peña Pobre y Cuarteles",
+      "coordinates": "23.142944807473537, -82.35452949140037"
+  },
+  "schedules": {
       "monday": {
-        "open": "09:00",
-        "close": "00:00"
+          "open": "09:00",
+          "closed": "24:00"
       },
       "tuesday": {
-        "open": "09:00",
-        "close": "00:00"
+          "open": "09:00",
+          "closed": "24:00"
       },
       "wednesday": {
-        "open": "09:00",
-        "close": "00:00"
+          "open": "09:00",
+          "closed": "24:00"
       },
       "thursday": {
-        "open": "09:00",
-        "close": "00:00"
+          "open": "09:00",
+          "closed": "24:00"
       },
       "friday": {
-        "open": "09:00",
-        "close": "00:00"
+          "open": "09:00",
+          "closed": "24:00"
       },
       "saturday": {
-        "open": "09:00",
-        "close": "00:00"
+          "open": "09:00",
+          "closed": "24:00"
       },
       "sunday": {
-        "open": "09:00",
-        "close": "00:00"
+          "open": "09:00",
+          "closed": "24:00"
       }
-    },
-    "address": "Aguiar 64 e/ Peña Pobre y Cuarteles, Habana Vieja",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": null,
-      "instagram": null
-    },
-    "accepted_payment_methods": [],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "10% por servicios prestados",
-      "description": "Se adiciona el 10% a su cuenta por servicios prestados.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": true,
-      "outdoor_seating": true,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Bar",
-        "Café"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.1,
+              "number_of_reviews": 128
+          },
+          "tripadvisor": {
+              "stars": 4.0,
+              "number_of_reviews": 136
+          },
+          "facebook": {
+              "stars": 3.1,
+              "number_of_reviews": 2214
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "de epoca",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades",
+          "familias"
       ],
-      "local_options": [
-        "Desayuno",
-        "Brunch",
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Bar en el lugar",
-        "Baños"
-      ],
-      "ambience": [
-        "Casual",
-        "Acogedor"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Acepta reservas"
-      ],
-      "children": null,
-      "pets": null,
-      "parking": [
-        "Amplio estacionamiento"
-      ]
-    },
-    "dietary_options": [],
-    "meals": [
-      "Desayuno",
-      "Brunch",
-      "Almuerzo"
-    ],
-    "advantages": [
-      "Reservas",
-      "Terraza exterior",
-      "Capacidad",
-      "Sirve alcohol",
-      "Bar completo",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Asientos al aire libre",
-      "Platos pequeños",
-      "Acogedor",
-      "Casual",
-      "Ideal para grupos"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/cafefortunajoe/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/cafefortunajoe/?hl=es"
+              }
+          ],
+          "whatsapp": "54133706"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

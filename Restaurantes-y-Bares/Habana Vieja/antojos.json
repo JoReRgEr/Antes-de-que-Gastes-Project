@@ -1,108 +1,115 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "bar-restaurant"
-      ]
-    },
-    "name": "Antojos",
-    "type": "Caribeña, Latina, Cubana, Centroamericana",
-    "description": "Restaurante cubano con el toque original de una Cuba clásica. Es un viaje en el tiempo al pasado para disfrutar de sentimientos, ritmos y sabores auténticos. Ubicado en el corazón de La Habana Vieja, siempre está esperándote.",
-    "contact_info": {
-      "phone": {
-        "number": "+53 5 282 4907",
-        "type": [
-          "mobile"
-        ]
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Antojos",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana Vieja",
+      "location": "Callejón Espada entre Cuarteles y Chacon",
+      "coordinates": "23.141650076754143, -82.35521787442225"
+  },
+  "schedules": {
+      "monday": {
+          "open": "11:00",
+          "closed": "24:30"
+      },
+      "tuesday": {
+          "open": "11:00",
+          "closed": "24:30"
+      },
+      "wednesday": {
+          "open": "11:00",
+          "closed": "24:30"
+      },
+      "thursday": {
+          "open": "11:00",
+          "closed": "24:30"
+      },
+      "friday": {
+          "open": "11:00",
+          "closed": "24:30"
+      },
+      "saturday": {
+          "open": "11:00",
+          "closed": "24:30"
+      },
+      "sunday": {
+          "open": "11:00",
+          "closed": "24:30"
       }
-    },
-    "opening_hours": {
-      "monday": "Closed",
-      "tuesday": "11:00 AM - 12:00 AM",
-      "wednesday": "11:00 AM - 12:00 AM",
-      "thursday": "11:00 AM - 12:00 AM",
-      "friday": "11:00 AM - 12:00 AM",
-      "saturday": "11:00 AM - 12:00 AM",
-      "sunday": "11:00 AM - 12:00 AM"
-    },
-    "address": "Callejón Espada entre Cuarteles y Chacon, Habana Vieja",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "accepted_payment_methods": [
-      "cash",
-      "bank_transfer"
-    ],
-    "delivery_available": true,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "A standard service fee applied to the bill.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": true,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante",
-        "Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.5,
+              "number_of_reviews": 634
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 387
+          },
+          "facebook": {
+              "stars": 4.0,
+              "number_of_reviews": 580
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "parejas",
+          "amistades"
       ],
-      "local_options": [
-        "Desayuno-almuerzo",
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": [
-        "Sillas altas"
-      ],
-      "parking": "Es difícil encontrar espacio"
-    },
-    "dietary_options": [
-      "Opciones vegetarianas",
-      "Opciones sin gluten"
-    ],
-    "meals": [
-      "Comidas",
-      "Cenas"
-    ],
-    "advantages": [
-      "Reservas",
-      "Terraza exterior",
-      "Capacidad",
-      "Sirve alcohol",
-      "Bar completo",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Poco concurrido",
-      "Asientos al aire libre",
-      "Aperitivos",
-      "Buenos cócteles",
-      "Agradable",
-      "Informal",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/antojoscuba"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/restauranteantojos/?hl=es"
+              }
+          ],
+          "whatsapp": "52824907"
+      },
+      "child_care": false,
+      "disable_support": true,
+      "parking": false,
+      "delivery": false,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": true
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

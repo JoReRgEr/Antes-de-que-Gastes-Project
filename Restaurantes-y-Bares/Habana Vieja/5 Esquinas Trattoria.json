@@ -1,140 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "restaurante"
-      ]
-    },
-    "name": "5 Esquinas Trattoria",
-    "type": [
-      "Italiana",
-      "Pizza",
-      "Mediterránea",
-      "Europea"
-    ],
-    "description": "Un sitio para disfrutar de pastas frescas, de preparaciones sacadas del horno de leña y de esos sabores entrañables de la cocina italiana. Con un equipo pendiente de sus gustos y de lograr la combinación perfecta entre lo elegido en la carta y el trago perfecto, 5 Esquinas invita a una experiencia de alta calidad.",
-    "contact_info": {
-      "phone": {
-        "number": "+53 7 860 6295",
-        "type": "mobile"
-      },
-      "email": "trattoria5esquinashabana@gmail.com",
-      "website": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "restaurante",
+  "place_name": "5 Esquinas Trattoria",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78606295",
+      "district": "Habana Vieja",
+      "location": "Calle Habana #104 Esquina Cuarteles",
+      "coordinates": "23.141979470488767, -82.35514158927404"
+  },
+  "schedules": {
       "monday": {
-        "open": "11:00",
-        "close": "22:30"
+          "open": "11:00",
+          "closed": "22:30"
       },
       "tuesday": {
-        "open": "11:00",
-        "close": "22:30"
+          "open": "11:00",
+          "closed": "22:30"
       },
       "wednesday": {
-        "open": "11:00",
-        "close": "22:30"
+          "open": "11:00",
+          "closed": "22:30"
       },
       "thursday": {
-        "open": "11:00",
-        "close": "22:30"
+          "open": "11:00",
+          "closed": "22:30"
       },
       "friday": {
-        "open": "11:00",
-        "close": "22:30"
+          "open": "11:00",
+          "closed": "22:30"
       },
       "saturday": {
-        "open": "11:00",
-        "close": "22:30"
+          "open": "11:00",
+          "closed": "22:30"
       },
       "sunday": {
-        "open": "11:00",
-        "close": "22:30"
+          "open": "11:00",
+          "closed": "22:30"
       }
-    },
-    "address": "Calle Habana #104 Esquina Cuarteles, Habana Vieja",
-    "municipality": "Habana Vieja",
-    "province": "La Habana",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "instagram": "https://www.instagram.com/5esquinastrattoria?igsh=MXc0c3BjemhhbjZzaA==",
-      "facebook": "https://www.facebook.com/5esquinastrattoria/",
-      "whatsapp": null
-    },
-    "accepted_payment_methods": [
-      "efectivo",
-      "transferencia"
-    ],
-    "delivery_available": true,
-    "service_fee": {
-      "name": "Tarifa de servicio",
-      "description": "Se le adiciona una tarifa de servicio a su cuenta.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": true,
-      "outdoor_seating": true,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.2,
+              "number_of_reviews": 286
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 1027
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "parejas"
       ],
-      "local_options": [
-        "Desayuno",
-        "Brunch",
-        "Almuerzo",
-        "Cena",
-        "Postre"
-      ],
-      "services": [
-        "Aseos",
-        "Bar en el lugar"
-      ],
-      "ambience": [
-        "Informal",
-        "Acogedor"
-      ],
-      "usual_customers": [
-        "Grupos",
-        "Niños"
-      ],
-      "planning": [],
-      "children": true,
-      "pets": false,
-      "parking": null
-    },
-    "dietary_options": [
-      "Opciones vegetarianas",
-      "Opciones veganas"
-    ],
-    "meals": [
-      "Comidas",
-      "Cenas",
-      "Brunch",
-      "Abierto hasta tarde",
-      "Bebidas"
-    ],
-    "advantages": [
-      "Para llevar",
-      "Reservas",
-      "Terraza exterior",
-      "Capacidad",
-      "Acceso para discapacitados",
-      "Sirve alcohol",
-      "Bar completo",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Asientos al aire libre",
-      "Platos pequeños",
-      "Grandes cócteles",
-      "Acogedor",
-      "Informal",
-      "Bueno para los niños",
-      "Bueno para grupos"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/5esquinastrattoria/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/5esquinastrattoria/?hl=es"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": true,
+      "parking": false,
+      "delivery": false,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": true
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

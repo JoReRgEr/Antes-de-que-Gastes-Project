@@ -1,131 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "restaurante"
-      ]
-    },
-    "name": "Habana Tokio",
-    "type": "Restaurante Japonés",
-    "description": "Restaurante japonés con karaoke, ubicado en La Habana Vieja, Cuba. Ideal para disfrutar de una experiencia gastronómica y de entretenimiento.",
-    "contact_info": {
-      "phone": [
-        {
-          "number": "+53 59172392",
-          "type": "mobile"
-        },
-        {
-          "number": "+53 52723402",
-          "type": "mobile"
-        }
-      ],
-      "mobile": null,
-      "email": null,
-      "website": null,
-      "whatsapp": null
-    },
-    "opening_hours": {
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Habana 61",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Habana Vieja",
+      "location": "Calle Obrapía entre Bernaza y Villegas",
+      "coordinates": "23.13748071611841, -82.35644555767105"
+  },
+  "schedules": {
       "monday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       },
       "tuesday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       },
       "wednesday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       },
       "thursday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       },
       "friday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       },
       "saturday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       },
       "sunday": {
-        "open": "11:00",
-        "close": "23:00"
+          "open": "11:00",
+          "closed": "23:00"
       }
-    },
-    "address": "Calle Obrapía entre Bernaza y Villegas, Habana Vieja",
-    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
-    },
-    "social_media": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "accepted_payment_methods": [
-      "cash",
-      "bank_transfer"
-    ],
-    "delivery_available": true,
-    "service_fee": {
-      "name": "10% service charge",
-      "description": "Se le adiciona el 10% a su cuenta por los servicios.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": false,
-      "outdoor_seating": false,
-      "dine_in": true,
-      "takeaway": true,
-      "offers": [
-        "Restaurante",
-        "Bar"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.5,
+              "number_of_reviews": 11
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "asiatica",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades"
       ],
-      "local_options": [
-        "Almuerzo",
-        "Cena",
-        "Postres"
-      ],
-      "services": [
-        "Sanitario",
-        "Tiene bar"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Grupos"
-      ],
-      "planning": [
-        "Se aceptan reservas"
-      ],
-      "children": [
-        "Ideal para ir con niños"
-      ],
-      "parking": null
-    },
-    "dietary_options": [],
-    "meals": [
-      "Comidas",
-      "Cenas"
-    ],
-    "advantages": [
-      "Para llevar",
-      "Reservas",
-      "Capacidad",
-      "Sirve alcohol",
-      "Bar completo",
-      "Servicio de mesa"
-    ],
-    "highlights": [
-      "Aperitivos",
-      "Agradable",
-      "Informal",
-      "Ideal para ir con niños",
-      "Recomendable para ir en grupo"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/p/Habana-Tokio-61557451763543/?locale=ne_NP"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/habanatokio/?hl=es"
+              }
+          ],
+          "whatsapp": "59172392"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": true
   },
   "menu_details": {
     "kind_of_food": [

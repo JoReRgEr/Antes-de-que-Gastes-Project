@@ -1,126 +1,114 @@
 {
-  "establishment": {
-    "classification": {
-      "type": [
-        "Restaurante Cubano"
-      ]
-    },
-    "name": "Esto No Es Un Cafe",
-    "description": "Un espacio multifuncional que relaciona la cocina artística con las artes visuales. Ofrece una cocina de autor que combina recetas de la cocina internacional con el sabor de la tradición culinaria cubana.",
-    "contact_info": {
-      "phone": {
-        "number": "78013109",
-        "type": [
-          "landline"
-        ]
-      },
-      "email": "estonoesuncafe@gmail.com",
-      "website": "https://estonoesuncafe.wordpress.com"
-    },
-    "opening_hours": {
+  "type_of_establishment": "restaurante",
+  "place_name": "Esto No Es Un Cafe",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78013109",
+      "district": "Habana Vieja",
+      "location": "Calle Ignacio #58-A entre OReilly y Empedrado, Callejón del Chorro, Plaza de la Catedral",
+      "coordinates": "23.14076134840458, -82.35192975092703"
+  },
+  "schedules": {
       "monday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       },
       "tuesday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       },
       "wednesday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       },
       "thursday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       },
       "friday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       },
       "saturday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       },
       "sunday": {
-        "open": "08:00",
-        "close": "00:00"
+          "open": "08:00",
+          "closed": "24:00"
       }
-    },
-    "address": "Calle Ignacio #58-A entre O´Reilly y Empedrado, Callejón del Chorro, Plaza de la Catedral, Habana Vieja",
-    "coordinates": {
-      "latitude": 23.140497,
-      "longitude": -82.351910
-    },
-    "social_media": {
-      "instagram": "https://www.instagram.com/estonoesuncafe",
-      "facebook": "https://www.facebook.com/estonoesuncafe"
-    },
-    "accepted_payment_methods": [
-      "Pagos digitales",
-      "Solo efectivo"
-    ],
-    "delivery_available": false,
-    "service_fee": {
-      "name": "10% por servicios prestados",
-      "description": "Se adiciona el 10% a su cuenta por servicios prestados.",
-      "applies": true
-    },
-    "features": {
-      "reservation_required": true,
-      "outdoor_seating": true,
-      "dine_in": true,
-      "takeaway": false,
-      "offers": [
-        "Restaurante"
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.8,
+              "number_of_reviews": 207
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 952
+          },
+          "facebook": {
+              "stars": 4.8,
+              "number_of_reviews": 39
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "de epoca",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "parejas",
+          "amistades"
       ],
-      "local_options": [
-        "Comidas",
-        "Cenas"
-      ],
-      "services": [
-        "Sanitario",
-        "Servicio de mesa"
-      ],
-      "ambience": [
-        "Agradable",
-        "Informal"
-      ],
-      "usual_customers": [
-        "Ideal para ir con niños",
-        "Recomendable para ir en grupo"
-      ],
-      "planning": [
-        "Reservas"
-      ],
-      "children": true,
-      "pets": null,
-      "parking": null
-    },
-    "dietary_options": [
-      "Opciones vegetarianas",
-      "Opciones veganas",
-      "Opciones sin gluten"
-    ],
-    "meals": [
-      "Comidas",
-      "Cenas"
-    ],
-    "advantages": [
-      "Reservas",
-      "Capacidad",
-      "Acceso para discapacitados",
-      "Sirve alcohol",
-      "Bar completo",
-      "Vino y cerveza"
-    ],
-    "highlights": [
-      "Asientos al aire libre",
-      "Aperitivos",
-      "Buenos cócteles",
-      "Agradable",
-      "Informal"
-    ]
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/estonoesuncafe/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/explore/locations/369627447/esto-no-es-un-cafe/"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [
