@@ -1,164 +1,293 @@
 {
-    "Name": "Tropikana",
-    "Type": "Restaurante",
-    "Phone_Number": [null],
-    "Web_Page": [null],
-    "Ownership": "Paticular",
-    "Operating_Hours": {
-        "Monday":   ["11:00-22:00"],
-        "Tuesday":  ["11:00-22:00"],
-        "Wendsday": ["11:00-22:00"],
-        "Thursday": ["11:00-22:00"],
-        "Friday":   ["11:00-22:00"],
-        "Saturday": ["11:00-22:00"],
-        "Sunday":   ["11:00-22:00"]
-    }, 
-    "Location": {
-        "District": "Marianao",
-        "Address": "Avenida 41, calle 72",
-        "Coordinates": [null]
-    },
-    "Cuisine": " Variada",
-    
-    "menu_details": {
-        "kind_of_food": ["panes", "criolla", "italiana"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {"name": "Tostones",
+  "type_of_establishment": "restaurante",
+  "place_name": "Tropikana",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "Marianao",
+      "location": "Avenida 41, calle 72",
+      "coordinates": null
+  },
+  "schedules": {
+      "monday": {
+          "open": "11:00",
+          "closed": "22:00"
+      },
+      "tuesday": {
+          "open": "11:00",
+          "closed": "22:00"
+      },
+      "wednesday": {
+          "open": "11:00",
+          "closed": "22:00"
+      },
+      "thursday": {
+          "open": "11:00",
+          "closed": "22:00"
+      },
+      "friday": {
+          "open": "11:00",
+          "closed": "22:00"
+      },
+      "saturday": {
+          "open": "11:00",
+          "closed": "22:00"
+      },
+      "sunday": {
+          "open": "11:00",
+          "closed": "22:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": true,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "panes",
+      "criolla",
+      "italiana"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "Tostones",
                 "price": 350
               },
-            {"name": "Tostones rellenos",
+              {
+                "name": "Tostones rellenos",
                 "price": 450
               },
-            {"name": "Crema de queso",
+              {
+                "name": "Crema de queso",
                 "price": 450
               },
-            {"name": "Crema aurora",
+              {
+                "name": "Crema aurora",
                 "price": 450
               },
-            {"name": "Crema de jamon",
+              {
+                "name": "Crema de jamon",
                 "price": 450
               },
-            {"name": "Consome",
+              {
+                "name": "Consome",
                 "price": 450
               },
-            {"name": "Eperlan",
+              {
+                "name": "Eperlan",
                 "price": 500
               },
-            {"name": "Croquetas",
+              {
+                "name": "Croquetas",
                 "price": 500
               },
-            {"name": "Picadera de la casa",
+              {
+                "name": "Picadera de la casa",
                 "price": 100
               }
-                  ]
-                }
-              ],
-              "breads": [
-{                  "name": "Super hamburguesa",
-                    "price": 560},
-{"name": "Pan con jamon y queso",
-                    "price": 280}
-              ],
-              "main_courses": [
-                {
-                  "courses": [
-                    {"name": "Bistec de cerdo",
-                    "price": 1300
-                  },
-                {"name": "Bistec de cerdo a la milanesa",
-                    "price": 1800
-                  },
-                  {"name": "Bistec de pollo",
-                    "price": 1000
-                  },
-                {"name": "Pollo frito",
-                    "price": 1000
-                  },
-                {"name": "Pollo a la milanesa",
-                    "price": 1500
-                  },
-                  {"name": "Ropa vieja",
-                    "price": 1550
-                  },
-                  {"name": "Canciller",
-                    "price": 2500
-                  },
-                {"name": "Pescado entero",
-                    "price": 2000
-                  },
-                {"name": "Rueda de atun",
-                    "price": 1700
-                  },
-                {"name": "Camarones",
-                    "price": 1700
-                  },
-                {"name": "Filete de pescado",
-                    "price": 1500
-                  }
-                  ]
-                }
-              ],
-              "pastas": [
-                {
-                  "courses": [
-                    {"name": "Espaguettis a la carbonara",
-                    "price": 750
-                  },
-                {"name": "Espaguettis queso gouda",
-                    "price": 650
-                  }
-                  ]
-                }
-              ],
-              "pizzas": [
-                  {
-                    "courses": [
-                     {"name": "Pizza de queso gouda",
-                    "price": 750
-                  },
-                {"name": "Pizza Hawaiana",
-                    "price": 800
-                  },
-                {"name": "Pizza tropicana",
-                    "price": 950
-                  }
-                    ]
-                  }
-              ],
-              "rations": [
-             {"name":"Arroz frito",
-                    "price": 700
-                  }
-              ],
-              "desserts": [
-                {
-                  "courses": [
-                    {"name": "Helado gusto 1L",
+            ]
+          }
+        ],
+        "breads": [
+          {
+            "name": "Super hamburguesa",
+            "price": 560
+          },
+          {
+            "name": "Pan con jamon y queso",
+            "price": 280
+          }
+        ],
+        "main_courses": [
+          {
+            "courses": [
+              {
+                "name": "Bistec de cerdo",
+                "price": 1300
+              },
+              {
+                "name": "Bistec de cerdo a la milanesa",
+                "price": 1800
+              },
+              {
+                "name": "Bistec de pollo",
+                "price": 1000
+              },
+              {
+                "name": "Pollo frito",
+                "price": 1000
+              },
+              {
+                "name": "Pollo a la milanesa",
+                "price": 1500
+              },
+              {
+                "name": "Ropa vieja",
+                "price": 1550
+              },
+              {
+                "name": "Canciller",
+                "price": 2500
+              },
+              {
+                "name": "Pescado entero",
+                "price": 2000
+              },
+              {
+                "name": "Rueda de atun",
+                "price": 1700
+              },
+              {
+                "name": "Camarones",
+                "price": 1700
+              },
+              {
+                "name": "Filete de pescado",
+                "price": 1500
+              }
+            ]
+          }
+        ],
+        "pastas": [
+          {
+            "courses": [
+              {
+                "name": "Espaguettis a la carbonara",
+                "price": 750
+              },
+              {
+                "name": "Espaguettis queso gouda",
+                "price": 650
+              }
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "courses": [
+              {
+                "name": "Pizza de queso gouda",
+                "price": 750
+              },
+              {
+                "name": "Pizza Hawaiana",
+                "price": 800
+              },
+              {
+                "name": "Pizza tropicana",
+                "price": 950
+              }
+            ]
+          }
+        ],
+        "rations": [
+          {
+            "name": "Arroz frito",
+            "price": 700
+          }
+        ],
+        "desserts": [
+          {
+            "courses": [
+              {
+                "name": "Helado gusto 1L",
                 "price": 1000
               }
-                  ]
-                }
-              ]
-            }
-        }    
-    },
-    "Other Info": {
-        "Entertainment": [null],
-        "Facilities": [null],
-        "Payments_Options": {
-            "Cash": "Si",
-            "Credit_Card": "Si",
-            "Mobile_Payment": "Si"
-        },
-        "Accepted_Currencies": {
-            "National_Currency": "Si",
-            "US_Dollars": "No",
-            "Euros": "No",
-            "Others": "No"
-        }
+            ]
+          }
+        ]
+      }
     }
+  },
+  "Other Info": {
+    "Entertainment": [
+      null
+    ],
+    "Facilities": [
+      null
+    ],
+    "Payments_Options": {
+      "Cash": "Si",
+      "Credit_Card": "Si",
+      "Mobile_Payment": "Si"
+    },
+    "Accepted_Currencies": {
+      "National_Currency": "Si",
+      "US_Dollars": "No",
+      "Euros": "No",
+      "Others": "No"
+    }
+  }
 }

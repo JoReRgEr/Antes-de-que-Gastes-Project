@@ -1,38 +1,114 @@
 {
-  "Name": "La yaya",
-  "Type": "Restaurante",
-  "Phone_Number": "52016522",
-  "Web_Page": [
-    null
-  ],
-  "Ownership": "Particular",
-  "Operating_Hours": {
-    "Monday": [
-      "11:00-11:00"
-    ],
-    "Tuesday": [
-      "11:00-11:00"
-    ],
-    "Wendsday": [
-      "11:00-11:00"
-    ],
-    "Thursday": [
-      "11:00-11:00"
-    ],
-    "Friday": [
-      "12:00-00:00"
-    ],
-    "Saturday": [
-      "12:00-00:00"
-    ],
-    "Sunday": [
-      "12:00-00:00"
-    ]
+  "type_of_establishment": "restaurante",
+  "place_name": "La Yaya",
+  "property_type": "particular",
+  "address": {
+    "establishment_phone_number": null,
+    "district": "Marianao",
+    "location": "100 Y 51",
+    "coordinates": null
   },
-  "Location": {
-    "District": "Marianano",
-    "Address": "100 Y 51",
-    "Coordinates": "3HJH+G9J"
+  "schedules": {
+    "monday": {
+      "open": "11:00",
+      "closed": "23:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "closed": "23:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "closed": "23:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "closed": "23:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "closed": "23:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "closed": "23:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "closed": "23:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "tripadvisor": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "media",
+    "decoration": "contemporanea",
+    "festive_decorations": false,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "familias",
+      "amistades"
+    ],
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "instagram": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "whatsapp": "52016522"
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": false,
+    "delivery": false,
+    "reserves": false,
+    "rent_from_the_client": true,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": false
+    },
+    "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

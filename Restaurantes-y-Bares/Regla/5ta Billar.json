@@ -1,70 +1,115 @@
 {
-    "ID": 1403,
-    "locality": {
-        "mun": "Regla",
-        "locator": {
-            "phones": {
-                "mobile": 52943290,
-                "landline": null
-            },
-            "plus_code": "4MFG+CFF, Enlace, La Habana"
-        }
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "5ta Billar",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "72042209",
+        "district": "Regla",
+        "location": "Av. Rotaria e/ Enlace y Calle A",
+        "coordinates": "23.12354843475485, -82.3231437"
     },
-    "name": "5ta Billar",
-    "type_cuisine": [
-        "Cocteleria",
-        "Internacional"
-    ],
-    "schedule": {
+    "schedules": {
         "monday": {
-            "opening": "13:00",
-            "closing": "1:00"
+            "open": "13:00",
+            "closed": "01:00"
         },
         "tuesday": {
-            "opening": "13:00",
-            "closing": "1:00"
+            "open": "13:00",
+            "closed": "01:00"
         },
         "wednesday": {
-            "opening": "13:00",
-            "closing": "1:00"
+            "open": "13:00",
+            "closed": "01:00"
         },
         "thursday": {
-            "opening": "13:00",
-            "closing": "1:00"
+            "open": "13:00",
+            "closed": "01:00"
         },
         "friday": {
-            "opening": "13:00",
-            "closing": "1:00"
+            "open": "13:00",
+            "closed": "01:00"
         },
         "saturday": {
-            "opening": "13:00",
-            "closing": "1:00"
+            "open": "13:00",
+            "closed": "01:00"
         },
         "sunday": {
-            "opening": "13:00",
-            "closing": "1:00"
+            "open": "13:00",
+            "closed": "01:00"
         }
     },
-    "quality": {
-        "qualification_google": 4.8,
-        "qualification_tripadvisor": "",
-        "qualification_facebook": 5.0
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.9,
+                "number_of_reviews": 7
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades",
+            "parejas"
+        ],
+        "energy_backup": false
     },
-    "reservation_options": true,
-    "social_networks": [
-        "Facebook",
-        "Instagram",
-        "WhatsApp"
-    ],
-    "payment_options": [
-        "Transfermovil",
-        "Efectivo"
-    ],
-    "service_details": [
-        "Entretenimiento",
-        "Billar",
-        "A la carta"
-    ],
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/5ta.Billar/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/5tabillar/"
+                }
+            ],
+            "whatsapp": "52943290"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "rent_from_the_client": true,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla",

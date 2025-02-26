@@ -1,67 +1,115 @@
 {
-    "ID": 1404,
-    "locality": {
-        "mun": "Regla",
-        "locator": {
-            "phones": {
-                "mobile": null,
-                "landline": null
-            },
-            "plus_code": "4MH8+57M entre Martí y Maceo, Pereira, La Habana"
-        }
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "2KFE",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "72042209",
+        "district": "Regla",
+        "location": "entre Martí y Maceo, Pereira",
+        "coordinates": "23.13051961849251, -82.33464137380862"
     },
-    "name": "2KFE",
-    "type_cuisine": [
-        "Cafe",
-        "Internacional",
-        "Criolla"
-    ],
-    "schedule": {
+    "schedules": {
         "monday": {
-            "opening": "10:00",
-            "closing": "20:00"
+            "open": "10:00",
+            "closed": "20:00"
         },
         "tuesday": {
-            "opening": "10:00",
-            "closing": "20:00"
+            "open": "10:00",
+            "closed": "20:00"
         },
         "wednesday": {
-            "opening": "10:00",
-            "closing": "20:00"
+            "open": "10:00",
+            "closed": "20:00"
         },
         "thursday": {
-            "opening": "10:00",
-            "closing": "20:00"
+            "open": "10:00",
+            "closed": "20:00"
         },
         "friday": {
-            "opening": "10:00",
-            "closing": "20:00"
+            "open": "10:00",
+            "closed": "20:00"
         },
         "saturday": {
-            "opening": "10:00",
-            "closing": "20:00"
+            "open": "10:00",
+            "closed": "20:00"
         },
         "sunday": {
-            "opening": "10:00",
-            "closing": "20:00"
+            "open": "10:00",
+            "closed": "20:00"
         }
     },
-    "quality": {
-        "qualification_google": 5.0,
-        "qualification_tripadvisor": null,
-        "qualification_facebook": null
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "amistades",
+            "parejas"
+        ],
+        "energy_backup": false
     },
-    "reservation_options": false,
-    "social_networks": [
-        null
-    ],
-    "payment_options": [
-        "Efectivo",
-        "Transfermovil"
-    ],
-    "service_details": [
-        "A la carta"
-    ],
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": null
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "rent_from_the_client": true,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla",

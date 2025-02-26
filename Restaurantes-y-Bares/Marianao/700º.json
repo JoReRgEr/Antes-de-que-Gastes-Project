@@ -1,36 +1,114 @@
 {
-  "Name": "700º",
-  "Type": "Restaurante",
-  "Phone_Number": "54063906",
-  "Web_Page": "700gradoshabana",
-  "Ownership": "Particular",
-  "Operating_Hours": {
-    "Monday": [
-      "11:00-03:00"
-    ],
-    "Tuesday": [
-      "11:00-03:00"
-    ],
-    "Wendsday": [
-      "11:00-03:00"
-    ],
-    "Thursday": [
-      "11:00-03:00"
-    ],
-    "Friday": [
-      "11:00-03:00"
-    ],
-    "Saturday": [
-      "11:00-03:00"
-    ],
-    "Sunday": [
-      "11:00-03:00"
-    ]
+  "type_of_establishment": "restaurante",
+  "place_name": "700º",
+  "property_type": "particular",
+  "address": {
+    "establishment_phone_number": null,
+    "district": "Marianao",
+    "location": "avenida 41 esquina 86",
+    "coordinates": null
   },
-  "Location": {
-    "District": "Marianao",
-    "Address": "avenida 41 esquina 86",
-    "Coordinates": "3HQH+47X"
+  "schedules": {
+    "monday": {
+      "open": "11:00",
+      "closed": "03:00"
+    },
+    "tuesday": {
+      "open": "11:00",
+      "closed": "03:00"
+    },
+    "wednesday": {
+      "open": "11:00",
+      "closed": "03:00"
+    },
+    "thursday": {
+      "open": "11:00",
+      "closed": "03:00"
+    },
+    "friday": {
+      "open": "11:00",
+      "closed": "03:00"
+    },
+    "saturday": {
+      "open": "11:00",
+      "closed": "03:00"
+    },
+    "sunday": {
+      "open": "11:00",
+      "closed": "03:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "tripadvisor": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "media",
+    "decoration": "contemporanea",
+    "festive_decorations": false,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "familias",
+      "amistades"
+    ],
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "instagram": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "whatsapp": "54063906"
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": false,
+    "delivery": false,
+    "reserves": false,
+    "rent_from_the_client": false,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": false
+    },
+    "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

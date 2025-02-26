@@ -1,136 +1,255 @@
 {
-    "general_info": {
-        "name": "Bar Colina",
-        "township": "San Miguel del Padrón",
-        "adress": "esquina b y calzada de guines reparto merceditas",
-        "local": "bar",
-        "open": "1100",
-        "close": "1100",
-        "days_of_week": [
-            "lunes",
-            "martes",
-            "miércoles",
-            "jueves",
-            "viernes",
-            "sábado",
-            "domingo"
-        ],
-        "sector": "privado",
-        "capability": 200,
-        "social_network": [
-            "Instagram"
-        ],
-        "years": 6
+    "type_of_establishment": "bar",
+    "place_name": "Bar Colina",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "San Miguel",
+        "location": null,
+        "coordinates": null
     },
-    "economy": {
-        "payment_methods": [
-            "efectivo",
-            "transferencia"
-        ],
-        "online_reservation": true,
-        "tips_included": true,
-        "delivery": false
+    "schedules": {
+        "monday": {
+            "open": "00:00",
+            "closed": "24:00"
+        },
+        "tuesday": {
+            "open": "00:00",
+            "closed": "24:00"
+        },
+        "wednesday": {
+            "open": "00:00",
+            "closed": "24:00"
+        },
+        "thursday": {
+            "open": "00:00",
+            "closed": "24:00"
+        },
+        "friday": {
+            "open": "00:00",
+            "closed": "24:00"
+        },
+        "saturday": {
+            "open": "00:00",
+            "closed": "24:00"
+        },
+        "sunday": {
+            "open": "00:00",
+            "closed": "24:00"
+        }
     },
-    "food": {
-        "menu_details": {
-            "kind_of_food": [
-                "criolla",
-                "italiana"
-            ],
-            "menu_card": {
-                "menu_sections": {
-                    "starters": [
-                        {
-                            "courses": [
-                                {
-                                    "name": "entremes de jamón y queso",
-                                    "price": 400
-                                },
-                                {
-                                    "name": "croquetas",
-                                    "price": 550
-                                },
-                                {
-                                    "name": "frituras de malanga",
-                                    "price": 400
-                                },
-                                {
-                                    "name": "tostones",
-                                    "price": 600
-                                },
-                                {
-                                    "name": "tostones rellenos",
-                                    "price": 300
-                                }
-                            ]
-                        }
-                    ],
-                    "pizzas": [
-                        {
-                            "courses": [
-                                {
-                                    "name": "pizza napolitana grande",
-                                    "price": 650
-                                },
-                                {
-                                    "name": "pizza napolitana",
-                                    "price": 220
-                                }
-                            ]
-                        }
-                    ],
-                    "pastas": [
-                        {
-                            "courses": [
-                                {
-                                    "name": "espaguetti napolitano",
-                                    "price": 550
-                                }
-                            ]
-                        }
-                    ],
-                    "additions": [
-                        {
-                            "name": "queso",
-                            "price": 200
-                        },
-                        {
-                            "name": "chorizo",
-                            "price": 300
-                        },
-                        {
-                            "name": "jamón",
-                            "price": 300
-                        },
-                        {
-                            "name": "piña",
-                            "price": 150
-                        }
-                    ]
-                }
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
             }
         },
-        "popular_food": [
-            "tapas"
+        "establishment_capacity": "grande",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "amistades"
         ],
-        "popular_drink": [
-            "cerveza"
-        ],
-        "food_especialization": [
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/groups/559855474833501/"
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": "50671673"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
+    "menu_details": {
+        "kind_of_food": [
+            "criolla",
             "italiana"
         ],
-        "house_especiality": []
-    },
-    "social": {
-        "kids_seat": true,
-        "blackout_alternatives": true,
-        "entertainment": [],
-        "peak_hour": [
-            "comida"
-        ],
-        "tourism": true,
-        "pets": false,
-        "bathroom": true,
-        "heated": true
+        "menu_card": {
+            "menu_sections": {
+                "starters": [
+                    {
+                        "courses": [
+                            {
+                                "name": [
+                                    "tostones rellenos"
+                                ],
+                                "price": 250
+                            },
+                            {
+                                "name": [
+                                    "tostones"
+                                ],
+                                "price": 150
+                            },
+                            {
+                                "name": [
+                                    "platano"
+                                ],
+                                "price": 100
+                            }
+                        ]
+                    }
+                ],
+                "breads": [
+                    {
+                        "courses": [
+                            {
+                                "name": [
+                                    "hamburguesa sencilla"
+                                ],
+                                "price": 300
+                            },
+                            {
+                                "name": [
+                                    "hamburguesa con queso"
+                                ],
+                                "price": 380
+                            },
+                            {
+                                "name": [
+                                    "hamburguesa doble con queso"
+                                ],
+                                "price": 550
+                            }
+                        ]
+                    }
+                ],
+                "main_courses": [
+                    {
+                        "courses": [
+                            {
+                                "name": [
+                                    "pollo chiflado"
+                                ],
+                                "price": 400
+                            },
+                            {
+                                "name": [
+                                    "pollo especial"
+                                ],
+                                "price": 1000
+                            }
+                        ]
+                    }
+                ],
+                "pastas": [
+                    {
+                        "courses": [
+                            {
+                                "name": [
+                                    "espaguetti"
+                                ],
+                                "price": 330
+                            },
+                            {
+                                "name": [
+                                    "espaguetti con queso gouda"
+                                ],
+                                "price": 400
+                            }
+                        ]
+                    }
+                ],
+                "pizzas": [
+                    {
+                        "courses": [
+                            {
+                                "name": [
+                                    "pizza napolitana"
+                                ],
+                                "price": 250
+                            },
+                            {
+                                "name": [
+                                    "pizza doble de queso"
+                                ],
+                                "price": 290
+                            },
+                            {
+                                "name": [
+                                    "pizza hawaiana"
+                                ],
+                                "price": 250
+                            },
+                            {
+                                "name": [
+                                    "pizza gouda"
+                                ],
+                                "price": 320
+                            },
+                            {
+                                "name": [
+                                    "pizza cubana"
+                                ],
+                                "price": 550
+                            },
+                            {
+                                "name": [
+                                    "pizza grande napolitana"
+                                ],
+                                "price": 790
+                            },
+                            {
+                                "name": [
+                                    "pizza grande doble de queso"
+                                ],
+                                "price": 940
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
     }
 }

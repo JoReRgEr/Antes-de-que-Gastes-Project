@@ -1,37 +1,114 @@
 {
-    "type": "Bar-Restaurante",
-    "name": "Bodegón del Asado",
-    "location": {
-        "address": "Calle 24, No 418, e / 23 y 25, Vedado",
-        "municipe": "Plaza de la Revolucion",
-        "province": "La Habana"
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "Bodegon del Asado",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "78375201",
+        "district": "Plaza",
+        "location": "Calle 24, No 418, e / 23 y 25, Vedado",
+        "coordinates": null
     },
-    "sector": "",
-    "qualification": 4.5,
-    "specialized_food": [
-        "Comida cubana",
-        "criolla",
-        "italiana"
-    ],
-    "payment method": [
-        "Efectivo",
-        "Transferencia"
-    ],
-    "phone": 78375201,
-    "capacity": 50,
-    "reservation": true,
-    "parking": false,
-    "delivery": true,
-    "wifi": false,
-    "electric generator": true,
-    "hours": {
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": ""
+    "schedules": {
+        "monday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "closed": "23:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "closed": "23:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "grande",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "amistades"
+        ],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": null
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

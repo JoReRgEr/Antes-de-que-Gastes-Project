@@ -1,69 +1,114 @@
 {
   "type_of_establishment": "restaurante",
-  "name": "La Baliza",
-  "district": "La Lisa",
-  "coordinates": {
-    "latitude": 23.06752335433779,
-    "longitude": -82.46813129014343
+  "place_name": "La Baliza",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "78322553",
+      "district": "La Lisa",
+      "location": null,
+      "coordinates": "23.067355338533815, -82.46823262161688"
   },
-  "contact": {
-    "phone_number": "78322553",
-    "e-mail": false,
-    "web_page": false,
-    "whatsapp": "53005060",
-    "facebook": "La Baliza",
-    "instagram": false
+  "schedules": {
+      "monday": {
+          "open": "10:00",
+          "closed": "21:30"
+      },
+      "tuesday": {
+          "open": "10:00",
+          "closed": "21:30"
+      },
+      "wednesday": {
+          "open": "10:00",
+          "closed": "21:30"
+      },
+      "thursday": {
+          "open": "10:00",
+          "closed": "21:30"
+      },
+      "friday": {
+          "open": "10:00",
+          "closed": "21:30"
+      },
+      "saturday": {
+          "open": "10:00",
+          "closed": "21:30"
+      },
+      "sunday": {
+          "open": "10:00",
+          "closed": "21:30"
+      }
   },
-  "schedule": {
-    "monday": {
-      "open": false,
-      "close": false
-    },
-    "tuesday": {
-      "open": "1000",
-      "close": "2130"
-    },
-    "wednesday": {
-      "open": "1000",
-      "close": "2130"
-    },
-    "thursday": {
-      "open": "1000",
-      "close": "2130"
-    },
-    "friday": {
-      "open": "1000",
-      "close": "2130"
-    },
-    "saturday": {
-      "open": "1000",
-      "close": "2130"
-    },
-    "sunday": {
-      "open": "1000",
-      "close": "2130"
-    }
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.7,
+              "number_of_reviews": 10
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
+      ],
+      "energy_backup": false
   },
-  "rating": 4.7,
-  "intake_capacity": "media",
-  "cuisine": [
-    "americana",
-    "italiana"
-  ],
   "services": {
-    "plant": false,
-    "child_care": true,
-    "disable_support": true,
-    "parking": true,
-    "delivery": true,
-    "reserves": false,
-    "takeaway": true,
-    "vip_zone": false,
-    "interactive_act": false
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/p/La-Baliza-100041696774125/"
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": "53005060"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
   },
   "pay_meth": {
-    "cash": true,
-    "transfer": true
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

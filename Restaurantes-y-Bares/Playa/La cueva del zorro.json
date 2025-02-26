@@ -1,142 +1,239 @@
 {
-    "Name" : "La Cueva del Zorro",
-    "type" : "Bar",
-    "#" : "72710222",
-    "web" : "https://www.facebook.com/lacuevadelzorrobar",
-    "Reference Point" : "Callejón de Fúster",
-    "Status" : "mipime",
-    "events" : "Realizan eventos tipicos de temporadas y se adaptan a las temáticas",
-    "people_trend" : "Jóvenes y Mayoría de edad",
-    "establishment_features" : [
-        "Ambiente muy natural con muchas plantas",
-        "Biplanta",
-        "Contiene secciones confeccionadas de madera y otras con estructura de ladrillos"
-    ],
-    "speciality" : [
-        "cocteleria completa"
-    ],
-    
-    "establishment_address" : {
-        "Province" : "La Habana",
-        "municipality" : "Playa",
-        "address" : "Calle 226 Entre 3B y 3C",
-        "coordinates" : "3GQ8+PJ"
+    "type_of_establishment": "bar",
+    "place_name": "La Cueva del Zorro",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Playa",
+        "location": "Calle 226 Entre 3B y 3C",
+        "coordinates": "23.089721057507447, -82.48341790006704"
     },
-
-    "open_hours": {
-        "sunday" : "12:00m - 11:30pm",
-        "monday" : "12:00m - 11:30pm",
-        "tuesday" : "12:00m - 11:30pm",
-        "wednesday" : "12:00m - 11:30pm",
-        "thursday" : "12:00m - 11:30pm",
-        "friday" : "12:00m - 11:30pm",
-        "saturday" : "12:00m - 11:30pm"
+    "schedules": {
+        "monday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "tuesday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "wednesday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "thursday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "friday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "saturday": {
+            "open": "12:00",
+            "closed": "23:00"
+        },
+        "sunday": {
+            "open": "12:00",
+            "closed": "23:00"
+        }
     },
-
-    "curiosity" : null,    
-    "Menu" : { 
-        "Beberages" : {
-            "Café" : {
-                "Café Fuerte" : {
-                    "Price" : 250.00
-                }
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.7,
+                "number_of_reviews": 11
             },
-            "Bebidas" : {
-                "Cerveza Nacional" :{
-                    "Price" : 550.00
-                },
-                "Cerveza importada" : {
-                    "Price" : 400.00
-                },
-                "Refrescos importados" : {
-                    "Price" : 400.00
-                },
-                "Malta" : {
-                    "Price" : 550.00
-                },
-                "Malteada" : {
-                    "Price" : 700.00
-                }
+            "tripadvisor": {
+                "stars": 4.5,
+                "number_of_reviews": 7
             },
-            "Coctelería" : {
-                "Mojito" : {
-                    "Price" : 600.00
-                },
-                "Daiquirí" : {
-                    "Price" : 700.00
-                },
-                "Cuba Libre" : {
-                    "Price" : 550.00
-                },
-                "Caipirinha" : {
-                    "Price" : 600.00
-                },
-                "Caipiroska" : {
-                    "Price" : 600.00
-                },
-                "Caipirisima" : {
-                    "Price" : 600.00
-                },
-                "Sangría" : {
-                    "Price" : 1000.00
-                },
-                "Screwdriver" : {
-                    "Price" : 800.00
-                },
-                "Piña Colada" : {
-                    "Price" : 950.00
-                },
-                "Chelada" : {
-                    "Price" : 450.00
-                },
-                "Michelada" : {
-                    "Price" : 500.00
-                },
-                "Gin Tonic" : {
-                    "Price" : 800.00
-                }
-            },
-            "Tragos" : {
-                "Ron Habana Club Especial" : {
-                    "Price" : 450.00
-                },
-                "Ron Habana Club 7 Años" : {
-                    "Price" : 650.00
-                },
-                "Ron Havana Club Seleccion de Maestros" : {
-                    "Price" : 1250.00
-                },
-                "Ron Havana Club Pacto Navío" : {
-                    "Price" : 1200.00
-                },
-                "Vodka Absolut" : {
-                    "Price" : 500.00
-                },
-                "Tequila Olmeca Blanco" : {
-                    "Price" : 700.00
-                },
-                "Tequila Olmeca Reposado" : {
-                    "Price" : 750.00
-                },
-                "Whisky Ballantine´s" : {
-                    "Price" : 850.00
-                },
-                "Whisky Jameson" : {
-                    "Price" : 700.00
-                },
-                "Whisky Johnnie Walker Red Label" : {
-                    "Price" : 900.00
-                },
-                "Vinos por copa" : {
-                    "Price" : 800.00
-                },
-                "Rua Vieja" : {
-                    "Price" : 600.00
-                },
-                "Jaguer" : {
-                    "Price" : 700.00
-                }
+            "facebook": {
+                "stars": 4.2,
+                "number_of_reviews": 19
             }
-        }   
+        },
+        "establishment_capacity": "grande",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "parejas"
+        ],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/lacuevadelzorrobar/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/lacuevadelzorrobar/"
+                }
+            ],
+            "whatsapp": "56120527"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "rent_from_the_client": true,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": false
+        },
+        "10% charge": false
+    },
+    "menu_details": {
+        "kind_of_food": ["panes", "criolla"],
+        "menu_card": {
+            "menu_sections": {
+              "starters": [
+                {
+                  "courses": [
+                    {
+                      "item": "Croquetas con Tostadas",
+                      "price": 500.00,
+                      "description": null
+                  },
+                  {
+                      "item": "Papas Fritas",
+                      "price": 600.00,
+                      "description": null
+                  },
+                  {
+                      "item": "Hot Dog",
+                      "price": 600.00,
+                      "description": null
+                  },
+                  {
+                      "item": "Sandwich de Jamón y Queso",
+                      "price": 700.00,
+                      "description": null
+                  },
+                  {
+                      "item": "Pan con Hamburguesa",
+                      "price": 700.00,
+                      "description": "Res o Cerdo"
+                  },
+                  {
+                      "item": "Croissant de Jamón con Queso",
+                      "price": 800.00,
+                      "description": null
+                  },
+                  {
+                      "item": "Croissant Natural",
+                      "price": 500.00,
+                      "description": null
+                  }
+                  ]
+                }
+              ],
+              "desserts": [
+                {
+                  "courses": [
+                    {
+                      "item": "Copa de Helado",
+                      "price": 500.00,
+                      "description": "Mantecado"
+                  },
+                  {
+                      "item": "Suero Helado",
+                      "price": 800.00,
+                      "description": "Chocolate/Vainilla/Naranja-Pina/Fresa"
+                  }
+                  ]
+                }
+              ],
+              "liquids": [
+                {
+                  "soft_drinks": [
+                    {
+                      "item": "Malteada",
+                      "price": 500.00,
+                      "description": null
+                  },
+                  {
+                      "item": "Malta Bucanero",
+                      "price": 300.00,
+                      "description": null
+                  },
+                  {
+                      "item": "Energizante",
+                      "price": 230.00,
+                      "description": null
+                  }
+                  ],
+                  "natual_juices": [
+                    {
+                      "item": "Jugo de Lata",
+                      "price": 270.00,
+                      "description": null
+                  }
+                  ],
+                  "water": [
+                    {
+                      "item": "Agua Natural",
+                      "price": 120.00,
+                      "description": null
+                  }
+                  ],
+                  "coffees": [
+                    {
+                      "item": "Café Expresso",
+                      "price": 1500.00,
+                      "description": null
+                  },
+                  {
+                      "item": "Café Cortado",
+                      "price": 200.00,
+                      "description": null
+                  },
+                  {
+                      "item": "Café Bombón",
+                      "price": 350.00,
+                      "description": null
+                  },
+                  {
+                      "item": "Capuchino",
+                      "price": 400.00,
+                      "description": null
+                  },
+                  {
+                      "item": "Frapucchino",
+                      "price": 500.00,
+                      "description": null
+                  }
+                  ]
+                }
+              ]
+            }
+        }    
     }
 }

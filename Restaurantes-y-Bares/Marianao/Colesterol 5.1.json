@@ -1,36 +1,114 @@
 {
-    "Name": "Colesterol 5.1",
-    "Type": "Restaurante",
-    "Phone_Number": "59531065",
-    "Web_Page": "Cafecolesterol5.1",
-    "Ownership": "Particular",
-    "Operating_Hours": {
-        "Monday": [
-            "10:00-00:00"
-        ],
-        "Tuesday": [
-            "10:00-00:00"
-        ],
-        "Wendsday": [
-            "10:00-00:00"
-        ],
-        "Thursday": [
-            "10:00-00:00"
-        ],
-        "Friday": [
-            "10:00-00:00"
-        ],
-        "Saturday": [
-            "10:00-00:00"
-        ],
-        "Sunday": [
-            "10:00-00:00"
-        ]
+    "type_of_establishment": "restaurante",
+    "place_name": "Colesterol 5.1",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Marianao",
+        "location": "5.1 Ave 51 y 134",
+        "coordinates": "23.071206445293125, -82.43552190674556"
     },
-    "Location": {
-        "District": "Marianao",
-        "Address": "Avenida 51 entre 134 y 136",
-        "Coordinates": "3HC7+CMM"
+    "schedules": {
+        "monday": {
+            "open": "10:00",
+            "closed": "24:00"
+        },
+        "tuesday": {
+            "open": "10:00",
+            "closed": "24:00"
+        },
+        "wednesday": {
+            "open": "10:00",
+            "closed": "24:00"
+        },
+        "thursday": {
+            "open": "10:00",
+            "closed": "24:00"
+        },
+        "friday": {
+            "open": "10:00",
+            "closed": "24:00"
+        },
+        "saturday": {
+            "open": "10:00",
+            "closed": "24:00"
+        },
+        "sunday": {
+            "open": "10:00",
+            "closed": "24:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "amistades"
+        ],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/p/Caf%C3%A9-Colesterol-61552947140539/"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/cafecolesterol5.1/"
+                }
+            ],
+            "whatsapp": "59531065"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": true,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

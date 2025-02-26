@@ -1,9 +1,116 @@
 {
-  "name": "Finca La Pinta",
-  "location": "lisa",
-  "specialty": [
-    "Caribbean"
-  ],
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Finca La Pinta",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "72507160",
+      "district": "La Lisa",
+      "location": "Ave. 251 no. 2409 e/ 20 y 28 Punta Brava",
+      "coordinates": "23.01933782801537, -82.48917140003198"
+  },
+  "schedules": {
+      "monday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "tuesday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "saturday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "12:00",
+          "closed": "23:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.3,
+              "number_of_reviews": 101
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 30
+          },
+          "facebook": {
+              "stars": 4.5,
+              "number_of_reviews": 91
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "rural/moderna",
+      "festive_decorations": true,
+      "home_uniform": "formal",
+      "collaboration_for_events": true,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades",
+          "parejas"
+      ],
+      "energy_backup": true
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              true,
+              {
+                  "url": "https://fincalapinta.com/"
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/Finca.la.pinta/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/finca_la_pinta/?hl=es"
+              }
+          ],
+          "whatsapp": "59526024"
+      },
+      "child_care": true,
+      "disable_support": true,
+      "parking": true,
+      "delivery": true,
+      "reserves": true,
+      "rent_from_the_client": true,
+      "vip_zone": true,
+      "pet_friendly": true
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": true,
+          "mastercard": true
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": true
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

@@ -1,38 +1,114 @@
 {
-    "Name": "Ranchon de 41",
-    "Type": "Restaurante",
-    "Phone_Number": "52014975",
-    "Web_Page": [
-        null
-    ],
-    "Ownership": "Particular",
-    "Operating_Hours": {
-        "Monday": [
-            "24h"
-        ],
-        "Tuesday": [
-            "24h"
-        ],
-        "Wendsday": [
-            "24h"
-        ],
-        "Thursday": [
-            "24h"
-        ],
-        "Friday": [
-            "24h"
-        ],
-        "Saturday": [
-            "24h"
-        ],
-        "Sunday": [
-            "24h"
-        ]
+    "type_of_establishment": "restaurante",
+    "place_name": "Ranchon de 41",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Marianao",
+        "location": "& 84 Ave 41",
+        "coordinates": "23.089780213989943, -82.42165815092702"
     },
-    "Location": {
-        "District": "Marianao",
-        "Address": "Avenida 41 y 84",
-        "Coordinates": "3HQH+R9"
+    "schedules": {
+        "monday": {
+            "open": "00:00",
+            "closed": "24:00"
+        },
+        "tuesday": {
+            "open": "00:00",
+            "closed": "24:00"
+        },
+        "wednesday": {
+            "open": "00:00",
+            "closed": "24:00"
+        },
+        "thursday": {
+            "open": "00:00",
+            "closed": "24:00"
+        },
+        "friday": {
+            "open": "00:00",
+            "closed": "24:00"
+        },
+        "saturday": {
+            "open": "00:00",
+            "closed": "24:00"
+        },
+        "sunday": {
+            "open": "00:00",
+            "closed": "24:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "amistades"
+        ],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": "52014975"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "rent_from_the_client": true,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

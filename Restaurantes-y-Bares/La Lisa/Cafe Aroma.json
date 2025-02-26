@@ -1,9 +1,115 @@
 {
-  "name": "Cafe Aroma",
-  "location": "lisa",
-  "specialty": [
-    "cofee"
-  ],
+  "type_of_establishment": "restaurante",
+  "place_name": "Cafe Aroma",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "La Lisa",
+      "location": "calle 244 #5106 entre calle 51 y calle 61, San Agustín",
+      "coordinates": "23.051618575622427, -82.46059684386903"
+  },
+  "schedules": {
+      "monday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "tuesday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "wednesday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "thursday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "friday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "saturday": {
+          "open": "12:00",
+          "closed": "24:00"
+      },
+      "sunday": {
+          "open": "12:00",
+          "closed": "24:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/explore/locations/340125519184861/aroma-de-cafe/"
+              }
+          ],
+          "whatsapp": "53397639"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

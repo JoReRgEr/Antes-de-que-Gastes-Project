@@ -1,66 +1,115 @@
 {
-    "ID": 1302,
-    "locality": {
-        "mun": "Plaza de la Revolución",
-        "locator": {
-            "phones": {
-                "mobile": null,
-                "landline": null
-            },
-            "plus_code": "4HVX+3WQ, y C, Vedado, La, Malecón, La Habana"
-        }
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "Bodegon del Asado",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Plaza",
+        "location": "C, Vedado",
+        "coordinates": null
     },
-    "name": "Bohío_Mercadito",
-    "type_cuisine": [
-        "Bar",
-        "Americana"
-    ],
-    "schedule": {
+    "schedules": {
         "monday": {
-            "opening": "10:00",
-            "closing": "21:00"
+            "open": "10:00",
+            "closed": "21:00"
         },
         "tuesday": {
-            "opening": "10:00",
-            "closing": "21:00"
+            "open": "10:00",
+            "closed": "21:00"
         },
         "wednesday": {
-            "opening": "10:00",
-            "closing": "21:00"
+            "open": "10:00",
+            "closed": "21:00"
         },
         "thursday": {
-            "opening": "10:00",
-            "closing": "21:00"
+            "open": "10:00",
+            "closed": "21:00"
         },
         "friday": {
-            "opening": "10:00",
-            "closing": "21:00"
+            "open": "10:00",
+            "closed": "21:00"
         },
         "saturday": {
-            "opening": "10:00",
-            "closing": "21:00"
+            "open": "10:00",
+            "closed": "21:00"
         },
         "sunday": {
-            "opening": "10:00",
-            "closing": "21:00"
+            "open": "10:00",
+            "closed": "21:00"
         }
     },
-    "quality": {
-        "qualification_google": 4.2,
-        "qualification_tripadvisor": "",
-        "qualification_facebook": ""
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "amistades"
+        ],
+        "energy_backup": false
     },
-    "reservation_options": false,
-    "social_networks": [
-        "Instagram"
-    ],
-    "payment_options": [
-        "Efectivo",
-        "Transfermovil"
-    ],
-    "service_details": [
-        "A la carta"
-    ],
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": null
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "europea"

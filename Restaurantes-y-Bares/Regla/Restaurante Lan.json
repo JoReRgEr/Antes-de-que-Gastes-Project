@@ -1,69 +1,114 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "Restaurante Lan",
-    "district": "Regla",
-    "coordinates": {
-        "latitude": 23.12540621324244,
-        "longitude": -82.33255714289457
+    "place_name": "Restaurante Lan",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Regla",
+        "location": null,
+        "coordinates": "23.125458672945324, -82.3325841977234"
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": false,
-        "facebook": false,
-        "instagram": false
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "0900",
-            "close": "2400"
+            "open": "09:00",
+            "closed": "24:00"
         },
         "tuesday": {
-            "open": "0900",
-            "close": "2400"
+            "open": "09:00",
+            "closed": "24:00"
         },
         "wednesday": {
-            "open": "0900",
-            "close": "2400"
+            "open": "09:00",
+            "closed": "24:00"
         },
         "thursday": {
-            "open": "0900",
-            "close": "2400"
+            "open": "09:00",
+            "closed": "24:00"
         },
         "friday": {
-            "open": "0900",
-            "close": "2400"
+            "open": "09:00",
+            "closed": "24:00"
         },
         "saturday": {
-            "open": "0900",
-            "close": "2400"
+            "open": "09:00",
+            "closed": "24:00"
         },
         "sunday": {
-            "open": "0900",
-            "close": "2400"
+            "open": "09:00",
+            "closed": "24:00"
         }
     },
-    "rating": null,
-    "intake_capacity": "baja",
-    "cuisine": [
-        "criolla",
-        "italiana"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "parejas"
+        ],
+        "energy_backup": false
+    },
     "services": {
-        "plant": false,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": "56901253"
+        },
         "child_care": false,
         "disable_support": false,
-        "parking": true,
+        "parking": false,
         "delivery": false,
-        "reserves": false,
-        "takeaway": false,
+        "reserves": true,
+        "rent_from_the_client": true,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

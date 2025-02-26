@@ -1,9 +1,115 @@
 {
-  "name": "La Mia Pizza",
-  "location": "lisa",
-  "specialty": [
-    "Italian"
-  ],
+  "type_of_establishment": "restaurante",
+  "place_name": "La Mia Pizza",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "72718614",
+      "district": "La Lisa",
+      "location": "ave 29 % #21208 202 y 204 La Coronela",
+      "coordinates": "23.071422691205687, -82.46004462209072"
+  },
+  "schedules": {
+      "monday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "tuesday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "saturday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "11:00",
+          "closed": "23:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 2.8,
+              "number_of_reviews": 28
+          },
+          "tripadvisor": {
+              "stars": 1.5,
+              "number_of_reviews": 6
+          },
+          "facebook": {
+              "stars": 2.4,
+              "number_of_reviews": 18
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/lamiapizzacuba/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/lamiapizza_/"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

@@ -1,33 +1,114 @@
 {
-  "general_info": {
-    "name": "Don Timbon",
-    "township": "San Miguel del Padrón",
-    "adress": null,
-    "local": "cafeteria",
-    "open": "0900",
-    "close": "2200",
-    "days_of_week": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado",
-      "domingo"
-    ],
-    "sector": "privado",
-    "capability": 12,
-    "social_network": [],
-    "years": 6
+  "type_of_establishment": "restaurante",
+  "place_name": "Don Timbon",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "San Miguel",
+      "location": null,
+      "coordinates": null
   },
-  "economy": {
-    "payment_methods": [
-      "efectivo",
-      "transferencia"
-    ],
-    "online_reservation": false,
-    "tips_included": false,
-    "delivery": false
+  "schedules": {
+      "monday": {
+          "open": "09:00",
+          "closed": "22:00"
+      },
+      "tuesday": {
+          "open": "09:00",
+          "closed": "22:00"
+      },
+      "wednesday": {
+          "open": "09:00",
+          "closed": "22:00"
+      },
+      "thursday": {
+          "open": "09:00",
+          "closed": "22:00"
+      },
+      "friday": {
+          "open": "09:00",
+          "closed": "22:00"
+      },
+      "saturday": {
+          "open": "09:00",
+          "closed": "22:00"
+      },
+      "sunday": {
+          "open": "09:00",
+          "closed": "22:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": true,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [
@@ -118,17 +199,5 @@
         ]
       }
     }
-  },
-  "social": {
-    "kids_seat": false,
-    "blackout_alternatives": false,
-    "entertainment": [],
-    "peak_hour": [
-      "almuerzo"
-    ],
-    "tourism": false,
-    "pets": true,
-    "bathroom": true,
-    "heated": false
   }
 }

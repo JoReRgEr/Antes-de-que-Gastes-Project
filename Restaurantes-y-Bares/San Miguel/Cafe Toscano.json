@@ -1,37 +1,114 @@
 {
-  "general_info": {
-    "name": "Cafe Toscano",
-    "township": "San Miguel del Padrón",
-    "adress": "Calzada de Guines",
-    "local": "cafeteria",
-    "open": "0800",
-    "close": "2200",
-    "days_of_week": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado",
-      "domingo"
-    ],
-    "sector": "privado",
-    "capability": 12,
-    "social_network": [
-      "Instagram",
-      "Facebook",
-      "Whatsapp"
-    ],
-    "years": 2
+  "type_of_establishment": "restaurante",
+  "place_name": "Cafe Toscano",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "San Miguel",
+      "location": null,
+      "coordinates": null
   },
-  "economy": {
-    "payment_methods": [
-      "efectivo",
-      "transferencia"
-    ],
-    "online_reservation": false,
-    "tips_included": false,
-    "delivery": true
+  "schedules": {
+      "monday": {
+          "open": "08:00",
+          "closed": "22:00"
+      },
+      "tuesday": {
+          "open": "08:00",
+          "closed": "22:00"
+      },
+      "wednesday": {
+          "open": "08:00",
+          "closed": "22:00"
+      },
+      "thursday": {
+          "open": "08:00",
+          "closed": "22:00"
+      },
+      "friday": {
+          "open": "08:00",
+          "closed": "22:00"
+      },
+      "saturday": {
+          "open": "08:00",
+          "closed": "22:00"
+      },
+      "sunday": {
+          "open": "08:00",
+          "closed": "22:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "grande",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "instagram": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": true,
+      "delivery": true,
+      "reserves": true,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [
@@ -174,18 +251,5 @@
         ]
       }
     }
-  },
-  "social": {
-    "kids_seat": false,
-    "blackout_alternatives": true,
-    "entertainment": [],
-    "peak_hour": [
-      "almuerzo",
-      "comida"
-    ],
-    "tourism": true,
-    "pets": true,
-    "bathroom": false,
-    "heated": false
   }
 }

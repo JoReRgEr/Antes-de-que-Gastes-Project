@@ -1,40 +1,114 @@
 {
-  "Name": "Los taticos",
-  "Type": "Restaurante",
-  "Phone_Number": [
-    null
-  ],
-  "Web_Page": [
-    null
-  ],
-  "Ownership": "Particular",
-  "Operating_Hours": {
-    "Monday": [
-      "08:00-00:00"
-    ],
-    "Tuesday": [
-      "08:00-00:00"
-    ],
-    "Wendsday": [
-      "08:00-00:00"
-    ],
-    "Thursday": [
-      "08:00-00:00"
-    ],
-    "Friday": [
-      "08:00-00:00"
-    ],
-    "Saturday": [
-      "08:00-00:00"
-    ],
-    "Sunday": [
-      "08:00-00:00"
-    ]
+  "type_of_establishment": "restaurante",
+  "place_name": "Los Taticos",
+  "property_type": "particular",
+  "address": {
+    "establishment_phone_number": null,
+    "district": "Marianao",
+    "location": "27 y 27A",
+    "coordinates": null
   },
-  "Location": {
-    "District": "Marianao",
-    "Address": "27 y 27A",
-    "Coordinates": "3HM7+JJC"
+  "schedules": {
+    "monday": {
+      "open": "08:00",
+      "closed": "24:00"
+    },
+    "tuesday": {
+      "open": "08:00",
+      "closed": "24:00"
+    },
+    "wednesday": {
+      "open": "08:00",
+      "closed": "24:00"
+    },
+    "thursday": {
+      "open": "08:00",
+      "closed": "24:00"
+    },
+    "friday": {
+      "open": "08:00",
+      "closed": "24:00"
+    },
+    "saturday": {
+      "open": "08:00",
+      "closed": "24:00"
+    },
+    "sunday": {
+      "open": "08:00",
+      "closed": "24:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "tripadvisor": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "media",
+    "decoration": "contemporanea",
+    "festive_decorations": false,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "familias",
+      "amistades"
+    ],
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "instagram": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "whatsapp": "52016522"
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": false,
+    "delivery": false,
+    "reserves": false,
+    "rent_from_the_client": true,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": false
+    },
+    "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

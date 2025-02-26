@@ -1,42 +1,115 @@
 {
-    "Name" : "Muelle 70",
-    "type" : "Bar/Restaurante",
-    "#" : null,
-    "web" : "no poseen una web pero poseen insta",
-    "Reference Point" : "Hotel Gran Mutuh",
-    "Status" : "mipime",
-    "events" : "Realizan eventos especificos de la temporada, ejemplos : Navidad, Halloween",
-    "people_trend" : "Todas las edades",
-    "establishment_features" : [
-        "vistas al mar",
-        "biplanta",
-        "establecimiento confeccionado de madera"
-    ],
-    "speciality" : [
-        "cocteleria completa",
-        "comida criolla",
-        "comida italiana",
-        "comida internacional"
-    ],
-    
-    "establishment_address" : {
-        "Province" : "La Habana",
-        "municipality" : "Playa",
-        "address" : "1ra Avenida entre calle 70 y 68"
-    },
-
-    "open_hours": {
-        "sunday" : "12:00m - 4:00am",
-        "monday" : "12:00m - 4:00am",
-        "tuesday" : "12:00m - 4:00am",
-        "wednesday" : "12:0am - 4:00am",
-        "thursday" : "12:0am - 4:00am",
-        "friday" : "12:0am - 4:00am",
-        "saturday" : "12:0am - 4:00am"
-    },
-
-    "curiosity" : "los menores de edad están prohibidos a partir de las 10 pm en adelante",
-    
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "Muelle 70",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "72036656",
+      "district": "Playa",
+      "location": "1ra Avenida entre calle 70 y 68",
+      "coordinates": "23.113535592162663, -82.43954565767105"
+  },
+  "schedules": {
+      "monday": {
+          "open": "12:00",
+          "closed": "04:00"
+      },
+      "tuesday": {
+          "open": "12:00",
+          "closed": "04:00"
+      },
+      "wednesday": {
+          "open": "12:00",
+          "closed": "04:00"
+      },
+      "thursday": {
+          "open": "12:00",
+          "closed": "04:00"
+      },
+      "friday": {
+          "open": "12:00",
+          "closed": "04:00"
+      },
+      "saturday": {
+          "open": "12:00",
+          "closed": "04:00"
+      },
+      "sunday": {
+          "open": "12:00",
+          "closed": "04:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.1,
+              "number_of_reviews": 11
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "parejas"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/muelle70/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/muelle_70/?hl=es"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": true,
+      "rent_from_the_client": true,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": true,
+          "euro": true,
+          "mlc": false
+      },
+      "10% charge": false
+  },
     "menu_details": {
         "kind_of_food": ["italiana", "criolla", "panes"],
         "menu_card": {

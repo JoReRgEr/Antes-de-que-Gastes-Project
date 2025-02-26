@@ -1,35 +1,114 @@
 {
-    "type": "Bar-Restaurante-Cafeteria",
-    "name": "Distrito 25",
-    "location": {
-        "address": "Calle 25 entre M y N, Vedado",
-        "municipe": "Plaza de la Revolucion",
-        "province": "La Habana"
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "Distrito 25",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Plaza",
+        "location": "Calle 25 entre M y N, Vedado",
+        "coordinates": null
     },
-    "sector": "privado",
-    "qualification": 3.5,
-    "specialized_food": [
-        "Comida mexicana"
-    ],
-    "payment method": [
-        "Efectivo",
-        "Transferencia"
-    ],
-    "phone": 52831416,
-    "capacity": 50,
-    "reservation": true,
-    "parking": true,
-    "delivery": false,
-    "wifi": false,
-    "electric generator": false,
-    "hours": {
-        "monday": "11:00 am - 10:00 pm",
-        "tuesday": "11:00 am - 10:00 pm",
-        "wednesday": "11:00 am - 10:00 pm",
-        "thursday": "11:00 am - 10:00 pm",
-        "friday": "11:00 am - 10:00 pm",
-        "saturday": "11:00 am - 10:00 pm",
-        "sunday": "11:00 am - 10:00 pm"
+    "schedules": {
+        "monday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "tuesday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "wednesday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "thursday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "friday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "saturday": {
+            "open": "11:00",
+            "closed": "22:00"
+        },
+        "sunday": {
+            "open": "11:00",
+            "closed": "22:00"
+        }
+    },
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "latina",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "amistades"
+        ],
+        "energy_backup": false
+    },
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": "52831416"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [

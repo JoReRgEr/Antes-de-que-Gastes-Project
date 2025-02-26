@@ -1,112 +1,209 @@
 {
-    "Name": "Cafeteria obelisco",
-    "Type": "Restaurante",
-    "Phone_Number": [null],
-    "Web_Page": [null],
-    "Ownership": "Estatal",
-    "Operating_Hours": {
-        "Monday":   ["09:00-18:00"],
-        "Tuesday":  ["09:00-18:00"],
-        "Wendsday": ["09:00-18:00"],
-        "Thursday": ["09:00-18:00"],
-        "Friday":   ["09:00-18:00"],
-        "Saturday": ["09:00-18:00"],
-        "Sunday":   ["09:00-18:00"]
+  "type_of_establishment": "restaurante",
+  "place_name": "Cafeteria Obelisco",
+  "property_type": "estatal",
+  "address": {
+    "establishment_phone_number": null,
+    "district": "Marianao",
+    "location": "Avenida 31",
+    "coordinates": null
+  },
+  "schedules": {
+    "monday": {
+      "open": "09:00",
+      "closed": "18:00"
     },
-    "Location": {
-        "District": "Marianao",
-        "Address": "Avenida 31 ",
-        "Coordinates": "3HMG+V7F"
+    "tuesday": {
+      "open": "09:00",
+      "closed": "18:00"
     },
-    
-    "menu_details": {
-        "kind_of_food": ["italiana"],
-        "menu_card": {
-            "menu_sections": {
-              "starters": [
-                {
-                  "courses": [
-                    {
-                      "name": "bolitas de carne",
-                      "price": 20
-                  },
-                  {
-                      "name": "Dados de queso",
-                      "price": 180
-                  }
-                  ]
-                }
-              ],
-              "pizzas": [
-                  {
-                    "name": "Pizza de queso",
-                    "price": 200
-                  }
-              ],
-              "additions": [
-                  {
-                    "name": "Frijol negro",
-                    "price": 55
-                  },
-                  {
-                    "name": "Arroz blanco",
-                    "price": 70
-                  }
-              ],
-              "liquids": [
-                {
-                  "alcoholic_beverages": [
-                    {
-                      "beers": [
-                        {
-                          "name": "Cerveza",
-                          "price": 50
-                        },
-                        {
-                          "name": "Cerveza cristal",
-                          "price": 180
-                        }
-                      ],
-                      "wine_glass": [
-                        {
-                          "name": "Vino blanco entre Rio",
-                          "price": 160
-                        },
-                        {
-                          "name": "Vino blanco",
-                          "price": 160
-                        }
-                      ]
-                    }
-                  ],
-                  "water": [
-                    {
-                      "name": "agua saborizada",
-                      "price": 50
-                    },
-                    {
-                      "name": "agua natural",
-                      "price": 180
-                    }
-                  ]
-                }
-              ]
-            }
-        }    
+    "wednesday": {
+      "open": "09:00",
+      "closed": "18:00"
     },
-    "Other Info": {
-        "Entertainment": [null],
-        "Facilities": [null],
-        "Payments_Options": {
-            "Cash": "Si",
-            "Credit_Card": "No",
-            "Mobile_Payment": "No"
-        },
-        "Accepted_Currencies": {
-            "National_Currency": "Si",
-            "US_Dollars": "No",
-            "Euros": "No",
-            "Others": "No"
-        }
+    "thursday": {
+      "open": "09:00",
+      "closed": "18:00"
+    },
+    "friday": {
+      "open": "09:00",
+      "closed": "18:00"
+    },
+    "saturday": {
+      "open": "09:00",
+      "closed": "18:00"
+    },
+    "sunday": {
+      "open": "09:00",
+      "closed": "18:00"
     }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "tripadvisor": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "media",
+    "decoration": "contemporanea",
+    "festive_decorations": false,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "familias",
+      "amistades"
+    ],
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "instagram": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "whatsapp": null
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": false,
+    "delivery": false,
+    "reserves": false,
+    "rent_from_the_client": true,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": false
+    },
+    "10% charge": false
+  },
+  "menu_details": {
+    "kind_of_food": [
+      "italiana"
+    ],
+    "menu_card": {
+      "menu_sections": {
+        "starters": [
+          {
+            "courses": [
+              {
+                "name": "bolitas de carne",
+                "price": 20
+              },
+              {
+                "name": "Dados de queso",
+                "price": 180
+              }
+            ]
+          }
+        ],
+        "pizzas": [
+          {
+            "name": "Pizza de queso",
+            "price": 200
+          }
+        ],
+        "additions": [
+          {
+            "name": "Frijol negro",
+            "price": 55
+          },
+          {
+            "name": "Arroz blanco",
+            "price": 70
+          }
+        ],
+        "liquids": [
+          {
+            "alcoholic_beverages": [
+              {
+                "beers": [
+                  {
+                    "name": "Cerveza",
+                    "price": 50
+                  },
+                  {
+                    "name": "Cerveza cristal",
+                    "price": 180
+                  }
+                ],
+                "wine_glass": [
+                  {
+                    "name": "Vino blanco entre Rio",
+                    "price": 160
+                  },
+                  {
+                    "name": "Vino blanco",
+                    "price": 160
+                  }
+                ]
+              }
+            ],
+            "water": [
+              {
+                "name": "agua saborizada",
+                "price": 50
+              },
+              {
+                "name": "agua natural",
+                "price": 180
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Other Info": {
+    "Entertainment": [
+      null
+    ],
+    "Facilities": [
+      null
+    ],
+    "Payments_Options": {
+      "Cash": "Si",
+      "Credit_Card": "No",
+      "Mobile_Payment": "No"
+    },
+    "Accepted_Currencies": {
+      "National_Currency": "Si",
+      "US_Dollars": "No",
+      "Euros": "No",
+      "Others": "No"
+    }
+  }
 }

@@ -1,36 +1,114 @@
 {
-  "Name": "Bar Tropicana",
-  "Type": "Bar",
-  "Phone_Number": "7279147",
-  "Web_Page": "Cabaret-Tropicana.com",
-  "Ownership": "Estatal",
-  "Operating_Hours": {
-    "Monday": [
-      "12:00-22:00"
-    ],
-    "Tuesday": [
-      "12:00-22:00"
-    ],
-    "Wendsday": [
-      "12:00-22:00"
-    ],
-    "Thursday": [
-      "12:00-22:00"
-    ],
-    "Friday": [
-      "12:00-22:00"
-    ],
-    "Saturday": [
-      "12:00-22:00"
-    ],
-    "Sunday": [
-      "12:00-22:00"
-    ]
+  "type_of_establishment": "bar",
+  "place_name": "Bar Tropicana",
+  "property_type": "estatal",
+  "address": {
+    "establishment_phone_number": "7279147",
+    "district": "Marianao",
+    "location": "72A,Avenida 41",
+    "coordinates": "23.094887412268065, -82.41910185391673"
   },
-  "Location": {
-    "District": "Marianao",
-    "Address": "72A,Avenida 41",
-    "Coordinates": "3HVJ+R8W"
+  "schedules": {
+    "monday": {
+      "open": "12:00",
+      "closed": "22:00"
+    },
+    "tuesday": {
+      "open": "12:00",
+      "closed": "22:00"
+    },
+    "wednesday": {
+      "open": "12:00",
+      "closed": "22:00"
+    },
+    "thursday": {
+      "open": "12:00",
+      "closed": "22:00"
+    },
+    "friday": {
+      "open": "12:00",
+      "closed": "22:00"
+    },
+    "saturday": {
+      "open": "12:00",
+      "closed": "22:00"
+    },
+    "sunday": {
+      "open": "12:00",
+      "closed": "22:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": 4.4,
+        "number_of_reviews": 492
+      },
+      "tripadvisor": {
+        "stars": 4.0,
+        "number_of_reviews": 3185
+      },
+      "facebook": {
+        "stars": 3.5,
+        "number_of_reviews": 3267
+      }
+    },
+    "establishment_capacity": "grande",
+    "decoration": "de epoca",
+    "festive_decorations": true,
+    "home_uniform": "casual",
+    "collaboration_for_events": true,
+    "type_of_concurrent_clients": [
+      "familias",
+      "amistades"
+    ],
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        true,
+        {
+          "url": "https://www.cabaret-tropicana.com/en/"
+        }
+      ],
+      "facebook": [
+        true,
+        {
+          "url": "https://www.facebook.com/cabarettropicana"
+        }
+      ],
+      "instagram": [
+        true,
+        {
+          "url": "https://www.instagram.com/cabarettropicana/?hl=es"
+        }
+      ],
+      "whatsapp": "54063906"
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": true,
+    "delivery": false,
+    "reserves": true,
+    "rent_from_the_client": true,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": false
+    },
+    "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

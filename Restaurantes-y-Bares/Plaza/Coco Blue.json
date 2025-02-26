@@ -1,73 +1,115 @@
 {
-    "ID": 1310,
-    "locality": {
-        "mun": "Plaza de la Revolución",
-        "locator": {
-            "phones": {
-                "mobile": 59121916,
-                "landline": 78374828
-            },
-            "plus_code": "4HJW+C3 La Habana, Cuba"
-        }
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "Coco Blue",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": "78374828",
+        "district": "Plaza",
+        "location": null,
+        "coordinates": null
     },
-    "name": "Coco Blue",
-    "type_cuisine": [
-        "Caribeña",
-        "Bar",
-        "Café",
-        "Pub",
-        "Cubana",
-        "Bares para comer"
-    ],
-    "schedule": {
+    "schedules": {
         "monday": {
-            "opening": null,
-            "closing": null
+            "open": "10:00",
+            "closed": "00:30"
         },
         "tuesday": {
-            "opening": null,
-            "closing": null
+            "open": "10:00",
+            "closed": "00:30"
         },
         "wednesday": {
-            "opening": null,
-            "closing": null
+            "open": "10:00",
+            "closed": "00:30"
         },
         "thursday": {
-            "opening": "10:00",
-            "closing": "00:30"
+            "open": "10:00",
+            "closed": "00:30"
         },
         "friday": {
-            "opening": "10:00",
-            "closing": "00:30"
+            "open": "10:00",
+            "closed": "00:30"
         },
         "saturday": {
-            "opening": "10:00",
-            "closing": "00:30"
+            "open": "10:00",
+            "closed": "00:30"
         },
         "sunday": {
-            "opening": "10:00",
-            "closing": "00:30"
+            "open": "10:00",
+            "closed": "00:30"
         }
     },
-    "quality": {
-        "qualification_google": 4.5,
-        "qualification_tripadvisor": 4.5,
-        "qualification_facebook": null
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "grande",
+        "decoration": "europea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "amistades"
+        ],
+        "energy_backup": false
     },
-    "reservation_options": true,
-    "social_networks": [
-        "Facebook",
-        "Instagram",
-        "WhatsApp"
-    ],
-    "payment_options": [
-        "Efectivo",
-        "Transfermovil"
-    ],
-    "service_details": [
-        "A la Carta",
-        "Entretenimiento"
-    ],
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": "59121916"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "rent_from_the_client": false,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla"

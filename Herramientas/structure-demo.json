@@ -1,59 +1,59 @@
 {
-    "type_of_establishment": "restaurante",
-    "place_name": "Yarini",
+    "type_of_establishment": "bar-restaurante",
+    "place_name": "La Patrona",
     "property_type": "particular",
     "address": {
         "establishment_phone_number": null,
-        "district": "Habana Vieja",
-        "location": "Calle San Isidro #214 entre Picota y Compostela",
-        "coordinates": "23.135923454634224, -82.3571276"
+        "district": "San Miguel",
+        "location": null,
+        "coordinates": null
     },
     "schedules": {
         "monday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "10:00",
+            "closed": "23:00"
         },
         "tuesday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "10:00",
+            "closed": "23:00"
         },
         "wednesday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "10:00",
+            "closed": "23:00"
         },
         "thursday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "10:00",
+            "closed": "23:00"
         },
         "friday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "10:00",
+            "closed": "23:00"
         },
         "saturday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "10:00",
+            "closed": "23:00"
         },
         "sunday": {
-            "open": "12:00",
-            "closed": "24:00"
+            "open": "10:00",
+            "closed": "23:00"
         }
     },
     "location_details": {
         "rating": {
             "google": {
-                "stars": 4.3,
-                "number_of_reviews": 160
+                "stars": null,
+                "number_of_reviews": null
             },
             "tripadvisor": {
-                "stars": 4.5,
-                "number_of_reviews": 84
+                "stars": null,
+                "number_of_reviews": null
             },
             "facebook": {
                 "stars": null,
                 "number_of_reviews": null
             }
         },
-        "establishment_capacity": "media",
+        "establishment_capacity": "grande",
         "decoration": "contemporanea",
         "festive_decorations": false,
         "home_uniform": "casual",
@@ -67,29 +67,29 @@
     "services": {
         "social_networks": {
             "web_page": [
-                true,
+                false,
                 {
-                    "url": "https://yarinihabana.com/"
+                    "url": null
                 }
             ],
             "facebook": [
-                true,
+                false,
                 {
-                    "url": "https://www.facebook.com/yarinihabana/?locale=es_LA"
+                    "url": null
                 }
             ],
             "instagram": [
-                true,
+                false,
                 {
-                    "url": "https://www.instagram.com/yarinihabana/?hl=es"
+                    "url": null
                 }
             ],
-            "whatsapp": "58979835"
+            "whatsapp": null
         },
         "child_care": false,
         "disable_support": false,
-        "parking": false,
-        "delivery": false,
+        "parking": true,
+        "delivery": true,
         "reserves": true,
         "rent_from_the_client": false,
         "vip_zone": false,
@@ -104,7 +104,7 @@
         },
         "currency": {
             "cup": true,
-            "usd": true,
+            "usd": false,
             "euro": false,
             "mlc": false
         },

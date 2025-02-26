@@ -1,57 +1,115 @@
 {
-    "ID": 1201,
-    "locality": {
-        "mun": "Playa",
-        "locator": {
-            "phones": {
-                "mobile": 53826366,
-                "landline": null
-            },
-            "plus_code": "4H58+77H, La Habana"
-        }
+    "type_of_establishment": "restaurante",
+    "place_name": "Food Master",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Playa",
+        "location": "Calle 7ma A #6620 e/66 y 70 Miramar",
+        "coordinates": "23.10826969427967, -82.43423105092702"
     },
-    "name": "FoodMaster",
-    "type_cuisine": ["Mexicana", "Americana","Café","Internacional","Bares para comer","Pizzas"],
-    "schedule": {
+    "schedules": {
         "monday": {
-            "opening": "10:30",
-            "closing": "21:00"
+            "open": "10:30",
+            "closed": "21:00"
         },
         "tuesday": {
-            "opening": "10:30",
-            "closing": "21:00"
+            "open": "10:30",
+            "closed": "21:00"
         },
         "wednesday": {
-            "opening": "10:30",
-            "closing": "21:00"
+            "open": "10:30",
+            "closed": "21:00"
         },
         "thursday": {
-            "opening": "10:30",
-            "closing": "21:00"
+            "open": "10:30",
+            "closed": "21:00"
         },
         "friday": {
-            "opening": "10:30",
-            "closing": "22:00"
+            "open": "10:30",
+            "closed": "21:00"
         },
         "saturday": {
-            "opening": "10:30",
-            "closing": "22:00"
+            "open": "10:30",
+            "closed": "21:00"
         },
         "sunday": {
-            "opening": "10:30",
-            "closing": "21:00"
+            "open": "10:30",
+            "closed": "21:00"
         }
     },
-    "quality": {
-        "qualification_google": 4.8,
-        "qualification_tripadvisor": 4.0,
-        "qualification_facebook": null
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.8,
+                "number_of_reviews": 56
+            },
+            "tripadvisor": {
+                "stars": 4.0,
+                "number_of_reviews": 7
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "moderna",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "parejas"
+        ],
+        "energy_backup": false
     },
-    "reservation_options": true,
-    "social_networks": ["Facebook","Instagram","WhatsApp"],
-    "payment_options": ["Transfermovil","Efectivo"],
-    "service_details": ["A la carta"],
-    
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                true,
+                {
+                    "url": "https://www.facebook.com/foodmaster.havana/?locale=es_LA"
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/foodmaster.havana/?hl=es"
+                }
+            ],
+            "whatsapp": "53826366"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "rent_from_the_client": true,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": ["panes", "criolla", "italiana"],
         "menu_card": {

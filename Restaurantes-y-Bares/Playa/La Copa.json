@@ -1,57 +1,115 @@
 {
-    "ID": 1202,
-    "locality": {
-        "mun": "Playa",
-        "locator": {
-            "phones": {
-                "mobile": 55094105,
-                "landline": null
-            },
-            "plus_code": "4JRX+9FV, Mercaderes, La Habana"
-        }
+    "type_of_establishment": "restaurante",
+    "place_name": "Cafe Literario La Copa",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Playa",
+        "location": "Calle 24 entre 19 y 21",
+        "coordinates": "23.14049811134475, -82.40338870000001"
     },
-    "name": "Café Literario La Copa",
-    "type_cuisine": ["Café"],
-    "schedule": {
+    "schedules": {
         "monday": {
-            "opening": "08:00",
-            "closing": "12:00"
+            "open": "08:00",
+            "closed": "24:00"
         },
         "tuesday": {
-            "opening": "08:00",
-            "closing": "12:00"
+            "open": "08:00",
+            "closed": "24:00"
         },
         "wednesday": {
-            "opening": "08:00",
-            "closing": "12:00"
+            "open": "08:00",
+            "closed": "24:00"
         },
         "thursday": {
-            "opening": "08:00",
-            "closing": "12:00"
+            "open": "08:00",
+            "closed": "24:00"
         },
         "friday": {
-            "opening": "08:00",
-            "closing": "12:00"
+            "open": "08:00",
+            "closed": "24:00"
         },
         "saturday": {
-            "opening": "08:00",
-            "closing": "12:00"
+            "open": "08:00",
+            "closed": "24:00"
         },
         "sunday": {
-            "opening": "08:00",
-            "closing": "12:00"
+            "open": "08:00",
+            "closed": "24:00"
         }
     },
-    "quality": {
-        "qualification_google": 2.6,
-        "qualification_tripadvisor": 4.5,
-        "qualification_facebook": null
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": 4.3,
+                "number_of_reviews": 4
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "moderna",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "parejas"
+        ],
+        "energy_backup": false
     },
-    "reservation_options": false,
-    "social_networks": ["Instagram"],
-    "payment_options": ["Transfermovil","Efectivo"],
-    "service_details": ["A la carta"],
-    
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                true,
+                {
+                    "url": "https://www.instagram.com/cubalibrohavana/?hl=es"
+                }
+            ],
+            "whatsapp": "53826366"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "rent_from_the_client": true,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": true,
+            "euro": true,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": ["panes", "criolla"],
         "menu_card": {

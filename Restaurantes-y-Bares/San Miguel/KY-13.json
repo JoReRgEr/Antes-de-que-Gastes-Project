@@ -1,36 +1,114 @@
 {
-  "general_info": {
-    "name": "KY-13",
-    "township": "San Miguel del Padrón",
-    "adress": "calzada de guines #45 e/ 13 y 23 AMP. San Matias",
-    "local": "restaurante-cafeteria",
-    "open": "1000",
-    "close": "2300",
-    "days_of_week": [
-      "lunes",
-      "martes",
-      "miércoles",
-      "jueves",
-      "viernes",
-      "sábado",
-      "domingo"
-    ],
-    "sector": "privado",
-    "capability": 24,
-    "social_network": [
-      "Facebook",
-      "Instagram"
-    ],
-    "years": 11
+  "type_of_establishment": "bar-restaurante",
+  "place_name": "KY-13",
+  "property_type": "particular",
+  "address": {
+    "establishment_phone_number": null,
+    "district": "San Miguel",
+    "location": null,
+    "coordinates": null
   },
-  "economy": {
-    "payment_methods": [
-      "transferencia",
-      "efectivo"
+  "schedules": {
+    "monday": {
+      "open": "10:00",
+      "closed": "23:00"
+    },
+    "tuesday": {
+      "open": "10:00",
+      "closed": "23:00"
+    },
+    "wednesday": {
+      "open": "10:00",
+      "closed": "23:00"
+    },
+    "thursday": {
+      "open": "10:00",
+      "closed": "23:00"
+    },
+    "friday": {
+      "open": "10:00",
+      "closed": "23:00"
+    },
+    "saturday": {
+      "open": "10:00",
+      "closed": "23:00"
+    },
+    "sunday": {
+      "open": "10:00",
+      "closed": "23:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "tripadvisor": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "grande",
+    "decoration": "contemporanea",
+    "festive_decorations": false,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "familias",
+      "amistades"
     ],
-    "online_reservation": true,
-    "tips_included": false,
-    "delivery": true
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "instagram": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "whatsapp": null
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": true,
+    "delivery": true,
+    "reserves": true,
+    "rent_from_the_client": false,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": false
+    },
+    "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [
@@ -313,17 +391,5 @@
         ]
       }
     }
-  },
-  "social": {
-    "kids_seat": false,
-    "blackout_alternatives": false,
-    "entertainment": [],
-    "peak_hour": [
-      "comida"
-    ],
-    "tourism": true,
-    "pets": false,
-    "bathroom": true,
-    "heated": false
   }
 }

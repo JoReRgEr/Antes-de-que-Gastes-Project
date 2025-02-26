@@ -1,36 +1,114 @@
 {
-  "Name": "MMCafeteria",
-  "Type": "Cafeteria-Restaurante",
-  "Phone_Number": "72611382",
-  "Web_Page": "Cafeteria MM",
-  "Ownership": "Particular",
-  "Operating_Hours": {
-    "Monday": [
-      "09:00-10:00"
-    ],
-    "Tuesday": [
-      "09:00-10:00"
-    ],
-    "Wendsday": [
-      "09:00-10:00"
-    ],
-    "Thursday": [
-      "09:00-10:00"
-    ],
-    "Friday": [
-      "09:00-10:00"
-    ],
-    "Saturday": [
-      "10:00-00:00"
-    ],
-    "Sunday": [
-      "10:00-00:00"
-    ]
+  "type_of_establishment": "restaurante",
+  "place_name": "MMCafeteria",
+  "property_type": "particular",
+  "address": {
+    "establishment_phone_number": "72611382",
+    "district": "Marianao",
+    "location": "27 y 27A",
+    "coordinates": null
   },
-  "Location": {
-    "District": "Marianao",
-    "Address": "Avenida 41",
-    "Coordinates": "23º5'22''N,82º25'17''W"
+  "schedules": {
+    "monday": {
+      "open": "09:00",
+      "closed": "22:00"
+    },
+    "tuesday": {
+      "open": "09:00",
+      "closed": "22:00"
+    },
+    "wednesday": {
+      "open": "09:00",
+      "closed": "22:00"
+    },
+    "thursday": {
+      "open": "09:00",
+      "closed": "22:00"
+    },
+    "friday": {
+      "open": "09:00",
+      "closed": "22:00"
+    },
+    "saturday": {
+      "open": "09:00",
+      "closed": "22:00"
+    },
+    "sunday": {
+      "open": "09:00",
+      "closed": "22:00"
+    }
+  },
+  "location_details": {
+    "rating": {
+      "google": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "tripadvisor": {
+        "stars": null,
+        "number_of_reviews": null
+      },
+      "facebook": {
+        "stars": null,
+        "number_of_reviews": null
+      }
+    },
+    "establishment_capacity": "media",
+    "decoration": "contemporanea",
+    "festive_decorations": false,
+    "home_uniform": "casual",
+    "collaboration_for_events": false,
+    "type_of_concurrent_clients": [
+      "familias",
+      "amistades"
+    ],
+    "energy_backup": false
+  },
+  "services": {
+    "social_networks": {
+      "web_page": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "facebook": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "instagram": [
+        false,
+        {
+          "url": null
+        }
+      ],
+      "whatsapp": null
+    },
+    "child_care": false,
+    "disable_support": false,
+    "parking": false,
+    "delivery": false,
+    "reserves": false,
+    "rent_from_the_client": true,
+    "vip_zone": false,
+    "pet_friendly": false
+  },
+  "pay_meth": {
+    "cash": true,
+    "transfer": {
+      "transfermovil": true,
+      "visa": false,
+      "mastercard": false
+    },
+    "currency": {
+      "cup": true,
+      "usd": false,
+      "euro": false,
+      "mlc": false
+    },
+    "10% charge": false
   },
   "menu_details": {
     "kind_of_food": [

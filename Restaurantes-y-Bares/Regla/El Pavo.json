@@ -1,69 +1,115 @@
 {
-  "ID": 1401,
-  "locality": {
-    "mun": "Regla",
-    "locator": {
-      "phones": {
-        "mobile": 58222469,
-        "landline": 77976432
+  "type_of_establishment": "restaurante",
+  "place_name": "El Pavo",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "77976432",
+      "district": "Regla",
+      "location": "Via Blanca 11 e/ Independencia y San Luis",
+      "coordinates": "23.124456404049816, -82.31951881534211"
+  },
+  "schedules": {
+      "monday": {
+          "open": "12:00",
+          "closed": "23:00"
       },
-      "plus_code": "4MFJ+M6J, La Habana"
-    }
+      "tuesday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "saturday": {
+          "open": "12:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "12:00",
+          "closed": "23:00"
+      }
   },
-  "name": "Restaurante El Pavo",
-  "type_cuisine": [
-    "criolla",
-    "internacional"
-  ],
-  "schedule": {
-    "monday": {
-      "opening": "12:00",
-      "closing": "23:00"
-    },
-    "tuesday": {
-      "opening": "12:00",
-      "closing": "23:00"
-    },
-    "wednesday": {
-      "opening": "12:00",
-      "closing": "23:00"
-    },
-    "thursday": {
-      "opening": "12:00",
-      "closing": "23:00"
-    },
-    "friday": {
-      "opening": "12:00",
-      "closing": "23:00"
-    },
-    "saturday": {
-      "opening": "12:00",
-      "closing": "23:00"
-    },
-    "sunday": {
-      "opening": "12:00",
-      "closing": "23:00"
-    }
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 4.2,
+              "number_of_reviews": 39
+          },
+          "tripadvisor": {
+              "stars": 4.5,
+              "number_of_reviews": 12
+          },
+          "facebook": {
+              "stars": 3.9,
+              "number_of_reviews": 17
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "parejas"
+      ],
+      "energy_backup": false
   },
-  "quality": {
-    "qualification_google": 4.3,
-    "qualification_tripadvisor": 4.5,
-    "qualification_facebook": 3.9
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/RestauranteElPavo/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/explore/locations/556807434334240/restaurante-el-pavo/"
+              }
+          ],
+          "whatsapp": "58222469"
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": true,
+      "rent_from_the_client": true,
+      "vip_zone": false,
+      "pet_friendly": false
   },
-  "reservation_options": true,
-  "social_networks": [
-    "Facebook",
-    "WhatsApp",
-    "Instagram"
-  ],
-  "payment_options": [
-    "Transfermovil",
-    "Efectivo"
-  ],
-  "service_details": [
-    "A la carta",
-    "A domicilio"
-  ],
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

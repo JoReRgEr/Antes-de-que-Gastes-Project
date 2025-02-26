@@ -1,69 +1,115 @@
 {
-    "ID": 1402,
-    "locality": {
-        "mun": "Regla",
-        "locator": {
-            "phones": {
-                "mobile": 56901253,
-                "landline": null
-            },
-            "plus_code": " 4MFC+QW5, Loredo, La Habana, Cuba"
-        }
+    "type_of_establishment": "restaurante",
+    "place_name": "La Nueva Guitarreta",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "Regla",
+        "location": null,
+        "coordinates": "23.12450886839028, -82.32767291534212"
     },
-    "name": "La Nueva Guitarreta",
-    "type_cuisine": [
-        "internacional",
-        "cocteleria"
-    ],
-    "schedule": {
+    "schedules": {
         "monday": {
-            "opening": "12:00",
-            "closing": "24:00"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "tuesday": {
-            "opening": "12:00",
-            "closing": "24:00"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "wednesday": {
-            "opening": "12:00",
-            "closing": "24:00"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "thursday": {
-            "opening": "12:00",
-            "closing": "24:00"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "friday": {
-            "opening": "12:00",
-            "closing": "24:00"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "saturday": {
-            "opening": "12:00",
-            "closing": "24:00"
+            "open": "12:00",
+            "closed": "24:00"
         },
         "sunday": {
-            "opening": "12:00",
-            "closing": "24:00"
+            "open": "12:00",
+            "closed": "24:00"
         }
     },
-    "quality": {
-        "qualification_google": 5.0,
-        "qualification_tripadvisor": null,
-        "qualification_facebook": null
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "parejas"
+        ],
+        "energy_backup": false
     },
-    "reservation_options": true,
-    "social_networks": [
-        "Facebook",
-        "Instagram",
-        "WhatsApp"
-    ],
-    "payment_options": [
-        "Efectivo",
-        "Transfermovil"
-    ],
-    "service_details": [
-        "A la carta",
-        "Entretenimiento"
-    ],
+    "services": {
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": "56901253"
+        },
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "rent_from_the_client": true,
+        "vip_zone": false,
+        "pet_friendly": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
+    },
     "menu_details": {
         "kind_of_food": [
             "criolla",

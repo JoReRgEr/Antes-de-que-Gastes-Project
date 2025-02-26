@@ -1,9 +1,116 @@
 {
-  "name": "Juankys Pan",
-  "location": "lisa",
-  "specialty": [
-    "Snack Food"
-  ],
+  "type_of_establishment": "restaurante",
+  "place_name": "Juankys Pan",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": "72718794",
+      "district": "La Lisa",
+      "location": "Avenida 23A entre 202 y 212, Reparto La Coronela",
+      "coordinates": "23.072232126097415, -82.46031112967692"
+  },
+  "schedules": {
+      "monday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "tuesday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "wednesday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "thursday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "friday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "saturday": {
+          "open": "11:00",
+          "closed": "24:00"
+      },
+      "sunday": {
+          "open": "11:00",
+          "closed": "24:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": 3.8,
+              "number_of_reviews": 60
+          },
+          "tripadvisor": {
+              "stars": 4.0,
+              "number_of_reviews": 31
+          },
+          "facebook": {
+              "stars": 3.9,
+              "number_of_reviews": 1393
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades",
+          "parejas"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              true,
+              {
+                  "url": "https://juankyspan.com/"
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/juankyspan/?locale=es_LA"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/juankys_pan/"
+              }
+          ],
+          "whatsapp": "50902528"
+      },
+      "child_care": true,
+      "disable_support": false,
+      "parking": false,
+      "delivery": true,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

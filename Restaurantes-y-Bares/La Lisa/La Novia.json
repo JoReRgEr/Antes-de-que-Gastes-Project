@@ -1,9 +1,115 @@
 {
-  "name": "La Novia",
-  "location": "lisa",
-  "specialty": [
-    "Caribbean"
-  ],
+  "type_of_establishment": "restaurante",
+  "place_name": "La Novia",
+  "property_type": "particular",
+  "address": {
+      "establishment_phone_number": null,
+      "district": "La Lisa",
+      "location": "Calle 51 entre 330 y 332 #33013, La Novia del Mediodía",
+      "coordinates": "23.024532726530634, -82.46440012072952"
+  },
+  "schedules": {
+      "monday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "tuesday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "wednesday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "thursday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "friday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "saturday": {
+          "open": "11:00",
+          "closed": "23:00"
+      },
+      "sunday": {
+          "open": "11:00",
+          "closed": "23:00"
+      }
+  },
+  "location_details": {
+      "rating": {
+          "google": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "tripadvisor": {
+              "stars": null,
+              "number_of_reviews": null
+          },
+          "facebook": {
+              "stars": null,
+              "number_of_reviews": null
+          }
+      },
+      "establishment_capacity": "media",
+      "decoration": "contemporanea",
+      "festive_decorations": false,
+      "home_uniform": "casual",
+      "collaboration_for_events": false,
+      "type_of_concurrent_clients": [
+          "familias",
+          "amistades"
+      ],
+      "energy_backup": false
+  },
+  "services": {
+      "social_networks": {
+          "web_page": [
+              false,
+              {
+                  "url": null
+              }
+          ],
+          "facebook": [
+              true,
+              {
+                  "url": "https://www.facebook.com/groups/1106339953805716/"
+              }
+          ],
+          "instagram": [
+              true,
+              {
+                  "url": "https://www.instagram.com/restaurante_lanovia/p/C8C9CpUuZH0/"
+              }
+          ],
+          "whatsapp": null
+      },
+      "child_care": false,
+      "disable_support": false,
+      "parking": false,
+      "delivery": false,
+      "reserves": false,
+      "rent_from_the_client": false,
+      "vip_zone": false,
+      "pet_friendly": false
+  },
+  "pay_meth": {
+      "cash": true,
+      "transfer": {
+          "transfermovil": true,
+          "visa": false,
+          "mastercard": false
+      },
+      "currency": {
+          "cup": true,
+          "usd": false,
+          "euro": false,
+          "mlc": false
+      },
+      "10% charge": false
+  },
   "menu_details": {
     "kind_of_food": [
       "criolla",

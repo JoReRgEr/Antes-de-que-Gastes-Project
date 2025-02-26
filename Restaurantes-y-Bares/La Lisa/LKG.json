@@ -1,68 +1,114 @@
 {
     "type_of_establishment": "restaurante",
-    "name": "LKG",
-    "district": "La Lisa",
-    "coordinates": {
-        "latitude": 23.070410939396403,
-        "longitude": -82.45756089679794
+    "place_name": "LKG",
+    "property_type": "particular",
+    "address": {
+        "establishment_phone_number": null,
+        "district": "La Lisa",
+        "location": null,
+        "coordinates": null
     },
-    "contact": {
-        "phone_number": false,
-        "e-mail": false,
-        "web_page": false,
-        "whatsapp": false,
-        "facebook": false,
-        "instagram": false
-    },
-    "schedule": {
+    "schedules": {
         "monday": {
-            "open": "1100",
-            "close": "2200"
+            "open": "11:00",
+            "closed": "22:00"
         },
         "tuesday": {
-            "open": "1100",
-            "close": "2200"
+            "open": "11:00",
+            "closed": "22:00"
         },
         "wednesday": {
-            "open": "1100",
-            "close": "2200"
+            "open": "11:00",
+            "closed": "22:00"
         },
         "thursday": {
-            "open": "1100",
-            "close": "2200"
+            "open": "11:00",
+            "closed": "22:00"
         },
         "friday": {
-            "open": "1100",
-            "close": "2200"
+            "open": "11:00",
+            "closed": "22:00"
         },
         "saturday": {
-            "open": "1100",
-            "close": "2200"
+            "open": "11:00",
+            "closed": "22:00"
         },
         "sunday": {
-            "open": "1100",
-            "close": "2200"
+            "open": "11:00",
+            "closed": "22:00"
         }
     },
-    "rating": 2.5,
-    "intake_capacity": "baja",
-    "cuisine": [
-        "caribeña"
-    ],
+    "location_details": {
+        "rating": {
+            "google": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "tripadvisor": {
+                "stars": null,
+                "number_of_reviews": null
+            },
+            "facebook": {
+                "stars": null,
+                "number_of_reviews": null
+            }
+        },
+        "establishment_capacity": "media",
+        "decoration": "contemporanea",
+        "festive_decorations": false,
+        "home_uniform": "casual",
+        "collaboration_for_events": false,
+        "type_of_concurrent_clients": [
+            "familias",
+            "amistades"
+        ],
+        "energy_backup": false
+    },
     "services": {
-        "plant": false,
+        "social_networks": {
+            "web_page": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "facebook": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "instagram": [
+                false,
+                {
+                    "url": null
+                }
+            ],
+            "whatsapp": null
+        },
         "child_care": false,
         "disable_support": false,
         "parking": false,
         "delivery": false,
         "reserves": false,
-        "takeaway": false,
+        "rent_from_the_client": false,
         "vip_zone": false,
-        "interactive_act": false
+        "pet_friendly": false
     },
     "pay_meth": {
         "cash": true,
-        "transfer": true
+        "transfer": {
+            "transfermovil": true,
+            "visa": false,
+            "mastercard": false
+        },
+        "currency": {
+            "cup": true,
+            "usd": false,
+            "euro": false,
+            "mlc": false
+        },
+        "10% charge": false
     },
     "menu_details": {
         "kind_of_food": [
